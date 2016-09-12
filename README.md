@@ -3,7 +3,7 @@
 ## Time (TBA)
 
 ## Google hangout
-[Here]{http://tinyurl.com/theobio-lab-meeting}
+[Here](http://tinyurl.com/theobio-lab-meeting)
 
 ## Upcoming Reading
 
