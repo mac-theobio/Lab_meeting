@@ -7,16 +7,7 @@
 
 ## Upcoming Reading
 
-<<<<<<< HEAD
-
-=======
-[Pybus et al Genetics 155: 1429–1437](http://www.genetics.org/content/155/3/1429.short)
-(July 2000)  (skyline plots)
-
-[Drummond et al 2005doi:10.1093/molbev/msi103](http://mbe.oxfordjournals.org/content/22/5/1185.short)
-(Bayesian skyline plots)
->>>>>>> origin/master
-
+*(none decided)*
 
 ## Proposed Readings
 
@@ -29,6 +20,8 @@
 
 ## Past readings
 
-Pybus et al Genetics 155: 1429–1437 (July 2000)  (skyline plots)
+[Pybus et al Genetics 155: 1429–1437](http://www.genetics.org/content/155/3/1429.short)
+(July 2000)  (skyline plots)
 
-Drummond et al 2005 doi:10.1093/molbev/msi103    (Bayesian skyline plots)
+[Drummond et al 2005doi:10.1093/molbev/msi103](http://mbe.oxfordjournals.org/content/22/5/1185.short)
+(Bayesian skyline plots)
