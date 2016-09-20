@@ -7,7 +7,7 @@
 
 ## Upcoming Reading
 
-*(none decided)*
+[Ye and Sugihara (2016): Information leverage in interconnected ecosystems: Overcoming the curse of dimensionality](http://science.sciencemag.org/content/353/6302/922)
 
 ## Proposed Readings
 
