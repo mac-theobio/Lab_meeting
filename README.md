@@ -10,7 +10,8 @@ Thursday 22 September at 10:30 AM; thereafter (at least for Fall semester 2016) 
 
 ## Upcoming Reading
 
-(for 22 Sep) [Ye and Sugihara (2016): Information leverage in interconnected ecosystems: Overcoming the curse of dimensionality](http://science.sciencemag.org/content/353/6302/922)
+- (for 22 Sep) [Ye and Sugihara (2016): Information leverage in interconnected ecosystems: Overcoming the curse of dimensionality](http://science.sciencemag.org/content/353/6302/922)
+- for what it's worth these methods are available in an [R package](https://github.com/ha0ye/rEDM) ...
 
 ## Proposed Readings
 
