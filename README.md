@@ -9,12 +9,11 @@ Thursday 22 September at 10:30 AM; thereafter (at least for Fall semester 2016) 
 [Here](http://tinyurl.com/theobio-lab-meeting)
 
 ## Upcoming Reading
-
+- Sept 26: [Delva *et al* (2016):Connecting the dots: network data and models in HIV epidemiology.](http://www.ncbi.nlm.nih.gov/pubmed/27314176)
 
 ## Proposed Readings
 
 - [Trapman *et al* (2016): Inferring R0 in emerging epidemics—the effect of common population structure is small](http://rsif.royalsocietypublishing.org/content/13/121/20160288)
-- [Delva *et al* (2016):Connecting the dots: network data and models in HIV epidemiology.](http://www.ncbi.nlm.nih.gov/pubmed/27314176)
 
 - [Callahan *et al.* (2016): DADA2: High-resolution sample inference from Illumina 
   amplicon data](http://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3869.html)
