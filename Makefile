@@ -12,6 +12,8 @@ Sources = Makefile .gitignore README.md stuff.mk LICENSE.md
 include stuff.mk
 # include $(ms)/perl.def
 
+
+# https://github.com/mac-theobio/Lab_meeting/blob/master/README.md
 README.html: README.md
 
 ##################################################################

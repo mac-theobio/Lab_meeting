@@ -1,12 +1,7 @@
 # Mac-Theobio Lab Meetings
 
-## Location
-
+- Mondays 2:30 PM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
-
-## Time
-
-- Fall semester 2016: Mondays 2:30 PM (Toronto time)
 
 ## Meeting agenda (3 Oct)
 
