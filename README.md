@@ -1,14 +1,18 @@
 # Mac-Theobio Lab Meetings
 
+## Location
+
+- LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
+
 ## Time
 
-Fall semester 2016: Mondays 2:30 PM (Toronto time)
+- Fall semester 2016: Mondays 2:30 PM (Toronto time)
 
-## Google hangout
+## Meeting agenda (3 Oct)
 
-[Here](http://tinyurl.com/theobio-lab-meeting)
+- Short reports
 
-## Upcoming Reading
+- Reading
 
 ## Proposed Readings
 
@@ -23,7 +27,7 @@ Fall semester 2016: Mondays 2:30 PM (Toronto time)
 
 ## Past readings
 
-- Sept 26: [Delva *et al* (2016):Connecting the dots: network data and models in HIV epidemiology.](http://www.ncbi.nlm.nih.gov/pubmed/27314176)
+- Sept 26: [Delva *et al* (2016): Connecting the dots: network data and models in HIV epidemiology.](http://www.ncbi.nlm.nih.gov/pubmed/27314176)
 - (22 Sep) [Ye and Sugihara (2016): Information leverage in interconnected ecosystems: Overcoming the curse of dimensionality](http://science.sciencemag.org/content/353/6302/922)
 	- for what it's worth these methods are available in an [R package](https://github.com/ha0ye/rEDM) ...
 - Sep 15: Skyline plots
