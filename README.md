@@ -19,6 +19,8 @@ Fall semester 2016: Mondays 2:30 PM (Toronto time)
     - JCSz: stuff with McMurdie's name on it can sometimes be sloppy, so I'm
 	interested in people's opinions on this method.
 
+- [Wilson *et al* (2016 arxiv):  Good Enough Practices in Scientific Computing](http://arxiv.org/pdf/1609.00037v1.pdf)
+
 ## Past readings
 
 - Sept 26: [Delva *et al* (2016):Connecting the dots: network data and models in HIV epidemiology.](http://www.ncbi.nlm.nih.gov/pubmed/27314176)
