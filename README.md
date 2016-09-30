@@ -7,11 +7,9 @@
 
 - Short reports
 
-- Reading
+- Reading: [Trapman *et al* (2016): Inferring R0 in emerging epidemics—the effect of common population structure is small](http://rsif.royalsocietypublishing.org/content/13/121/20160288)
 
 ## Proposed Readings
-
-- [Trapman *et al* (2016): Inferring R0 in emerging epidemics—the effect of common population structure is small](http://rsif.royalsocietypublishing.org/content/13/121/20160288)
 
 - [Callahan *et al.* (2016): DADA2: High-resolution sample inference from Illumina 
   amplicon data](http://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3869.html)
