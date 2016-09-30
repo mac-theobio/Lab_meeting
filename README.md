@@ -7,6 +7,10 @@
 
 - Short reports
 
+- Readings
+	- What's the nomination and sorting process?
+	- Do people have nominations now?
+
 - Reading: [Trapman *et al* (2016): Inferring R0 in emerging epidemics—the effect of common population structure is small](http://rsif.royalsocietypublishing.org/content/13/121/20160288)
 
 ## Proposed Readings
