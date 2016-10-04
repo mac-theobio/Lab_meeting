@@ -23,8 +23,7 @@
 ## Past readings
 
 - Oct 3: [Trapman *et al* (2016): Inferring R0 in emerging epidemics—the effect of common population structure is small](http://rsif.royalsocietypublishing.org/content/13/121/20160288)
-	- [Multiplying by $1+C^2$ and the bus paradox](http://science.sciencemag.org/content/304/5671/684.3.full?_ga=1.101519745.1672006810.1453387049)
-	- [Multiplying by $$1+C^2$$ and the bus paradox](http://science.sciencemag.org/content/304/5671/684.3.full?_ga=1.101519745.1672006810.1453387049)
+	- [The bus waiting-time paradox and multiplying by 1+C^2](http://science.sciencemag.org/content/304/5671/684.3.full?_ga=1.101519745.1672006810.1453387049)
 
 - Sep 26: [Delva *et al* (2016): Connecting the dots: network data and models in HIV epidemiology.](http://www.ncbi.nlm.nih.gov/pubmed/27314176)
 - (22 Sep) [Ye and Sugihara (2016): Information leverage in interconnected ecosystems: Overcoming the curse of dimensionality](http://science.sciencemag.org/content/353/6302/922)
