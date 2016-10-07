@@ -20,6 +20,10 @@
 
 - [Wilson *et al* (2016 arxiv):  Good Enough Practices in Scientific Computing](http://arxiv.org/pdf/1609.00037v1.pdf)
 
+### HIV modeling
+
+- [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
+
 ## Past readings
 
 - Oct 3: [Trapman *et al* (2016): Inferring R0 in emerging epidemics—the effect of common population structure is small](http://rsif.royalsocietypublishing.org/content/13/121/20160288)
