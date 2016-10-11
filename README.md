@@ -11,14 +11,15 @@
 
 - Short reports
 
+## Proposed Readings
+
+- [Wilson *et al* (2016 arxiv):  Good Enough Practices in Scientific Computing](http://arxiv.org/pdf/1609.00037v1.pdf)
 - [Callahan *et al.* (2016): DADA2: High-resolution sample inference from Illumina 
   amplicon data](http://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3869.html)
     - JCSz: stuff with McMurdie's name on it can sometimes be sloppy, so I'm
 	interested in people's opinions on this method.
-
-## Proposed Readings
-
-- [Wilson *et al* (2016 arxiv):  Good Enough Practices in Scientific Computing](http://arxiv.org/pdf/1609.00037v1.pdf)
+- [Probert *et al* (2016): Decision-making for foot-and-mouth disease control: objectives matter.  Epidemics 15: 10-19](http://dx.doi.org/10.1016/j.epidem.2015.11.002)
+    - from Katriona Shea's lab: "Results illustrate how control actions change across both the base metric used to measure management success and across the statistic used to rank control actions according to said metric. This work represents a first step towards reconciling the extensive modelling work on disease control problems with frameworks for structured decision making. This work represents a first step towards reconciling the extensive modelling work on disease control problems with frameworks for structured decision making."
 
 ### HIV modeling
 
