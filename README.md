@@ -11,9 +11,10 @@
 
 - Short reports
 
+- Reading: [Wilson *et al* (2016 arxiv):  Good Enough Practices in Scientific Computing](http://arxiv.org/pdf/1609.00037v1.pdf)
+
 ## Proposed Readings
 
-- [Wilson *et al* (2016 arxiv):  Good Enough Practices in Scientific Computing](http://arxiv.org/pdf/1609.00037v1.pdf)
 - [Callahan *et al.* (2016): DADA2: High-resolution sample inference from Illumina 
   amplicon data](http://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3869.html)
     - JCSz: stuff with McMurdie's name on it can sometimes be sloppy, so I'm
