@@ -3,22 +3,22 @@
 - Mondays 2:30 PM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Meeting agenda (31 Oct)
+## Meeting agenda (14 Nov)
 
 - Short reports
 
-- [Retention of Adult Patients on Antiretroviral Therapy in Low- and Middle-Income Countries: Systematic Review and Meta-analysis 2008-2013](https://www.ncbi.nlm.nih.gov/pubmed/25942461)
-
-## Proposed Readings
-
 - [Probert *et al* (2016): Decision-making for foot-and-mouth disease control: objectives matter.  Epidemics 15: 10-19](http://dx.doi.org/10.1016/j.epidem.2015.11.002)
     - from Katriona Shea's lab: "Results illustrate how control actions change across both the base metric used to measure management success and across the statistic used to rank control actions according to said metric. This work represents a first step towards reconciling the extensive modelling work on disease control problems with frameworks for structured decision making. This work represents a first step towards reconciling the extensive modelling work on disease control problems with frameworks for structured decision making."
+
+## Proposed Readings
 
 ### HIV modeling
 
 - [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
 
 ## Past readings
+
+- _All Hallows' Eve_ [Retention of Adult Patients on Antiretroviral Therapy in Low- and Middle-Income Countries: Systematic Review and Meta-analysis 2008-2013](https://www.ncbi.nlm.nih.gov/pubmed/25942461)
 
 - Oct 24: [Callahan *et al.* (2016): DADA2: High-resolution sample inference
 from Illumina amplicon data](http://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3869.html)
