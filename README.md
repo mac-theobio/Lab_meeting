@@ -16,6 +16,10 @@
 
 - [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
 
+### Microbiome
+
+- [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
+
 ## Past readings
 
 - _All Hallows' Eve_ [Retention of Adult Patients on Antiretroviral Therapy in Low- and Middle-Income Countries: Systematic Review and Meta-analysis 2008-2013](https://www.ncbi.nlm.nih.gov/pubmed/25942461)
