@@ -3,7 +3,7 @@
 - Mondays 2:30 PM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Meeting agenda (14 Nov)
+## Meeting agenda (21 Nov)
 
 - JD giving the [Origins talk](https://origins.mcmaster.ca/events/colloquia/tba): MDCL 1110
 
