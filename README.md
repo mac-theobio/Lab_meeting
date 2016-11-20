@@ -5,7 +5,7 @@
 
 ## Meeting agenda (14 Nov)
 
-- JD giving the [Origins talk[(https://origins.mcmaster.ca/events/colloquia/tba): MDCL 1110
+- JD giving the [Origins talk](https://origins.mcmaster.ca/events/colloquia/tba): MDCL 1110
 
 ## Proposed Readings
 
