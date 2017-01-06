@@ -6,6 +6,11 @@
 ## Agenda Items (after new years)
 
 - How to construct R-packages
+- Estimating scale of effects
+    - q. BMB has had for a long time, re-inspired by Rob Ness's biology seminar 5 Jan 2017
+	- cf. abstract p. 169 (PDF page 188) of [ISEC 2016 abstracts](http://depts.washington.edu/uwconf/isec/ISEC2016_ABSRACT_BOOKLET.pdf)
+    - cf. Gadenne, H., Cornulier, T., Eraud, C. et al. Popul Ecol (2014) 56: 493. doi:10.1007/s10144-014-0435-4
+	- pp. 28-29 of http://www.slideshare.net/bbolker/montpellier-36611460
 
 ## Meeting agenda (21 Nov)
 
