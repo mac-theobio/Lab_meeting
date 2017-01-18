@@ -1,20 +1,15 @@
 # Mac-Theobio Lab Meetings
 
-- Mondays 2:30 PM (Toronto time)
+- Mondays 2:30 PM (Toronto time) (Doodle circulating to update meeting time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
 ## Agenda Items (after new years)
 
-- How to construct R-packages
 - Estimating scale of effects
     - q. BMB has had for a long time, re-inspired by Rob Ness's biology seminar 5 Jan 2017
 	- cf. abstract p. 169 (PDF page 188) of [ISEC 2016 abstracts](http://depts.washington.edu/uwconf/isec/ISEC2016_ABSRACT_BOOKLET.pdf)
     - cf. Gadenne, H., Cornulier, T., Eraud, C. et al. Popul Ecol (2014) 56: 493. doi:10.1007/s10144-014-0435-4
 	- pp. 28-29 of http://www.slideshare.net/bbolker/montpellier-36611460
-
-## Meeting agenda (21 Nov)
-
-- JD giving the [Origins talk](https://origins.mcmaster.ca/events/colloquia/tba): MDCL 1110
 
 ## Proposed Readings
 
@@ -26,7 +21,9 @@
 
 - [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
 
-## Past readings
+## Past readings and agenda items
+
+- Jan 9: How to construct R-packages [BB's slides](https://github.com/bbolker/compstatsR/blob/master/session4.rmd)
 
 - Nov 14: [Probert *et al* (2016): Decision-making for foot-and-mouth disease control: objectives matter.  Epidemics 15: 10-19](http://dx.doi.org/10.1016/j.epidem.2015.11.002)
     - from Katriona Shea's lab: "Results illustrate how control actions change across both the base metric used to measure management success and across the statistic used to rank control actions according to said metric. This work represents a first step towards reconciling the extensive modelling work on disease control problems with frameworks for structured decision making. This work represents a first step towards reconciling the extensive modelling work on disease control problems with frameworks for structured decision making."
