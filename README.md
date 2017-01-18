@@ -21,6 +21,10 @@
 
 - [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
 
+### HIV attenuation in Uganda
+
+- [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
+
 ## Past readings and agenda items
 
 - Jan 9: How to construct R-packages [BB's slides](https://github.com/bbolker/compstatsR/blob/master/session4.rmd)
