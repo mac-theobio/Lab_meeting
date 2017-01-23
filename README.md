@@ -1,7 +1,13 @@
 # Mac-Theobio Lab Meetings
 
-- Tuesdays 11:30AM (Toronto time)
+- Tuesdays, 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
+
+## Current Meeting (January 24)
+
+### HIV modeling
+
+- [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
 
 ## Agenda Items (after new years)
 
@@ -12,10 +18,6 @@
 	- pp. 28-29 of http://www.slideshare.net/bbolker/montpellier-36611460
 
 ## Proposed Readings
-
-### HIV modeling
-
-- [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
 
 ### Microbiome
 
