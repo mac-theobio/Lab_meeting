@@ -22,7 +22,9 @@
 - [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
 
 - Learn the basics of PCoA. Can anyone suggest a reading?
-
+    - This isn't a full solution: it doesn't help with the inference/why we would do one or the other, but it does explain the geometry pretty nicely ... [PCA and PCoA explained](http://occamstypewriter.org/boboh/2012/01/17/pca_and_pcoa_explained/), from Bob Carpenter
+	- Mike suggests we cover all the variants: (PCA, PCoA, CPC (common principal components), Factor analysis, CVA (canonical variate analysis), Non-negative matrix factorization) (the [CANOCO](http://www.canoco5.com/index.php/canoco5-overview) web page lists: DCA, CA, CCA, DCCA, PCA, and RDA ...)
+ 
 ### HIV attenuation in Uganda
 
 - [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
