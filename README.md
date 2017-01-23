@@ -21,6 +21,8 @@
 
 - [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
 
+- Learn the basics of PCoA. Can anyone suggest a reading?
+
 ### HIV attenuation in Uganda
 
 - [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
