@@ -1,6 +1,6 @@
 # Mac-Theobio Lab Meetings
 
-- Mondays 2:30 PM (Toronto time) (Doodle circulating to update meeting time)
+- Tuesdays 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
 ## Agenda Items (after new years)
@@ -24,6 +24,7 @@
 - Learn the basics of PCoA. Can anyone suggest a reading?
     - This isn't a full solution: it doesn't help with the inference/why we would do one or the other, but it does explain the geometry pretty nicely ... [PCA and PCoA explained](http://occamstypewriter.org/boboh/2012/01/17/pca_and_pcoa_explained/), from Bob Carpenter
 	- Mike suggests we cover all the variants: (PCA, PCoA, CPC (common principal components), Factor analysis, CVA (canonical variate analysis), Non-negative matrix factorization) (the [CANOCO](http://www.canoco5.com/index.php/canoco5-overview) web page lists: DCA, CA, CCA, DCCA, PCA, and RDA ...)
+	- There's also [NMDS](https://jonlefcheck.net/2012/10/24/nmds-tutorial-in-r/), which is very popular among microbiome people
  
 ### HIV attenuation in Uganda
 
