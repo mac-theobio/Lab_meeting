@@ -9,7 +9,7 @@
 
 - [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
 
-## Agenda Items (after new years)
+## Meeting Topics (after new years)
 
 - Estimating scale of effects
     - q. BMB has had for a long time, re-inspired by Rob Ness's biology seminar 5 Jan 2017
@@ -31,6 +31,8 @@
 ### HIV attenuation in Uganda
 
 - [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
+
+## Short Agenda Items
 
 ## Past readings and agenda items
 
