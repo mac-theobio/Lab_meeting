@@ -3,11 +3,9 @@
 - Tuesdays, 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current Meeting (January 24)
+## Current Meeting (January 31)
 
-### HIV modeling
-
-- [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
+- Long reports
 
 ## Meeting Topics (after new years)
 
@@ -22,6 +20,7 @@
 ### Microbiome
 
 - [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
+	- scheduled for Feb 7
 
 - Learn the basics of PCoA. Can anyone suggest a reading?
     - This isn't a full solution: it doesn't help with the inference/why we would do one or the other, but it does explain the geometry pretty nicely ... [PCA and PCoA explained](http://occamstypewriter.org/boboh/2012/01/17/pca_and_pcoa_explained/), from Bob Carpenter
@@ -35,6 +34,8 @@
 ## Short Agenda Items
 
 ## Past readings and agenda items
+
+- Jan 24: - [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
 
 - Jan 9: How to construct R-packages [BB's slides](https://github.com/bbolker/compstatsR/blob/master/session4.rmd)
 
