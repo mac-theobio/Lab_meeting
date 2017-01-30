@@ -23,7 +23,7 @@
 	- [GUSTA ME](https://sites.google.com/site/mb3gustame/constrained-analyses/rda) has an overview of a number of techniques.
 - BB proposed inviting Steve Walking to talk to us if he has time.
 
-## Meeting Topics (after new years)
+## Meeting Topics
 
 - Estimating scale of effects
     - q. BMB has had for a long time, re-inspired by Rob Ness's biology seminar 5 Jan 2017
@@ -34,14 +34,6 @@
 
 		
 ## Proposed Readings
-
-### Microbiome
-
-
-
-
- 
-### HIV attenuation in Uganda
 
 - [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
 
