@@ -3,15 +3,12 @@
 - Tuesdays, 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current Meeting (January 31)
+## Current Meeting (Feb 7)
 
-- Long reports
+- agenda item 1: What is the plan for Feb 21?
+- [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
 
 ## Upcoming Meetings
-
-### Feb 7
-
-- [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
 
 ### Feb 14
 
@@ -22,6 +19,8 @@
 		- "NMDS requires a distance matrix, or a matrix of dissimilarities. Raw Euclidean distances are not ideal for this purpose: they’re sensitive to total abundances, so may treat sites with a similar number of species as more similar, even though the identities of the species are different." This shouldn't be true, should it? If each species gets its own axis...
 	- [GUSTA ME](https://sites.google.com/site/mb3gustame/constrained-analyses/rda) has an overview of a number of techniques.
 - BB proposed inviting Steve Walking to talk to us if he has time.
+
+### Feb 21
 
 ## Meeting Topics
 
