@@ -22,6 +22,8 @@
 
 ### Feb 21
 
+- topic/paper needed
+
 ## Meeting Topics
 
 - Estimating scale of effects
@@ -29,6 +31,9 @@
 	- cf. abstract p. 169 (PDF page 188) of [ISEC 2016 abstracts](http://depts.washington.edu/uwconf/isec/ISEC2016_ABSRACT_BOOKLET.pdf)
     - cf. Gadenne, H., Cornulier, T., Eraud, C. et al. Popul Ecol (2014) 56: 493. doi:10.1007/s10144-014-0435-4
 	- pp. 28-29 of http://www.slideshare.net/bbolker/montpellier-36611460
+	
+- FDR
+	- It might be worth more of us (any of us?) understanding how the various FDR methods work.
 	
 
 		
