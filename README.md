@@ -1,3 +1,4 @@
+
 # Mac-Theobio Lab Meetings
 
 - Tuesdays, 11:30AM (Toronto time)
@@ -7,6 +8,7 @@
 
 - agenda item 1: What is the plan for Feb 21?
 - [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
+	* [The supp is apparently more relevant than the article](http://www.microbecolhealthdis.net/index.php/mehd/rt/suppFiles/27663/0)
 
 ## Upcoming Meetings
 
