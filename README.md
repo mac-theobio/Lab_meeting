@@ -4,15 +4,15 @@
 - Tuesdays, 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current Meeting (Feb 7)
+## Current Meeting (Feb 14)
 
-- agenda item 1: What is the plan for Feb 21?
-- [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
-	* [The supp is apparently more relevant than the article](http://www.microbecolhealthdis.net/index.php/mehd/rt/suppFiles/27663/0)
+- agenda item 1: What is the plan for Feb 28?
+- Informal/long reports
+
 
 ## Upcoming Meetings
 
-### Feb 14
+### Feb 21
 
 - Learn the basics of PCoA. Can anyone suggest a reading?
     - This isn't a full solution: it doesn't help with the inference/why we would do one or the other, but it does explain the geometry pretty nicely ... [PCA and PCoA explained](http://occamstypewriter.org/boboh/2012/01/17/pca_and_pcoa_explained/), from Bob Carpenter
@@ -22,7 +22,7 @@
 	- [GUSTA ME](https://sites.google.com/site/mb3gustame/constrained-analyses/rda) has an overview of a number of techniques.
 - BB proposed inviting Steve Walking to talk to us if he has time.
 
-### Feb 21
+### Feb 28
 
 - topic/paper needed
 
@@ -47,7 +47,10 @@
 
 ## Past readings and agenda items
 
-- Jan 24: - [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
+- Feb 7: [Mandal et al., Analysis of Composition of Microbes: A novel method for studying microbial composition](http://www.microbecolhealthdis.net/index.php/mehd/article/view/27663)
+	- [The supp is apparently more relevant than the article](http://www.microbecolhealthdis.net/index.php/mehd/rt/suppFiles/27663/0)
+
+- Jan 24:  [Phillips et al., _JID_, 2016: Identifying Key Drivers of the Impact of an HIV Cure Intervention in Sub-Saharan Africa](http://jid.oxfordjournals.org/content/214/1/73)
 
 - Jan 9: How to construct R-packages [BB's slides](https://github.com/bbolker/compstatsR/blob/master/session4.rmd)
 
