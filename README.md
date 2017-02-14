@@ -13,16 +13,24 @@
 ## Upcoming Meetings
 
 ### Feb 21
+- No meeting
 
-- Learn the basics of PCoA. Can anyone suggest a reading?
-    - This isn't a full solution: it doesn't help with the inference/why we would do one or the other, but it does explain the geometry pretty nicely ... [PCA and PCoA explained](http://occamstypewriter.org/boboh/2012/01/17/pca_and_pcoa_explained/), from Bob Carpenter
+### Feb 28
+- Read from the [GUSTA ME](https://sites.google.com/site/mb3gustame/constrained-analyses/rda) website for 45 minutes, focusing on:
+	- Dissimilarity based methods
+	- constrained analyses
+	- indirect gradient analysis
+	
+- Some other resources:
+	- Learn the basics of PCoA. Can anyone suggest a reading?
+		- This isn't a full solution: it doesn't help with the inference/why we would do one or the other, but it does explain the geometry pretty nicely ... [PCA and PCoA explained](http://occamstypewriter.org/boboh/2012/01/17/pca_and_pcoa_explained/), from Bob Carpenter
 	- Mike suggests we cover all the variants: (PCA, PCoA, CPC (common principal components), Factor analysis, CVA (canonical variate analysis), Non-negative matrix factorization) (the [CANOCO](http://www.canoco5.com/index.php/canoco5-overview) web page lists: DCA, CA, CCA, DCCA, PCA, and RDA ...)
 	- There's also [NMDS](https://jonlefcheck.net/2012/10/24/nmds-tutorial-in-r/), which is very popular among microbiome people. (JCSz) That link says something I don't understand about NMDS: 
 		- "NMDS requires a distance matrix, or a matrix of dissimilarities. Raw Euclidean distances are not ideal for this purpose: they’re sensitive to total abundances, so may treat sites with a similar number of species as more similar, even though the identities of the species are different." This shouldn't be true, should it? If each species gets its own axis...
-	- [GUSTA ME](https://sites.google.com/site/mb3gustame/constrained-analyses/rda) has an overview of a number of techniques.
+		
 - BB proposed inviting Steve Walker to talk to us if he has time.
 
-### Feb 28
+### Mar 7
 
 - topic/paper needed
 
