@@ -4,18 +4,10 @@
 - Tuesdays, 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current Meeting (Feb 14)
+## Current Meeting (Feb 28)
 
-- agenda item 1: What is the plan for Feb 28?
-- Informal/long reports
+- Choose topics for Mar 7 and Mar 14
 
-
-## Upcoming Meetings
-
-### Feb 21
-- No meeting
-
-### Feb 28
 - Read from the [GUSTA ME](https://sites.google.com/site/mb3gustame/constrained-analyses/rda) website for 45 minutes, focusing on:
 	- Dissimilarity based methods
 	- constrained analyses
@@ -30,9 +22,15 @@
 		
 - BB proposed inviting Steve Walker to talk to us if he has time.
 
+
+## Upcoming Meetings
+
+
 ### Mar 7
 
 - topic/paper needed
+
+### Mar 14
 
 ## Meeting Topics
 
