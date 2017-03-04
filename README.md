@@ -7,8 +7,7 @@
 ## Current Meeting (Mar 7)
 
 - Choose topics for Mar 14 and Mar 21
-
-- No agenda
+- Cornulier slides (sent by e-mail) on scale-dependent regression
 
 ## Upcoming Meetings
 
