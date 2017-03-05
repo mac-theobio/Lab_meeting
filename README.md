@@ -7,7 +7,7 @@
 ## Current Meeting (Mar 7)
 
 - Choose topics for Mar 14 and Mar 21
-- Cornulier slides (sent by e-mail) on scale-dependent regression
+- Scale-dependent parameter estimation: [Cornulier ISEC presentation](readings/CORNULIER_VCR6.pdf)
 
 ## Upcoming Meetings
 
@@ -22,12 +22,6 @@
 
 ## Meeting Topics
 
-- Estimating scale of effects
-    - q. BMB has had for a long time, re-inspired by Rob Ness's biology seminar 5 Jan 2017
-	- cf. abstract p. 169 (PDF page 188) of [ISEC 2016 abstracts](http://depts.washington.edu/uwconf/isec/ISEC2016_ABSRACT_BOOKLET.pdf)
-    - cf. Gadenne, H., Cornulier, T., Eraud, C. et al. Popul Ecol (2014) 56: 493. doi:10.1007/s10144-014-0435-4
-	- pp. 28-29 of http://www.slideshare.net/bbolker/montpellier-36611460
-	
 - FDR
 	- It might be worth more of us (any of us?) understanding how the various FDR methods work.
 	
