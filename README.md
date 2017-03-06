@@ -7,10 +7,12 @@
 ## Current Meeting (Mar 7)
 
 - Choose topics for Mar 14 and Mar 21
+
 - Scale-dependent parameter estimation: [Cornulier ISEC presentation](readings/CORNULIER_VCR6.pdf)
+	* [A possible background paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2575822/) – BB says don't get bogged down in it.
+	* [A weird contribution by al. et JD](https://nature.berkeley.edu/kremenlab/wp-content/uploads/2014/02/Testing-Simple-Indices-of-Habitat-Proximity.pdf): is it OK to snoop if you don't find anything?
 
 ## Upcoming Meetings
-
 
 ### Mar 14
 
@@ -24,8 +26,6 @@
 
 - FDR
 	- It might be worth more of us (any of us?) understanding how the various FDR methods work.
-	
-
 		
 ## Proposed Readings
 
