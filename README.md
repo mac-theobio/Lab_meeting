@@ -16,20 +16,25 @@
 
 ### Mar 14
 
-- topic/paper needed
+- Choose topics for Mar 21 and 28
+- FDR
+	- It might be worth more of us (any of us?) understanding how the various FDR methods work.
 
 ### Mar 21
 
-- topic/paper needed
+- Choose topics for Mar 28 and Apr 4
+- [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
+
+
 
 ## Meeting Topics
 
-- FDR
-	- It might be worth more of us (any of us?) understanding how the various FDR methods work.
+FEED ME
+
 		
 ## Proposed Readings
 
-- [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
+FEED ME
 
 ## Short Agenda Items
 
