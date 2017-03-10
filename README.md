@@ -23,7 +23,7 @@
 ### Mar 21
 
 - Choose topics for Mar 28 and Apr 4
-- [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
+- [Fundamental Theorems of Evolution](http://www.journals.uchicago.edu/doi/full/10.1086/690937)
 
 
 
