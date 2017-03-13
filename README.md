@@ -6,34 +6,37 @@
 
 ## Current Meeting (Mar 14)
 
-*Two* papers (split your time between them as you like:
-
-- [Effects of contact structure on the transient evolution of
+- Choose topics for Mar 21 and 28 
+- *Two* papers (split your time between them as you like):
+    - [Effects of contact structure on the transient evolution of
 HIV virulence](readings/park_bolker_hiv.pdf)
-- [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
+    - [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
 
 ## Upcoming Meetings
 
 ### Mar 21
 
-- topic/paper needed
+- Choose topics for Mar 28 and Apr 4
+- [Fundamental Theorems of Evolution](http://www.journals.uchicago.edu/doi/full/10.1086/690937)
+
+### Mar 28
 
 ## Meeting Topics
 
-- FDR
-	- It might be worth more of us (any of us?) understanding how the various FDR methods work.
-	
-
+- multiple comparisons and false discovery rates
 		
 ## Proposed Readings
 
+- FEED ME
 
 ## Short Agenda Items
 
 ## Past readings and agenda items
 
-- Mar 7: Scale-dependent parameter estimation: [Cornulier ISEC presentation](readings/CORNULIER_VCR6.pdf)
-
+- Mar 7: Scale-dependent parameter estimation
+    - [Cornulier ISEC presentation](readings/CORNULIER_VCR6.pdf)
+	- [A possible background paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2575822/) – BB says don't get bogged down in it.
+	- [A weird contribution by al. et JD](https://nature.berkeley.edu/kremenlab/wp-content/uploads/2014/02/Testing-Simple-Indices-of-Habitat-Proximity.pdf): is it OK to snoop if you don't find anything?
 - Feb 28: Read from the [GUSTA ME](https://sites.google.com/site/mb3gustame/constrained-analyses/rda) website for 45 minutes, focusing on:
 	- Dissimilarity based methods
 	- constrained analyses
