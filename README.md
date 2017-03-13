@@ -4,17 +4,15 @@
 - Tuesdays, 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current Meeting (Mar 7)
+## Current Meeting (Mar 14)
 
-- Choose topics for Mar 14 and Mar 21
-- Scale-dependent parameter estimation: [Cornulier ISEC presentation](readings/CORNULIER_VCR6.pdf)
+*Two* papers (split your time between them as you like:
+
+- [Effects of contact structure on the transient evolution of
+HIV virulence](readings/park_bolker_hiv.pdf)
+- [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
 
 ## Upcoming Meetings
-
-
-### Mar 14
-
-- topic/paper needed
 
 ### Mar 21
 
@@ -29,11 +27,12 @@
 		
 ## Proposed Readings
 
-- [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
 
 ## Short Agenda Items
 
 ## Past readings and agenda items
+
+- Mar 7: Scale-dependent parameter estimation: [Cornulier ISEC presentation](readings/CORNULIER_VCR6.pdf)
 
 - Feb 28: Read from the [GUSTA ME](https://sites.google.com/site/mb3gustame/constrained-analyses/rda) website for 45 minutes, focusing on:
 	- Dissimilarity based methods
