@@ -6,18 +6,12 @@
 
 ## Current Meeting (Mar 14)
 
-- Choose topics for Mar 21 and 28 
-- *Two* papers (split your time between them as you like):
-    - [Effects of contact structure on the transient evolution of
-HIV virulence](readings/park_bolker_hiv.pdf)
-    - [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
-
-## Upcoming Meetings
-
 ### Mar 21
 
 - Choose topics for Mar 28 and Apr 4
 - [Fundamental Theorems of Evolution](http://www.journals.uchicago.edu/doi/full/10.1086/690937)
+
+## Upcoming Meetings
 
 ### Mar 28
 
@@ -39,6 +33,11 @@ HIV virulence](readings/park_bolker_hiv.pdf)
 ## Short Agenda Items
 
 ## Past readings and agenda items
+
+- *Two* papers (split your time between them as you like):
+    - [Effects of contact structure on the transient evolution of
+HIV virulence](readings/park_bolker_hiv.pdf)
+    - [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
 
 - Mar 7: Scale-dependent parameter estimation
     - [Cornulier ISEC presentation](readings/CORNULIER_VCR6.pdf)
