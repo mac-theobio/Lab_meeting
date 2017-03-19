@@ -4,20 +4,25 @@
 - Tuesdays, 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current Meeting (Mar 14)
+## Current
+
+## Upcoming Meetings
 
 ### Mar 21
 
 - Choose topics for Mar 28 and Apr 4
 - [Fundamental Theorems of Evolution](http://www.journals.uchicago.edu/doi/full/10.1086/690937)
 
-## Upcoming Meetings
-
 ### Mar 28
+
+- TBD
+
+### Apr 4
+
+- TBD
 
 ## Meeting Topics
 
-		
 ## Proposed Readings
 
 - multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
