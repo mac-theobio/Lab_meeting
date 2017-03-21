@@ -25,6 +25,7 @@
 
 ## Proposed Readings
 
+- problems with detection of causality by cross-convergent mapping ("does influenza cause humidity?"): [Baskerville and Cobey PNAS](http://www.pnas.org/content/early/2017/03/14/1700369114.full)
 - multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
 - spatially explicit capture-recapture analysis:
     - [Borchers et al 2014 J Am Stat Assoc](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.893884) ("As it involves a distance-based detection function, SECR (spatially explicit capture-recapture) is closer to DS (distance sampling) than [it] is [to] traditional CR (capture-recapture) ...")
