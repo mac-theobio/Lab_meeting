@@ -6,19 +6,26 @@
 
 ## Current
 
-## Upcoming Meetings
-
-### Mar 21
-
-- Choose topics for Mar 28 and Apr 4
-- [Fundamental Theorems of Evolution](http://www.journals.uchicago.edu/doi/full/10.1086/690937)
-
-### Mar 28
+- Discuss future topics 
 
 - problems with detection of causality by cross-convergent mapping ("does influenza cause humidity?"): [Baskerville and Cobey PNAS](http://www.pnas.org/content/early/2017/03/14/1700369114.full)
 	* Read related articles (Sugihara's and theirs in PLoS ONE) if you have time
 
+## Upcoming Meetings
+
 ### Apr 4
+
+- TBD
+
+### Apr 11
+
+- TBD
+
+### Apr 18
+
+- TBD
+
+### Apr 25
 
 - TBD
 
@@ -42,7 +49,9 @@ Choose something from http://rstb.royalsocietypublishing.org/content/372/1719
 
 ## Past readings and agenda items
 
-- *Two* papers (split your time between them as you like):
+- Mar 21: [Fundamental Theorems of Evolution](http://www.journals.uchicago.edu/doi/full/10.1086/690937)
+
+- Mar 14: *Two* papers (split your time between them as you like):
     - [Effects of contact structure on the transient evolution of
 HIV virulence](readings/park_bolker_hiv.pdf)
     - [A transmission-virulence evolutionary trade-off explains attenuation of HIV-1 in Uganda](https://elifesciences.org/content/5/e20492)
