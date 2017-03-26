@@ -43,6 +43,8 @@
 
 Choose something from http://rstb.royalsocietypublishing.org/content/372/1719
 
+- Multivariate responses. I'd like to read this paper from Ian, and maybe lab meeting would be a good way: https://www.ncbi.nlm.nih.gov/pubmed/23356616
+
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
 ## Short Agenda Items
