@@ -6,20 +6,15 @@
 
 ## Current
 
-- Discuss future topics 
-
-- problems with detection of causality by cross-convergent mapping ("does influenza cause humidity?"): [Baskerville and Cobey PNAS](http://www.pnas.org/content/early/2017/03/14/1700369114.full)
-	* Read related articles (Sugihara's and theirs in PLoS ONE) if you have time
-
-## Upcoming Meetings
-
-### Apr 4
-
 * Next week?
 
 * Following week? (maybe PTRSB)
 
 * [Antonovics review](http://rstb.royalsocietypublishing.org/content/372/1719/20160087) from [the PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
+
+
+
+## Upcoming Meetings
 
 ### Apr 11
 
@@ -45,11 +40,16 @@
 
 - Multivariate responses. I'd like to read this paper from Ian, and maybe lab meeting would be a good way: https://www.ncbi.nlm.nih.gov/pubmed/23356616
 
+- CRISPR/phage predator/prey dynamics. I (JCSz) haven't read it, but it might be cool. http://rsif.royalsocietypublishing.org/content/14/127/20160905.long
+
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
 ## Short Agenda Items
 
 ## Past readings and agenda items
+
+- Mar 28: problems with detection of causality by cross-convergent mapping ("does influenza cause humidity?"): [Baskerville and Cobey PNAS](http://www.pnas.org/content/early/2017/03/14/1700369114.full)
+	- Read related articles (Sugihara's and theirs in PLoS ONE) if you have time
 
 - Mar 21: [Fundamental Theorems of Evolution](http://www.journals.uchicago.edu/doi/full/10.1086/690937)
 
