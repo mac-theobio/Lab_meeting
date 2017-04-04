@@ -16,7 +16,7 @@
 
 ## Upcoming Meetings
 
-### Apr 11
+### Apr 11, 12 Noon
 
 - spatially explicit capture-recapture analysis:
     - [Borchers et al 2014 J Am Stat Assoc](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.893884) ("As it involves a distance-based detection function, SECR (spatially explicit capture-recapture) is closer to DS (distance sampling) than [it] is [to] traditional CR (capture-recapture) ...")
@@ -25,7 +25,7 @@
          - Earlier paper (not dealing with time-of-arrival etc.) [Efford et al 2009 Ecology](https://www.ncbi.nlm.nih.gov/pubmed/19886477) "Population density estimated from locations of individuals on a passive detector array"
          - [Borchers and Fewster 2016 Statistical Science](http://projecteuclid.org/euclid.ss/1464105039) "Spatial Capture–Recapture Models"
 
-### Apr 18
+### Apr 21 (Fri at 11:30)
 
 - TBD
 
