@@ -4,7 +4,11 @@
 - Tuesdays, 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current ### Apr 21 (Fri at 11:30)
+## Current Apr 21 (Fri at 11:30)
+
+* Short reports
+
+* Future meetings
 
 * [Leggett virulence](http://rstb.royalsocietypublishing.org/content/372/1719/20160094)
 
