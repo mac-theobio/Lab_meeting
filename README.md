@@ -4,15 +4,9 @@
 - Tuesdays, 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current
+## Current ### Apr 21 (Fri at 11:30)
 
-* Next week?
-
-* Following week? (maybe PTRSB)
-
-* [Antonovics review](http://rstb.royalsocietypublishing.org/content/372/1719/20160087) from [the PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
-
-
+* [Leggett virulence](http://rstb.royalsocietypublishing.org/content/372/1719/20160094)
 
 ## Upcoming Meetings
 
@@ -25,28 +19,28 @@
          - Earlier paper (not dealing with time-of-arrival etc.) [Efford et al 2009 Ecology](https://www.ncbi.nlm.nih.gov/pubmed/19886477) "Population density estimated from locations of individuals on a passive detector array"
          - [Borchers and Fewster 2016 Statistical Science](http://projecteuclid.org/euclid.ss/1464105039) "Spatial Capture–Recapture Models"
 
-### Apr 21 (Fri at 11:30)
-
-- TBD
-
-### Apr 25
+### Apr 28
 
 - TBD
 
 ## Proposed Readings and meeting topics
 
-- multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
-	* Nobody owns this, so we might not do it.
-
 - Multivariate responses. I'd like to read this paper from Ian, and maybe lab meeting would be a good way: https://www.ncbi.nlm.nih.gov/pubmed/23356616
 
 - CRISPR/phage predator/prey dynamics. I (JCSz) haven't read it, but it might be cool. http://rsif.royalsocietypublishing.org/content/14/127/20160905.long
+
+- [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
+
+- multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
+	* Nobody owns this, so we might not do it.
 
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
 ## Short Agenda Items
 
 ## Past readings and agenda items
+
+- 4 Apr [Antonovics review](http://rstb.royalsocietypublishing.org/content/372/1719/20160087) from [the PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
 - Mar 28: problems with detection of causality by cross-convergent mapping ("does influenza cause humidity?"): [Baskerville and Cobey PNAS](http://www.pnas.org/content/early/2017/03/14/1700369114.full)
 	- Read related articles (Sugihara's and theirs in PLoS ONE) if you have time
