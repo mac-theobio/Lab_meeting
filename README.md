@@ -14,15 +14,6 @@
 
 ## Upcoming Meetings
 
-### Apr 11, 12 Noon
-
-- spatially explicit capture-recapture analysis:
-    - [Borchers et al 2014 J Am Stat Assoc](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.893884) ("As it involves a distance-based detection function, SECR (spatially explicit capture-recapture) is closer to DS (distance sampling) than [it] is [to] traditional CR (capture-recapture) ...")
-	- Other (less useful I think) readings:
-         - [Stevenson et al 2014 Meth Ecol Evol](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12291/full) "A general framework for animal density estimation from acoustic detections across a fixed microphone array"
-         - Earlier paper (not dealing with time-of-arrival etc.) [Efford et al 2009 Ecology](https://www.ncbi.nlm.nih.gov/pubmed/19886477) "Population density estimated from locations of individuals on a passive detector array"
-         - [Borchers and Fewster 2016 Statistical Science](http://projecteuclid.org/euclid.ss/1464105039) "Spatial Capture–Recapture Models"
-
 ### Apr 28
 
 - TBD
@@ -37,6 +28,8 @@
 
 - https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic
 
+- [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
+
 - multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
 	* Nobody owns this, so we might not do it.
 
@@ -45,6 +38,12 @@
 ## Short Agenda Items
 
 ## Past readings and agenda items
+
+- 11 Apr spatially explicit capture-recapture analysis: [Borchers et al 2014 J Am Stat Assoc](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.893884) ("As it involves a distance-based detection function, SECR (spatially explicit capture-recapture) is closer to DS (distance sampling) than [it] is [to] traditional CR (capture-recapture) ...")
+	- Other (less useful I think) readings:
+         - [Stevenson et al 2014 Meth Ecol Evol](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12291/full) "A general framework for animal density estimation from acoustic detections across a fixed microphone array"
+         - Earlier paper (not dealing with time-of-arrival etc.) [Efford et al 2009 Ecology](https://www.ncbi.nlm.nih.gov/pubmed/19886477) "Population density estimated from locations of individuals on a passive detector array"
+         - [Borchers and Fewster 2016 Statistical Science](http://projecteuclid.org/euclid.ss/1464105039) "Spatial Capture–Recapture Models"
 
 - 4 Apr [Antonovics review](http://rstb.royalsocietypublishing.org/content/372/1719/20160087) from [the PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
