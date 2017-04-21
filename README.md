@@ -1,10 +1,10 @@
 
 # Mac-Theobio Lab Meetings
 
-- Tuesdays, 11:30AM (Toronto time)
+- Fridays at 11:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current Apr 21 (Fri at 11:30)
+## Current Apr 21 (_Special time_ 10:30)
 
 * Short reports
 
