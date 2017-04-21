@@ -1,10 +1,9 @@
-
 # Mac-Theobio Lab Meetings
 
 - Fridays at 10:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current Apr 28 @ 10:30
+## Current: Apr 28
 
 - Short reports
 
@@ -37,7 +36,7 @@
 
 ## Past readings and agenda items
 
-- [Leggett virulence](http://rstb.royalsocietypublishing.org/content/372/1719/20160094)
+- 21 April [Leggett virulence](http://rstb.royalsocietypublishing.org/content/372/1719/20160094)
 - 11 Apr spatially explicit capture-recapture analysis: [Borchers et al 2014 J Am Stat Assoc](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.893884) ("As it involves a distance-based detection function, SECR (spatially explicit capture-recapture) is closer to DS (distance sampling) than [it] is [to] traditional CR (capture-recapture) ...")
 	- Other (less useful I think) readings:
          - [Stevenson et al 2014 Meth Ecol Evol](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12291/full) "A general framework for animal density estimation from acoustic detections across a fixed microphone array"
