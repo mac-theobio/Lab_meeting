@@ -21,6 +21,10 @@
 
 - CRISPR/phage predator/prey dynamics. I (JCSz) haven't read it, but it might be cool. http://rsif.royalsocietypublishing.org/content/14/127/20160905.long
 
+- Ethics stuff related to JD current work, new from Lipsitch (but not necessarily good):
+[Vaccine testing for emerging infections (JME online first)](http://jme.bmj.com/content/early/2017/04/10/medethics-2015-103220)
+	* [Mac libaccess link](http://jme.bmj.com.libaccess.lib.mcmaster.ca/content/early/2017/04/10/medethics-2015-103220)
+
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
 - https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic
