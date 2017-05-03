@@ -3,27 +3,21 @@
 - Fridays at 10:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current: Apr 28
+## Current: May 5
 
 - Short reports
 
 - Future meetings
 
-- Multivariate responses. I'd like to read this paper from Ian, and maybe lab meeting would be a good way: https://www.ncbi.nlm.nih.gov/pubmed/23356616
+- [CRISPR/phage predator/prey dynamics](http://rsif.royalsocietypublishing.org/content/14/127/20160905.long)
 
 ## Upcoming Meetings
 
-### May 5
+### May 12
 
-- TBD
+- [Multivariate responses paper from Ian](https://www.ncbi.nlm.nih.gov/pubmed/23356616)
 
 ## Proposed Readings and meeting topics
-
-- CRISPR/phage predator/prey dynamics. I (JCSz) haven't read it, but it might be cool. http://rsif.royalsocietypublishing.org/content/14/127/20160905.long
-
-- Ethics stuff related to JD current work, new from Lipsitch (but not necessarily good):
-[Vaccine testing for emerging infections (JME online first)](http://jme.bmj.com/content/early/2017/04/10/medethics-2015-103220)
-	* [Mac libaccess link](http://jme.bmj.com.libaccess.lib.mcmaster.ca/content/early/2017/04/10/medethics-2015-103220)
 
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
@@ -39,6 +33,10 @@
 ## Short Agenda Items
 
 ## Past readings and agenda items
+
+- 28 April Ethics stuff related to JD current work, new from Lipsitch:
+[Vaccine testing for emerging infections (JME online first)](http://jme.bmj.com/content/early/2017/04/10/medethics-2015-103220)
+	* [Mac libaccess link](http://jme.bmj.com.libaccess.lib.mcmaster.ca/content/early/2017/04/10/medethics-2015-103220)
 
 - 21 April [Leggett virulence](http://rstb.royalsocietypublishing.org/content/372/1719/20160094)
 - 11 Apr spatially explicit capture-recapture analysis: [Borchers et al 2014 J Am Stat Assoc](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.893884) ("As it involves a distance-based detection function, SECR (spatially explicit capture-recapture) is closer to DS (distance sampling) than [it] is [to] traditional CR (capture-recapture) ...")
