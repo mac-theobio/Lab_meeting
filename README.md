@@ -11,17 +11,21 @@
 
 - [CRISPR/phage predator/prey dynamics](http://rsif.royalsocietypublishing.org/content/14/127/20160905.long)
 
+- Frog crystals
+
 ## Upcoming Meetings
 
 ### May 12
 
 - [Multivariate responses paper from Ian](https://www.ncbi.nlm.nih.gov/pubmed/23356616)
 
+### May 19
+
+- [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
+
 ## Proposed Readings and meeting topics
 
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
-
-- https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic
 
 - [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
 
