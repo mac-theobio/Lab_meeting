@@ -28,6 +28,9 @@
 - multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
 	* Nobody owns this, so we might not do it.
 
+- [Gelman
+paper](http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf)
+
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
 ## Short Agenda Items
