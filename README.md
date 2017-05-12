@@ -15,6 +15,10 @@
 
 - [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
 
+### May 26
+
+- Morgan's daphnia experiment
+
 ## Proposed Readings and meeting topics
 
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
