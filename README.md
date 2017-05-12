@@ -3,21 +3,13 @@
 - Fridays at 10:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current: May 5
 
-- Short reports
-
-- Future meetings
-
-- [CRISPR/phage predator/prey dynamics](http://rsif.royalsocietypublishing.org/content/14/127/20160905.long)
-
-- Frog crystals
-
-## Upcoming Meetings
-
+## Current
 ### May 12
 
 - [Multivariate responses paper from Ian](https://www.ncbi.nlm.nih.gov/pubmed/23356616)
+
+## Upcoming Meetings
 
 ### May 19
 
@@ -37,6 +29,12 @@
 ## Short Agenda Items
 
 ## Past readings and agenda items
+
+- Current: May 5
+
+	- [CRISPR/phage predator/prey dynamics](http://rsif.royalsocietypublishing.org/content/14/127/20160905.long). Nice modeling exercise, but didn't seem relevant to our interests.
+
+	- Frog crystals
 
 - 28 April Ethics stuff related to JD current work, new from Lipsitch:
 [Vaccine testing for emerging infections (JME online first)](http://jme.bmj.com/content/early/2017/04/10/medethics-2015-103220)
