@@ -5,19 +5,14 @@
 
 
 ## Current
-### May 12
 
-- [Multivariate responses paper from Ian](https://www.ncbi.nlm.nih.gov/pubmed/23356616)
+- Morgan's daphnia experiment
 
 ## Upcoming Meetings
 
-### May 19
+### ???
 
 - [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
-
-### May 26
-
-- Morgan's daphnia experiment
 
 ## Proposed Readings and meeting topics
 
@@ -37,7 +32,11 @@ paper](http://www.stat.columbia.edu/~gelman/research/published/retropower_final.
 
 ## Past readings and agenda items
 
-- Current: May 5
+- May 12
+
+- [Multivariate responses paper from Ian](https://www.ncbi.nlm.nih.gov/pubmed/23356616)
+
+-  May 5
 
 	- [CRISPR/phage predator/prey dynamics](http://rsif.royalsocietypublishing.org/content/14/127/20160905.long). Nice modeling exercise, but didn't seem relevant to our interests.
 
