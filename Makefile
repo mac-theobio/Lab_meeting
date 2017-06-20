@@ -10,23 +10,23 @@ target pngtarget pdftarget vtarget acrtarget: README.html
 
 # make files
 
-Sources = Makefile .gitignore README.md stuff.mk LICENSE.md
-include stuff.mk
+Sources = Makefile .gitignore README.md sub.mk LICENSE.md
+include sub.mk
 # include $(ms)/perl.def
 
 # https://github.com/mac-theobio/Lab_meeting/blob/master/README.md
 README.html: README.md
+
+### Makestuff
+
+## Change this name to download a new version of the makestuff directory
+# Makefile: start.makestuff
 
 ##################################################################
 
 ## Content
 
 ######################################################################
-
-### Makestuff
-
-## Change this name to download a new version of the makestuff directory
-# Makefile: start.makestuff
 
 -include $(ms)/git.mk
 -include $(ms)/visual.mk

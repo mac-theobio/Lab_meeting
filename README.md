@@ -6,15 +6,15 @@
 
 ## Current
 
-- Morgan's daphnia experiment
-
 ## Upcoming Meetings
 
-### ???
+Did we do this without Dushoff or what? Why is it here?
 
 - [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
 
 ## Proposed Readings and meeting topics
+
+- [Eco-evo from Dwyer, Dushoff and others](http://www.journals.uchicago.edu/doi/10.1086/691537)
 
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
@@ -23,18 +23,19 @@
 - multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
 	* Nobody owns this, so we might not do it.
 
-- [Gelman
-paper](http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf)
+- [Gelman S+M paper](http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf)
 
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
-## Short Agenda Items
+## Suggested additional agenda Items
 
 ## Past readings and agenda items
 
-- May 12
+- Jun 9 [Bellemare Career Workshop](http://marcfbellemare.com/wordpress/wp-content/uploads/2017/06/BellemareAAEAEarlyCareerWorkshop.pdf)
 
-- [Multivariate responses paper from Ian](https://www.ncbi.nlm.nih.gov/pubmed/23356616)
+- May 26 (?) A report from Morgan on his daphnia experiment
+
+- May 12 [Multivariate responses paper from Ian](https://www.ncbi.nlm.nih.gov/pubmed/23356616)
 
 -  May 5
 

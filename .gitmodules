@@ -1,0 +1,3 @@
+[submodule "makestuff"]
+	path = makestuff
+	url = git@github.com:dushoff/makestuff.git
