@@ -3,18 +3,16 @@
 - Fridays at 10:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-
 ## Current
 
 ## Upcoming Meetings
 
-Did we do this without Dushoff or what? Why is it here?
+- 23 Jun: [Eco-evo from Dwyer, Dushoff and others](http://www.journals.uchicago.edu/doi/10.1086/691537)
+	- [Maclib](http://www.journals.uchicago.edu.libaccess.lib.mcmaster.ca/doi/10.1086/691537)
 
-- [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
+- 30 Jun: [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
 
 ## Proposed Readings and meeting topics
-
-- [Eco-evo from Dwyer, Dushoff and others](http://www.journals.uchicago.edu/doi/10.1086/691537)
 
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
