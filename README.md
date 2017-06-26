@@ -5,10 +5,12 @@
 
 ## Current
 
-## Upcoming Meetings
+[Lots of MMED material available on figshare](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224), including two lecture videos from JD:
 
-- 23 Jun: [Eco-evo from Dwyer, Dushoff and others](http://www.journals.uchicago.edu/doi/10.1086/691537)
-	- [Maclib](http://www.journals.uchicago.edu.libaccess.lib.mcmaster.ca/doi/10.1086/691537)
+* [Foundations of dynamic models](https://figshare.com/articles/The_SIR_Model_Family/5042974/6)
+* [Introduction to Statistical Philosophy](https://figshare.com/articles/Introduction_to_Statistical_Philosophy/5044633/3)
+
+## Upcoming Meetings
 
 - 30 Jun: [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
 
@@ -31,6 +33,9 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 23 Jun: [Eco-evo from Dwyer, Dushoff and others](http://www.journals.uchicago.edu/doi/10.1086/691537)
+	- [Maclib](http://www.journals.uchicago.edu.libaccess.lib.mcmaster.ca/doi/10.1086/691537)
 
 - Jun 9 [Bellemare Career Workshop](http://marcfbellemare.com/wordpress/wp-content/uploads/2017/06/BellemareAAEAEarlyCareerWorkshop.pdf)
 
