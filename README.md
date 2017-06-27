@@ -16,6 +16,7 @@
 
 ## Proposed Readings and meeting topics
 
+- [Guardian article on scientific publishing, Elsevier etc.](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science?CMP=share_btn_tw)
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
 - [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
