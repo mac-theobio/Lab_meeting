@@ -3,16 +3,10 @@
 - Fridays at 10:30AM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
-## Current
-
-[Lots of MMED material available on figshare](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224), including two lecture videos from JD:
-
-* [Foundations of dynamic models](https://figshare.com/articles/The_SIR_Model_Family/5042974/6)
-* [Introduction to Statistical Philosophy](https://figshare.com/articles/Introduction_to_Statistical_Philosophy/5044633/3)
 
 ## Upcoming Meetings
 
-- 30 Jun: [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
+- 7 Jul: [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
 
 ## Proposed Readings and meeting topics
 
@@ -119,3 +113,7 @@ from Illumina amplicon data](http://www.nature.com/nmeth/journal/v13/n7/full/nme
 - Sep 15: Skyline plots
 	- [Pybus et al Genetics 155: 1429–1437](http://www.genetics.org/content/155/3/1429.short) (Original paper, July 2000) 
 	- [Drummond et al 2005doi:10.1093/molbev/msi103](http://mbe.oxfordjournals.org/content/22/5/1185.short) (Cool Bayesian stuff)
+
+## Links
+
+* [ICI3D figshare](https://figshare.com/collections/International_Clinics_on_Infectious_Disease_Dynamics_and_Data/3788224)
