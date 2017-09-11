@@ -1,14 +1,18 @@
 # Mac-Theobio Lab Meetings
 
-- Fridays at 10:30AM (Toronto time)
+- Tuesdays at 1:30PM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
 
 ## Upcoming Meetings
 
-- 7 Jul: [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
+- 19 September: ??
 
 ## Proposed Readings and meeting topics
+
+- [A primer on stable parameter estimation and forecasting in epidemiology by a problem-oriented regularized least squares algorithm](http://www.sciencedirect.com/science/article/pii/S2468042717300088)
+
+- [The basic reproduction number (R0) of measles: a systematic review](http://www.sciencedirect.com/science/article/pii/S1473309917303079)
 
 - [Guardian article on scientific publishing, Elsevier etc.](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science?CMP=share_btn_tw)
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
@@ -28,6 +32,8 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 7 Jul: [Infectious Disease Dynamics Inferred from Genetic Data via Sequential Monte Carlo](https://academic.oup.com//mbe/article/3200416/Infectious-Disease-Dynamics-Inferred-from-Genetic)
 
 - 23 Jun: [Eco-evo from Dwyer, Dushoff and others](http://www.journals.uchicago.edu/doi/10.1086/691537)
 	- [Maclib](http://www.journals.uchicago.edu.libaccess.lib.mcmaster.ca/doi/10.1086/691537)
