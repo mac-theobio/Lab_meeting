@@ -2,11 +2,13 @@
 
 - Tuesdays at 1:30PM (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
-
+* Please spend about 40 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
 ## Upcoming Meetings
 
-- 19 September: ??
+- 19 September
+	 * Please read [The basic reproduction number (R0) of measles: a systematic review](http://www.sciencedirect.com/science/article/pii/S1473309917303079)
+	* Extra (but short and interesting) [Overfitting vs. Open Data](http://www.the100.ci/2017/09/14/overfitting-vs-open-data/)
 
 ## Proposed Readings and meeting topics
 
