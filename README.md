@@ -6,6 +6,9 @@
 
 ## Upcoming Meetings
 
+- 19 September
+	* Please read [Gelman S+M paper](http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf)
+
 ## Proposed Readings and meeting topics
 
 - [A primer on stable parameter estimation and forecasting in epidemiology by a problem-oriented regularized least squares algorithm](http://www.sciencedirect.com/science/article/pii/S2468042717300088)
