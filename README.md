@@ -6,9 +6,6 @@
 
 ## Upcoming Meetings
 
-- 19 September
-	* Please read [Gelman S+M paper](http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf)
-
 ## Proposed Readings and meeting topics
 
 - [A primer on stable parameter estimation and forecasting in epidemiology by a problem-oriented regularized least squares algorithm](http://www.sciencedirect.com/science/article/pii/S2468042717300088)
@@ -31,6 +28,11 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 2 October. Discussing Morgan and Ben's draft paper about pathogen evolution and host heterogeneity (sent by email)
+
+- 26 September
+	* Please read [Gelman S+M paper](http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf)
 
 - 19 September
 	 * Please read [The basic reproduction number (R0) of measles: a systematic review](http://www.sciencedirect.com/science/article/pii/S1473309917303079)
