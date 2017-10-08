@@ -6,6 +6,8 @@
 
 ## Upcoming Meetings
 
+- 10 October: David C. will present a statistical method he designed. A meta-analysis aims at infering a pooled estimate of an effect size reported by various studies, taking into account the size and uncertainty of each study. The classical statistical toolbox of meta-analysis assumes that all studies report the mean and variance of the effect size. However, when studies reports partial and heterogeneous type of summary statistics, the classical toolbox is not applicable anymore. The method presented here addresses this gap.
+
 ## Proposed Readings and meeting topics
 
 - [A primer on stable parameter estimation and forecasting in epidemiology by a problem-oriented regularized least squares algorithm](http://www.sciencedirect.com/science/article/pii/S2468042717300088)
