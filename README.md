@@ -6,7 +6,7 @@
 
 ## Upcoming Meetings
 
-- 10 October: David C. will present a statistical method he designed. A meta-analysis aims at infering a pooled estimate of an effect size reported by various studies, taking into account the size and uncertainty of each study. The classical statistical toolbox of meta-analysis assumes that all studies report the mean and variance of the effect size. However, when studies reports partial and heterogeneous type of summary statistics, the classical toolbox is not applicable anymore. The method presented here addresses this gap.
+- 17 October: Daniel P. will present his research on estimating the effects of paraistes on the maintenance of sex. The Red Queen Hypothesis predicts that sexual reproduction can overcome the two fold cost of sex under parasite selection by creating rare genotypes that can escape infection. Lively ([2001](https://www.researchgate.net/publication/278886730_Trematode_infection_and_the_distribution_and_dynamics_of_parthenogenetic_snail_populations)) predicted that prevalence of infection should be positively correlated with prevalence of sex. Here, we try to estimate the power to detect the correlation and discuss limitations of spatial data.
 
 ## Proposed Readings and meeting topics
 
@@ -30,6 +30,8 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 10 October: David C. will present a statistical method he designed. A meta-analysis aims at infering a pooled estimate of an effect size reported by various studies, taking into account the size and uncertainty of each study. The classical statistical toolbox of meta-analysis assumes that all studies report the mean and variance of the effect size. However, when studies reports partial and heterogeneous type of summary statistics, the classical toolbox is not applicable anymore. The method presented here addresses this gap.
 
 - 2 October. Discussing Morgan and Ben's draft paper about pathogen evolution and host heterogeneity (sent by email)
 
