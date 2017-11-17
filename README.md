@@ -6,9 +6,6 @@
 
 ## Upcoming Meetings
 
-- 7 Nov [Guardian article on scientific publishing, Elsevier etc.](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
-- [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
-
 ## Proposed Readings and meeting topics
 
 - [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
@@ -26,6 +23,9 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 7 Nov [Guardian article on scientific publishing, Elsevier etc.](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
+- [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
 - 31 Oct: [A primer on stable parameter estimation and forecasting in epidemiology by a problem-oriented regularized least squares algorithm](http://www.sciencedirect.com/science/article/pii/S2468042717300088)
 
