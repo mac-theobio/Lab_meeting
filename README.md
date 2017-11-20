@@ -6,9 +6,9 @@
 
 ## Upcoming Meetings
 
-## Proposed Readings and meeting topics
+- 21 Nov [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
 
-- [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
+## Proposed Readings and meeting topics
 
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
@@ -23,6 +23,8 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 14 Nov Visit from Wilfred Ndifon; discussion about AIMS
 
 - 7 Nov [Guardian article on scientific publishing, Elsevier etc.](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
