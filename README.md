@@ -16,7 +16,7 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 - multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
 	* Nobody owns this, so we might not do it.
 
-- [Gelman S+M paper](http://www.stat.columbia.edu/~gelman/research/published/retropower_final.pdf)
+- [Adding transition probabilities to clinical trial simulations](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
 
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
