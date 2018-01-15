@@ -20,7 +20,7 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 
 ## Past readings and agenda items
 
-- Jan 9: Susan Holmes, [Statistical proof? The problem of irreproducibility](http://www.ams.org/journals/bull/2018-55-01/S0273-0979-2017-01597-2/)
+- 9 Jan: Susan Holmes, [Statistical proof? The problem of irreproducibility](http://www.ams.org/journals/bull/2018-55-01/S0273-0979-2017-01597-2/)
 
 - 21 Nov: [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
 
