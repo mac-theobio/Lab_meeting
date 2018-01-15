@@ -1,14 +1,12 @@
 # Mac-Theobio Lab Meetings
 
-- ??? (Toronto time)
+- Monday, 1:30pm (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 * Please spend about 40 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
 ## Upcoming Meetings
 
 ## Proposed Readings and meeting topics
-
-- Susan Holmes, [Statistical proof? The problem of irreproducibility](http://www.ams.org/journals/bull/2018-55-01/S0273-0979-2017-01597-2/)
 
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
@@ -22,11 +20,13 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 
 ## Past readings and agenda items
 
-- 21 Nov [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
+- Jan 9: Susan Holmes, [Statistical proof? The problem of irreproducibility](http://www.ams.org/journals/bull/2018-55-01/S0273-0979-2017-01597-2/)
 
-- 14 Nov Visit from Wilfred Ndifon; discussion about AIMS
+- 21 Nov: [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
 
-- 7 Nov [Guardian article on scientific publishing, Elsevier etc.](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
+- 14 Nov: Visit from Wilfred Ndifon; discussion about AIMS
+
+- 7 Nov: [Guardian article on scientific publishing, Elsevier etc.](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
 - 31 Oct: [A primer on stable parameter estimation and forecasting in epidemiology by a problem-oriented regularized least squares algorithm](http://www.sciencedirect.com/science/article/pii/S2468042717300088)
