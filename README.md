@@ -6,6 +6,8 @@
 
 ## Upcoming Meetings
 
+- 22 Jan: Short reports. Be prepared to talk about what you have been working on this week (2-3 minutes).
+
 ## Proposed Readings and meeting topics
 
 - [Leaf bacterial diversity mediates plant diversity and
