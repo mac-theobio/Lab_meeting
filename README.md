@@ -13,10 +13,8 @@
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
 
-- multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
-	* Nobody owns this, so we might not do it.
-
 - [Adding transition probabilities to clinical trial simulations](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
+	* This is short and simple, but kind of fun. JCSz.
 
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
