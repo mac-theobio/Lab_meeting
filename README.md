@@ -15,7 +15,7 @@
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
 
-- [Adding transition probabilities to clinical trial simulations](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
+- [Under some circumstances, very effective treatments will appear not to work](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
 	* This is short and simple, but kind of fun. JCSz.
 	
 - [Lice transmission of plague](http://www.pnas.org/content/early/2018/01/09/1715640115.short)
