@@ -6,7 +6,9 @@
 
 ## Upcoming Meetings
 
-- 22 Jan: Short reports. Be prepared to talk about what you have been working on this week (2-3 minutes).
+- 29 Jan: 
+	- [Short courses don't work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/)
+		- There's a Data Carpentry result [here](http://www.datacarpentry.org/blog/reponse-to-null-effects/)
 
 ## Proposed Readings and meeting topics
 
@@ -15,6 +17,9 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 
 - [Adding transition probabilities to clinical trial simulations](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
 	* This is short and simple, but kind of fun. JCSz.
+	
+- [Lice transmission of plague](http://www.pnas.org/content/early/2018/01/09/1715640115.short)
+
 
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
