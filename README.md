@@ -8,7 +8,7 @@
 
 - 29 Jan: 
 	- [Short courses don't work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/)
-		- There's a Data Carpentry result [here](http://www.datacarpentry.org/blog/reponse-to-null-effects/)
+		- There's a Data Carpentry response [here](http://www.datacarpentry.org/blog/reponse-to-null-effects/)
 
 ## Proposed Readings and meeting topics
 
