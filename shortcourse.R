@@ -24,6 +24,8 @@ dd <- read.csv("shortcourse_table1.txt") %>%
 ggplot(dd,aes(coef,variable,colour=measure))+
     geom_pointrangeh(aes(xmin=coef-2*std_err,xmax=coef+2*std_err),
                      position=position_dodgev(height=0.5))+
-    labs(subtitle="positive values mean untrained students are better",
-         y="",x="coefficient")
-
+    geom_vline(xintercept=0,lty=2)+
+    annotate("text",x=2,y=5,label="untrained students are better")+
+    annotate("text",x=-2,y=5,label="trained students are better")+
+    labs(y="",x="coefficient")
+ggsave("shortcourse.pdf",width=10,height=10)
