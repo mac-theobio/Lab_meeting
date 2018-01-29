@@ -2,13 +2,11 @@
 
 - Monday, 1:30pm (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
-* Please spend about 40 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
+- Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
 ## Upcoming Meetings
 
-- 29 Jan: 
-	- [Short courses don't work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/)
-		- There's a Data Carpentry response [here](http://www.datacarpentry.org/blog/reponse-to-null-effects/)
+- 5 February: [Lice transmission of plague](http://www.pnas.org/content/early/2018/01/09/1715640115.short)
 
 ## Proposed Readings and meeting topics
 
@@ -18,14 +16,13 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 - [Under some circumstances, very effective treatments will appear not to work](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
 	* This is short and simple, but kind of fun. JCSz.
 	
-- [Lice transmission of plague](http://www.pnas.org/content/early/2018/01/09/1715640115.short)
-
-
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 29 Jan: [Short courses don't work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/); [Data Carpentry response](http://www.datacarpentry.org/blog/reponse-to-null-effects/)
 
 - 9 Jan: Susan Holmes, [Statistical proof? The problem of irreproducibility](http://www.ams.org/journals/bull/2018-55-01/S0273-0979-2017-01597-2/)
 
