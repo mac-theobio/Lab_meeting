@@ -1,22 +1,25 @@
 # Mac-Theobio Lab Meetings
 
-- ??? (Toronto time)
+- Monday, 1:30pm (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 * Please spend about 40 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
 ## Upcoming Meetings
 
-## Proposed Readings and meeting topics
+- 29 Jan: 
+	- [Short courses don't work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/)
+		- There's a Data Carpentry response [here](http://www.datacarpentry.org/blog/reponse-to-null-effects/)
 
-- Susan Holmes, [Statistical proof? The problem of irreproducibility](http://www.ams.org/journals/bull/2018-55-01/S0273-0979-2017-01597-2/)
+## Proposed Readings and meeting topics
 
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
 
-- multiple comparisons and false discovery rates, e.g. [here](http://www.biostathandbook.com/multiplecomparisons.html) (basic but not silly)
-	* Nobody owns this, so we might not do it.
+- [Under some circumstances, very effective treatments will appear not to work](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
+	* This is short and simple, but kind of fun. JCSz.
+	
+- [Lice transmission of plague](http://www.pnas.org/content/early/2018/01/09/1715640115.short)
 
-- [Adding transition probabilities to clinical trial simulations](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
 
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
@@ -24,11 +27,13 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 
 ## Past readings and agenda items
 
-- 21 Nov [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
+- 9 Jan: Susan Holmes, [Statistical proof? The problem of irreproducibility](http://www.ams.org/journals/bull/2018-55-01/S0273-0979-2017-01597-2/)
 
-- 14 Nov Visit from Wilfred Ndifon; discussion about AIMS
+- 21 Nov: [Lotka-Volterra pairwise modeling fails to capture diverse pairwise microbial interactions](https://elifesciences.org/content/6/e25051)
 
-- 7 Nov [Guardian article on scientific publishing, Elsevier etc.](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
+- 14 Nov: Visit from Wilfred Ndifon; discussion about AIMS
+
+- 7 Nov: [Guardian article on scientific publishing, Elsevier etc.](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 - [The PTRSB Theme issue on ecology and evolution of parasite transmission](http://rstb.royalsocietypublishing.org/content/372/1719)
 
 - 31 Oct: [A primer on stable parameter estimation and forecasting in epidemiology by a problem-oriented regularized least squares algorithm](http://www.sciencedirect.com/science/article/pii/S2468042717300088)
