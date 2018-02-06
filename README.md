@@ -6,9 +6,12 @@
 
 ## Upcoming Meetings
 
-- 5 February: [Lice transmission of plague](http://www.pnas.org/content/early/2018/01/09/1715640115.short)
+- 12 February: 
 
 ## Proposed Readings and meeting topics
+
+- [Abandon Statistical Significance](https://arxiv.org/abs/1709.07588)
+	* Ran across this while beginning work on Jonathan's "statistical clarity" project. Putting this here because reading it may help kickstart that project/get ideas flowing for that paper. MK.
 
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
@@ -21,6 +24,8 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 5 February: [Lice transmission of plague](http://www.pnas.org/content/early/2018/01/09/1715640115.short)
 
 - 29 Jan: [Short courses don't work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5604013/); [Data Carpentry response](http://www.datacarpentry.org/blog/reponse-to-null-effects/)
 
