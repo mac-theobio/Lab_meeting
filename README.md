@@ -6,7 +6,8 @@
 
 ## Upcoming Meetings
 
-- 12 February: 
+- 12 February: [Under some circumstances, very effective treatments will appear not to work](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
+	* This is short and simple, but kind of fun. JCSz.
 - 19 February: Cai et al. (proposed)
 
 ## Proposed Readings and meeting topics
@@ -19,8 +20,6 @@
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
 
-- [Under some circumstances, very effective treatments will appear not to work](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
-	* This is short and simple, but kind of fun. JCSz.
 	
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
