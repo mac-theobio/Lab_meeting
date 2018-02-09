@@ -7,11 +7,14 @@
 ## Upcoming Meetings
 
 - 12 February: 
+- 19 February: Cai et al. (proposed)
 
 ## Proposed Readings and meeting topics
 
 - [Abandon Statistical Significance](https://arxiv.org/abs/1709.07588)
 	* Ran across this while beginning work on Jonathan's "statistical clarity" project. Putting this here because reading it may help kickstart that project/get ideas flowing for that paper. MK.
+	
+- Cai et al., [Use of an individual-based model of pneumococcal carriage for planning a randomized trial of a vaccine](https://www.biorxiv.org/content/early/2018/02/05/258871). Also see Cobey and Lipsitch (2012) [Niche and Neutral Effects of Acquired Immunity Permit Coexistence of Pneumococcal Serotypes](http://science.sciencemag.org/content/335/6074/1376), which presents the model this simulation study is based on.
 
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
