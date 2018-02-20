@@ -20,6 +20,9 @@
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
 
+- [When are pathogen genome sequences informative of transmission events?](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006885) 
+	- Simultaneous simulation of transmission and mutation
+
 	
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
