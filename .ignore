@@ -4,4 +4,7 @@ target.mk
 .*.sw*
 make.log
 .gitignore
+<<<<<<< HEAD
 
+=======
+>>>>>>> 425c9e1f14a786e18deedb672002813d7e3923b3

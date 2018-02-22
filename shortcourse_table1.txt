@@ -1,0 +1,116 @@
+Variable name,Coefficient,P value,Cohens d,Significant in Monte Carlo simulation,FDR critical value
+Published Abstracts (gain),0.196,0.002,0.47,73.3,0.000434783
+Published Abstracts (T2),0.183,0.009,0.41,68.0,0.000869565
+Student Scholarly Encouragement (T1),0.090,0.056,0.22,30.0,0.001304348
+Perceived Cohesion/Sense of Belonging (T1),0.584,0.056,0.33,54.3,0.001739130
+Research Infrastructure (T2),0.139,0.073,0.42,59.4,0.002173913
+Department Collegiality (T2),0.198,0.097,0.28,41.6,0.002608696
+Perceived Cohesion/Sense of Belonging (T2),0.462,0.098,0.25,36.1,0.003043478
+Research Infrastructure (gain),0.122,0.105,0.003478261
+Hypothesis (gain01),0.210,0.121,0.003913043
+Department Collegiality (gain),0.160,0.152,0.004347826
+Student Scholarly Encouragement (T2),0.108,0.156,0.004782609
+Participation in Scholarly Activities (T1),-0.049,0.194,0.005217391
+Participation in Scholarly Activities (T2),-0.042,0.200,0.005652174
+Journal articles (T2),-1.747,0.222,0.006086957
+Hypothesis (T1),0.171,0.229,0.006521739
+Journal articles (gain),-1.726,0.233,0.006956522
+Student-Faculty and Student-Peer Interactions (T1),-0.033,0.249,0.007391304
+Conference Papers (gain),-0.015,0.282,0.007826087
+Department Collegiality (T1),0.088,0.312,0.008260870
+Control/Replication (T1),-0.156,0.312,0.008695652
+Control/Replication (gain01),-0.160,0.322,0.009130435
+Use of Primary Literature (T1),-0.220,0.337,0.009565217
+Data Selection (gain01),-0.115,0.346,0.010000000
+Use of Primary Literature (gain01),-0.199,0.366,0.010434783
+Student Scholarly Encouragement (gain),0.066,0.373,0.010869565
+Academic & Intellectual Development (T2),0.075,0.378,0.011304348
+Alternative Interpretations of Data (gain02),-0.162,0.384,0.011739130
+Conference Papers (T2),-0.015,0.409,0.012173913
+Alternative Interpretations of Data (T2),-0.146,0.423,0.012608696
+Research Infrastructure (T1),0.034,0.442,0.013043478
+Data Selection (T1),-0.092,0.448,0.013478261
+Data Presentation (gain01),-0.092,0.451,0.013913043
+Published Abstracts (T1),-0.033,0.455,0.014347826
+Alternative Interpretations of Data (gain12),-0.144,0.462,0.014782609
+Self-efficacy for Research Skills (T2),-0.648,0.472,0.015217391
+Data Selection (T2),0.118,0.485,0.015652174
+Journal articles (T1),0.037,0.486,0.016086957
+Data Selection (gain12),0.078,0.491,0.016521739
+Self-efficacy for Research Skills (gain),-0.406,0.492,0.016956522
+Data Selection (gain02),0.117,0.494,0.017391304
+Implications of Findings (gain01),0.128,0.509,0.017826087
+Perceived Cohesion/Sense of Belonging (gain),0.184,0.512,0.018260870
+Academic & Intellectual Development (gain),0.043,0.512,0.018695652
+Degree Commitment (T2),0.028,0.513,0.019130435
+Limitations (gain02),-0.125,0.517,0.019565217
+Implications of Findings (gain02),-0.110,0.535,0.020000000
+Limitations (T2),-0.117,0.539,0.020434783
+Context for a Study (gain01),0.098,0.542,0.020869565
+Limitations (gain12),-0.123,0.547,0.021304348
+Institutional Commitment (T2),0.051,0.548,0.021739130
+Implications of Findings (T2),-0.108,0.552,0.022173913
+Data Analysis (gain01),-0.083,0.566,0.022608696
+Implications of Findings (gain12),-0.096,0.584,0.023043478
+Institutional Commitment (gain),0.041,0.591,0.023478261
+Implications of Findings (T1),0.102,0.606,0.023913043
+Academic & Intellectual Development (T1),0.041,0.617,0.024347826
+Control/Replication (gain12),-0.072,0.627,0.024782609
+Context for a Study (T1),0.080,0.628,0.025217391
+Alternative Interpretations of Data (T1),-0.083,0.634,0.025652174
+Experimental Design (T2),0.057,0.636,0.026086957
+Experimental Design (T1),-0.055,0.645,0.026521739
+Experimental Design (gain02),0.058,0.645,0.026956522
+Time to Degree (T2),0.029,0.659,0.027391304
+Time to Degree (gain),0.023,0.672,0.027826087
+Experimental Design (gain01),-0.050,0.674,0.028260870
+Control/Replication (T2),-0.063,0.675,0.028695652
+Student-Faculty and Student-Peer Interactions (T2),-0.014,0.676,0.029130435
+Context for a Study (gain02),-0.053,0.685,0.029565217
+Experimental Design (gain12),0.047,0.688,0.030000000
+Alternative Interpretations of Data (gain01),-0.069,0.693,0.030434783
+Data Analysis (T1),-0.055,0.703,0.030869565
+Overall Writing Quality (gain12),-0.030,0.709,0.031304348
+Overall Writing Quality (T2),-0.030,0.710,0.031739130
+Control/Replication (gain02),-0.054,0.716,0.032173913
+Participation in Scholarly Activities (gain),-0.009,0.719,0.032608696
+Use of Primary Literature (gain02),-0.065,0.727,0.033043478
+Self-efficacy for Research Skills (T1),-0.338,0.747,0.033478261
+Context for a Study (T2),-0.043,0.747,0.033913043
+Degree Commitment (T1),0.010,0.748,0.034347826
+Context for a Study (gain12),-0.042,0.756,0.034782609
+Function of Advisor (T1),0.015,0.774,0.035217391
+Overall Writing Quality (T1),-0.028,0.775,0.035652174
+Total (T1),-0.344,0.787,0.036086957
+Data Presentation (gain02),0.045,0.793,0.036521739
+Function of Advisor (T2),0.015,0.800,0.036956522
+Degree Commitment (gain),0.011,0.803,0.037391304
+Data Presentation (T2),0.039,0.814,0.037826087
+Use of Primary Literature (T2),-0.044,0.817,0.038260870
+Total (gain01),-0.298,0.819,0.038695652
+Total (gain02),-0.357,0.825,0.039130435
+Data Presentation (gain12),0.037,0.829,0.039565217
+Hypothesis (T2),0.035,0.846,0.040000000
+Conclusions based on Data (gain02),-0.030,0.846,0.040434783
+Conclusions based on Data (T1),-0.033,0.849,0.040869565
+Use of Primary Literature (gain12),-0.036,0.851,0.041304348
+Total (gain12),-0.283,0.860,0.041739130
+Total (T2),-0.283,0.861,0.042173913
+Limitations (gain01),0.033,0.866,0.042608696
+Overall Writing Quality (gain02),-0.013,0.876,0.043043478
+Hypothesis (gain02),0.026,0.890,0.043478261
+Conclusions based on Data (gain12),-0.020,0.896,0.043913043
+Conclusions based on Data (T2),-0.019,0.898,0.044347826
+Time to Degree (T1),-0.005,0.907,0.044782609
+Conclusions based on Data (gain01),-0.019,0.908,0.045217391
+Limitations (T1),0.020,0.918,0.045652174
+Student-Faculty and Student-Peer Interactions (gain),0.002,0.930,0.046086957
+Institutional Commitment (T1),0.006,0.941,0.046521739
+Hypothesis (gain12),0.013,0.943,0.046956522
+Overall Writing Quality (gain01),0.006,0.950,0.047391304
+Function of Advisor (gain),0.003,0.963,0.047826087
+Data Analysis (gain02),-0.007,0.965,0.048260870
+Data Analysis (T2),0.003,0.987,0.048695652
+Data Analysis (gain12),0.003,0.987,0.049130435
+Conference Papers (T1),0.000,0.993,0.049565217
+Data Presentation (T1),0.001,0.995,0.050000000
