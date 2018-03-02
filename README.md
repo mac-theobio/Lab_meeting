@@ -6,16 +6,14 @@
 
 ## Upcoming Meetings
 
-- 12 February: [Under some circumstances, very effective treatments will appear not to work](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
-	* This is short and simple, but kind of fun. JCSz.
-- 19 February: Cai et al. (proposed)
+- 5 March: Cai et al., [Use of an individual-based model of pneumococcal carriage for planning a randomized trial of a vaccine](https://www.biorxiv.org/content/early/2018/02/05/258871). Also see Cobey and Lipsitch (2012) [Niche and Neutral Effects of Acquired Immunity Permit Coexistence of Pneumococcal Serotypes](http://science.sciencemag.org/content/335/6074/1376), which presents the model this simulation study is based on.
 
 ## Proposed Readings and meeting topics
 
+- [Why don't patients get sick in sync?](https://www.quantamagazine.org/disease-modelers-seek-statistical-clues-to-the-timing-of-symptoms-20180301)
+
 - [Abandon Statistical Significance](https://arxiv.org/abs/1709.07588)
 	* Ran across this while beginning work on Jonathan's "statistical clarity" project. Putting this here because reading it may help kickstart that project/get ideas flowing for that paper. MK.
-	
-- Cai et al., [Use of an individual-based model of pneumococcal carriage for planning a randomized trial of a vaccine](https://www.biorxiv.org/content/early/2018/02/05/258871). Also see Cobey and Lipsitch (2012) [Niche and Neutral Effects of Acquired Immunity Permit Coexistence of Pneumococcal Serotypes](http://science.sciencemag.org/content/335/6074/1376), which presents the model this simulation study is based on.
 
 - [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
@@ -29,6 +27,12 @@ ecosystem function relationships](https://www.nature.com/nature/journal/v546/n76
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 26 February: Talk
+
+- 19 February: Break
+
+- 12 February: [Under some circumstances, very effective treatments will appear not to work](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32399-1/fulltext)
 
 - 5 February: [Lice transmission of plague](http://www.pnas.org/content/early/2018/01/09/1715640115.short)
 
