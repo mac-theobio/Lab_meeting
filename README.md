@@ -6,25 +6,20 @@
 
 ## Upcoming Meetings
 
-- 12 March: [Leaf bacterial diversity mediates plant diversity and
-ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
-
+- 19 March: [When are pathogen genome sequences informative of transmission events?](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006885) 
+	
 ## Proposed Readings and meeting topics
 
 - [Why don't patients get sick in sync?](https://www.quantamagazine.org/disease-modelers-seek-statistical-clues-to-the-timing-of-symptoms-20180301)
-
-- [Abandon Statistical Significance](https://arxiv.org/abs/1709.07588)
-	* Ran across this while beginning work on Jonathan's "statistical clarity" project. Putting this here because reading it may help kickstart that project/get ideas flowing for that paper. MK.
-
-- [When are pathogen genome sequences informative of transmission events?](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006885) 
-	- Simultaneous simulation of transmission and mutation
-
 	
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 12 March: [Leaf bacterial diversity mediates plant diversity and
+ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
 
 - 5 March: Cai et al., [Use of an individual-based model of pneumococcal carriage for planning a randomized trial of a vaccine](https://www.biorxiv.org/content/early/2018/02/05/258871). Also see Cobey and Lipsitch (2012) [Niche and Neutral Effects of Acquired Immunity Permit Coexistence of Pneumococcal Serotypes](http://science.sciencemag.org/content/335/6074/1376), which presents the model this simulation study is based on.
 
