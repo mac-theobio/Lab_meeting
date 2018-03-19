@@ -6,17 +6,17 @@
 
 ## Upcoming Meetings
 
-- 19 March: [When are pathogen genome sequences informative of transmission events?](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006885) 
-	
-## Proposed Readings and meeting topics
+- 26 March: Why don't patients get sick in sync? ([news article](https://www.quantamagazine.org/disease-modelers-seek-statistical-clues-to-the-timing-of-symptoms-20180301), [journal article](https://elifesciences.org/articles/30212))
 
-- [Why don't patients get sick in sync?](https://www.quantamagazine.org/disease-modelers-seek-statistical-clues-to-the-timing-of-symptoms-20180301)
+## Proposed Readings and meeting topics
 	
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 19 March: [When are pathogen genome sequences informative of transmission events?](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006885) 
 
 - 12 March: [Leaf bacterial diversity mediates plant diversity and
 ecosystem function relationships](https://www.nature.com/nature/journal/v546/n7656/pdf/nature22399.pdf)
