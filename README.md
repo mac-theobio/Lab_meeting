@@ -6,9 +6,11 @@
 
 ## Upcoming Meetings
 
-- 26 March: Why don't patients get sick in sync? ([news article](https://www.quantamagazine.org/disease-modelers-seek-statistical-clues-to-the-timing-of-symptoms-20180301), [journal article](https://elifesciences.org/articles/30212))
+2 April: short meetings
 
 ## Proposed Readings and meeting topics
+
+- Vashishth and Gelman [The illusion of power: How the statistical significance filter leads to overconfident expectations of replicability](http://www.stat.columbia.edu%2F~gelman/research/unpublished/illusion_power.pdf)
 
 - Winter et al. [Benefits and challenges in using sero-prevalence data to inform models for measles and rubella elimination](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiy137/4942536) *J. Inf. Diseases* (accepted ms.)
 - Fraser et al. [Questionable Research Practices in Ecology and Evolution](https://osf.io/7qbfv/) (preprint)
@@ -18,6 +20,8 @@
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 26 March: Why don't patients get sick in sync? ([news article](https://www.quantamagazine.org/disease-modelers-seek-statistical-clues-to-the-timing-of-symptoms-20180301), [journal article](https://elifesciences.org/articles/30212))
 
 - 19 March: [When are pathogen genome sequences informative of transmission events?](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006885) 
 
