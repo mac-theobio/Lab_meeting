@@ -18,6 +18,7 @@ include sub.mk
 # Meeting notes, etc.
 
 # https://github.com/mac-theobio/Lab_meeting/blob/master/README.md
+Ignore += README.html
 README.html: README.md
 Sources += 2017.md
 

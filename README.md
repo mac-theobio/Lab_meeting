@@ -6,7 +6,7 @@
 
 ## Upcoming Meetings
 
-2 April: short meetings
+2 April: Reports
 
 ## Proposed Readings and meeting topics
 
@@ -14,6 +14,8 @@
 
 - Winter et al. [Benefits and challenges in using sero-prevalence data to inform models for measles and rubella elimination](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiy137/4942536) *J. Inf. Diseases* (accepted ms.)
 - Fraser et al. [Questionable Research Practices in Ecology and Evolution](https://osf.io/7qbfv/) (preprint)
+
+[Estimating the proportion of bystander selection for antibiotic resistance in the US (biorxiv preprint)[https://www.biorxiv.org/content/early/2018/03/26/288704]
 
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
