@@ -14,8 +14,8 @@
 
 - Winter et al. [Benefits and challenges in using sero-prevalence data to inform models for measles and rubella elimination](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiy137/4942536) *J. Inf. Diseases* (accepted ms.)
 - Fraser et al. [Questionable Research Practices in Ecology and Evolution](https://osf.io/7qbfv/) (preprint)
-
-[Estimating the proportion of bystander selection for antibiotic resistance in the US (biorxiv preprint)[https://www.biorxiv.org/content/early/2018/03/26/288704]
+- Tedijanto et al. [Estimating the proportion of bystander selection for antibiotic resistance in the US](https://www.biorxiv.org/content/early/2018/03/26/288704)(biorxiv preprint)
+- Iuliano et al. [Estimates of global seasonal influenza-associated respiratory mortality: a modelling study](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)33293-2/fulltext) (Lancet 391:1285-1300, 31 March 2018)
 
 - [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
