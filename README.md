@@ -10,7 +10,7 @@
 
 ## Proposed Readings and meeting topics
 
-- Vashishth and Gelman [The illusion of power: How the statistical significance filter leads to overconfident expectations of replicability](http://www.stat.columbia.edu%2F~gelman/research/unpublished/illusion_power.pdf)
+- Vashishth and Gelman [The illusion of power: How the statistical significance filter leads to overconfident expectations of replicability](http://www.stat.columbia.edu/~gelman/research/unpublished/illusion_power.pdf)
 
 - Winter et al. [Benefits and challenges in using sero-prevalence data to inform models for measles and rubella elimination](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiy137/4942536) *J. Inf. Diseases* (accepted ms.)
 - Fraser et al. [Questionable Research Practices in Ecology and Evolution](https://osf.io/7qbfv/) (preprint)
