@@ -22,15 +22,6 @@ Ignore += README.html
 README.html: README.md
 Sources += 2017.md
 
-### Makestuff
-
-## Change this name to download a new version of the makestuff directory
-# Makefile: start.makestuff
-
-##################################################################
-
-## Content
-
 ######################################################################
 
 -include $(ms)/git.mk

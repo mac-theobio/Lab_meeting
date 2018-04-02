@@ -1,3 +1,4 @@
 [submodule "makestuff"]
 	path = makestuff
-	url = git@github.com:dushoff/makestuff.git
+	url = https://github.com/dushoff/makestuff.git
+	branch = master
