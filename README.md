@@ -6,22 +6,28 @@
 
 ## Upcoming Meetings
 
-2 April: Reports
+- Tedijanto et al. [Estimating the proportion of bystander selection for antibiotic resistance in the US](https://www.biorxiv.org/content/early/2018/03/26/288704)(biorxiv preprint)
+	* Leader: Dushoff
 
 ## Proposed Readings and meeting topics
 
+- [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
+
 - Vashishth and Gelman [The illusion of power: How the statistical significance filter leads to overconfident expectations of replicability](http://www.stat.columbia.edu/~gelman/research/unpublished/illusion_power.pdf)
-
+	* Bolker
 - Winter et al. [Benefits and challenges in using sero-prevalence data to inform models for measles and rubella elimination](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiy137/4942536) *J. Inf. Diseases* (accepted ms.)
+	* Bolker
 - Fraser et al. [Questionable Research Practices in Ecology and Evolution](https://osf.io/7qbfv/) (preprint)
-- Tedijanto et al. [Estimating the proportion of bystander selection for antibiotic resistance in the US](https://www.biorxiv.org/content/early/2018/03/26/288704)(biorxiv preprint)
+	* Bolker
 - Iuliano et al. [Estimates of global seasonal influenza-associated respiratory mortality: a modelling study](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)33293-2/fulltext) (Lancet 391:1285-1300, 31 March 2018)
+	* Earn
 
-- [FEED ME](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 2 April: Reports
 
 - 26 March: Why don't patients get sick in sync? ([news article](https://www.quantamagazine.org/disease-modelers-seek-statistical-clues-to-the-timing-of-symptoms-20180301), [journal article](https://elifesciences.org/articles/30212))
 
