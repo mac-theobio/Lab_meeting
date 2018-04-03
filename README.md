@@ -22,6 +22,8 @@
 - Iuliano et al. [Estimates of global seasonal influenza-associated respiratory mortality: a modelling study](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)33293-2/fulltext) (Lancet 391:1285-1300, 31 March 2018)
 	* Earn
 
+- Hertzberg, Weiss _et al._ [Behaviors, movements, and transmission of droplet-mediated respiratory diseases during transcontinental airline flights](http://www.pnas.org/content/early/2018/03/13/1711611115) (PNAS 2018)
+        * Earn
 
 ## Suggested additional agenda Items
 
