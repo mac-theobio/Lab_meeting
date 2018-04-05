@@ -23,10 +23,10 @@
 	* Earn
 
 - Hertzberg, Weiss _et al._ [Behaviors, movements, and transmission of droplet-mediated respiratory diseases during transcontinental airline flights](http://www.pnas.org/content/early/2018/03/13/1711611115) (PNAS 2018)
-        * Earn
+	* Earn
 
 - de Celles _et al._ [The impact of past vaccination coverage and immunity on pertussis resurgence](http://stm.sciencemag.org/content/10/434/eaaj1748) (_Science Translational Medicine_ 28 Mar 2018)
-        * Earn
+	* Earn
 
 ## Suggested additional agenda Items
 
