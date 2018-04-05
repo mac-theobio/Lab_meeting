@@ -28,6 +28,9 @@
 - de Celles _et al._ [The impact of past vaccination coverage and immunity on pertussis resurgence](http://stm.sciencemag.org/content/10/434/eaaj1748) (_Science Translational Medicine_ 28 Mar 2018)
 	* Earn
 
+- [Don Ludwig papers](https://www.math.ubc.ca/~ludwig/)
+	* Earn, Balshine, Bolker
+
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
