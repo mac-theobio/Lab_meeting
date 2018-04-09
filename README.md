@@ -6,8 +6,11 @@
 
 ## Upcoming Meetings
 
-- Tedijanto et al. [Estimating the proportion of bystander selection for antibiotic resistance in the US](https://www.biorxiv.org/content/early/2018/03/26/288704)(biorxiv preprint)
-	* Leader: Dushoff
+- 16 April: whatever Mark Lewis wants to do
+      * Earn will find out
+
+- 23 April: Ludwig, Hilborn, and Walters, [Uncertainty, Resource Exploitation, and Conservation: Lessons from History](http://www.jstor.org/stable/2881101), *Science* (Vol. 260, No. 5104, Apr. 2, 1993)
+      * Earn
 
 ## Proposed Readings and meeting topics
 
@@ -29,11 +32,18 @@
 	* Earn
 
 - [Don Ludwig papers](https://www.math.ubc.ca/~ludwig/)
+        * spruce budworm (1978)
+        * exinction, Bayesian/frequentist, snow goose
+        * model complexity and prediction (Ludwig and Walters *CJFAS*)
 	* Earn, Balshine, Bolker
+
+- Somers 2018, [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (*The Atlantic*)
 
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 9 April: Tedijanto et al. [Estimating the proportion of bystander selection for antibiotic resistance in the US](https://www.biorxiv.org/content/early/2018/03/26/288704)(biorxiv preprint)
 
 - 2 April: Reports
 
