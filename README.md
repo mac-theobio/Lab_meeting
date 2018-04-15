@@ -6,8 +6,8 @@
 
 ## Upcoming Meetings
 
-- 16 April: whatever Mark Lewis wants to do
-      * Earn will find out
+- 16 April: Visitor [Mark Lewis](http://www.math.ualberta.ca/~mlewis/)
+	* [Garnier, J., Lewis, M.A. (2016) Population expansion under climate change: the genetic consequences](http://www.math.ualberta.ca/~mlewis/Publications%202016/Garnier_Lewis.pdf)
 
 - 23 April: Ludwig, Hilborn, and Walters, [Uncertainty, Resource Exploitation, and Conservation: Lessons from History](http://www.jstor.org/stable/2881101), *Science* (Vol. 260, No. 5104, Apr. 2, 1993)
       * Earn
