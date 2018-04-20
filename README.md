@@ -16,6 +16,8 @@
 
 - [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
+- Simonsen _et al_ 2016 [Infectious disease surveillance in the big data era: Towards faster and locally relevant systems](https://academic.oup.com/jid/article/214/suppl_4/S380/2527913) _Journal of Infectious Diseases_ (2016) **214** S380-S385
+	* Earn
 - Vashishth and Gelman [The illusion of power: How the statistical significance filter leads to overconfident expectations of replicability](http://www.stat.columbia.edu/~gelman/research/unpublished/illusion_power.pdf)
 	* Bolker
 - Winter et al. [Benefits and challenges in using sero-prevalence data to inform models for measles and rubella elimination](https://academic.oup.com/jid/advance-article/doi/10.1093/infdis/jiy137/4942536) *J. Inf. Diseases* (accepted ms.)
@@ -32,9 +34,9 @@
 	* Earn
 
 - [Don Ludwig papers](https://www.math.ubc.ca/~ludwig/)
-        * spruce budworm (1978)
-        * exinction, Bayesian/frequentist, snow goose
-        * model complexity and prediction (Ludwig and Walters *CJFAS*)
+	* spruce budworm (1978)
+	* exinction, Bayesian/frequentist, snow goose
+	* model complexity and prediction (Ludwig and Walters *CJFAS*)
 	* Earn, Balshine, Bolker
 
 - Somers 2018, [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (*The Atlantic*)
