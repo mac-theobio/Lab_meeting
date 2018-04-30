@@ -6,10 +6,7 @@
 
 ## Upcoming Meetings
 
-- 16 April: Visitor [Mark Lewis](http://www.math.ualberta.ca/~mlewis/)
-	* [Garnier, J., Lewis, M.A. (2016) Population expansion under climate change: the genetic consequences](http://www.math.ualberta.ca/~mlewis/Publications%202016/Garnier_Lewis.pdf)
-
-- 23 April: Ludwig, Hilborn, and Walters, [Uncertainty, Resource Exploitation, and Conservation: Lessons from History](http://www.jstor.org/stable/2881101), *Science* (Vol. 260, No. 5104, Apr. 2, 1993)
+- __Wed__ 2 May at __12:30__ PM: Ludwig, Hilborn, and Walters, [Uncertainty, Resource Exploitation, and Conservation: Lessons from History](http://www.jstor.org/stable/2881101), *Science* (Vol. 260, No. 5104, Apr. 2, 1993)
       * Earn
 
 ## Proposed Readings and meeting topics
@@ -42,6 +39,9 @@
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 16 April: Visitor [Mark Lewis](http://www.math.ualberta.ca/~mlewis/)
+	* [Garnier, J., Lewis, M.A. (2016) Population expansion under climate change: the genetic consequences](http://www.math.ualberta.ca/~mlewis/Publications%202016/Garnier_Lewis.pdf)
 
 - 9 April: Tedijanto et al. [Estimating the proportion of bystander selection for antibiotic resistance in the US](https://www.biorxiv.org/content/early/2018/03/26/288704)(biorxiv preprint)
 
