@@ -7,7 +7,7 @@
 ## Upcoming Meetings
 
 - __Wed__ 2 May at __12:30__ PM: Ludwig, Hilborn, and Walters, [Uncertainty, Resource Exploitation, and Conservation: Lessons from History](http://www.jstor.org/stable/2881101), *Science* (Vol. 260, No. 5104, Apr. 2, 1993)
-      * Earn
+	* Earn
 
 ## Proposed Readings and meeting topics
 
