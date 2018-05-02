@@ -6,8 +6,7 @@
 
 ## Upcoming Meetings
 
-- __Wed__ 2 May at __12:30__ PM: Ludwig, Hilborn, and Walters, [Uncertainty, Resource Exploitation, and Conservation: Lessons from History](http://www.jstor.org/stable/2881101), *Science* (Vol. 260, No. 5104, Apr. 2, 1993)
-	* Earn
+- 17 May: [Are Age-Structured Models Appropriate for Catch-Effort Data? Ludwig and Walters 1985](http://www.nrcresearchpress.com/doi/abs/10.1139/f85-132#.WunrytMbMxE)
 
 ## Proposed Readings and meeting topics
 
@@ -33,7 +32,6 @@
 - [Don Ludwig papers](https://www.math.ubc.ca/~ludwig/)
 	* spruce budworm (1978)
 	* exinction, Bayesian/frequentist, snow goose
-	* model complexity and prediction (Ludwig and Walters *CJFAS*)
 	* Earn, Balshine, Bolker
 
 - Somers 2018, [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (*The Atlantic*)
@@ -41,6 +39,8 @@
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- __Wed__ 2 May: Ludwig, Hilborn, and Walters, [Uncertainty, Resource Exploitation, and Conservation: Lessons from History](http://www.jstor.org/stable/2881101), *Science* (Vol. 260, No. 5104, Apr. 2, 1993)
 
 - 16 April: Visitor [Mark Lewis](http://www.math.ualberta.ca/~mlewis/)
 	* [Garnier, J., Lewis, M.A. (2016) Population expansion under climate change: the genetic consequences](http://www.math.ualberta.ca/~mlewis/Publications%202016/Garnier_Lewis.pdf)
