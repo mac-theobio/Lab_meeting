@@ -12,6 +12,8 @@
 
 - [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
+- Sah _et al_ 2018 [Optimizing the impact of low-efficacy influenza vaccines](http://www.pnas.org/content/early/2018/04/24/1802479115) _PNAS_ (early online edition)
+	* Earn
 - Simonsen _et al_ 2016 [Infectious disease surveillance in the big data era: Towards faster and locally relevant systems](https://academic.oup.com/jid/article/214/suppl_4/S380/2527913) _Journal of Infectious Diseases_ (2016) **214** S380-S385
 	* Earn
 - Vashishth and Gelman [The illusion of power: How the statistical significance filter leads to overconfident expectations of replicability](http://www.stat.columbia.edu/~gelman/research/unpublished/illusion_power.pdf)
