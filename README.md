@@ -7,6 +7,7 @@
 ## Upcoming Meetings
 
 - 16 May: [Are Age-Structured Models Appropriate for Catch-Effort Data? Ludwig and Walters 1985](http://www.nrcresearchpress.com/doi/abs/10.1139/f85-132#.WunrytMbMxE)
+	* See also [Deriso: Harvesting strategies and parameter estimation for an age-structured model.](http://www.nrcresearchpress.com/doi/pdf/10.1139/f80-034)
 
 ## Proposed Readings and meeting topics
 
