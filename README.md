@@ -13,6 +13,9 @@
 
 - [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
+- Adler _et al._ 2018 [Weak interspecific interactions in a sagebrush steppe? Conflicting evidence from observations and experiments](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2363)
+	* Park
+
 - Bartoszko _et al_ (with Mark Loeb) 2018 [Does consecutive influenza vaccination reduce protection against influenza: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S0264410X18305462)
 	* Earn
 - Sah _et al_ 2018 [Optimizing the impact of low-efficacy influenza vaccines](http://www.pnas.org/content/early/2018/04/24/1802479115) _PNAS_ (early online edition)
