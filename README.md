@@ -6,8 +6,8 @@
 
 ## Upcoming Meetings
 
-- 16 May: [Are Age-Structured Models Appropriate for Catch-Effort Data? Ludwig and Walters 1985](http://www.nrcresearchpress.com/doi/abs/10.1139/f85-132#.WunrytMbMxE)
-	* See also [Deriso: Harvesting strategies and parameter estimation for an age-structured model.](http://www.nrcresearchpress.com/doi/pdf/10.1139/f80-034)
+- __Wed__ 23 May: Simonsen _et al_ 2016 [Infectious disease surveillance in the big data era: Towards faster and locally relevant systems](https://academic.oup.com/jid/article/214/suppl_4/S380/2527913) _Journal of Infectious Diseases_ (2016) **214** S380-S385
+	* Earn
 
 ## Proposed Readings and meeting topics
 
@@ -19,8 +19,6 @@
 - Bartoszko _et al_ (with Mark Loeb) 2018 [Does consecutive influenza vaccination reduce protection against influenza: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S0264410X18305462)
 	* Earn
 - Sah _et al_ 2018 [Optimizing the impact of low-efficacy influenza vaccines](http://www.pnas.org/content/early/2018/04/24/1802479115) _PNAS_ (early online edition)
-	* Earn
-- Simonsen _et al_ 2016 [Infectious disease surveillance in the big data era: Towards faster and locally relevant systems](https://academic.oup.com/jid/article/214/suppl_4/S380/2527913) _Journal of Infectious Diseases_ (2016) **214** S380-S385
 	* Earn
 - Vashishth and Gelman [The illusion of power: How the statistical significance filter leads to overconfident expectations of replicability](http://www.stat.columbia.edu/~gelman/research/unpublished/illusion_power.pdf)
 	* Bolker
@@ -47,6 +45,9 @@
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- __Wed__ 16 May: [Are Age-Structured Models Appropriate for Catch-Effort Data? Ludwig and Walters 1985](http://www.nrcresearchpress.com/doi/abs/10.1139/f85-132#.WunrytMbMxE)
+	* See also [Deriso: Harvesting strategies and parameter estimation for an age-structured model.](http://www.nrcresearchpress.com/doi/pdf/10.1139/f80-034)
 
 - __Wed__ 2 May: Ludwig, Hilborn, and Walters, [Uncertainty, Resource Exploitation, and Conservation: Lessons from History](http://www.jstor.org/stable/2881101), *Science* (Vol. 260, No. 5104, Apr. 2, 1993)
 
