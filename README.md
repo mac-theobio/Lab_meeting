@@ -51,6 +51,7 @@
 
 - __Wed__ 23 May: Simonsen _et al_ 2016 [Infectious disease surveillance in the big data era: Towards faster and locally relevant systems](https://academic.oup.com/jid/article/214/suppl_4/S380/2527913) _Journal of Infectious Diseases_ (2016) **214** S380-S385
 	* Earn
+	* [Gog et al. 2014 (Simonsen is excited about this one)](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003635)
 
 - __Wed__ 16 May: [Are Age-Structured Models Appropriate for Catch-Effort Data? Ludwig and Walters 1985](http://www.nrcresearchpress.com/doi/abs/10.1139/f85-132#.WunrytMbMxE)
 	* See also [Deriso: Harvesting strategies and parameter estimation for an age-structured model.](http://www.nrcresearchpress.com/doi/pdf/10.1139/f80-034)
