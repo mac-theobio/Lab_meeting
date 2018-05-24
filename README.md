@@ -17,6 +17,9 @@
 
 - [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
+- Colman _et al_ 2018 [The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3117-6) BMC ID 18:219
+	* Earn
+
 - Adler _et al._ 2018 [Weak interspecific interactions in a sagebrush steppe? Conflicting evidence from observations and experiments](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2363)
 	* Park
 
