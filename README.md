@@ -6,11 +6,9 @@
 
 ## Upcoming Meetings
 
-- __Mon__ 28 May: No meeting
+- __Mon__ 11 Jun: Informal meeting
 
-- __Mon__ 4 Jun: Informal meeting
-
-- __Mon__ 11 Jun: Sah _et al_ 2018 [Optimizing the impact of low-efficacy influenza vaccines](http://www.pnas.org/content/early/2018/04/24/1802479115) _PNAS_ (early online edition)
+- __Mon__ 18 Jun: Sah _et al_ 2018 [Optimizing the impact of low-efficacy influenza vaccines](http://www.pnas.org/content/early/2018/04/24/1802479115) _PNAS_ (early online edition)
 	* Dushoff
 
 ## Proposed Readings and meeting topics
@@ -51,6 +49,10 @@
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- __Mon__ 4 Jun: Informal meeting
+
+- __Mon__ 28 May: No meeting
 
 - __Wed__ 23 May: Simonsen _et al_ 2016 [Infectious disease surveillance in the big data era: Towards faster and locally relevant systems](https://academic.oup.com/jid/article/214/suppl_4/S380/2527913) _Journal of Infectious Diseases_ (2016) **214** S380-S385
 	* Earn
