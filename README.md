@@ -6,10 +6,8 @@
 
 ## Upcoming Meetings
 
-- __Mon__ 11 Jun: Informal meeting
-
-- __Mon__ 18 Jun: Sah _et al_ 2018 [Optimizing the impact of low-efficacy influenza vaccines](http://www.pnas.org/content/early/2018/04/24/1802479115) _PNAS_ (early online edition)
-	* Dushoff
+- Adler _et al._ 2018 [Weak interspecific interactions in a sagebrush steppe? Conflicting evidence from observations and experiments](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2363)
+	* Park
 
 ## Proposed Readings and meeting topics
 
@@ -17,9 +15,6 @@
 
 - Colman _et al_ 2018 [The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3117-6) BMC ID 18:219
 	* Earn
-
-- Adler _et al._ 2018 [Weak interspecific interactions in a sagebrush steppe? Conflicting evidence from observations and experiments](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2363)
-	* Park
 
 - Bartoszko _et al_ (with Mark Loeb) 2018 [Does consecutive influenza vaccination reduce protection against influenza: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S0264410X18305462)
 	* Earn
@@ -49,6 +44,11 @@
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- __Mon__ 11 Jun: Informal meeting
+
+- __Mon__ 18 Jun: Sah _et al_ 2018 [Optimizing the impact of low-efficacy influenza vaccines](http://www.pnas.org/content/early/2018/04/24/1802479115) _PNAS_ (early online edition)
+	* Dushoff
 
 - __Mon__ 4 Jun: Informal meeting
 
