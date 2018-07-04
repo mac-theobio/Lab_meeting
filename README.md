@@ -13,6 +13,9 @@
 
 - [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
+- Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
+	* Szamosi
+
 - Colman _et al_ 2018 [The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3117-6) BMC ID 18:219
 	* Earn
 
