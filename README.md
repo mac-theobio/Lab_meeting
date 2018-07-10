@@ -6,15 +6,22 @@
 
 ## Upcoming Meetings
 
-- Adler _et al._ 2018 [Weak interspecific interactions in a sagebrush steppe? Conflicting evidence from observations and experiments](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2363)
-	* Park
-
+- 17 July:
+    - DJDE will bring >3 matched juggling balls
+    - BMB will be away, so please pick something boring to read
+	
 ## Proposed Readings and meeting topics
 
 - [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
-_ "Living dangerously with big fancy models". This is a Forum section with a number of responses to Heisey et al *Ecol Monographs* 2010. The introduction by Michael Lavine is [here](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1); if we pick this we should take a look at the [table of contents](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) and decide which of the articles (LaDeau, Lele, Hodges, Waller, Heisey et al. rejoinder) we want to read (the whole thing is probably too much), and/or the original paper that sparked the forum.
+- Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539) *Am Nat*
+    * Bolker
+- Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
+    * Bolker	 
+- "Living dangerously with big fancy models". This is a Forum section with a number of responses to Heisey et al *Ecol Monographs* 2010. The introduction by Michael Lavine is [here](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1); if we pick this we should take a look at the [table of contents](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) and decide which of the articles (LaDeau, Lele, Hodges, Waller, Heisey et al. rejoinder) we want to read (the whole thing is probably too much), and/or the original paper that sparked the forum.
+    * Bolker	 
 - Dormann et al 2018 review of model averaging
+    * Bolker
 - Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
 	* Szamosi
 
@@ -49,6 +56,11 @@ _ "Living dangerously with big fancy models". This is a Forum section with a num
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- __Tues__ 10 July: Informal meeting
+
+- date?: Adler _et al._ 2018 [Weak interspecific interactions in a sagebrush steppe? Conflicting evidence from observations and experiments](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2363)
+	* Park
 
 - __Mon__ 11 Jun: Informal meeting
 
