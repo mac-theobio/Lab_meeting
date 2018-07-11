@@ -17,7 +17,8 @@
 - Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539) *Am Nat*
     * Bolker
 - Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
-    * Bolker	 
+    * Bolker	
+    * [?](https://media.giphy.com/media/Tlg08MWwaDaJa/giphy.gif)
 - "Living dangerously with big fancy models". This is a Forum section with a number of responses to Heisey et al *Ecol Monographs* 2010. The introduction by Michael Lavine is [here](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1); if we pick this we should take a look at the [table of contents](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) and decide which of the articles (LaDeau, Lele, Hodges, Waller, Heisey et al. rejoinder) we want to read (the whole thing is probably too much), and/or the original paper that sparked the forum.
     * Bolker	 
 - Dormann et al 2018 review of model averaging
