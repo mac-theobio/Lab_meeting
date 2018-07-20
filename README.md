@@ -6,9 +6,8 @@
 
 ## Upcoming Meetings
 
-- 17 July:
-    - DJDE will bring >3 matched juggling balls
-    - BMB will be away, so please pick something boring to read
+- __Mon__ 23 July: 
+- Morgan has an agenda item: Weights in a spatio-temporal GAM (weighting by citizen effort in measuring bird communities)
 	
 ## Proposed Readings and meeting topics
 
@@ -57,6 +56,10 @@
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- __Mon__ 16 July: Informal meeting
+- DJDE will bring >3 matched juggling balls
+- BMB will be away, so please pick something boring to read
 
 - __Tues__ 10 July: Informal meeting
 
