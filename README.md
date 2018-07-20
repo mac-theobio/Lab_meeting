@@ -7,7 +7,7 @@
 ## Upcoming Meetings
 
 - __Mon__ 23 July: 
-	* Morgan has an agenda item: Weights in a spatio-temporal GAM (weighting by citizen effort in measuring bird communities)
+	* Morgan has two agenda item: General paper identity crisis + weights in a spatio-temporal GAM (weighting by citizen effort in measuring bird communities)
 	
 ## Proposed Readings and meeting topics
 
