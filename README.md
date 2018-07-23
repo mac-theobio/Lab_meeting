@@ -13,6 +13,8 @@
 
 - [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
+- Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
+    * Bolker
 - Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539) *Am Nat*
     * Bolker
 - Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
