@@ -13,6 +13,9 @@
 
 - [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
+- Gorsich et al ["Opposite outcomes of coinfection at individual and population scales"](http://www.pnas.org/content/early/2018/06/29/1801095115) *PNAS*
+    * Akhmetzhanov
+
 - Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
     * Bolker
 - Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539) *Am Nat*
