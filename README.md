@@ -6,9 +6,7 @@
 
 ## Upcoming Meetings
 
-- __Mon__ 20 Aug: Dormann _et al_ 2018 [Model averaging in ecology: a review of Bayesian, information‐theoretic, and tactical approaches for predictive inference](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1309)
-	
-## Proposed Readings and meeting topics
+- Mon 27 Aug [Statistical Modeling: The Two Cultures, Leo Breiman](http://www2.math.uu.se/~thulin/mm/breiman.pdf)
 
 - [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
 
@@ -59,6 +57,10 @@
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- __Mon__ 20 Aug: Dormann _et al_ 2018 [Model averaging in ecology: a review of Bayesian, information‐theoretic, and tactical approaches for predictive inference](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1309)
+	
+## Proposed Readings and meeting topics
 
 - __Mon__ 23 July: 
 	* Morgan has two agenda item: General paper identity crisis + weights in a spatio-temporal GAM (weighting by citizen effort in measuring bird communities)
