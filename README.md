@@ -8,7 +8,9 @@
 
 - Mon 27 Aug [Statistical Modeling: The Two Cultures, Leo Breiman](http://www2.math.uu.se/~thulin/mm/breiman.pdf)
 
-- [Please add new suggestions at top, add your name and qualify your recommendation, if appropriate](https://media.giphy.com/media/pBj0EoGSYjGms/giphy.gif)
+## Suggested future topics
+
+###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
 - (short paper) Ho J, Tumkaya T, Aryal S, Choi H, Claridge-Chang A. Moving beyond P values: Everyday data analysis with estimation plots. biorxiv 2018. DOI:10.1101/377978.
 
