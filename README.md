@@ -6,14 +6,18 @@
 
 ## Upcoming Meetings
 
-- Mon 27 Aug [Statistical Modeling: The Two Cultures, Leo Breiman](http://www2.math.uu.se/~thulin/mm/breiman.pdf)
-
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+- Harrell Regression Modeling Strategies ch. 4?
+    * Bolker
+	- Hefley et al, Ecology, [The basis function approach for modeling autocorrelation in ecological data](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.1674)
+    * Bolker
+- Balsutraitis et al, BMC Infectious Diseases, [Comparison of crowd-sourced, electronic health records based, and traditional health-care based influenza-tracking systems at multiple spatial resolutions in the United States of America](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3322-3)
+    * Bolker
 - (short paper) Ho J, Tumkaya T, Aryal S, Choi H, Claridge-Chang A. Moving beyond P values: Everyday data analysis with estimation plots. biorxiv 2018. DOI:10.1101/377978.
-
+    * ???
 - Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
     * Bolker
 - Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539) *Am Nat*
@@ -58,6 +62,8 @@
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- Mon 27 Aug [Statistical Modeling: The Two Cultures, Leo Breiman](http://www2.math.uu.se/~thulin/mm/breiman.pdf)
 
 - __Mon__ 20 Aug: Dormann _et al_ 2018 [Model averaging in ecology: a review of Bayesian, information‐theoretic, and tactical approaches for predictive inference](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1309)
 	
