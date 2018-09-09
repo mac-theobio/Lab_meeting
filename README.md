@@ -1,10 +1,12 @@
 # Mac-Theobio Lab Meetings
 
-- Monday, 1:30pm (Toronto time)
+- Tuesday, 1:30pm (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
 ## Upcoming Meetings
+
+- 11 September: informal
 
 ## Suggested future topics
 
@@ -12,7 +14,7 @@
 
 - Harrell Regression Modeling Strategies ch. 4?
     * Bolker
-	- Hefley et al, Ecology, [The basis function approach for modeling autocorrelation in ecological data](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.1674)
+- Hefley et al, Ecology, [The basis function approach for modeling autocorrelation in ecological data](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.1674)
     * Bolker
 - Balsutraitis et al, BMC Infectious Diseases, [Comparison of crowd-sourced, electronic health records based, and traditional health-care based influenza-tracking systems at multiple spatial resolutions in the United States of America](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3322-3)
     * Bolker
