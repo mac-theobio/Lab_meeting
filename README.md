@@ -13,6 +13,7 @@
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
 - ["Transient phenomena in ecology"](http://science.sciencemag.org.libaccess.lib.mcmaster.ca/content/361/6406/eaat6412) Hastings _et al_ 2018, _Science_ Vol. 361, Issue 6406, eaat6412 (Review)
+	* Earn
 - ["Reassessing the global mortality burden of the 1918 influenza pandemic"](https://academic-oup-com.libaccess.lib.mcmaster.ca/aje/advance-article/doi/10.1093/aje/kwy191/5092383) Spreeuwenberg _et al_ 2018, American Journal of Epidemiology, kwy191, https://doi-org.libaccess.lib.mcmaster.ca/10.1093/aje/kwy191
 	* Earn
 - ["Loose Ends in the Epidemiology of the 1918 Pandemic: Explaining the Extreme Mortality Risk in Young Adults"](https://academic-oup-com.libaccess.lib.mcmaster.ca/aje/advance-article/doi/10.1093/aje/kwy148/5091398) Maarten van Wijhe Mathias Mølbak Ingholt Viggo Andreasen Lone Simonsen
