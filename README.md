@@ -3,17 +3,17 @@
 - Tuesday, 1:30pm (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
+- Please come prepared to make suggestions for succeeding weeks
 
 ## Upcoming Meetings
 
-- 11 September: informal
+- 26 Sep: Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539) *Am Nat*
+    * Dushoff
 
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
-- ["Transient phenomena in ecology"](http://science.sciencemag.org.libaccess.lib.mcmaster.ca/content/361/6406/eaat6412) Hastings _et al_ 2018, _Science_ Vol. 361, Issue 6406, eaat6412 (Review)
-	* Earn
 - ["Reassessing the global mortality burden of the 1918 influenza pandemic"](https://academic-oup-com.libaccess.lib.mcmaster.ca/aje/advance-article/doi/10.1093/aje/kwy191/5092383) Spreeuwenberg _et al_ 2018, American Journal of Epidemiology, kwy191, https://doi-org.libaccess.lib.mcmaster.ca/10.1093/aje/kwy191
 	* Earn
 - ["Loose Ends in the Epidemiology of the 1918 Pandemic: Explaining the Extreme Mortality Risk in Young Adults"](https://academic-oup-com.libaccess.lib.mcmaster.ca/aje/advance-article/doi/10.1093/aje/kwy148/5091398) Maarten van Wijhe Mathias Mølbak Ingholt Viggo Andreasen Lone Simonsen
@@ -28,8 +28,6 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 - (short paper) Ho J, Tumkaya T, Aryal S, Choi H, Claridge-Chang A. Moving beyond P values: Everyday data analysis with estimation plots. biorxiv 2018. DOI:10.1101/377978.
     * ???
 - Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
-    * Bolker
-- Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539) *Am Nat*
     * Bolker
 - Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
     * Bolker	
@@ -71,6 +69,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 19 September: ["Transient phenomena in ecology"](http://science.sciencemag.org.libaccess.lib.mcmaster.ca/content/361/6406/eaat6412) Hastings _et al_ 2018, _Science_ Vol. 361, Issue 6406, eaat6412 (Review)
+	* Earn-led discussion
+
+- 11 September: informal meeting
 
 - Mon 27 Aug [Statistical Modeling: The Two Cultures, Leo Breiman](http://www2.math.uu.se/~thulin/mm/breiman.pdf)
 
