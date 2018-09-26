@@ -7,7 +7,7 @@ current: target
 
 ##################################################################
 
-Sources += Makefile .ignore README.md LICENSE.md
+Sources += Makefile .ignore README.md LICENSE.md .gitignore
 
 msrepo = https://github.com/dushoff
 ms = makestuff

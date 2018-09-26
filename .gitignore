@@ -1,0 +1,24 @@
+## Changes in .gitignore may be over-written!
+## Either:
+## * Change .ignore (or Makefile) and remake .gitignore
+## * Change .gitignore manually, and add the same things to the bottom 
+## of .ignore, so that they will be there when .gitignore is remade
+
+## Content from .ignore
+local.mk
+target.mk
+.*.sw*
+make.log
+
+## content from makestuff
+makestuff
+README.html
+commit.time
+commit.default
+dotdir/
+clonedir/
+up.time
+all.time
+.clean_dir
+*.oldfile
+*.olddiff
