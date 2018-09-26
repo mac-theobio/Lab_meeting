@@ -7,11 +7,16 @@ current: target
 
 ##################################################################
 
-# make files
+Sources += Makefile .ignore README.md LICENSE.md
 
-Sources = Makefile .ignore README.md sub.mk LICENSE.md
-include sub.mk
-# include $(ms)/perl.def
+msrepo = https://github.com/dushoff
+ms = makestuff
+-include $(ms)/os.mk
+
+Ignore += $(ms)
+Makefile: $(ms) $(ms)/Makefile
+$(ms):
+	git clone $(msrepo)/$(ms)
 
 ##################################################################
 
