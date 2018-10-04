@@ -67,8 +67,8 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 ## Past readings and agenda items
 
-- 26 Sep: Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539) *Am Nat*
-    	* Dushoff-led discussion
+- 26 Sep: Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539)
+	* Dushoff-led discussion
 
 - 19 September: ["Transient phenomena in ecology"](http://science.sciencemag.org.libaccess.lib.mcmaster.ca/content/361/6406/eaat6412) Hastings _et al_ 2018, _Science_ Vol. 361, Issue 6406, eaat6412 (Review)
 	* Earn-led discussion
