@@ -15,6 +15,7 @@
 
 - ["Book: Disease Control Priorities, Third Edition: Volume 9. Improving Health and Reducing Poverty"](https://openknowledge.worldbank.org/handle/10986/28877)
 	* Earn (mentioned by King Holmes in his Gairdner Lecture on 24 Oct 2018)
+	* See also http://dcp-3.org/
 - ["The 1918 Influenza Pandemic: Looking Back, Looking Forward"](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwy207/5139739) Viboud and Lessler, American Journal of Epidemiology
 	* Earn
 - ["Reassessing the global mortality burden of the 1918 influenza pandemic"](https://academic-oup-com.libaccess.lib.mcmaster.ca/aje/advance-article/doi/10.1093/aje/kwy191/5092383) Spreeuwenberg _et al_ 2018, American Journal of Epidemiology
