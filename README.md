@@ -7,7 +7,16 @@
 
 ## Upcoming Meetings
 
-- Thu 18 Oct: Hefley et al, Ecology, [The basis function approach for modeling autocorrelation in ecological data](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.1674)
+- Thu 8 Nov: Somers 2018, [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (*The Atlantic*)
+* [Resources from Bolker]
+
+- Thu 15 Nov: (No Dushoff). Short reports about stuff that we would like to discuss in the absence of the oppressive presence
+* ML: Bring something to say!
+
+- Thu 22 Nov: Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
+	* Szamosi
+
+- Thu 29 Nov: (No Dushoff). 
 
 ## Suggested future topics
 
@@ -67,11 +76,17 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 	* exinction, Bayesian/frequentist, snow goose
 	* Earn, Balshine, Bolker
 
-- Somers 2018, [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (*The Atlantic*)
-
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- Thu 1 Nov: Informal
+
+- Thu 25 Oct: Morgan Kain practice talk
+
+- Thu 18 Oct: Hefley et al, Ecology, [The basis function approach for modeling autocorrelation in ecological data](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.1674)
+
+- ???
 
 - 26 Sep: Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539)
 	* Dushoff-led discussion
