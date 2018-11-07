@@ -22,6 +22,8 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+- [Forecasting elections using compartmental models of infections](https://arxiv.org/abs/1811.01831) Volkening _et al_ 2018
+	* Earn
 - ["Book: Disease Control Priorities, Third Edition: Volume 9. Improving Health and Reducing Poverty"](https://openknowledge.worldbank.org/handle/10986/28877)
 	* Earn (mentioned by King Holmes in his Gairdner Lecture on 24 Oct 2018)
 	* See also http://dcp-3.org/
