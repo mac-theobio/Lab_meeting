@@ -8,7 +8,9 @@
 ## Upcoming Meetings
 
 - Thu 8 Nov: Somers 2018, [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (*The Atlantic*)
-* [Resources from Bolker]
+    * [Paul Romero on Mma vs Jupyter](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/index.html)
+    * Joel Grus	doesn't like notebooks: see [here](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit), [here](https://yihui.name/en/2018/09/notebook-war/), ...
+
 
 - Thu 15 Nov: (No Dushoff). Short reports about stuff that we would like to discuss in the absence of the oppressive presence
 * ML: Bring something to say!
