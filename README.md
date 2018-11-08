@@ -15,10 +15,10 @@
 - Thu 15 Nov: (No Dushoff). Short reports about stuff that we would like to discuss in the absence of the oppressive presence
 * ML: Bring something to say!
 
-- Thu 22 Nov: Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
-	* Szamosi
+- Thu 22 Nov: Daniel practice talk
 
-- Thu 29 Nov: (No Dushoff). 
+- Thu 29 Nov: (No Dushoff): Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
+	* Szamosi
 
 ## Suggested future topics
 
