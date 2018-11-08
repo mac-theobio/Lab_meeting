@@ -13,7 +13,7 @@
 
 
 - Thu 15 Nov: (No Dushoff). Short reports about stuff that we would like to discuss in the absence of the oppressive presence
-* ML: Bring something to say!
+	* ML: Bring something to say!
 
 - Thu 22 Nov: Daniel practice talk
 
