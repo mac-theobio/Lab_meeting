@@ -22,6 +22,8 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+- Walker JW, Han BA, Ott IM, Drake JM (2018) Transmissibility of emerging viral zoonoses. PLoS ONE 13(11): e0206926. https://doi.org/10.1371/journal.pone.0206926
+        * Bolker
 - [Forecasting elections using compartmental models of infections](https://arxiv.org/abs/1811.01831) Volkening _et al_ 2018
 	* Earn
 - ["Book: Disease Control Priorities, Third Edition: Volume 9. Improving Health and Reducing Poverty"](https://openknowledge.worldbank.org/handle/10986/28877)
