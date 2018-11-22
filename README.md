@@ -80,11 +80,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 ## Past readings and agenda items
 
+- Thu 15 Nov: Short reports.
+
 - Thu 8 Nov: Somers 2018, [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (*The Atlantic*)
     * [Paul Romero on Mma vs Jupyter](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/index.html)
     * Joel Grus	doesn't like notebooks: see [here](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit), [here](https://yihui.name/en/2018/09/notebook-war/), ...
-
-- Thu 15 Nov: Short reports.
 
 - Thu 1 Nov: Informal
 
