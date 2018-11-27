@@ -7,9 +7,7 @@
 
 ## Upcoming Meetings
 
-- Thu 22 Nov: Daniel practice talk
-
-- Thu 29 Nov: (No Dushoff): Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
+- Thu 29 Nov: Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
 	* Szamosi
 
 ## Suggested future topics
@@ -79,6 +77,8 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- Thu 22 Nov: Daniel practice talk
 
 - Thu 15 Nov: Short reports.
 
