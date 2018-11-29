@@ -15,9 +15,9 @@
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
 * Some visualizations for those of us (definitely me) who don't know much about NN:
-		- http://colah.github.io/
-		- https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-		- Kain
+	* http://colah.github.io/
+	* https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+	* Kain, Cygu
 - Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
 	* Kain
 
