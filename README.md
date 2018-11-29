@@ -7,8 +7,11 @@
 
 ## Upcoming Meetings
 
-- Thu 29 Nov: Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
-	* Szamosi
+- Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section)
+- Readings:
+	* [Intro (short)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1)
+	* [Waller: Bridging gaps between statistical and mathematical modeling in ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0432.1)
+	* One other piece of your choosing from [the Forum section](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12)
 
 ## Suggested future topics
 
@@ -53,11 +56,6 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 - Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
     * Bolker	
     * [?](https://media.giphy.com/media/Tlg08MWwaDaJa/giphy.gif)
-- "Living dangerously with big fancy models". This is a Forum section with a number of responses to Heisey et al *Ecol Monographs* 2010. The introduction by Michael Lavine is [here](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1); if we pick this we should take a look at the [table of contents](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) and decide which of the articles (LaDeau, Lele, Hodges, Waller, Heisey et al. rejoinder) we want to read (the whole thing is probably too much), and/or the original paper that sparked the forum.
-    * Bolker	 
-
-- Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
-	* Szamosi
 
 - Colman _et al_ 2018 [The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3117-6) BMC ID 18:219
 	* Earn
@@ -88,6 +86,9 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- Thu 29 Nov: Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
+	* Szamosi
 
 - Thu 22 Nov: Daniel practice talk
 
