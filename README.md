@@ -14,6 +14,10 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+* Some Machine Learning books:
+	* Thomas Mitchell (1997) [Machine Learning](https://www.mheducation.com/highered/product/machine-learning-mitchell/M0070428077.html). Pdf [here](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf). Chapter 4 gives some introduction to NN.
+	* Cygu
+
 * Some visualizations for those of us (definitely me) who don't know much about NN:
 	* http://colah.github.io/
 	* https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
