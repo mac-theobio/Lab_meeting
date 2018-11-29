@@ -17,7 +17,7 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
-- Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best] (http://rsif.royalsocietypublishing.org/content/15/147/20180135)
+- Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
 	* Kain
 
 - Dalziel _et al_ (2018) [Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities.](http://science.sciencemag.org/node/716409.full) Science 362:75-79 (5 Oct 2018).  See also [Wallinga's commentary](http://science.sciencemag.org/content/362/6410/29)
