@@ -8,9 +8,9 @@
 ## Upcoming Meetings
 
 - Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section)
-- Main readings:
-	* [Intro (short)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1); if we pick this we should take a look at the [table of contents] and decide which of the articles (LaDeau, Lele, Hodges, Waller, Heisey et al. rejoinder) we want to read (the whole thing is probably too much), and/or the original paper that sparked the forum.
-	* [Waller: ](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0432.1)
+- Readings:
+	* [Intro (short)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1)
+	* [Waller: Bridging gaps between statistical and mathematical modeling in ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0432.1)
 	* One other piece of your choosing from [the Forum section](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12)
 
 ## Suggested future topics
