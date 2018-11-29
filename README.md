@@ -9,14 +9,15 @@
 
 - Thu 29 Nov: Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
 	* Szamosi
-	* MK: Some visualizations for those of us (definitely me) who don't know much about NN:
-		- http://colah.github.io/
-		- https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+* Some visualizations for those of us (definitely me) who don't know much about NN:
+		- http://colah.github.io/
+		- https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+		- Kain
 - Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
 	* Kain
 
