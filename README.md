@@ -17,7 +17,7 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
-- Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory] (https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
+- Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
 	* Kain
 	
 - Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
