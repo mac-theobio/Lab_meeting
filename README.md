@@ -17,6 +17,12 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+- Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory] (https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
+	* Kain
+	
+- Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
+	* Kain
+
 * Some Machine Learning books:
 	* Thomas Mitchell (1997) [Machine Learning](https://www.mheducation.com/highered/product/machine-learning-mitchell/M0070428077.html). Pdf [here](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf). Chapter 4 gives some introduction to NN.
 	* Cygu
@@ -25,8 +31,6 @@
 	* http://colah.github.io/
 	* https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 	* Kain, Cygu
-- Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
-	* Kain
 
 - Dalziel _et al_ (2018) [Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities.](http://science.sciencemag.org/node/716409.full) Science 362:75-79 (5 Oct 2018).  See also [Wallinga's commentary](http://science.sciencemag.org/content/362/6410/29)
 	* Earn
