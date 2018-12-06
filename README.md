@@ -7,7 +7,7 @@
 
 ## Upcoming Meetings
 
-- Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section)
+- Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section) a discussion of [Heisey et al. Linking process to pattern: …](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/09-0052.1)
 - Readings:
 	* [Intro (short)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1)
 	* [Waller: Bridging gaps between statistical and mathematical modeling in ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0432.1)
