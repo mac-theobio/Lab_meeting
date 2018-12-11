@@ -17,6 +17,9 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+- [PLoS has a special issue on machine learning in health and biomedicine](https://collections.plos.org/mlforhealth)
+	* Szamosi
+
 - Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
 	* Kain
 	
