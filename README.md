@@ -17,6 +17,9 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+- [Fred Brauer, BMB 2018, "The Final Size of a Serious Epidemic"](https://link.springer.com/article/10.1007/s11538-018-00549-x)
+	* Earn
+
 - [PLoS has a special issue on machine learning in health and biomedicine](https://collections.plos.org/mlforhealth)
 	* Szamosi
 
