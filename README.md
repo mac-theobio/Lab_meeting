@@ -1,17 +1,11 @@
 # Mac-Theobio Lab Meetings
 
-- Tuesday, 1:30pm (Toronto time)
+- Friday, 2:30pm (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 - Please come prepared to make suggestions for succeeding weeks
 
 ## Upcoming Meetings
-
-- Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section) a discussion of [Heisey et al. Linking process to pattern: …](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/09-0052.1)
-- Readings:
-	* [Intro (short)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1)
-	* [Waller: Bridging gaps between statistical and mathematical modeling in ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0432.1)
-	* One other piece of your choosing from [the Forum section](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12)
 
 ## Suggested future topics
 
@@ -96,6 +90,12 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section) a discussion of [Heisey et al. Linking process to pattern: …](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/09-0052.1)
+- Readings:
+	* [Intro (short)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1)
+	* [Waller: Bridging gaps between statistical and mathematical modeling in ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0432.1)
+	* One other piece of your choosing from [the Forum section](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12)
 
 - Thu 29 Nov: Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
 	* Szamosi
