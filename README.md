@@ -7,9 +7,13 @@
 
 ## Upcoming Meetings
 
+- 11 January. Informal
+
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
+
+- Steve C. to give a presentation about neural nets
 
 - [Fred Brauer, BMB 2018, "The Final Size of a Serious Epidemic"](https://link.springer.com/article/10.1007/s11538-018-00549-x)
 	* Earn
