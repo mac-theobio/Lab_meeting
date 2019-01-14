@@ -7,8 +7,6 @@
 
 ## Upcoming Meetings
 
-- 11 January. Informal
-
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
@@ -94,6 +92,8 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 11 January. Informal
 
 - Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section) a discussion of [Heisey et al. Linking process to pattern: …](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/09-0052.1)
 - Readings:
