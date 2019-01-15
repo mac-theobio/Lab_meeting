@@ -13,7 +13,7 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
-- Steve C. to give a presentation about neural nets
+- Steve C. to give a presentation about neural nets (25 January)
 
 - [Fred Brauer, BMB 2018, "The Final Size of a Serious Epidemic"](https://link.springer.com/article/10.1007/s11538-018-00549-x)
 	* Earn
@@ -52,13 +52,14 @@
 - ["Loose Ends in the Epidemiology of the 1918 Pandemic: Explaining the Extreme Mortality Risk in Young Adults"](https://academic-oup-com.libaccess.lib.mcmaster.ca/aje/advance-article/doi/10.1093/aje/kwy148/5091398) Maarten van Wijhe Mathias Mølbak Ingholt Viggo Andreasen Lone Simonsen
 American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster.ca/10.1093/aje/kwy148
 	* Earn
-- Harrell Regression Modeling Strategies ch. 4?
-    * Bolker
+- Harrell Regression Modeling Strategies ch. 4? (8 Feb)
     * Bolker
 - Balsutraitis et al, BMC Infectious Diseases, [Comparison of crowd-sourced, electronic health records based, and traditional health-care based influenza-tracking systems at multiple spatial resolutions in the United States of America](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3322-3)
     * Bolker
+
 - (short paper) Ho J, Tumkaya T, Aryal S, Choi H, Claridge-Chang A. Moving beyond P values: Everyday data analysis with estimation plots. biorxiv 2018. DOI:10.1101/377978.
-    * ???
+    * Champredon
+
 - Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
     * Bolker
 - Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
