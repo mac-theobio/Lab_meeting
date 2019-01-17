@@ -7,23 +7,35 @@
 
 ## Upcoming Meetings
 
+- 25 January Steve C. to give a presentation about neural nets (25 January)
+
+- 1 Feb: Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
+	* Kain
+
+- 8 Feb Ridiculous reports: Dushoff, Champredon; nominate a paper for 15
+
+- 15 Paper
+
+- 22 READING week
+
+- 1 Mar RR: Earn and Li
+
+- 15 Mar RR: Ben and Jordan
+
+- 29 Mar: Morgan and Alex
+
+- Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
+	* Kain
+
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
-
-- Steve C. to give a presentation about neural nets (25 January)
 
 - [Fred Brauer, BMB 2018, "The Final Size of a Serious Epidemic"](https://link.springer.com/article/10.1007/s11538-018-00549-x)
 	* Earn
 
 - [PLoS has a special issue on machine learning in health and biomedicine](https://collections.plos.org/mlforhealth)
 	* Szamosi
-
-- Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
-	* Kain
-	
-- Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
-	* Kain
 
 * Some Machine Learning books:
 	* Thomas Mitchell (1997) [Machine Learning](https://www.mheducation.com/highered/product/machine-learning-mitchell/M0070428077.html). Pdf [here](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf). Chapter 4 gives some introduction to NN.
@@ -93,6 +105,8 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 17 January. Planning
 
 - 11 January. Informal
 
