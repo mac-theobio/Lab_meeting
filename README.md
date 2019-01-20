@@ -31,6 +31,9 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+- [Heidi Larson "The biggest pandemic risk? Viral misinformation"](https://www.nature.com/articles/d41586-018-07034-4) (presumably together with academic article(s) she cites)
+	* Earn
+
 - [Fred Brauer, BMB 2018, "The Final Size of a Serious Epidemic"](https://link.springer.com/article/10.1007/s11538-018-00549-x)
 	* Earn
 
