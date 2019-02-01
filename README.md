@@ -7,8 +7,6 @@
 
 ## Upcoming Meetings
 
-- 25 January Steve C. to give a presentation about neural nets (25 January)
-
 - 1 Feb: Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
 	* Kain
 
@@ -111,6 +109,8 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 25 January Steve C. to give a presentation about neural nets (25 January)
 
 - 17 January. Planning
 
