@@ -7,9 +7,6 @@
 
 ## Upcoming Meetings
 
-- 1 Feb: Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
-	* Kain
-
 - 8 Feb Ridiculous reports: Dushoff, Champredon; nominate a paper for 15
 
 - 15 Paper
@@ -28,6 +25,9 @@
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
+
+- [Lion (2018) "Theoretical Approaches in Evolutionary Ecology: Environmental Feedback as a Unifying Perspective"](https://www.journals.uchicago.edu/doi/abs/10.1086/694865)
+	* Kain
 
 - [Börger et al (2008) " Are there general mechanisms of animal home range behaviour? A review and prospects for future research"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2008.01182.x)
 	* Li
@@ -109,6 +109,9 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 1 Feb: Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
+	* Kain
 
 - 25 January Steve C. to give a presentation about neural nets (25 January)
 
