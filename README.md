@@ -7,9 +7,7 @@
 
 ## Upcoming Meetings
 
-- 8 Feb Ridiculous reports: Dushoff, Champredon; nominate a paper for 15
-
-- 15 Paper
+- 15 Paper (email ballot)
 
 - 22 READING week
 
@@ -117,6 +115,8 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 8 Feb Ridiculous reports: Dushoff, Champredon
 
 - 1 Feb: Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
 	* Kain
