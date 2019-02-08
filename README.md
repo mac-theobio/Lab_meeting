@@ -24,8 +24,8 @@
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
 - [Ellner et al (2019) "An expanded modern coexistence theory for empirical applications"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13159)
-	* Daniel
-
+	* Park
+	
 - [Lion (2018) "Theoretical Approaches in Evolutionary Ecology: Environmental Feedback as a Unifying Perspective"](https://www.journals.uchicago.edu/doi/abs/10.1086/694865)
 	* Kain
 
