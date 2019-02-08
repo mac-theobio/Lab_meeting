@@ -23,6 +23,9 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+- Watson, James A, Stije J Leopold, Julie A Simpson, Nicholas PJ Day, Arjen M Dondorp, and Nicholas J White. “Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria.” ELife 8 (January 28, 2019): e43154. https://doi.org/10.7554/eLife.43154.
+    * Bolker
+
 - [Ellner et al (2019) "An expanded modern coexistence theory for empirical applications"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13159)
 	* Park
 	
@@ -104,7 +107,7 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 - de Celles _et al._ [The impact of past vaccination coverage and immunity on pertussis resurgence](http://stm.sciencemag.org/content/10/434/eaaj1748) (_Science Translational Medicine_ 28 Mar 2018)
 	* Earn
 
-- Stuff on **causal inference** (links from [here](http://www.the100.ci/2017/03/14/that-one-weird-third-variable-problem-nobody-ever-mentions-conditioning-on-a-collider/)): [Elwert on Graphical Causal Models](http://www.ssc.wisc.edu/soc/faculty/pages/docs/elwert/Elwert%202013.pdf), [Elwert on colliders](http://www.ssc.wisc.edu/soc/faculty/pages/docs/elwert/Elwert%20Winship%202014.pdf)
+- Stuff on **causal inference** (links from [here](http://www.the100.ci/2017/03/14/that-one-weird-third-variable-problem-nobody-ever-mentions-conditioning-on-a-collider/)): [paper 1](https://psyarxiv.com/t3qub), [Elwert on Graphical Causal Models](http://www.ssc.wisc.edu/soc/faculty/pages/docs/elwert/Elwert%202013.pdf), [Elwert on colliders](http://www.ssc.wisc.edu/soc/faculty/pages/docs/elwert/Elwert%20Winship%202014.pdf)
     * Bolker
 - [Don Ludwig papers](https://www.math.ubc.ca/~ludwig/)
 	* spruce budworm (1978)
