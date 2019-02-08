@@ -22,3 +22,14 @@ all.time
 .clean_dir
 *.oldfile
 *.olddiff
+makestuff
+README.html
+commit.time
+commit.default
+dotdir/
+clonedir/
+up.time
+all.time
+.clean_dir
+*.oldfile
+*.olddiff

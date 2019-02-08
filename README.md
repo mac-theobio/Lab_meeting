@@ -1,21 +1,48 @@
 # Mac-Theobio Lab Meetings
 
-- Tuesday, 1:30pm (Toronto time)
+- Friday, 2:30pm (Toronto time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 - Please come prepared to make suggestions for succeeding weeks
 
 ## Upcoming Meetings
 
-- Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section)
-- Readings:
-	* [Intro (short)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1)
-	* [Waller: Bridging gaps between statistical and mathematical modeling in ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0432.1)
-	* One other piece of your choosing from [the Forum section](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12)
+- 8 Feb Ridiculous reports: Dushoff, Champredon; nominate a paper for 15
+
+- 15 Paper
+
+- 22 READING week
+
+- 1 Mar RR: Earn and Li
+
+- 15 Mar RR: Ben and Jordan
+
+- 29 Mar: Morgan and Alex
 
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
+
+- [Ellner et al (2019) "An expanded modern coexistence theory for empirical applications"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13159)
+	* Park
+	
+- [Lion (2018) "Theoretical Approaches in Evolutionary Ecology: Environmental Feedback as a Unifying Perspective"](https://www.journals.uchicago.edu/doi/abs/10.1086/694865)
+	* Kain
+
+- [Börger et al (2008) " Are there general mechanisms of animal home range behaviour? A review and prospects for future research"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2008.01182.x)
+	* Li
+
+- [Heidi Larson "The biggest pandemic risk? Viral misinformation"](https://www.nature.com/articles/d41586-018-07034-4) (presumably together with academic article(s) she cites)
+	* Earn
+
+- [Fred Brauer, BMB 2018, "The Final Size of a Serious Epidemic"](https://link.springer.com/article/10.1007/s11538-018-00549-x)
+	* Earn
+	
+- [Parsons _et al_ (2018) "Pathogen evolution in finite populations: slow and steady spreads the best"](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
+	* Kain
+
+- [PLoS has a special issue on machine learning in health and biomedicine](https://collections.plos.org/mlforhealth)
+	* Szamosi
 
 * Some Machine Learning books:
 	* Thomas Mitchell (1997) [Machine Learning](https://www.mheducation.com/highered/product/machine-learning-mitchell/M0070428077.html). Pdf [here](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf). Chapter 4 gives some introduction to NN.
@@ -25,8 +52,6 @@
 	* http://colah.github.io/
 	* https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 	* Kain, Cygu
-- Parsons _et al_ (2018) [Pathogen evolution in finite populations: slow and steady spreads the best](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
-	* Kain
 
 - Dalziel _et al_ (2018) [Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities.](http://science.sciencemag.org/node/716409.full) Science 362:75-79 (5 Oct 2018).  See also [Wallinga's commentary](http://science.sciencemag.org/content/362/6410/29)
 	* Earn
@@ -44,13 +69,14 @@
 - ["Loose Ends in the Epidemiology of the 1918 Pandemic: Explaining the Extreme Mortality Risk in Young Adults"](https://academic-oup-com.libaccess.lib.mcmaster.ca/aje/advance-article/doi/10.1093/aje/kwy148/5091398) Maarten van Wijhe Mathias Mølbak Ingholt Viggo Andreasen Lone Simonsen
 American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster.ca/10.1093/aje/kwy148
 	* Earn
-- Harrell Regression Modeling Strategies ch. 4?
-    * Bolker
+- Harrell Regression Modeling Strategies ch. 4? (8 Feb)
     * Bolker
 - Balsutraitis et al, BMC Infectious Diseases, [Comparison of crowd-sourced, electronic health records based, and traditional health-care based influenza-tracking systems at multiple spatial resolutions in the United States of America](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3322-3)
     * Bolker
+
 - (short paper) Ho J, Tumkaya T, Aryal S, Choi H, Claridge-Chang A. Moving beyond P values: Everyday data analysis with estimation plots. biorxiv 2018. DOI:10.1101/377978.
-    * ???
+    * Champredon
+
 - Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
     * Bolker
 - Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
@@ -88,6 +114,21 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 1 Feb: Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
+	* Kain
+
+- 25 January Steve C. to give a presentation about neural nets (25 January)
+
+- 17 January. Planning
+
+- 11 January. Informal
+
+- Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section) a discussion of [Heisey et al. Linking process to pattern: …](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/09-0052.1)
+- Readings:
+	* [Intro (short)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1)
+	* [Waller: Bridging gaps between statistical and mathematical modeling in ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0432.1)
+	* One other piece of your choosing from [the Forum section](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12)
 
 - Thu 29 Nov: Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
 	* Szamosi

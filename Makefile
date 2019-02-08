@@ -7,7 +7,8 @@ current: target
 
 ##################################################################
 
-Sources += Makefile .ignore README.md LICENSE.md .gitignore
+Sources += Makefile README.md LICENSE.md 
+Ignore += .gitignore
 
 msrepo = https://github.com/dushoff
 ms = makestuff
@@ -29,10 +30,17 @@ Sources += 2017.md
 
 ######################################################################
 
+## Scheduling
+
+Sources += $(wildcard *.R)
+sched.Rout.csv: sched.R
+
+######################################################################
+
 -include $(ms)/git.mk
 -include $(ms)/visual.mk
 # -include $(ms)/pandoc.mk
 -include $(ms)/render.mk
 
-# -include $(ms)/wrapR.mk
+-include $(ms)/wrapR.mk
 # -include $(ms)/oldlatex.mk
