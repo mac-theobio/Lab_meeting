@@ -9,6 +9,12 @@
 
 - 15 Paper (email ballot)
 
+	- Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
+		 * Bolker
+
+	- [Ellner et al (2019) An expanded modern coexistence theory for empirical applications](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13159)
+		* Park
+
 - 22 READING week
 
 - 1 Mar RR: Earn and Li
@@ -20,12 +26,6 @@
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
-
-- Watson, James A, Stije J Leopold, Julie A Simpson, Nicholas PJ Day, Arjen M Dondorp, and Nicholas J White. “Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria.” ELife 8 (January 28, 2019): e43154. https://doi.org/10.7554/eLife.43154.
-    * Bolker
-
-- [Ellner et al (2019) "An expanded modern coexistence theory for empirical applications"](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13159)
-	* Park
 	
 - [Lion (2018) "Theoretical Approaches in Evolutionary Ecology: Environmental Feedback as a Unifying Perspective"](https://www.journals.uchicago.edu/doi/abs/10.1086/694865)
 	* Kain
