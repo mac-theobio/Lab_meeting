@@ -7,18 +7,16 @@
 
 ## Upcoming Meetings
 
-- 15 Paper (email ballot)
+- 15 Mar: 
+    - recent Gelman blog post saying power analysis: https://statmodeling.stat.columbia.edu/2019/03/04/yes-design-analysis-no-power-no-sample-size-calculations/
+    - Gelman, Andrew, and John Carlin. “Beyond Power Calculations Assessing Type S (Sign) and Type M (Magnitude) Errors.” Perspectives on Psychological Science 9, no. 6 (November 1, 2014): 641–51. https://doi.org/10.1177/1745691614551642
+	- [BMB brain dump/opinions](power_braindump.md)
+	
+- 22 Mar RR: Ben and Jordan
 
-	- [Ellner et al (2019) An expanded modern coexistence theory for empirical applications](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13159)
-		* Park
+- 29 Mar: ?
 
-- 22 READING week
-
-- 1 Mar RR: Earn and Li
-
-- 15 Mar RR: Ben and Jordan
-
-- 29 Mar: Morgan and Alex
+- 5 Apr: Morgan and Alex
 
 ## Suggested future topics
 
@@ -116,6 +114,16 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+
+- 1 Mar RR: Earn and Li
+
+- 22 READING week
+
+- 15 Feb Paper (email ballot)
+
+	- [Ellner et al (2019) An expanded modern coexistence theory for empirical applications](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13159)
+		* Park
 
 - 8 Feb Ridiculous reports: Dushoff, Champredon
 
