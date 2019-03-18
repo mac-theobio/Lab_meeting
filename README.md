@@ -7,14 +7,10 @@
 
 ## Upcoming Meetings
 
-- 15 Mar: 
-    - recent Gelman blog post saying power analysis: https://statmodeling.stat.columbia.edu/2019/03/04/yes-design-analysis-no-power-no-sample-size-calculations/
-    - Gelman, Andrew, and John Carlin. “Beyond Power Calculations Assessing Type S (Sign) and Type M (Magnitude) Errors.” Perspectives on Psychological Science 9, no. 6 (November 1, 2014): 641–51. https://doi.org/10.1177/1745691614551642
-	- [BMB brain dump/opinions](power_braindump.md)
-	
 - 22 Mar RR: Ben and Jordan
 
-- 29 Mar: ?
+- 29 Mar: Read paper on seasonal influenza forecasting challenge in the US. This is a good overview of what the community of epidemic modelling does and how forecasts are compared. 
+Reich et al. (2019): *"A collaborative multiyear, multimodel assessment of seasonal influenza forecasting in the United States"*. [Link to paper in PNAS](https://www.pnas.org/content/116/8/3146).
 
 - 5 Apr: Morgan and Alex
 
@@ -115,7 +111,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 ## Past readings and agenda items
 
-
+- 15 Mar: 
+    - recent Gelman blog post saying power analysis: https://statmodeling.stat.columbia.edu/2019/03/04/yes-design-analysis-no-power-no-sample-size-calculations/
+    - Gelman, Andrew, and John Carlin. “Beyond Power Calculations Assessing Type S (Sign) and Type M (Magnitude) Errors.” Perspectives on Psychological Science 9, no. 6 (November 1, 2014): 641–51. https://doi.org/10.1177/1745691614551642
+	- [BMB brain dump/opinions](power_braindump.md)
+	
 - 1 Mar RR: Earn and Li
 
 - 22 READING week
