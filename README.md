@@ -7,12 +7,12 @@
 
 ## Upcoming Meetings
 
-- 22 Mar RR: Ben and Jordan
+- 29 Mar: Very long reports from Ben and Jordan
 
-- 29 Mar: Read paper on seasonal influenza forecasting challenge in the US. This is a good overview of what the community of epidemic modelling does and how forecasts are compared. 
+- 5 Apr: Read paper on seasonal influenza forecasting challenge in the US. This is a good overview of what the community of epidemic modelling does and how forecasts are compared. 
 Reich et al. (2019): *"A collaborative multiyear, multimodel assessment of seasonal influenza forecasting in the United States"*. [Link to paper in PNAS](https://www.pnas.org/content/116/8/3146).
 
-- 5 Apr: Morgan and Alex
+- 12 Apr: Very long reports from Morgan and Alex
 
 ## Suggested future topics
 
