@@ -7,12 +7,10 @@
 
 ## Upcoming Meetings
 
-- 29 Mar: Very long reports from Ben and Jordan
-
-- 5 Apr: Read paper on seasonal influenza forecasting challenge in the US. This is a good overview of what the community of epidemic modelling does and how forecasts are compared. 
+- 12 Apr: Read paper on seasonal influenza forecasting challenge in the US. This is a good overview of what the community of epidemic modelling does and how forecasts are compared. 
 Reich et al. (2019): *"A collaborative multiyear, multimodel assessment of seasonal influenza forecasting in the United States"*. [Link to paper in PNAS](https://www.pnas.org/content/116/8/3146).
 
-- 12 Apr: Very long reports from Morgan and Alex
+- 26 Apr: Very long reports from Morgan and Alex
 
 ## Suggested future topics
 
@@ -110,6 +108,8 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+- 29 Mar: Very long reports from Ben and Jordan
 
 - 15 Mar: 
     - recent Gelman blog post saying power analysis: https://statmodeling.stat.columbia.edu/2019/03/04/yes-design-analysis-no-power-no-sample-size-calculations/
