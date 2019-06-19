@@ -16,6 +16,9 @@ Reich et al. (2019): *"A collaborative multiyear, multimodel assessment of seaso
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 	
+- [Drake _et al_ (2019 May 8, PLoS Comp Biol) "The statistics of epidemic transitions"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006917)
+	* Earn
+
 - [Lion (2018) "Theoretical Approaches in Evolutionary Ecology: Environmental Feedback as a Unifying Perspective"](https://www.journals.uchicago.edu/doi/abs/10.1086/694865)
 	* Kain
 
