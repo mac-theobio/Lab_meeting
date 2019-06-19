@@ -22,9 +22,9 @@ Reich et al. (2019): *"A collaborative multiyear, multimodel assessment of seaso
 - [Lion (2018) "Theoretical Approaches in Evolutionary Ecology: Environmental Feedback as a Unifying Perspective"](https://www.journals.uchicago.edu/doi/abs/10.1086/694865)
 	* Kain
 
-	- Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
-		 * Bolker
-		 * Ballot loser, how to interpret that?
+- Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
+	 * Bolker
+	 * Ballot loser, how to interpret that?
 
 - [Börger et al (2008) " Are there general mechanisms of animal home range behaviour? A review and prospects for future research"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2008.01182.x)
 	* Li
