@@ -7,16 +7,7 @@
 
 ## Upcoming Meetings
 
-- 15 Mar: 
-    - recent Gelman blog post saying power analysis: https://statmodeling.stat.columbia.edu/2019/03/04/yes-design-analysis-no-power-no-sample-size-calculations/
-    - Gelman, Andrew, and John Carlin. “Beyond Power Calculations Assessing Type S (Sign) and Type M (Magnitude) Errors.” Perspectives on Psychological Science 9, no. 6 (November 1, 2014): 641–51. https://doi.org/10.1177/1745691614551642
-	- [BMB brain dump/opinions](power_braindump.md)
-	
-- 22 Mar RR: Ben and Jordan
-
-- 29 Mar: ?
-
-- 5 Apr: Morgan and Alex
+5 Jul A discussion with Chai Molina about “public bads” – including greenhouse emissions and hospital infections
 
 ## Suggested future topics
 
@@ -25,12 +16,15 @@
 - [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
     * Bolker
 	
+- [Drake _et al_ (2019 May 8, PLoS Comp Biol) "The statistics of epidemic transitions"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006917)
+	* Earn
+
 - [Lion (2018) "Theoretical Approaches in Evolutionary Ecology: Environmental Feedback as a Unifying Perspective"](https://www.journals.uchicago.edu/doi/abs/10.1086/694865)
 	* Kain
 
-	- Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
-		 * Bolker
-		 * Ballot loser, how to interpret that?
+- Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
+	 * Bolker
+	 * Ballot loser, how to interpret that?
 
 - [Börger et al (2008) " Are there general mechanisms of animal home range behaviour? A review and prospects for future research"](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1461-0248.2008.01182.x)
 	* Li
@@ -118,7 +112,18 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 ## Past readings and agenda items
 
+- A big gap for some reason
 
+- 12 Apr: Read paper on seasonal influenza forecasting challenge in the US. This is a good overview of what the community of epidemic modelling does and how forecasts are compared. 
+Reich et al. (2019): *"A collaborative multiyear, multimodel assessment of seasonal influenza forecasting in the United States"*. [Link to paper in PNAS](https://www.pnas.org/content/116/8/3146).
+
+- 29 Mar: Very long reports from Ben and Jordan
+
+- 15 Mar: 
+    - recent Gelman blog post saying power analysis: https://statmodeling.stat.columbia.edu/2019/03/04/yes-design-analysis-no-power-no-sample-size-calculations/
+    - Gelman, Andrew, and John Carlin. “Beyond Power Calculations Assessing Type S (Sign) and Type M (Magnitude) Errors.” Perspectives on Psychological Science 9, no. 6 (November 1, 2014): 641–51. https://doi.org/10.1177/1745691614551642
+	- [BMB brain dump/opinions](power_braindump.md)
+	
 - 1 Mar RR: Earn and Li
 
 - 22 READING week
