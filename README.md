@@ -21,6 +21,9 @@
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
+
+- [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
+    * Bolker
 	
 - [Lion (2018) "Theoretical Approaches in Evolutionary Ecology: Environmental Feedback as a Unifying Perspective"](https://www.journals.uchicago.edu/doi/abs/10.1086/694865)
 	* Kain
