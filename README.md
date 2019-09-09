@@ -7,8 +7,6 @@
 
 ## Upcoming Meetings
 
-5 Jul A discussion with Chai Molina about “public bads” – including greenhouse emissions and hospital infections
-
 ## Suggested future topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
@@ -114,6 +112,8 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+5 Jul A discussion with Chai Molina about “public bads” – including greenhouse emissions and hospital infections
 
 - A big gap for some reason
 

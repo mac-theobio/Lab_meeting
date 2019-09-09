@@ -5,6 +5,9 @@
 current: target
 -include target.mk
 
+vim_session:
+	bash -cl "vm README.md"
+
 ##################################################################
 
 Sources += Makefile README.md LICENSE.md 
