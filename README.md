@@ -1,13 +1,15 @@
 # Mac-Theobio Lab Meetings
 
-- Friday, 2:30pm (Toronto time)
+- Friday, 13:30 (Ontario time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 - Please come prepared to make suggestions for succeeding weeks
 
 ## Upcoming Meetings
 
-## Suggested future topics
+2019 Sep 13 (Fri)
+* Long Introductions
+* Planning topics
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
