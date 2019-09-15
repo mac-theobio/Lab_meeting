@@ -13,6 +13,9 @@
 
 ###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
+- [Baker, Mahmud & Metcalf (2018) "Dynamic response of airborne infections to climate change: predictions for varicella"](https://search-proquest-com.libaccess.lib.mcmaster.ca/docview/2032638423/fulltextPDF/48CDE597380242BCPQ/1)
+	* Earn: First paper I've seen that address effects of climate change on _airborne_ as opposed to waterborne and vector-transmitted infections.
+
 - [Stewart _et al_ (2019) "Information gerrymandering and undemocratic decisions"](https://www.nature.com/articles/s41586-019-1507-6) Nature 573, 117–121
 	* Earn
 
