@@ -7,17 +7,20 @@
 
 ## Upcoming Meetings
 
-2019 Sep 13 (Fri)
-* Long Introductions
-* Planning topics
+### 2019 Sep 13 (Fri)
 
-###  Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
+## Suggested readings
+
+#### Please add new suggestions at top, add your name and qualify your recommendation, if appropriate
 
 - [Baker, Mahmud & Metcalf (2018) "Dynamic response of airborne infections to climate change: predictions for varicella"](https://search-proquest-com.libaccess.lib.mcmaster.ca/docview/2032638423/fulltextPDF/48CDE597380242BCPQ/1)
 	* Earn: First paper I've seen that addresses effects of climate change on _airborne_ as opposed to waterborne and vector-transmitted infections.
 
 - [Stewart _et al_ (2019) "Information gerrymandering and undemocratic decisions"](https://www.nature.com/articles/s41586-019-1507-6) Nature 573, 117–121
-	* Earn
+	* Earn or Dushoff
+
+- [Measles and the canonical path to elimination (Graham et al., Science)](https://science.sciencemag.org/content/364/6440/584)
+	* O'Meara and/or Earn
 
 - [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
     * Bolker
@@ -26,7 +29,7 @@
 	* Earn
 
 - [Lion (2018) "Theoretical Approaches in Evolutionary Ecology: Environmental Feedback as a Unifying Perspective"](https://www.journals.uchicago.edu/doi/abs/10.1086/694865)
-	* Kain
+	* Kain (ORPHAN)
 
 - Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
 	 * Bolker
@@ -42,10 +45,10 @@
 	* Earn
 	
 - [Parsons _et al_ (2018) "Pathogen evolution in finite populations: slow and steady spreads the best"](http://rsif.royalsocietypublishing.org/content/15/147/20180135)
-	* Kain
+	* Kain (ORPHAN)
 
 - [PLoS has a special issue on machine learning in health and biomedicine](https://collections.plos.org/mlforhealth)
-	* Szamosi
+	* Szamosi (ORPHAN) Cygu??
 
 * Some Machine Learning books:
 	* Thomas Mitchell (1997) [Machine Learning](https://www.mheducation.com/highered/product/machine-learning-mitchell/M0070428077.html). Pdf [here](https://www.cs.ubbcluj.ro/~gabis/ml/ml-books/McGrawHill%20-%20Machine%20Learning%20-Tom%20Mitchell.pdf). Chapter 4 gives some introduction to NN.
@@ -118,106 +121,6 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 ## Past readings and agenda items
 
-5 Jul A discussion with Chai Molina about “public bads” – including greenhouse emissions and hospital infections
-
-- A big gap for some reason
-
-- 12 Apr: Read paper on seasonal influenza forecasting challenge in the US. This is a good overview of what the community of epidemic modelling does and how forecasts are compared. 
-Reich et al. (2019): *"A collaborative multiyear, multimodel assessment of seasonal influenza forecasting in the United States"*. [Link to paper in PNAS](https://www.pnas.org/content/116/8/3146).
-
-- 29 Mar: Very long reports from Ben and Jordan
-
-- 15 Mar: 
-    - recent Gelman blog post saying power analysis: https://statmodeling.stat.columbia.edu/2019/03/04/yes-design-analysis-no-power-no-sample-size-calculations/
-    - Gelman, Andrew, and John Carlin. “Beyond Power Calculations Assessing Type S (Sign) and Type M (Magnitude) Errors.” Perspectives on Psychological Science 9, no. 6 (November 1, 2014): 641–51. https://doi.org/10.1177/1745691614551642
-	- [BMB brain dump/opinions](power_braindump.md)
-	
-- 1 Mar RR: Earn and Li
-
-- 22 READING week
-
-- 15 Feb Paper (email ballot)
-
-	- [Ellner et al (2019) An expanded modern coexistence theory for empirical applications](https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.13159)
-		* Park
-
-- 8 Feb Ridiculous reports: Dushoff, Champredon
-
-- 1 Feb: Doebeli _et al_ (2017) [Towards a mechanistic foundation of evolutionary theory](https://cdn.elifesciences.org/articles/23804/elife-23804-v2.pdf)
-	* Kain
-
-- 25 January Steve C. to give a presentation about neural nets (25 January)
-
-- 17 January. Planning
-
-- 11 January. Informal
-
-- Thu 6 Dec: [Forum: Living dangerously with big fancy models](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12) (see Forum section) a discussion of [Heisey et al. Linking process to pattern: …](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1890/09-0052.1)
-- Readings:
-	* [Intro (short)](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1890/10-1124.1)
-	* [Waller: Bridging gaps between statistical and mathematical modeling in ecology](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/10-0432.1)
-	* One other piece of your choosing from [the Forum section](https://esajournals.onlinelibrary.wiley.com/toc/19399170/2010/91/12)
-
-- Thu 29 Nov: Cheng _et al._ 2018 on arxiv, [Polynomial Regression as an Alternative to Neural Nets](https://arxiv.org/pdf/1806.06850.pdf)
-	* Szamosi
-
-- Thu 22 Nov: Daniel practice talk
-
-- Thu 15 Nov: Short reports.
-
-- Thu 8 Nov: Somers 2018, [The Scientific Paper is Obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/) (*The Atlantic*)
-    * [Paul Romero on Mma vs Jupyter](https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/index.html)
-    * Joel Grus	doesn't like notebooks: see [here](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit), [here](https://yihui.name/en/2018/09/notebook-war/), ...
-
-- Thu 1 Nov: Informal
-
-- Thu 25 Oct: Morgan Kain practice talk
-
-- Thu 18 Oct: Hefley et al, Ecology, [The basis function approach for modeling autocorrelation in ecological data](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.1674)
-
-- ???
-
-- 26 Sep: Ellner 2018 [Generation Time in Structured Populations](https://www.journals.uchicago.edu/doi/full/10.1086/697539)
-	* Dushoff-led discussion
-
-- 19 September: ["Transient phenomena in ecology"](http://science.sciencemag.org.libaccess.lib.mcmaster.ca/content/361/6406/eaat6412) Hastings _et al_ 2018, _Science_ Vol. 361, Issue 6406, eaat6412 (Review)
-	* Earn-led discussion
-
-- 11 September: informal meeting
-
-- Mon 27 Aug [Statistical Modeling: The Two Cultures, Leo Breiman](http://www2.math.uu.se/~thulin/mm/breiman.pdf)
-
-- __Mon__ 20 Aug: Dormann _et al_ 2018 [Model averaging in ecology: a review of Bayesian, information‐theoretic, and tactical approaches for predictive inference](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1309)
-
-- __Mon__ 23 July: 
-	* Morgan has two agenda item: General paper identity crisis + weights in a spatio-temporal GAM (weighting by citizen effort in measuring bird communities)
-
-- __Mon__ 16 July: Informal meeting
-	* DJDE will bring >3 matched juggling balls
-	* BMB will be away, so please pick something boring to read
-
-- __Tues__ 10 July: Informal meeting
-
-- date?: Adler _et al._ 2018 [Weak interspecific interactions in a sagebrush steppe? Conflicting evidence from observations and experiments](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.2363)
-	* Park
-
-- __Mon__ 11 Jun: Informal meeting
-
-- __Mon__ 18 Jun: Sah _et al_ 2018 [Optimizing the impact of low-efficacy influenza vaccines](http://www.pnas.org/content/early/2018/04/24/1802479115) _PNAS_ (early online edition)
-	* Dushoff
-
-- __Mon__ 4 Jun: Informal meeting
-
-- __Mon__ 28 May: No meeting
-
-- __Wed__ 23 May: Simonsen _et al_ 2016 [Infectious disease surveillance in the big data era: Towards faster and locally relevant systems](https://academic.oup.com/jid/article/214/suppl_4/S380/2527913) _Journal of Infectious Diseases_ (2016) **214** S380-S385
-	* Earn
-	* [Gog et al. 2014 (Simonsen is excited about this one)](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003635)
-
-- __Wed__ 16 May: [Are Age-Structured Models Appropriate for Catch-Effort Data? Ludwig and Walters 1985](http://www.nrcresearchpress.com/doi/abs/10.1139/f85-132#.WunrytMbMxE)
-	* See also [Deriso: Harvesting strategies and parameter estimation for an age-structured model.](http://www.nrcresearchpress.com/doi/pdf/10.1139/f80-034)
-
-- __Wed__ 2 May: Ludwig, Hilborn, and Walters, [Uncertainty, Resource Exploitation, and Conservation: Lessons from History](http://www.jstor.org/stable/2881101), *Science* (Vol. 260, No. 5104, Apr. 2, 1993)
-
-- 16 April: Visitor [Mark Lewis](http://www.math.ualberta.ca/~mlewis/)
-	* [Garni
+### 2019 Sep 13 (Fri)
+* Long Introductions
+* Planning topics

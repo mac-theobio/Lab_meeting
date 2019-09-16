@@ -13,10 +13,12 @@ vim_session:
 # Meeting notes, etc.
 Sources += Makefile README.md LICENSE
 
+## Archive files; named after the year in which they were archived
+Sources += $(wildcard 20*.md)
+
 # https://github.com/mac-theobio/Lab_meeting/blob/master/README.md
 Ignore += README.html
 README.html: README.md
-Sources += 2017.md
 
 ######################################################################
 
@@ -24,7 +26,6 @@ Sources += 2017.md
 
 Sources += $(wildcard *.R)
 sched.Rout.csv: sched.R
-
 
 ######################################################################
 
@@ -41,5 +42,5 @@ makestuff/Makefile:
 -include makestuff/perl.def
 -include makestuff/git.mk
 -include makestuff/visual.mk
--include $(ms)/render.mk
--include $(ms)/wrapR.mk
+-include makestuff/render.mk
+-include makestuff/wrapR.mk
