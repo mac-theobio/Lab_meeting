@@ -4,10 +4,15 @@
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 - Please come prepared to make suggestions for succeeding weeks
+- Other weekly events/mailing lists of possible interest to Mac-Theobio'ers: [bio data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) (Fri lunchtime), [EEB seminar](
+https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
 ## Upcoming Meetings
 
 ### 2019 Sep 13 (Fri)
+
+- [Stewart _et al_ (2019) "Information gerrymandering and undemocratic decisions"](https://www.nature.com/articles/s41586-019-1507-6) Nature 573, 117–121
+	* Bolker
 
 ## Suggested readings
 
@@ -16,8 +21,6 @@
 - [Baker, Mahmud & Metcalf (2018) "Dynamic response of airborne infections to climate change: predictions for varicella"](https://search-proquest-com.libaccess.lib.mcmaster.ca/docview/2032638423/fulltextPDF/48CDE597380242BCPQ/1)
 	* Earn: First paper I've seen that addresses effects of climate change on _airborne_ as opposed to waterborne and vector-transmitted infections.
 
-- [Stewart _et al_ (2019) "Information gerrymandering and undemocratic decisions"](https://www.nature.com/articles/s41586-019-1507-6) Nature 573, 117–121
-	* Earn or Dushoff
 
 - [Measles and the canonical path to elimination (Graham et al., Science)](https://science.sciencemag.org/content/364/6440/584)
 	* O'Meara and/or Earn
