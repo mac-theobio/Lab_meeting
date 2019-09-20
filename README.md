@@ -9,10 +9,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2019 Sep 20 (Fri)
+### 2019 Sep 27 (Fri)
 
-- [Stewart _et al_ (2019) "Information gerrymandering and undemocratic decisions"](https://www.nature.com/articles/s41586-019-1507-6) Nature 573, 117–121
-	* Bolker
+- [Measles and the canonical path to elimination (Graham et al., Science)](https://science.sciencemag.org/content/364/6440/584)
+	* O'Meara and/or Earn
 
 ## Suggested readings
 
@@ -22,8 +22,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 	* Earn: First paper I've seen that addresses effects of climate change on _airborne_ as opposed to waterborne and vector-transmitted infections.
 
 
-- [Measles and the canonical path to elimination (Graham et al., Science)](https://science.sciencemag.org/content/364/6440/584)
-	* O'Meara and/or Earn
 
 - [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
     * Bolker
@@ -123,6 +121,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+### 2019 Sep 20 (Fri)
+
+- [Stewart _et al_ (2019) "Information gerrymandering and undemocratic decisions"](https://www.nature.com/articles/s41586-019-1507-6) Nature 573, 117–121
+	* Bolker
 
 ### 2019 Sep 13 (Fri)
 * Long Introductions
