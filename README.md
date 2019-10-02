@@ -9,10 +9,18 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2019 Sep 27 (Fri)
+### 2019 Oct 4 (Fri)
 
-- [Measles and the canonical path to elimination (Graham et al., Science)](https://science.sciencemag.org/content/364/6440/584)
-	* O'Meara and/or Earn
+* Read a paper, and come prepared to talk (efficiently) about why it would or would not be good for the group to read or discuss
+
+* Claim your paper by editing this page (see Papers just below)
+	* [email Dushoff](mailto:dushoff@mcmaster.ca) with your github ID if
+	* you need edit access
+
+#### Papers
+
+- Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
+    * Dushoff
 
 ## Suggested readings
 
@@ -23,7 +31,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 - [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
     * Bolker
-	
+
+- [Vehtari, Gelman, …: In this paper we show that the convergence diagnostic Rhat of Gelman and Rubin (1992) has serious flaws and we propose an alternative that fixes them](https://arxiv.org/pdf/1903.08008.pdf)
+  	
 - [Drake _et al_ (2019 May 8, PLoS Comp Biol) "The statistics of epidemic transitions"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006917)
 	* Earn
 
@@ -82,8 +92,6 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 - (short paper) Ho J, Tumkaya T, Aryal S, Choi H, Claridge-Chang A. Moving beyond P values: Everyday data analysis with estimation plots. biorxiv 2018. DOI:10.1101/377978.
     * Champredon
 
-- Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
-    * Bolker
 - Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
     * Bolker	
     * [?](https://media.giphy.com/media/Tlg08MWwaDaJa/giphy.gif)
@@ -119,6 +127,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+### 2019 Sep 27 (Fri)
+
+- [Measles and the canonical path to elimination (Graham et al., Science)](https://science.sciencemag.org/content/364/6440/584)
+	* O'Meara and/or Earn
 
 ### 2019 Sep 20 (Fri)
 
