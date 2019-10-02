@@ -19,7 +19,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 #### Papers
 
-Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer patients"](https://www.nature.com/articles/s41598-019-43372-7#Sec15)
+- Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer patients"](https://www.nature.com/articles/s41598-019-43372-7#Sec15)
 	* Cygu
 
 
