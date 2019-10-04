@@ -27,7 +27,7 @@ Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex lan
 
 [Pathways to good healthcare services alalawi](https://arxiv.org/abs/1907.07132)
 
-* Fady: Strategy-based 
+* Fady: Strategy-based game about health care providers and patients in Britain
 
 - Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
 	* Park
@@ -47,9 +47,6 @@ Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer p
 
 - Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
 	 * Bolker
-	 
-- Field, et al. ["Framework for quantifying population responses to disturbance reveals that coastal birds are highly resilient to hurricanes"] (https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13384)
-	* Studens
 
 - 
 
