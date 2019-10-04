@@ -19,6 +19,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 #### Papers
 
+- Desai et al ["Real-time Epidemic Forecasting: Challenges and Opportunities"](https://www.researchgate.net/profile/Britta_Lassmann/publication/335314344_Real-time_Epidemic_Forecasting_Challenges_and_Opportunities/links/5d64208192851c619d780be1/Real-time-Epidemic-Forecasting-Challenges-and-Opportunities.pdf)
+	* Li
+
 - Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer patients"](https://www.nature.com/articles/s41598-019-43372-7#Sec15)
 	* Cygu
 
