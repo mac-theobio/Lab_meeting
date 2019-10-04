@@ -9,6 +9,8 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2019 Oct 11 (Fri)
+
 ### 2019 Oct 4 (Fri)
 
 * Read a paper, and come prepared to talk (efficiently) about why it would or would not be good for the group to read or discuss
@@ -18,6 +20,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 	* you need edit access
 
 #### Papers
+
 - Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
 	* Park
 
@@ -27,14 +30,17 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 - Desai et al ["Real-time Epidemic Forecasting: Challenges and Opportunities"](https://www.researchgate.net/profile/Britta_Lassmann/publication/335314344_Real-time_Epidemic_Forecasting_Challenges_and_Opportunities/links/5d64208192851c619d780be1/Real-time-Epidemic-Forecasting-Challenges-and-Opportunities.pdf)
 	* Li
 
-- Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer patients"](https://www.nature.com/articles/s41598-019-43372-7#Sec15)
-	* Cygu
+Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer patients"](https://www.nature.com/articles/s41598-019-43372-7#Sec15)
+
+* Cygu: Compared two ML methods to regular Cox. This paper could be useful to Steve's project. 
 
 - Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
     * Dushoff
 
 - Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
 	 * Bolker
+
+- 
 
 ## Suggested readings
 
