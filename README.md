@@ -18,6 +18,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 	* you need edit access
 
 #### Papers
+
+- Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227)
+
 - Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
 	* Park
 
