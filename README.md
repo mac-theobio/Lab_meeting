@@ -47,6 +47,12 @@ Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer p
 
 - Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
 	 * Bolker
+	 
+Field, et al. ["Framework for quantifying population responses to disturbance reveals that coastal birds are highly resilient to hurricanes"](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13384)
+* Studens: Use a resilience framework. Could be cool to get deeper into this.
+
+http://www.lukebornn.com/papers/bornn_agfm_2011.pdf
+Efficient stabilization of crop yield Bornn
 
 - 
 
