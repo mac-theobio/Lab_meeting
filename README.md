@@ -47,6 +47,10 @@ Field, et al. ["Framework for quantifying population responses to disturbance re
 
 #### Please add new suggestions right below this line. Add your name and say something about the paper, and whether you want to recommend it or whether it should be screened
 
+- [Becker et al (2019) "ong-term dynamics of measles in London: Titrating the impact of wars, the 1918 pandemic, and vaccination"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007305)
+	* Earn
+	* They've done a careful analysis of London measles from 1897-1991; interesting especially in the context of Jordan Pyke's recent MSc project, which goes back to 1662.
+
 - [Baker, Mahmud & Metcalf (2018) "Dynamic response of airborne infections to climate change: predictions for varicella"](https://search-proquest-com.libaccess.lib.mcmaster.ca/docview/2032638423/fulltextPDF/48CDE597380242BCPQ/1)
 	* Earn: First paper I've seen that addresses effects of climate change on _airborne_ as opposed to waterborne and vector-transmitted infections.
 
