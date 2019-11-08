@@ -9,17 +9,15 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2019 Oct 11 (Fri)
-
-Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer patients"](https://www.nature.com/articles/s41598-019-43372-7#Sec15)
-* Cygu: Compared two ML methods to regular Cox. This paper could be useful to Steve's project. 
+2019 Nov 08 (Fri)
+=================
 
 ## Papers
 
-### Screened
-
 Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
 * Dushoff: simple, good for stats foundations
+
+### Screened
 
 Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227)
 * Earn: Good overview 
@@ -148,6 +146,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+### 2019 Oct 11 (Fri)
+
+Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer patients"](https://www.nature.com/articles/s41598-019-43372-7#Sec15)
+* Cygu: Compared two ML methods to regular Cox. This paper could be useful to Steve's project. 
 
 ### 2019 Oct 4 (Fri)
 
