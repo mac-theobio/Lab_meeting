@@ -9,6 +9,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+2019 Nov 22 (Fri)
+=================
+#### Morgan will talk about new work
+
 2019 Nov 08 (Fri)
 =================
 
