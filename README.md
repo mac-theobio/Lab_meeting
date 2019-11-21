@@ -49,6 +49,9 @@ Field, et al. ["Framework for quantifying population responses to disturbance re
 
 #### Please add new suggestions right below this line. Add your name and say something about the paper, and whether you want to recommend it or whether it should be screened
 
+- [Lee Worden et al (2019) "Measles transmission during a large outbreak in California"](https://www.sciencedirect.com/science/article/pii/S1755436519300507) _Epidemics_ in press, corrected proof
+	* Earn
+
 - [Certain et al (2017) "How do MAR(1) models cope with hidden nonlinearities in ecological dynamics?"](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13021)
 	* Daniel
 
