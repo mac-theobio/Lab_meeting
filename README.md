@@ -21,6 +21,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
 * Dushoff: simple, good for stats foundations
 
+Kahn (2020) ["The Gene Drive Dilemma: We Can Alter Entire Species, but Should We?"](https://www.nytimes.com/2020/01/08/magazine/gene-drive-mosquitoes.html), _New York Times_ feature article.
+* Earn: would be fun to discuss
+
 ### Screened
 
 Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227)
