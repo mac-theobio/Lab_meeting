@@ -1,6 +1,6 @@
 # Mac-Theobio Lab Meetings
 
-- Friday, 13:30 (Ontario time)
+- Friday, 14:30 (Ontario time)
 - LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 - Please come prepared to make suggestions for succeeding weeks
@@ -9,12 +9,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-2019 Nov 22 (Fri)
+2020 Jan 24 (Fri)
 =================
-#### Morgan will talk about new work
 
-2019 Nov 08 (Fri)
-=================
+* Informal planning meeting
 
 ## Papers
 
@@ -159,6 +157,13 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+2019 Nov 22 (Fri)
+=================
+#### Morgan will talk about new work
+
+2019 Nov 08 (Fri)
+=================
 
 ### 2019 Oct 11 (Fri)
 

@@ -14,6 +14,7 @@ vim_session:
 Sources += Makefile README.md LICENSE
 
 ## Archive files; named after the year in which they were archived
+## Aim to archive in Sept
 Sources += $(wildcard 20*.md)
 
 # https://github.com/mac-theobio/Lab_meeting/blob/master/README.md
