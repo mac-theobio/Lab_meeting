@@ -33,3 +33,5 @@ all.time
 .clean_dir
 *.oldfile
 *.olddiff
+
+*~
