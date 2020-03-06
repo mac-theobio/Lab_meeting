@@ -13,6 +13,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+- 13 March. More 
+
+27 March. Elizabeth O'Meara, practice thesis presentation (20 mins)
+
 Kahn (2020) ["The Gene Drive Dilemma: We Can Alter Entire Species, but Should We?"](https://www.nytimes.com/2020/01/08/magazine/gene-drive-mosquitoes.html), _New York Times_ feature article.
 * Earn: would be fun to discuss
 
