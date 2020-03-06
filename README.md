@@ -7,11 +7,11 @@
 - Other weekly events/mailing lists of possible interest to Mac-Theobio'ers: [bio data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) (Fri lunchtime), [EEB seminar](
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
-## Upcoming Meetings
+## COVID stuff
 
-Whitty 2015 [What makes an academic paper useful for health policy?](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-015-0544-8)
-* Bolker: relevant to our nCoV work etc. ...
-* More on Bacon's "idols of the cave" [here](http://www.sirbacon.org/links/4idols.htm) and [here](https://books.google.ca/books?id=WHwsAO0hnEEC&q=idola%20specus) and (if you can read Latin) [here](https://books.google.ca/books?id=WHwsAO0hnEEC&q=idola%20specus#v=snippet&q=idola%20specus&f=false)
+[evolution.md](stuff on COVID-19 evolution)
+
+## Upcoming Meetings
 
 Kahn (2020) ["The Gene Drive Dilemma: We Can Alter Entire Species, but Should We?"](https://www.nytimes.com/2020/01/08/magazine/gene-drive-mosquitoes.html), _New York Times_ feature article.
 * Earn: would be fun to discuss
@@ -151,6 +151,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+Whitty 2015 [What makes an academic paper useful for health policy?](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-015-0544-8)
+* Bolker: relevant to our nCoV work etc. ...
+* More on Bacon's "idols of the cave" [here](http://www.sirbacon.org/links/4idols.htm) and [here](https://books.google.ca/books?id=WHwsAO0hnEEC&q=idola%20specus) and (if you can read Latin) [here](https://books.google.ca/books?id=WHwsAO0hnEEC&q=idola%20specus#v=snippet&q=idola%20specus&f=false)
 
 2020 Jan 24 (Fri)
 =================
