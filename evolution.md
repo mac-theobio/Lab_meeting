@@ -12,6 +12,8 @@
 
 > My "null" model would be that this mutation just happened to occur on an early branch on the tree and any "impact" is due solely to epidemiology ...  Any differences in apparent severity between these two genetic variants are most likely due to sampling of market-associated severe cases in Wuhan and missing the bulk of mild cases in this setting. ... In summary, I don't think the strong conclusions of the manuscript are warranted. We will monitor these two genetic variants, but I see no reason to conclude they have important functional significance at this point.
 
+* another [twitter thread](https://twitter.com/rob_carlson/status/1235463625420050432): [nextstrain view of A (=L) /B (=S)](https://nextstrain.org/ncov?branchLabel=clade&c=location&r=location); and [another](https://twitter.com/richardneher/status/1235217967727681536)
+
 * Bullshit but perhaps entertaining (it's been withdrawn from `preprints.org`): [Perez, Jean-Claude. (2020) Wuhan nCoV-2019 SARS Coronaviruses Genomics Fractal Metastructures Evolution and Origins](https://www.researchgate.net/publication/339331507_Wuhan_nCoV-2019_SARS_Coronaviruses_Genomics_Fractal_Metastructures_Evolution_and_Origins) DOI (withdrawn): 10.20944/preprints202002.0025.v2
 
 ## to do
