@@ -12,6 +12,10 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [Our World in Data](https://ourworldindata.org/coronavirus)
 - [The Anaesthesia Blog (for HCWs)](https://theanaesthesia.blog/2020/03/09/the-uk-covid-19-epidemic-time-to-plan-and-time-to-act/)
 
+# Policy proposals
+
+- [NY Times: Howard Markel on when to close schools](https://www.nytimes.com/2020/03/06/opinion/coronavirus-schools-closed.html)
+
 # Data
 
 - [COVID-19 daily data by country, with doubling time estimates](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_outbreak_data/WHO_situation_reports)
