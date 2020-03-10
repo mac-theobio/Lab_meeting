@@ -14,8 +14,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Data
 
-- [COVID-19 daily data by country, with doubling time estimates](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_outbreak_data/WH
-O_situation_reports)
+- [COVID-19 daily data by country, with doubling time estimates](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_outbreak_data/WHO_situation_reports)
 
 # Commentaries on social media
 
