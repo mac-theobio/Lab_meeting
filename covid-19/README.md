@@ -20,6 +20,10 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 - [NY Times: Howard Markel on when to close schools](https://www.nytimes.com/2020/03/06/opinion/coronavirus-schools-closed.html)
 
+# Mathematical insights
+
+- [NY Times: The Coronavirus, by the Numbers (interview with Adam Kucharski)](https://www.nytimes.com/2020/03/05/health/coronavirus-deaths-rates.html)
+
 # Data
 
 - [COVID-19 daily data by country, with doubling time estimates](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_outbreak_data/WHO_situation_reports)
