@@ -12,6 +12,10 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [Our World in Data](https://ourworldindata.org/coronavirus)
 - [The Anaesthesia Blog (for HCWs)](https://theanaesthesia.blog/2020/03/09/the-uk-covid-19-epidemic-time-to-plan-and-time-to-act/)
 
+# Advice
+
+- [How to Disinfect Your Space on an Airplane](https://www.nytimes.com/article/airplane-flying-coronavirus-spread.html)
+
 # Policy proposals
 
 - [NY Times: Howard Markel on when to close schools](https://www.nytimes.com/2020/03/06/opinion/coronavirus-schools-closed.html)
