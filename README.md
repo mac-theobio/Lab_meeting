@@ -9,7 +9,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## COVID stuff
 
-- [stuff on COVID-19 evolution](./evolution.md)
+- [stuff on COVID-19 evolution](./covid-19/evolution.md)
 - [links to COVID-19 info/resources](./covid-19/README.md)
 
 ## Upcoming Meetings

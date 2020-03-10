@@ -14,6 +14,8 @@
 
 * another [twitter thread](https://twitter.com/rob_carlson/status/1235463625420050432): [nextstrain view of A (=L) /B (=S)](https://nextstrain.org/ncov?branchLabel=clade&c=location&r=location); and [another](https://twitter.com/richardneher/status/1235217967727681536)
 
+* and a [rebuttal](http://virological.org/t/response-to-on-the-origin-and-continuing-evolution-of-sars-cov-2/418)
+
 * Bullshit but perhaps entertaining (it's been withdrawn from `preprints.org`): [Perez, Jean-Claude. (2020) Wuhan nCoV-2019 SARS Coronaviruses Genomics Fractal Metastructures Evolution and Origins](https://www.researchgate.net/publication/339331507_Wuhan_nCoV-2019_SARS_Coronaviruses_Genomics_Fractal_Metastructures_Evolution_and_Origins) DOI (withdrawn): 10.20944/preprints202002.0025.v2
 
 ## to do
