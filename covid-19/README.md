@@ -4,6 +4,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 # Outreach links
 
 - [12 minute summary of the basics of COVID-19](https://m.youtube.com/watch?v=eup3_i_5uaw)
+- [Visualizing disease spread](https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/)
 
 # Situation summaries
 
@@ -18,7 +19,12 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Policy proposals
 
+- [NEJM: Bill Gates on responding to COVID-19, 28 Feb 2020](https://www.nejm.org/doi/full/10.1056/nejmp2003762)
 - [NY Times: Howard Markel on when to close schools](https://www.nytimes.com/2020/03/06/opinion/coronavirus-schools-closed.html)
+
+# Policy decisions
+
+- [Harvard tells students not to come back after spring break, 10 March 2020](https://www.thecrimson.com/article/2020/3/11/harvard-coronavirus-classes-cancelled/)
 
 # Mathematical insights
 
