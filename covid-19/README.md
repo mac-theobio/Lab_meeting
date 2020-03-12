@@ -20,7 +20,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 # Policy proposals
 
 - [NEJM: Bill Gates on responding to COVID-19, 28 Feb 2020](https://www.nejm.org/doi/full/10.1056/nejmp2003762)
-- [NY Times: Howard Markel on when to close schools](https://www.nytimes.com/2020/03/06/opinion/coronavirus-schools-closed.html)
+- [NY Times: Howard Markel on when to close schools, 6 March 2020](https://www.nytimes.com/2020/03/06/opinion/coronavirus-schools-closed.html)
 
 # Policy decisions
 
@@ -29,7 +29,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Mathematical insights
 
-- [NY Times: The Coronavirus, by the Numbers (interview with Adam Kucharski)](https://www.nytimes.com/2020/03/05/health/coronavirus-deaths-rates.html)
+- [NY Times: The Coronavirus, by the Numbers (interview with Adam Kucharski), 5 March 2020](https://www.nytimes.com/2020/03/05/health/coronavirus-deaths-rates.html)
 
 # Data
 
