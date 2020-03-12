@@ -14,7 +14,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-- 13 March. More 
+- 13 March.
+Kucharski et al (2020) ["Early dynamics of transmission and control of COVID-19: a mathematical modelling study"](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30144-4/fulltext#seccestitle120)
+
+Mizumoto and Chowell (2020) ["Transmission potential of the novel coronavirus (COVID-19) onboard the diamond Princess Cruises ship"](https://www.sciencedirect.com/science/article/pii/S2468042720300063)
 
 27 March. Elizabeth O'Meara, practice thesis presentation (20 mins)
 
