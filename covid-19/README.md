@@ -25,6 +25,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 # Policy decisions
 
 - [Harvard tells students not to come back after spring break, 10 March 2020](https://www.thecrimson.com/article/2020/3/11/harvard-coronavirus-classes-cancelled/)
+- [Ontario government closes schools for two weeks following March break, 12 March 2020](https://www.cbc.ca/news/canada/toronto/ontario-government-closing-schools-1.5495736)
 
 # Mathematical insights
 
