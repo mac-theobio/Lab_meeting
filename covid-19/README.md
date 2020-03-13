@@ -8,6 +8,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Situation summaries
 
+- [Johns Hopkins University](https://coronavirus.jhu.edu/)
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
 - [Our World in Data](https://ourworldindata.org/coronavirus)
