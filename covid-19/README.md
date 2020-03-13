@@ -15,7 +15,8 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Advice
 
-- [How to Disinfect Your Space on an Airplane](https://www.nytimes.com/article/airplane-flying-coronavirus-spread.html)
+- [NY Times: How to Disinfect Your Space on an Airplane](https://www.nytimes.com/article/airplane-flying-coronavirus-spread.html)
+- [Newsweek: Don't travel, 12 March 2020](https://www.newsweek.com/young-unafraid-coronavirus-pandemic-good-you-now-stop-killing-people-opinion-1491797)
 
 # Policy proposals
 
