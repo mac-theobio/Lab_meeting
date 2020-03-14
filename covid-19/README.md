@@ -41,4 +41,4 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Commentaries on social media
 
-- [Twitter: front line Italian anaesthetist comments on health care situation in Lombardy, 10 March 2020](https://twitter.com/jasonvanschoor/status/1237142891077697538)
+- [10 March 2020.  Twitter: front line Italian anaesthetist comments on health care situation in Lombardy](https://twitter.com/jasonvanschoor/status/1237142891077697538)
