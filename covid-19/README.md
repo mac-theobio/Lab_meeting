@@ -8,7 +8,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Situation summaries
 
-- [Tomas Pueyo "Coronavirus: Why You Must Act Now", 13 March 2020](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+- [13 March 2020.  Tomas Pueyo "Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [Johns Hopkins University](https://coronavirus.jhu.edu/)
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
@@ -17,22 +17,23 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Advice and opinions
 
-- [NY Times: How to Disinfect Your Space on an Airplane, 11 March 2020](https://www.nytimes.com/article/airplane-flying-coronavirus-spread.html)
-- [Newsweek: Don't travel, 12 March 2020](https://www.newsweek.com/young-unafraid-coronavirus-pandemic-good-you-now-stop-killing-people-opinion-1491797)
+- [11 March 2020.  NY Times: How to Disinfect Your Space on an Airplane](https://www.nytimes.com/article/airplane-flying-coronavirus-spread.html)
+- [12 March 2020.  Newsweek: Don't travel](https://www.newsweek.com/young-unafraid-coronavirus-pandemic-good-you-now-stop-killing-people-opinion-1491797)
 
 # Policy proposals
 
-- [NEJM: Bill Gates on responding to COVID-19, 28 Feb 2020](https://www.nejm.org/doi/full/10.1056/nejmp2003762)
-- [NY Times: Howard Markel on when to close schools, 6 March 2020](https://www.nytimes.com/2020/03/06/opinion/coronavirus-schools-closed.html)
+- [28 Feb 2020.  NEJM: Bill Gates on responding to COVID-19](https://www.nejm.org/doi/full/10.1056/nejmp2003762)
+- [6 March 2020.  NY Times: Howard Markel on when to close schools](https://www.nytimes.com/2020/03/06/opinion/coronavirus-schools-closed.html)
 
 # Policy decisions
 
-- [Harvard tells students not to come back after spring break, 10 March 2020](https://www.thecrimson.com/article/2020/3/11/harvard-coronavirus-classes-cancelled/)
-- [Ontario government closes schools for two weeks following March break, 12 March 2020](https://www.cbc.ca/news/canada/toronto/ontario-government-closing-schools-1.5495736)
+- [10 March 2020.  Harvard tells students not to come back after spring break](https://www.thecrimson.com/article/2020/3/11/harvard-coronavirus-classes-cancelled/)
+- [12 March 2020.  Ontario government closes schools for two weeks following March break](https://www.cbc.ca/news/canada/toronto/ontario-government-closing-schools-1.5495736)
 
 # Mathematical insights
 
-- [NY Times: The Coronavirus, by the Numbers (interview with Adam Kucharski), 5 March 2020](https://www.nytimes.com/2020/03/05/health/coronavirus-deaths-rates.html)
+- [5 March 2020.  NY Times: The Coronavirus, by the Numbers (interview with Adam Kucharski)](https://www.nytimes.com/2020/03/05/health/coronavirus-deaths-rates.html)
+- [13 March 2020.  Tomas Pueyo "Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
 # Data
 
