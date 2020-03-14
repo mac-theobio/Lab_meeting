@@ -8,6 +8,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Situation summaries
 
+- [Tomas Pueyo "Coronavirus: Why You Must Act Now", 13 March 2020](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [Johns Hopkins University](https://coronavirus.jhu.edu/)
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
