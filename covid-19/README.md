@@ -32,6 +32,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 # Mathematical insights
 
+- [3 March 2020.  Liu, Funk, Flasche: Contribution of pre-symptomatic transmission ~26%](https://cmmid.github.io/topics/covid19/control-measures/pre-symptomatic-transmission.html)
 - [5 March 2020.  NY Times: The Coronavirus, by the Numbers (interview with Adam Kucharski)](https://www.nytimes.com/2020/03/05/health/coronavirus-deaths-rates.html)
 - [13 March 2020.  Tomas Pueyo "Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 
