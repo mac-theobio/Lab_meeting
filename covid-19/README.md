@@ -40,6 +40,8 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 # Data
 
 - [COVID-19 daily data by country, with doubling time estimates](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_outbreak_data/WHO_situation_reports)
+- [16 March 2020.  Call to Action to the Tech Community on New Machine Readable COVID-19 
+Dataset](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
 
 # Commentaries on social media
 
