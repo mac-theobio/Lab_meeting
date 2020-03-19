@@ -44,7 +44,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [16 March 2020.  Call to Action to the Tech Community on New Machine Readable COVID-19 
 Dataset](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
 - [Daniel Park's Korea COVID-19 github repo](https://github.com/parksw3/COVID19-Korea)
-- [Mike Li's Canada COVID-129 github repo](https://wzmli.github.io/COVID19-Canada/)
+- [Mike Li's Canada COVID-19 github repo](https://wzmli.github.io/COVID19-Canada/)
 
 # Commentaries on social media
 
