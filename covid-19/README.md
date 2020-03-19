@@ -14,6 +14,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
 - [Our World in Data](https://ourworldindata.org/coronavirus)
+- [Microsoft Research on bing](https://bing.com/covid)
 - [The Anaesthesia Blog (for HCWs)](https://theanaesthesia.blog/2020/03/09/the-uk-covid-19-epidemic-time-to-plan-and-time-to-act/)
 
 # Advice and opinions
@@ -42,6 +43,8 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [COVID-19 daily data by country, with doubling time estimates](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_outbreak_data/WHO_situation_reports)
 - [16 March 2020.  Call to Action to the Tech Community on New Machine Readable COVID-19 
 Dataset](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
+- [Daniel Park's Korea COVID-19 github repo](https://github.com/parksw3/COVID19-Korea)
+- [Mike Li's Canada COVID-129 github repo](https://wzmli.github.io/COVID19-Canada/)
 
 # Commentaries on social media
 
