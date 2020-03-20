@@ -21,6 +21,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 - [11 March 2020.  NY Times: How to Disinfect Your Space on an Airplane](https://www.nytimes.com/article/airplane-flying-coronavirus-spread.html)
 - [12 March 2020.  Newsweek: Don't travel](https://www.newsweek.com/young-unafraid-coronavirus-pandemic-good-you-now-stop-killing-people-opinion-1491797)
+- [20 March 2020.  Toronto Star: Months of school closures, social distancing needed to fight pandemic: U of T research](https://www.thestar.com/news/gta/2020/03/18/months-of-school-closures-social-distancing-needed-to-fight-pandemic-u-of-t-research.html)
 
 # Policy proposals
 
