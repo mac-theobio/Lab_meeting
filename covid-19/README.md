@@ -16,6 +16,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [Our World in Data](https://ourworldindata.org/coronavirus)
 - [Microsoft Research on bing](https://bing.com/covid)
 - [The Anaesthesia Blog (for HCWs)](https://theanaesthesia.blog/2020/03/09/the-uk-covid-19-epidemic-time-to-plan-and-time-to-act/)
+- [McMaster COVID-19 page](https://covid19.mcmaster.ca/)
 
 # Advice and opinions
 
