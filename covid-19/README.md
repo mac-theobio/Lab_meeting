@@ -41,6 +41,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [13 March 2020.  Tomas Pueyo "Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [16 March 2020.  Imperial College MRC research summary (pdf)](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COV
 ID19-NPI-modelling-16-03-2020.pdf)
+- [Online epidemic calculator](http://gabgoh.github.io/COVID/index.html)
 
 # Data
 
