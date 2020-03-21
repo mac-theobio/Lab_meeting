@@ -54,3 +54,17 @@ Dataset](https://www.whitehouse.gov/briefings-statements/call-action-tech-commun
 # Commentaries on social media
 
 - [10 March 2020.  Twitter: front line Italian anaesthetist comments on health care situation in Lombardy](https://twitter.com/jasonvanschoor/status/1237142891077697538)
+
+## Background reading on epidemic models
+
+- Bjornstad's book
+- King et al. on process/obs error models
+
+## Data sources
+
+
+
+## Online/example simulation models
+
+- https://alhill.shinyapps.io/COVID19seir/
+- https://ahurford.shinyapps.io/flatten-the-curve/
