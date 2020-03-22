@@ -5,6 +5,8 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 - [12 minute summary of the basics of COVID-19](https://m.youtube.com/watch?v=eup3_i_5uaw)
 - [Visualizing disease spread](https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/)
+- [14 March 2020.  Washington Post corona simulator: why spread is exponential and how to flatten the curve](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+- [21 March 2020.  NY Times visualization of spread across the US](https://www.nytimes.com/interactive/2020/03/21/us/coronavirus-us-cases-spread.html)
 
 # Situation summaries
 
@@ -41,6 +43,21 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [13 March 2020.  Tomas Pueyo "Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [16 March 2020.  Imperial College MRC research summary (pdf)](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 
+# Commentaries on social media
+
+- [10 March 2020.  Twitter: front line Italian anaesthetist comments on health care situation in Lombardy](https://twitter.com/jasonvanschoor/status/1237142891077697538)
+
+# Background reading on epidemic models
+
+- Bjornstad's book
+- King et al. on process/obs error models
+
+# Online/example simulation models
+
+- https://alhill.shinyapps.io/COVID19seir/
+- https://ahurford.shinyapps.io/flatten-the-curve/
+- [Online COVID epidemic calculator](http://gabgoh.github.io/COVID/index.html)
+
 # Data
 
 - [COVID-19 daily data by country, with doubling time estimates](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_outbreak_data/WHO_situation_reports)
@@ -49,21 +66,3 @@ Dataset](https://www.whitehouse.gov/briefings-statements/call-action-tech-commun
 - [Daniel Park's Korea COVID-19 github repo](https://github.com/parksw3/COVID19-Korea)
 - [Mike Li's Canada COVID-19 github repo](https://wzmli.github.io/COVID19-Canada/)
 
-# Commentaries on social media
-
-- [10 March 2020.  Twitter: front line Italian anaesthetist comments on health care situation in Lombardy](https://twitter.com/jasonvanschoor/status/1237142891077697538)
-
-## Background reading on epidemic models
-
-- Bjornstad's book
-- King et al. on process/obs error models
-
-## Data sources
-
-
-
-## Online/example simulation models
-
-- https://alhill.shinyapps.io/COVID19seir/
-- https://ahurford.shinyapps.io/flatten-the-curve/
-- [Online COVID epidemic calculator](http://gabgoh.github.io/COVID/index.html)
