@@ -79,8 +79,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Mike Li's Canada COVID-19 github repo](https://wzmli.github.io/COVID19-Canada/)
 - [Kaggle: Forecast daily COVID-19 spread in regions around world](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
 - [COVID-19 Canada data](https://github.com/ishaberry/Covid19Canada); see also [related twitter thread](https://twitter.com/JPSoucy/status/1241501811267325955)
-- [Worldwide data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distributi
-on-covid-19-cases-worldwide)
+- [Worldwide data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
 
 # Research results
 
