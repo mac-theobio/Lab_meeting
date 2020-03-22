@@ -7,6 +7,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 
 - [12 minute summary of the basics of COVID-19](https://m.youtube.com/watch?v=eup3_i_5uaw)
 - [Visualizing disease spread](https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/)
+- [AB's Hand Washing Demo](https://www.youtube.com/watch?v=tIwdf3WKe3Y)
 - [14 March 2020.  Washington Post corona simulator: why spread is exponential and how to flatten the curve](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 - [21 March 2020.  NY Times visualization of spread across the US](https://www.nytimes.com/interactive/2020/03/21/us/coronavirus-us-cases-spread.html)
 
@@ -78,3 +79,6 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 
 - [13 March 2020 in _Science_: "We estimate 86% of all infections were undocumented (95% CI: [82%–90%]) prior to 23 January 2020 travel restrictions."](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)
 
+# Misc
+
+- [Open peer review of preprints sponsored by Nature and Wellcome](https://www.nature.com/articles/d41586-020-00613-4)
