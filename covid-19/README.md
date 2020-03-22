@@ -1,6 +1,8 @@
 
 Notes _in progress_ about COVID-19.  I've decided to get this started quickly now, hoping to provide some useful links to lab members.  I will try to improve it over time, but if I wait until I can make this a genuinely good page, it will be too late to be useful... --David E
 
+Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
+
 # Outreach links
 
 - [12 minute summary of the basics of COVID-19](https://m.youtube.com/watch?v=eup3_i_5uaw)
@@ -19,6 +21,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [Microsoft Research on bing](https://bing.com/covid)
 - [The Anaesthesia Blog (for HCWs)](https://theanaesthesia.blog/2020/03/09/the-uk-covid-19-epidemic-time-to-plan-and-time-to-act/)
 - [McMaster COVID-19 page](https://covid19.mcmaster.ca/)
+- [PHAC COVID-19 page](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)
 
 # Advice and opinions
 
@@ -42,6 +45,11 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 - [5 March 2020.  NY Times: The Coronavirus, by the Numbers (interview with Adam Kucharski)](https://www.nytimes.com/2020/03/05/health/coronavirus-deaths-rates.html)
 - [13 March 2020.  Tomas Pueyo "Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [16 March 2020.  Imperial College MRC research summary (pdf)](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
+- 17 March 2020.  Using ILI data to detect COVID: [David Fisman](https://twitter.com/DFisman/status/1239742415872950273); [Nicholas Reich](https://t.co/twsBzedQtq?amp=1)
+
+# Our group in the media
+
+- [16 March 2020.  Global and Mail](https://www.theglobeandmail.com/canada/article-scientists-see-no-quick-end-to-the-coronavirus-battle/)
 
 # Commentaries on social media
 
@@ -62,7 +70,11 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 - [COVID-19 daily data by country, with doubling time estimates](https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_outbreak_data/WHO_situation_reports)
 - [16 March 2020.  Call to Action to the Tech Community on New Machine Readable COVID-19 
-Dataset](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
+Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
 - [Daniel Park's Korea COVID-19 github repo](https://github.com/parksw3/COVID19-Korea)
 - [Mike Li's Canada COVID-19 github repo](https://wzmli.github.io/COVID19-Canada/)
+
+# Research results
+
+- [13 March 2020 in _Science_: "We estimate 86% of all infections were undocumented (95% CI: [82%–90%]) prior to 23 January 2020 travel restrictions."](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)
 
