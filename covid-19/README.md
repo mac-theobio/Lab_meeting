@@ -23,11 +23,13 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [The Anaesthesia Blog (for HCWs)](https://theanaesthesia.blog/2020/03/09/the-uk-covid-19-epidemic-time-to-plan-and-time-to-act/)
 - [McMaster COVID-19 page](https://covid19.mcmaster.ca/)
 - [PHAC COVID-19 page](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)
+- [CTV News tracking every Canadian case](https://www.ctvnews.ca/health/coronavirus/tracking-every-case-of-covid-19-in-canada-1.4852102)
 
 # Advice and opinions
 
 - [11 March 2020.  NY Times: How to Disinfect Your Space on an Airplane](https://www.nytimes.com/article/airplane-flying-coronavirus-spread.html)
 - [12 March 2020.  Newsweek: Don't travel](https://www.newsweek.com/young-unafraid-coronavirus-pandemic-good-you-now-stop-killing-people-opinion-1491797)
+- [17 March 2020.  NY Times: Wearing Face Masks](https://www.nytimes.com/2020/03/17/opinion/coronavirus-face-masks.html)
 - [20 March 2020.  Toronto Star: Months of school closures, social distancing needed to fight pandemic: U of T research](https://www.thestar.com/news/gta/2020/03/18/months-of-school-closures-social-distancing-needed-to-fight-pandemic-u-of-t-research.html)
 
 # Policy proposals
@@ -76,6 +78,9 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Daniel Park's Korea COVID-19 github repo](https://github.com/parksw3/COVID19-Korea)
 - [Mike Li's Canada COVID-19 github repo](https://wzmli.github.io/COVID19-Canada/)
 - [Kaggle: Forecast daily COVID-19 spread in regions around world](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
+- [COVID-19 Canada data](https://github.com/ishaberry/Covid19Canada); see also [related twitter thread](https://twitter.com/JPSoucy/status/1241501811267325955)
+- [Worldwide data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distributi
+on-covid-19-cases-worldwide)
 
 # Research results
 
