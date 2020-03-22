@@ -9,6 +9,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [Visualizing disease spread](https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/)
 - [AB's Hand Washing Demo](https://www.youtube.com/watch?v=tIwdf3WKe3Y)
 - [14 March 2020.  Washington Post corona simulator: why spread is exponential and how to flatten the curve](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
+- [20 March 2020.  Handwashing song alternatives](https://www.nytimes.com/2020/03/20/well/we-wrote-you-a-hand-washing-song-listen-up.html)
 - [21 March 2020.  NY Times visualization of spread across the US](https://www.nytimes.com/interactive/2020/03/21/us/coronavirus-us-cases-spread.html)
 
 # Situation summaries
