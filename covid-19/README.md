@@ -74,6 +74,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/)
 - [Daniel Park's Korea COVID-19 github repo](https://github.com/parksw3/COVID19-Korea)
 - [Mike Li's Canada COVID-19 github repo](https://wzmli.github.io/COVID19-Canada/)
+- [Kaggle: Forecast daily COVID-19 spread in regions around world](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
 
 # Research results
 
