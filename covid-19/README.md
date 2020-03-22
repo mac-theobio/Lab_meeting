@@ -47,6 +47,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [13 March 2020.  Tomas Pueyo "Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [16 March 2020.  Imperial College MRC research summary (pdf)](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 - 17 March 2020.  Using ILI data to detect COVID: [David Fisman](https://twitter.com/DFisman/status/1239742415872950273); [Nicholas Reich](https://t.co/twsBzedQtq?amp=1)
+- [19 March 2020.  Weitz insights on gathering size in National Geographic](https://www.nationalgeographic.com/science/2020/03/graphic-see-why-small-groups-are-safer-during-covid-19-coronavirus-pandemic/)
 
 # Our group in the media
 
