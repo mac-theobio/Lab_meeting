@@ -33,6 +33,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [12 March 2020.  Newsweek: Don't travel](https://www.newsweek.com/young-unafraid-coronavirus-pandemic-good-you-now-stop-killing-people-opinion-1491797)
 - [17 March 2020.  NY Times: Wearing Face Masks](https://www.nytimes.com/2020/03/17/opinion/coronavirus-face-masks.html)
 - [20 March 2020.  Toronto Star: Months of school closures, social distancing needed to fight pandemic: U of T research](https://www.thestar.com/news/gta/2020/03/18/months-of-school-closures-social-distancing-needed-to-fight-pandemic-u-of-t-research.html)
+- [21 March 2020.   Philippe Lemoine's analysis of the Imperial report "Are we headed toward an unprecedented public health disaster?"](https://necpluribusimpar.net/are-we-headed-toward-an-unprecedented-public-health-disaster/)
 
 # Policy proposals
 
