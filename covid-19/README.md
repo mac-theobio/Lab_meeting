@@ -11,6 +11,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [14 March 2020.  Washington Post corona simulator: why spread is exponential and how to flatten the curve](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 - [20 March 2020.  Handwashing song alternatives](https://www.nytimes.com/2020/03/20/well/we-wrote-you-a-hand-washing-song-listen-up.html)
 - [21 March 2020.  NY Times visualization of spread across the US](https://www.nytimes.com/interactive/2020/03/21/us/coronavirus-us-cases-spread.html)
+- [14 and 21 March 2020.  David Fisman on Quirks and Quarks](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks)
 
 # Situation summaries
 
