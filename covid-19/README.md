@@ -52,6 +52,10 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - 17 March 2020.  Using ILI data to detect COVID: [David Fisman](https://twitter.com/DFisman/status/1239742415872950273); [Nicholas Reich](https://t.co/twsBzedQtq?amp=1)
 - [19 March 2020.  Weitz insights on gathering size in National Geographic](https://www.nationalgeographic.com/science/2020/03/graphic-see-why-small-groups-are-safer-during-covid-19-coronavirus-pandemic/)
 
+# Other science
+
+- [17 March 2020. NEJM: Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
+
 # Our group in the media
 
 - [16 March 2020.  Global and Mail](https://www.theglobeandmail.com/canada/article-scientists-see-no-quick-end-to-the-coronavirus-battle/)
