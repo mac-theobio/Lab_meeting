@@ -89,6 +89,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 
 # Research results
 
+- [F1000 COVID-19 recommendations](https://f1000.com/prime/covid-19/)
 - [13 March 2020 in _Science_: "We estimate 86% of all infections were undocumented (95% CI: [82%–90%]) prior to 23 January 2020 travel restrictions."](https://science.sciencemag.org/content/early/2020/03/13/science.abb3221)
 
 # Misc
