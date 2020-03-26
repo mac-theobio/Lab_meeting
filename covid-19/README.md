@@ -6,6 +6,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 # Outreach links
 
 - [NY Times Coronavirus FAQ](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html)
+- [NY Times What You Can Do](https://www.nytimes.com/interactive/2020/world/coronavirus-preparation-preparedness.html)
 - [12 minute summary of the basics of COVID-19](https://m.youtube.com/watch?v=eup3_i_5uaw)
 - [Visualizing disease spread](https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/)
 - [AB's Hand Washing Demo](https://www.youtube.com/watch?v=tIwdf3WKe3Y)
