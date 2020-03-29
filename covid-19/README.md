@@ -15,6 +15,8 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [21 March 2020.  NY Times visualization of spread across the US](https://www.nytimes.com/interactive/2020/03/21/us/coronavirus-us-cases-spread.html)
 - [14 and 21 March 2020.  David Fisman on Quirks and Quarks](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks)
 - [21 March 2020. Chicago Doctor’s Blunt Speech About COVID-19 Hits Home Across the Country](https://www.nbcchicago.com/top-videos-home/chicago-doctors-blunt-speech-about-covid-19-hits-home-across-the-country/2241880/)
+- [27 March 2020.  Minute Physics "How To Tell If We're Beating COVID-19" (cases as a function of cumulative cases)](https://www.youtube.com/watch?v=54XLXg4fYsc)
+	- [Aatish Bhatia's Interactive charts](https://aatishb.com/covidtrends/)
 - [28 March 2020.  Stay the F*ck at Home! (video)](https://www.youtube.com/watch?v=e0G63uzhFP4)
 
 # Situation summaries
