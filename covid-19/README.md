@@ -102,3 +102,6 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 # Misc
 
 - [Open peer review of preprints sponsored by Nature and Wellcome](https://www.nature.com/articles/d41586-020-00613-4)
+- [NCCID](https://nccid.ca/): [Coronavirus quick links](https://nccid.ca/coronavirus-quick-links/); [Disease debrief](https://nccid.ca/2019-novel-coronavirus-outbreak/); [podcasts](https://nccid.ca/podcast-2019-ncov/)
+- [Erin Mordecai and others at Stanford](https://covid-measures.github.io/)
+- [IHME COVID-19 simulator / forecasts](http://www.healthdata.org/research-article/forecasting-covid-19-impact-hospital-bed-days-icu-days-ventilator-days-and-deaths)
