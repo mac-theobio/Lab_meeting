@@ -47,7 +47,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 # Official government projections (based on modelling)
 
 - [27 March 2020.  British Columbia](./COVID19_Technical_Briefing_Condensed.pdf)
-- [4 April 2020.  Ontario](./COVID-19 Technical Briefing - Friday April 4 2020.pdf)
+- [4 April 2020.  Ontario](./COVID-19 Technical Briefing - Friday April 4 2020.pdf)  ([CBC news article](https://www.cbc.ca/news/canada/toronto/ontario-covid-projections-1.5519575))
 
 # Policy proposals
 
