@@ -14,10 +14,13 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [20 March 2020.  Handwashing song alternatives](https://www.nytimes.com/2020/03/20/well/we-wrote-you-a-hand-washing-song-listen-up.html)
 - [21 March 2020.  NY Times visualization of spread across the US](https://www.nytimes.com/interactive/2020/03/21/us/coronavirus-us-cases-spread.html)
 - [14 and 21 March 2020.  David Fisman on Quirks and Quarks](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks)
+- [14 March 2020.  Visualizing the History of Pandemics](https://www.visualcapitalist.com/history-of-pandemics-deadliest/)
 - [21 March 2020. Chicago Doctor’s Blunt Speech About COVID-19 Hits Home Across the Country](https://www.nbcchicago.com/top-videos-home/chicago-doctors-blunt-speech-about-covid-19-hits-home-across-the-country/2241880/)
+- [24 March 2020.  7 best COVID-19 resources](https://www.visualcapitalist.com/7-best-covid-19-resources/)
 - [27 March 2020.  Minute Physics "How To Tell If We're Beating COVID-19" (cases as a function of cumulative cases)](https://www.youtube.com/watch?v=54XLXg4fYsc)
 	- [Aatish Bhatia's Interactive charts](https://aatishb.com/covidtrends/)
 - [28 March 2020.  Stay the F*ck at Home! (video)](https://www.youtube.com/watch?v=e0G63uzhFP4)
+- [4 April 2020.  The Economist: The hard choices covid policymakers face](https://www.economist.com/briefing/2020/04/03/the-hard-choices-covid-policymakers-face)
 
 # Situation summaries
 
@@ -41,6 +44,11 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [20 March 2020.  Toronto Star: Months of school closures, social distancing needed to fight pandemic: U of T research](https://www.thestar.com/news/gta/2020/03/18/months-of-school-closures-social-distancing-needed-to-fight-pandemic-u-of-t-research.html)
 - [21 March 2020.   Philippe Lemoine's analysis of the Imperial report "Are we headed toward an unprecedented public health disaster?"](https://necpluribusimpar.net/are-we-headed-toward-an-unprecedented-public-health-disaster/)
 
+# Official government projections (based on modelling)
+
+- [27 March 2020.  British Columbia](./COVID19_Technical_Briefing_Condensed.pdf)
+- [4 April 2020.  Ontario](./COVID-19 Technical Briefing - Friday April 4 2020.pdf)
+
 # Policy proposals
 
 - [28 Feb 2020.  NEJM: Bill Gates on responding to COVID-19](https://www.nejm.org/doi/full/10.1056/nejmp2003762)
@@ -59,6 +67,11 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [16 March 2020.  Imperial College MRC research summary (pdf)](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 - 17 March 2020.  Using ILI data to detect COVID: [David Fisman](https://twitter.com/DFisman/status/1239742415872950273); [Nicholas Reich](https://t.co/twsBzedQtq?amp=1)
 - [19 March 2020.  Weitz insights on gathering size in National Geographic](https://www.nationalgeographic.com/science/2020/03/graphic-see-why-small-groups-are-safer-during-covid-19-coronavirus-pandemic/)
+
+# Modelling in the media
+
+- [4 April 2020.  Calls mount for Ottawa to release projections on COVID-19 spread](https://www.cbc.ca/news/politics/ottawa-release-projections-covid-19-pandemic-1.5519253)
+- [4 April 2020.  NY Times Canada Letter on Canadian modelling](https://messaging-custom-newsletters.nytimes.com/template/oakv2?campaign_id=50&emc=edit_cnda_20200404&instance_id=17352&nl=canada-letter&productCode=CNDA&regi_id=89911022&segment_id=23857&te=1&uri=nyt%3A%2F%2Fnewsletter%2F31d1e5b0-ce9b-4a82-bd95-c7ff4b9b7def&user_id=20a0e66a62c7d0e40ec51f50b7b5300b)
 
 # Other science
 
@@ -93,6 +106,9 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Kaggle: Forecast daily COVID-19 spread in regions around world](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
 - [COVID-19 Canada data](https://github.com/ishaberry/Covid19Canada); see also [related twitter thread](https://twitter.com/JPSoucy/status/1241501811267325955)
 - [Worldwide data](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide)
+- [(NY Times github) US COVID-19 Data](https://github.com/nytimes/covid-19-data)
+- [StatCan Detailed confirmed cases of coronavirus disease (COVID-19) (Preliminary data), Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701)
+- [Government of Canada Public official COVID-19 graphs](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/epidemiological-summary-covid-19-cases.html)
 
 # Research results
 
@@ -105,3 +121,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [NCCID](https://nccid.ca/): [Coronavirus quick links](https://nccid.ca/coronavirus-quick-links/); [Disease debrief](https://nccid.ca/2019-novel-coronavirus-outbreak/); [podcasts](https://nccid.ca/podcast-2019-ncov/)
 - [Erin Mordecai and others at Stanford](https://covid-measures.github.io/)
 - [IHME COVID-19 simulator / forecasts](http://www.healthdata.org/research-article/forecasting-covid-19-impact-hospital-bed-days-icu-days-ventilator-days-and-deaths)
+- [Jocelyn Finlay HSPH COVID-19 Data Tracking](https://www.hsph.harvard.edu/jocelyn-finlay/covid-19-data-tracking/)
+- [SIAM epidemiology collection](https://epubs.siam.org/page/EpidemiologyCollection)
+- [Daniel Park's Korean COVID response guidelines translation](https://covidtranslate.org/)
+- [Wikipedia world COVID page](https://en.wikipedia.org/wiki/2019-20_coronavirus_pandemic)
