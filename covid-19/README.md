@@ -79,7 +79,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 
 # Our group in the media
 
-- [16 March 2020.  Global and Mail](https://www.theglobeandmail.com/canada/article-scientists-see-no-quick-end-to-the-coronavirus-battle/)
+- [16 March 2020.  Globe and Mail](https://www.theglobeandmail.com/canada/article-scientists-see-no-quick-end-to-the-coronavirus-battle/)
 
 # Commentaries on social media
 
@@ -90,11 +90,12 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - Bjornstad's book
 - King et al. on process/obs error models
 
-# Online/example simulation models
+# Online/example simulation models and data visualizations
 
 - https://alhill.shinyapps.io/COVID19seir/
 - https://ahurford.shinyapps.io/flatten-the-curve/
 - [Online COVID epidemic calculator](http://gabgoh.github.io/COVID/index.html)
+- [#FlattenCanada](https://flatten.ca/)
 
 # Data
 
