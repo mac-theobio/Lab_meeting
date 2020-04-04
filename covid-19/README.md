@@ -21,6 +21,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 	- [Aatish Bhatia's Interactive charts](https://aatishb.com/covidtrends/)
 - [28 March 2020.  Stay the F*ck at Home! (video)](https://www.youtube.com/watch?v=e0G63uzhFP4)
 - [4 April 2020.  The Economist: The hard choices covid policymakers face](https://www.economist.com/briefing/2020/04/03/the-hard-choices-covid-policymakers-face)
+- [4 April 2020. 7 Ways to Explore the Math of the Coronavirus Using The New York Times](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html)
 
 # Situation summaries
 
