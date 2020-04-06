@@ -112,10 +112,12 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [StatCan Detailed confirmed cases of coronavirus disease (COVID-19) (Preliminary data), Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701)
 - [Government of Canada Public official COVID-19 graphs](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/epidemiological-summary-covid-19-cases.html)
 
-# public pandemic simulation codes
+# public pandemic simulation codes and estimation tools
 
 - [McMasterPandemic](https://github.com/bbolker/McMasterPandemic)
 - [MRC IDE / sircovid](https://github.com/mrc-ide/sircovid)
+- [EpiEstim R package for R(t) estimation](https://cran.r-project.org/web/packages/EpiEstim/index.html)
+	- JD notes that this is the Cori package that was the basis of the most influential WAEO Ebola projections.
 
 # Research results
 
