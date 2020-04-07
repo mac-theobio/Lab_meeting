@@ -22,7 +22,9 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [28 March 2020.  Stay the F*ck at Home! (video)](https://www.youtube.com/watch?v=e0G63uzhFP4)
 - [4 April 2020.  The Economist: The hard choices covid policymakers face](https://www.economist.com/briefing/2020/04/03/the-hard-choices-covid-policymakers-face)
 - [4 April 2020. 7 Ways to Explore the Math of the Coronavirus Using The New York Times](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html)
-- [2 April 2020.  Canada's public data on COVID-19 is (mostly) a mess. Here's how to find the useful info](https://nationalpost.com/news/canadas-public-data-on-covid-19-is-mostly-a-mess-heres-how-to-find-the-useful-info)
+- [2 April 2020.  National Post: Canada's public data on COVID-19 is (mostly) a mess. Here's how to find the useful info](https://nationalpost.com/news/canadas-public-data-on-covid-19-is-mostly-a-mess-heres-how-to-find-the-useful-info)
+- [2 April 2020.  National Post: 
+'Shocking' and 'indefensible': Feds should release national COVID-19 modelling information, experts say](https://nationalpost.com/news/politics/shocking-and-indefensible-feds-should-release-national-covid-19-modelling-information-experts-say)
 - [6 April 2020.  The Atlantic: Don’t Believe the COVID-19 Models, That’s not what they’re for](https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/)
 
 # Situation summaries
