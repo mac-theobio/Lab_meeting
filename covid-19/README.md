@@ -22,6 +22,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [28 March 2020.  Stay the F*ck at Home! (video)](https://www.youtube.com/watch?v=e0G63uzhFP4)
 - [4 April 2020.  The Economist: The hard choices covid policymakers face](https://www.economist.com/briefing/2020/04/03/the-hard-choices-covid-policymakers-face)
 - [4 April 2020. 7 Ways to Explore the Math of the Coronavirus Using The New York Times](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html)
+- [2 April 2020.  Canada's public data on COVID-19 is (mostly) a mess. Here's how to find the useful info](https://nationalpost.com/news/canadas-public-data-on-covid-19-is-mostly-a-mess-heres-how-to-find-the-useful-info)
 - [6 April 2020.  The Atlantic: Don’t Believe the COVID-19 Models, That’s not what they’re for](https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/)
 
 # Situation summaries
@@ -43,6 +44,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [11 March 2020.  NY Times: How to Disinfect Your Space on an Airplane](https://www.nytimes.com/article/airplane-flying-coronavirus-spread.html)
 - [12 March 2020.  Newsweek: Don't travel](https://www.newsweek.com/young-unafraid-coronavirus-pandemic-good-you-now-stop-killing-people-opinion-1491797)
 - [17 March 2020.  NY Times: Wearing Face Masks](https://www.nytimes.com/2020/03/17/opinion/coronavirus-face-masks.html)
+- [18 March 2020. Marc Lipsitch: We know enough now to act decisively against Covid-19. Social distancing is a good place to start](https://www.statnews.com/2020/03/18/we-know-enough-now-to-act-decisively-against-covid-19/)
 - [20 March 2020.  Toronto Star: Months of school closures, social distancing needed to fight pandemic: U of T research](https://www.thestar.com/news/gta/2020/03/18/months-of-school-closures-social-distancing-needed-to-fight-pandemic-u-of-t-research.html)
 - [21 March 2020.   Philippe Lemoine's analysis of the Imperial report "Are we headed toward an unprecedented public health disaster?"](https://necpluribusimpar.net/are-we-headed-toward-an-unprecedented-public-health-disaster/)
 
