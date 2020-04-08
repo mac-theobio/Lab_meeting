@@ -26,6 +26,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [2 April 2020.  National Post: 
 'Shocking' and 'indefensible': Feds should release national COVID-19 modelling information, experts say](https://nationalpost.com/news/politics/shocking-and-indefensible-feds-should-release-national-covid-19-modelling-information-experts-say)
 - [6 April 2020.  The Atlantic: Don’t Believe the COVID-19 Models, That’s not what they’re for](https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/)
+- [8 April 2020.  NY Times: How Delays and Unheeded Warnings Hindered New York's Virus Fight](https://www.nytimes.com/2020/04/08/nyregion/new-york-coronavirus-response-delays.html)
 
 # Situation summaries
 
