@@ -31,6 +31,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [6 April 2020.  NY Times: When Will N.Y.C. Reach the Peak of the Outbreak? Here’s What We Know](https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-peak.html)
 - [6 April 2020. What Google data says about Canadian vs. U.S. social distancing efforts](https://www.macleans.ca/opinion/if-the-coronavirus-emergency-legislation-is-any-indication-parliament-must-remain-open/)
 - [8 April 2020.  NY Times: How Delays and Unheeded Warnings Hindered New York's Virus Fight](https://www.nytimes.com/2020/04/08/nyregion/new-york-coronavirus-response-delays.html)
+- [video: flu vs COVID-19](https://www.youtube.com/watch?v=FVIGhz3uwuQ)
 
 # Situation summaries
 
@@ -59,6 +60,9 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 
 - [27 March 2020.  British Columbia](./COVID19_Technical_Briefing_Condensed.pdf)
 - [4 April 2020.  Ontario](./COVID-19 Technical Briefing - Friday April 4 2020.pdf)  ([CBC news article](https://www.cbc.ca/news/canada/toronto/ontario-covid-projections-1.5519575))
+- [9 April 2020.  Federal Govt COVID-19 projections: video](https://www.cpac.ca/en/programs/covid-19-canada-responds/episodes/66183042/)
+	- speakers: Stephen Lucas, Theresa Tam, Howard Njoo, Nicholas Ogden, Ping Yan, Rachelle Rodin
+	- [slides](./455706393-PHAC-Briefing-20200409.pdf)
 
 # Policy proposals
 
