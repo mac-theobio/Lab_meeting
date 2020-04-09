@@ -10,6 +10,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [12 minute summary of the basics of COVID-19](https://m.youtube.com/watch?v=eup3_i_5uaw)
 - [Visualizing disease spread](https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/)
 - [AB's Hand Washing Demo](https://www.youtube.com/watch?v=tIwdf3WKe3Y)
+- [31 Jan 2020.  David Fisman on Quirks and Quarks](https://www.cbc.ca/radio/quirks/feb-1-understanding-the-coronavirus-cyborg-jellyfish-judging-cat-pain-and-more-1.5446302/tracking-coronaviruses-post-sars-how-science-has-made-for-rapid-response-1.5446309)
 - [14 March 2020.  Washington Post corona simulator: why spread is exponential and how to flatten the curve](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 - [20 March 2020.  Handwashing song alternatives](https://www.nytimes.com/2020/03/20/well/we-wrote-you-a-hand-washing-song-listen-up.html)
 - [21 March 2020.  NY Times visualization of spread across the US](https://www.nytimes.com/interactive/2020/03/21/us/coronavirus-us-cases-spread.html)
@@ -25,7 +26,10 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [2 April 2020.  National Post: Canada's public data on COVID-19 is (mostly) a mess. Here's how to find the useful info](https://nationalpost.com/news/canadas-public-data-on-covid-19-is-mostly-a-mess-heres-how-to-find-the-useful-info)
 - [2 April 2020.  National Post: 
 'Shocking' and 'indefensible': Feds should release national COVID-19 modelling information, experts say](https://nationalpost.com/news/politics/shocking-and-indefensible-feds-should-release-national-covid-19-modelling-information-experts-say)
+- [3 April 2020.  Jonathan Smith: 'I Promise. I Promise.' You Can't Cheat A Pandemic](https://www.wbur.org/cognoscenti/2020/04/03/hold-the-line-coronavirus-jonathan-smith)
 - [6 April 2020.  The Atlantic: Don’t Believe the COVID-19 Models, That’s not what they’re for](https://www.theatlantic.com/technology/archive/2020/04/coronavirus-models-arent-supposed-be-right/609271/)
+- [6 April 2020.  NY Times: When Will N.Y.C. Reach the Peak of the Outbreak? Here’s What We Know](https://www.nytimes.com/2020/04/06/nyregion/coronavirus-new-york-peak.html)
+- [6 April 2020. What Google data says about Canadian vs. U.S. social distancing efforts](https://www.macleans.ca/opinion/if-the-coronavirus-emergency-legislation-is-any-indication-parliament-must-remain-open/)
 - [8 April 2020.  NY Times: How Delays and Unheeded Warnings Hindered New York's Virus Fight](https://www.nytimes.com/2020/04/08/nyregion/new-york-coronavirus-response-delays.html)
 
 # Situation summaries
@@ -87,6 +91,8 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 # Our group in the media
 
 - [16 March 2020.  Globe and Mail](https://www.theglobeandmail.com/canada/article-scientists-see-no-quick-end-to-the-coronavirus-battle/)
+- [7 April 2020.  CTV news: JD live interview](https://www.ctvnews.ca/video?clipId=1935799)
+- [9 April 2020.  National Post. Ben quoted. "'Dynamic' physical distancing could help balance COVID-19 fight, economy: study"](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/dynamic-physical-distancing-could-help-balance-covid-19-fight-economy-study)
 
 # Commentaries on social media
 
