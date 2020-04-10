@@ -96,6 +96,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 
 - [16 March 2020.  Globe and Mail](https://www.theglobeandmail.com/canada/article-scientists-see-no-quick-end-to-the-coronavirus-battle/)
 - [7 April 2020.  CTV news: JD live interview](https://www.ctvnews.ca/video?clipId=1935799)
+- [9 April 2020.  CTV news: JD live interview #2](https://www.ctvnews.ca/video?clipId=1937638)
 - [9 April 2020.  National Post. Ben quoted. "'Dynamic' physical distancing could help balance COVID-19 fight, economy: study"](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/dynamic-physical-distancing-could-help-balance-covid-19-fight-economy-study)
 
 # Commentaries on social media
