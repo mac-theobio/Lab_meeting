@@ -32,6 +32,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [6 April 2020. What Google data says about Canadian vs. U.S. social distancing efforts](https://www.macleans.ca/opinion/if-the-coronavirus-emergency-legislation-is-any-indication-parliament-must-remain-open/)
 - [8 April 2020.  NY Times: How Delays and Unheeded Warnings Hindered New York's Virus Fight](https://www.nytimes.com/2020/04/08/nyregion/new-york-coronavirus-response-delays.html)
 - [video: flu vs COVID-19](https://www.youtube.com/watch?v=FVIGhz3uwuQ)
+- [10 April 2020. _Science:_ Pandemic brings mass vaccinations to a halt](https://science.sciencemag.org/content/368/6487/116)
 
 # Situation summaries
 
