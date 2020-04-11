@@ -32,7 +32,9 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [6 April 2020. What Google data says about Canadian vs. U.S. social distancing efforts](https://www.macleans.ca/opinion/if-the-coronavirus-emergency-legislation-is-any-indication-parliament-must-remain-open/)
 - [8 April 2020.  NY Times: How Delays and Unheeded Warnings Hindered New York's Virus Fight](https://www.nytimes.com/2020/04/08/nyregion/new-york-coronavirus-response-delays.html)
 - [video: flu vs COVID-19](https://www.youtube.com/watch?v=FVIGhz3uwuQ)
+- [8 April 2020.  National Geographic: Pollution made COVID-19 worse. Now, lockdowns are clearing the air.](https://www.nationalgeographic.com/science/2020/04/pollution-made-the-pandemic-worse-but-lockdowns-clean-the-sky/)
 - [10 April 2020. _Science:_ Pandemic brings mass vaccinations to a halt](https://science.sciencemag.org/content/368/6487/116)
+	- see also: [same issue during 2015 Ebola outbreak](https://science.sciencemag.org/content/347/6227/1240)
 
 # Situation summaries
 
@@ -130,6 +132,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [(NY Times github) US COVID-19 Data](https://github.com/nytimes/covid-19-data)
 - [StatCan Detailed confirmed cases of coronavirus disease (COVID-19) (Preliminary data), Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701)
 - [Government of Canada Public official COVID-19 graphs](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/epidemiological-summary-covid-19-cases.html)
+- [visualization of Singapore's cases and clusters](https://againstcovid19.com/singapore/cases)
 
 # public pandemic simulation codes and estimation tools
 
