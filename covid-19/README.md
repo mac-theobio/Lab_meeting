@@ -35,6 +35,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [8 April 2020.  National Geographic: Pollution made COVID-19 worse. Now, lockdowns are clearing the air.](https://www.nationalgeographic.com/science/2020/04/pollution-made-the-pandemic-worse-but-lockdowns-clean-the-sky/)
 - [10 April 2020. _Science:_ Pandemic brings mass vaccinations to a halt](https://science.sciencemag.org/content/368/6487/116)
 	- see also: [same issue during 2015 Ebola outbreak](https://science.sciencemag.org/content/347/6227/1240)
+- [10 April 2020.  Nature Microbiology blog by McGill epidemiologist: "'Covidisation' of academic research: opportunities and risks"](https://naturemicrobiologycommunity.nature.com/users/20892-madhukar-pai/posts/65638-covidisation-of-academic-research-opportunities-and-risks)
 
 # Situation summaries
 
