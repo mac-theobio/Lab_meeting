@@ -135,6 +135,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [StatCan Detailed confirmed cases of coronavirus disease (COVID-19) (Preliminary data), Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310076701)
 - [Government of Canada Public official COVID-19 graphs](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/epidemiological-summary-covid-19-cases.html)
 - [visualization of Singapore's cases and clusters](https://againstcovid19.com/singapore/cases)
+- [Google's COVID-19 mobility data](https://www.google.com/covid19/mobility/)
 
 # public pandemic simulation codes and estimation tools
 
