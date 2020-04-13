@@ -60,6 +60,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [18 March 2020. Marc Lipsitch: We know enough now to act decisively against Covid-19. Social distancing is a good place to start](https://www.statnews.com/2020/03/18/we-know-enough-now-to-act-decisively-against-covid-19/)
 - [20 March 2020.  Toronto Star: Months of school closures, social distancing needed to fight pandemic: U of T research](https://www.thestar.com/news/gta/2020/03/18/months-of-school-closures-social-distancing-needed-to-fight-pandemic-u-of-t-research.html)
 - [21 March 2020.   Philippe Lemoine's analysis of the Imperial report "Are we headed toward an unprecedented public health disaster?"](https://necpluribusimpar.net/are-we-headed-toward-an-unprecedented-public-health-disaster/)
+- [13 April 2020.  NY Times: Marc Lipsitch: Who Is Immune to the Coronavirus?](https://www.nytimes.com/2020/04/13/opinion/coronavirus-immunity.html)
 
 # Official government projections (based on modelling)
 
@@ -88,6 +89,11 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [16 March 2020.  Imperial College MRC research summary (pdf)](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf)
 - 17 March 2020.  Using ILI data to detect COVID: [David Fisman](https://twitter.com/DFisman/status/1239742415872950273); [Nicholas Reich](https://t.co/twsBzedQtq?amp=1)
 - [19 March 2020.  Weitz insights on gathering size in National Geographic](https://www.nationalgeographic.com/science/2020/03/graphic-see-why-small-groups-are-safer-during-covid-19-coronavirus-pandemic/)
+- [10 April 2020. Vox:  Why it’s so hard to see into the future of Covid-19](https://www.vox.com/science-and-health/2020/4/10/21209961/coronavirus-models-covid-19-limitations-imhe)
+
+# Forecasting papers
+
+- [30 March 2020.  MRC Imperial group: Report 13 - Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-13-europe-npi-impact/)
 
 # Modelling in the media
 
@@ -96,6 +102,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 
 # Other science
 
+- [Imperial College COVID-19 reports](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/covid-19-reports/)
 - [17 March 2020. NEJM: Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
 
 # Our group in the media
