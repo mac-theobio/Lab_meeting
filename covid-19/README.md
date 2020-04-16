@@ -143,6 +143,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Government of Canada Public official COVID-19 graphs](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/health-professionals/epidemiological-summary-covid-19-cases.html)
 - [visualization of Singapore's cases and clusters](https://againstcovid19.com/singapore/cases)
 - [Google's COVID-19 mobility data](https://www.google.com/covid19/mobility/)
+- [16 April 2020.  ICES open source code for mining COVID-19 lab data](https://github.com/icescentral/COVID19-Lab-Results)
 
 # public pandemic simulation codes and estimation tools
 
