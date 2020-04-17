@@ -61,6 +61,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [20 March 2020.  Toronto Star: Months of school closures, social distancing needed to fight pandemic: U of T research](https://www.thestar.com/news/gta/2020/03/18/months-of-school-closures-social-distancing-needed-to-fight-pandemic-u-of-t-research.html)
 - [21 March 2020.   Philippe Lemoine's analysis of the Imperial report "Are we headed toward an unprecedented public health disaster?"](https://necpluribusimpar.net/are-we-headed-toward-an-unprecedented-public-health-disaster/)
 - [13 April 2020.  NY Times: Marc Lipsitch: Who Is Immune to the Coronavirus?](https://www.nytimes.com/2020/04/13/opinion/coronavirus-immunity.html)
+- [16 Apr 2020.  BMB: Eubank _et al_ commentary on first Imperial College report](https://link.springer.com/article/10.1007/s11538-020-00726-x)
 
 # Official government projections (based on modelling)
 
