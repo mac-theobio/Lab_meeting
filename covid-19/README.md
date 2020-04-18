@@ -168,3 +168,4 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [SIAM epidemiology collection](https://epubs.siam.org/page/EpidemiologyCollection)
 - [Daniel Park's Korean COVID response guidelines translation](https://covidtranslate.org/)
 - [Wikipedia world COVID page](https://en.wikipedia.org/wiki/2019-20_coronavirus_pandemic)
+- [Fields Institute sponsored projects (Kumar's grant)](http://www.fields.utoronto.ca/activities/Mathematical-Modelling-COVID-19)
