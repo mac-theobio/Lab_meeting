@@ -37,6 +37,8 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 	- see also: [same issue during 2015 Ebola outbreak](https://science.sciencemag.org/content/347/6227/1240)
 - [10 April 2020.  Nature Microbiology blog by McGill epidemiologist: "'Covidisation' of academic research: opportunities and risks"](https://naturemicrobiologycommunity.nature.com/users/20892-madhukar-pai/posts/65638-covidisation-of-academic-research-opportunities-and-risks)
 - [11 April 2020.  Boston Globe Editorial: More COVID-19 data from the state would save lives](https://www.bostonglobe.com/2020/04/11/opinion/more-covid-19-data-state-would-save-lives/)
+- [16 April 2020.  CTV news: Toronto develops 'more modern' tool to track COVID-19 data, ditches province's system](https://toronto.ctvnews.ca/toronto-develops-more-modern-tool-to-track-covid-19-data-ditches-province-s-system-1.4899667)
+- [18 April 2020.  Bloomberg.com: Seoul’s Full Cafes, Apple Store Lines Show Mass Testing Success](https://www.bloomberg.com/news/articles/2020-04-18/seoul-s-full-cafes-apple-store-lines-show-mass-testing-success)
 
 # Situation summaries
 
