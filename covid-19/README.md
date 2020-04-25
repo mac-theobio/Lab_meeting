@@ -41,12 +41,14 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [18 April 2020.  Bloomberg.com: Seoul’s Full Cafes, Apple Store Lines Show Mass Testing Success](https://www.bloomberg.com/news/articles/2020-04-18/seoul-s-full-cafes-apple-store-lines-show-mass-testing-success)
 - [22 April 2020.  NY Times: The Untold Story of the Birth of Social Distancing](https://www.nytimes.com/2020/04/22/us/politics/social-distancing-coronavirus.html)
 - [22 April 2020.  NY Times: What 5 Coronavirus Models Say the Next Month Will Look Like](https://www.nytimes.com/interactive/2020/04/22/upshot/coronavirus-models.html)
+- [23 April 2020.  The Economist: Bill Gates on how to fight future pandemics](https://www.economist.com/by-invitation/2020/04/23/bill-gates-on-how-to-fight-future-pandemics)
 - [24 April 2020.  Globe and Mail: How Canada’s crucial data gaps are hindering the coronavirus pandemic response](https://www.theglobeandmail.com/canada/article-how-canadas-crucial-data-gaps-are-hindering-the-coronavirus-pandemic/)
 
 # Situation summaries
 
 - [13 March 2020.  Tomas Pueyo "Coronavirus: Why You Must Act Now"](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
 - [Johns Hopkins University](https://coronavirus.jhu.edu/)
+- [NY Times Canada summary](https://www.nytimes.com/interactive/2020/world/canada/canada-coronavirus-cases.html)
 - [Imperial College MRC reports](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/)
 - [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/)
 - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/)
@@ -114,10 +116,11 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 # Our group in the media
 
 - [16 March 2020.  Globe and Mail](https://www.theglobeandmail.com/canada/article-scientists-see-no-quick-end-to-the-coronavirus-battle/)
+- [1 April 2020. iPolitics: DE quoted.  What if COVID-19 comes in waves, as other pandemics have?](https://ipolitics.ca/2020/04/01/what-if-covid-19-comes-in-waves-as-other-pandemics-have/)
 - [7 April 2020.  CTV news: JD live interview](https://www.ctvnews.ca/video?clipId=1935799)
 - [9 April 2020.  CTV news: JD live interview #2](https://www.ctvnews.ca/video?clipId=1937638)
-- [9 April 2020.  National Post. Ben quoted. "'Dynamic' physical distancing could help balance COVID-19 fight, economy: study"](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/dynamic-physical-distancing-could-help-balance-covid-19-fight-economy-study)
-- [12 April 2020.  Toronto.com (by Kate Allen):  David quoted. What the COVID-19 ‘new normal’ could look like](https://www.toronto.com/news-story/9940057-what-the-covid-19-new-normal-could-look-like/)
+- [9 April 2020.  National Post. BB quoted. "'Dynamic' physical distancing could help balance COVID-19 fight, economy: study"](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/dynamic-physical-distancing-could-help-balance-covid-19-fight-economy-study)
+- [12 April 2020.  Toronto.com (by Kate Allen):  DE quoted. What the COVID-19 ‘new normal’ could look like](https://www.toronto.com/news-story/9940057-what-the-covid-19-new-normal-could-look-like/)
 
 # Commentaries on social media
 
