@@ -117,6 +117,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [7 April 2020.  CTV news: JD live interview](https://www.ctvnews.ca/video?clipId=1935799)
 - [9 April 2020.  CTV news: JD live interview #2](https://www.ctvnews.ca/video?clipId=1937638)
 - [9 April 2020.  National Post. Ben quoted. "'Dynamic' physical distancing could help balance COVID-19 fight, economy: study"](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/dynamic-physical-distancing-could-help-balance-covid-19-fight-economy-study)
+- [12 April 2020.  Toronto.com (by Kate Allen):  David quoted. What the COVID-19 ‘new normal’ could look like](https://www.toronto.com/news-story/9940057-what-the-covid-19-new-normal-could-look-like/)
 
 # Commentaries on social media
 
