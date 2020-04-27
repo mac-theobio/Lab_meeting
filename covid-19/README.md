@@ -3,7 +3,7 @@ Notes _in progress_ about COVID-19.  I've decided to get this started quickly no
 
 Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 
-# Outreach links
+# Outreach links and news articles
 
 - [NY Times Coronavirus FAQ](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html)
 - [NY Times What You Can Do](https://www.nytimes.com/interactive/2020/world/coronavirus-preparation-preparedness.html)
@@ -43,6 +43,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [22 April 2020.  NY Times: What 5 Coronavirus Models Say the Next Month Will Look Like](https://www.nytimes.com/interactive/2020/04/22/upshot/coronavirus-models.html)
 - [23 April 2020.  The Economist: Bill Gates on how to fight future pandemics](https://www.economist.com/by-invitation/2020/04/23/bill-gates-on-how-to-fight-future-pandemics)
 - [24 April 2020.  Globe and Mail: How Canada’s crucial data gaps are hindering the coronavirus pandemic response](https://www.theglobeandmail.com/canada/article-how-canadas-crucial-data-gaps-are-hindering-the-coronavirus-pandemic/)
+- [26 April 2020.  NY Times: Can Antibody Tests Help End the Coronavirus Pandemic?](https://www.nytimes.com/2020/04/26/health/can-antibody-tests-help-end-the-coronavirus-pandemic.html)
 
 # Situation summaries
 
