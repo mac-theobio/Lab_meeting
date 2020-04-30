@@ -99,6 +99,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - 17 March 2020.  Using ILI data to detect COVID: [David Fisman](https://twitter.com/DFisman/status/1239742415872950273); [Nicholas Reich](https://t.co/twsBzedQtq?amp=1)
 - [19 March 2020.  Weitz insights on gathering size in National Geographic](https://www.nationalgeographic.com/science/2020/03/graphic-see-why-small-groups-are-safer-during-covid-19-coronavirus-pandemic/)
 - [10 April 2020. Vox:  Why it’s so hard to see into the future of Covid-19](https://www.vox.com/science-and-health/2020/4/10/21209961/coronavirus-models-covid-19-limitations-imhe)
+- [Sebastian Funk's daily R(t) estimates (`epiforecasts`)](https://epiforecasts.io/covid/)
 
 # Forecasting papers
 
@@ -179,3 +180,4 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Daniel Park's Korean COVID response guidelines translation](https://covidtranslate.org/)
 - [Wikipedia world COVID page](https://en.wikipedia.org/wiki/2019-20_coronavirus_pandemic)
 - [Fields Institute sponsored projects (Kumar's grant)](http://www.fields.utoronto.ca/activities/Mathematical-Modelling-COVID-19)
+- [Lancet coronavirus collection](https://www.thelancet.com/coronavirus)
