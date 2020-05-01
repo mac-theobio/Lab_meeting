@@ -9,20 +9,19 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## COVID stuff
 
+For tomorrow
+
+* [https://staff.math.su.se/hoehle/blog/2020/04/15/effectiveR0.html](The blog post we started with)
+
+* [Joshi response](https://github.com/keyajoshi/Pan_response)
+2020. doi:10.1001/jama.2020.6130
+
+
+
 - [stuff on COVID-19 evolution](./covid-19/evolution.md)
 - [links to COVID-19 info/resources](./covid-19/README.md)
 
 ## Upcoming Meetings
-
-- 13 March.
-Kucharski et al (2020) ["Early dynamics of transmission and control of COVID-19: a mathematical modelling study"](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30144-4/fulltext#seccestitle120)
-
-Mizumoto and Chowell (2020) ["Transmission potential of the novel coronavirus (COVID-19) onboard the diamond Princess Cruises ship"](https://www.sciencedirect.com/science/article/pii/S2468042720300063)
-
-27 March. Elizabeth O'Meara, practice thesis presentation (20 mins)
-
-Kahn (2020) ["The Gene Drive Dilemma: We Can Alter Entire Species, but Should We?"](https://www.nytimes.com/2020/01/08/magazine/gene-drive-mosquitoes.html), _New York Times_ feature article.
-* Earn: would be fun to discuss
 
 ### Screened
 
@@ -159,6 +158,13 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+2020 27 March. Elizabeth O'Meara, thesis discussion
+
+2020 13 March.
+Kucharski et al (2020) ["Early dynamics of transmission and control of COVID-19: a mathematical modelling study"](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30144-4/fulltext#seccestitle120)
+
+Mizumoto and Chowell (2020) ["Transmission potential of the novel coronavirus (COVID-19) onboard the diamond Princess Cruises ship"](https://www.sciencedirect.com/science/article/pii/S2468042720300063)
 
 Whitty 2015 [What makes an academic paper useful for health policy?](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-015-0544-8)
 * Bolker: relevant to our nCoV work etc. ...
