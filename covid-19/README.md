@@ -44,6 +44,8 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [23 April 2020.  The Economist: Bill Gates on how to fight future pandemics](https://www.economist.com/by-invitation/2020/04/23/bill-gates-on-how-to-fight-future-pandemics)
 - [24 April 2020.  Globe and Mail: How Canada’s crucial data gaps are hindering the coronavirus pandemic response](https://www.theglobeandmail.com/canada/article-how-canadas-crucial-data-gaps-are-hindering-the-coronavirus-pandemic/)
 - [26 April 2020.  NY Times: Can Antibody Tests Help End the Coronavirus Pandemic?](https://www.nytimes.com/2020/04/26/health/can-antibody-tests-help-end-the-coronavirus-pandemic.html)
+- [30 April 2020.  NY Times: How Long Will a Vaccine Really Take?](https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html)
+
 
 # Situation summaries
 
