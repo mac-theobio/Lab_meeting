@@ -7,16 +7,16 @@
 - Other weekly events/mailing lists of possible interest to Mac-Theobio'ers: [bio data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) (Fri lunchtime), [EEB seminar](
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
-## COVID stuff
+## 24 Apr and 1 May
 
-For tomorrow
+### Discussion of R(t)
 
 * [https://staff.math.su.se/hoehle/blog/2020/04/15/effectiveR0.html](The blog post we started with)
 
-* [Joshi response](https://github.com/keyajoshi/Pan_response)
-2020. doi:10.1001/jama.2020.6130
+* [Pan article on interventions](https://jamanetwork.com/journals/jama/fullarticle/2764658)
+	* [Joshi response](https://github.com/keyajoshi/Pan_response)
 
-
+## COVID stuff
 
 - [stuff on COVID-19 evolution](./covid-19/evolution.md)
 - [links to COVID-19 info/resources](./covid-19/README.md)
