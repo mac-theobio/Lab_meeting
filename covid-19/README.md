@@ -45,7 +45,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [24 April 2020.  Globe and Mail: How Canada’s crucial data gaps are hindering the coronavirus pandemic response](https://www.theglobeandmail.com/canada/article-how-canadas-crucial-data-gaps-are-hindering-the-coronavirus-pandemic/)
 - [26 April 2020.  NY Times: Can Antibody Tests Help End the Coronavirus Pandemic?](https://www.nytimes.com/2020/04/26/health/can-antibody-tests-help-end-the-coronavirus-pandemic.html)
 - [30 April 2020.  NY Times: How Long Will a Vaccine Really Take?](https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html)
-
+- [1 May 2020.  NY Times, Carl Bergstrom and Natalie Dean: What the Proponents of ‘Natural’ Herd Immunity Don’t Say](https://www.nytimes.com/2020/05/01/opinion/sunday/coronavirus-herd-immunity.html)
 
 # Situation summaries
 
@@ -61,6 +61,8 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [McMaster COVID-19 page](https://covid19.mcmaster.ca/)
 - [PHAC COVID-19 page](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)
 - [CTV News tracking every Canadian case](https://www.ctvnews.ca/health/coronavirus/tracking-every-case-of-covid-19-in-canada-1.4852102)
+- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-19-24)
+- [Fisman 1 May 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-26-may-1)
 
 # Advice and opinions
 
