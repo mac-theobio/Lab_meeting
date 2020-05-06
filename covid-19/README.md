@@ -46,6 +46,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [26 April 2020.  NY Times: Can Antibody Tests Help End the Coronavirus Pandemic?](https://www.nytimes.com/2020/04/26/health/can-antibody-tests-help-end-the-coronavirus-pandemic.html)
 - [30 April 2020.  NY Times: How Long Will a Vaccine Really Take?](https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html)
 - [1 May 2020.  NY Times, Carl Bergstrom and Natalie Dean: What the Proponents of ‘Natural’ Herd Immunity Don’t Say](https://www.nytimes.com/2020/05/01/opinion/sunday/coronavirus-herd-immunity.html)
+- [2 May 2020.  NY Times: proposed RCT for school openings](https://www.nytimes.com/2020/05/02/sunday-review/coronavirus-school-closings.html)
 
 # Situation summaries
 
@@ -61,8 +62,9 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [McMaster COVID-19 page](https://covid19.mcmaster.ca/)
 - [PHAC COVID-19 page](https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19.html)
 - [CTV News tracking every Canadian case](https://www.ctvnews.ca/health/coronavirus/tracking-every-case-of-covid-19-in-canada-1.4852102)
-- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-19-24)
+n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-19-24)
 - [Fisman 1 May 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-26-may-1)
+- [4 May 2020. Evolutionary reason to flatten the curve](http://www.bu.edu/articles/2020/pov-theres-another-reason-to-flatten-the-curve-and-its-one-you-havent-heard-yet/)
 
 # Advice and opinions
 
@@ -143,6 +145,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - https://ahurford.shinyapps.io/flatten-the-curve/
 - [Online COVID epidemic calculator](http://gabgoh.github.io/COVID/index.html)
 - [#FlattenCanada](https://flatten.ca/)
+- [Ashleigh Tuite’s Webtool to Explore Exit Strategies](https://ashleighrt.github.io/Ontario-COVID19-model/exit.html)
 
 # Data
 
@@ -185,3 +188,9 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Wikipedia world COVID page](https://en.wikipedia.org/wiki/2019-20_coronavirus_pandemic)
 - [Fields Institute sponsored projects (Kumar's grant)](http://www.fields.utoronto.ca/activities/Mathematical-Modelling-COVID-19)
 - [Lancet coronavirus collection](https://www.thelancet.com/coronavirus)
+- [Daniel and other at Princeton: Face masks for the general public](https://rs-delve.github.io/reports/2020/05/04/face-masks-for-the-general-public.html)
+
+# Funding to our group
+
+- [IIDR / McMaster: Epidemic forecasting and communication flow during the COVID-19 outbreak](https://iidr.mcmaster.ca/the-iidr-dbcad-announce-funding-for-collaborative-projects-2/)
+
