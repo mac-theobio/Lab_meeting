@@ -130,6 +130,10 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [9 April 2020.  National Post. BB quoted. "'Dynamic' physical distancing could help balance COVID-19 fight, economy: study"](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/dynamic-physical-distancing-could-help-balance-covid-19-fight-economy-study)
 - [12 April 2020.  Toronto.com (by Kate Allen):  DE quoted. What the COVID-19 ‘new normal’ could look like](https://www.toronto.com/news-story/9940057-what-the-covid-19-new-normal-could-look-like/)
 
+# Online videos of talks by our group
+
+- [5 May 2020.  David Champredon, Fields Seminar](https://www.youtube.com/watch?v=u8lh4djgD5Q)
+
 # Commentaries on social media
 
 - [10 March 2020.  Twitter: front line Italian anaesthetist comments on health care situation in Lombardy](https://twitter.com/jasonvanschoor/status/1237142891077697538)
