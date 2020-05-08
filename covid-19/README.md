@@ -47,6 +47,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [30 April 2020.  NY Times: How Long Will a Vaccine Really Take?](https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html)
 - [1 May 2020.  NY Times, Carl Bergstrom and Natalie Dean: What the Proponents of ‘Natural’ Herd Immunity Don’t Say](https://www.nytimes.com/2020/05/01/opinion/sunday/coronavirus-herd-immunity.html)
 - [2 May 2020.  NY Times: proposed RCT for school openings](https://www.nytimes.com/2020/05/02/sunday-review/coronavirus-school-closings.html)
+- [8 May 2020.  (_about CMAJ paper we read in lab meeting_) The Star: Study pours cold water on hopes that warm weather will defeat COVID-19](https://www.thestar.com/news/canada/2020/05/08/study-pours-cold-water-on-hopes-that-warm-weather-will-defeat-covid-19.html)
 
 # Situation summaries
 
@@ -198,4 +199,8 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 # Funding to our group
 
 - [IIDR / McMaster: Epidemic forecasting and communication flow during the COVID-19 outbreak](https://iidr.mcmaster.ca/the-iidr-dbcad-announce-funding-for-collaborative-projects-2/)
+
+# publications involving our group
+
+- [Weitz et al, 7 May 2020, _Nature Medicine_ "Modeling shield immunity to reduce COVID-19 epidemic spread"](https://www.nature.com/articles/s41591-020-0895-3)
 
