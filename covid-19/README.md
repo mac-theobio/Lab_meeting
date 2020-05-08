@@ -133,6 +133,7 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 # Online videos of talks by our group
 
 - [5 May 2020.  David Champredon, Fields Seminar](https://www.youtube.com/watch?v=u8lh4djgD5Q)
+- [6 May 2020.  JD Forecasting and Modelling webinar in McMaster "Expert Perspectives on Pandemics" series](https://globalhealth.mcmaster.ca/2020-webinar-series)
 
 # Commentaries on social media
 
