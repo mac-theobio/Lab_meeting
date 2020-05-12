@@ -1,13 +1,21 @@
 # Mac-Theobio Lab Meetings
 
-- Friday, 14:30 (Ontario time)
-- LSB-216 or [Google hangout](http://tinyurl.com/theobio-lab-meeting)
+- Friday, 14:30 (Ontario time) by [zoom](https://tinyurl.com/theobio-zoom) (you will need a link or password from your email to join
+	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
+	* Lab coffee is still on the [Google hangout](http://tinyurl.com/theobio-lab-meeting)
+
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
+
 - Please come prepared to make suggestions for succeeding weeks
+
 - Other weekly events/mailing lists of possible interest to Mac-Theobio'ers: [bio data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) (Fri lunchtime), [EEB seminar](
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
-## 24 Apr and 1 May
+## Upcoming Meetings
+
+## 15 May
+
+* [Table 2 fallacy](https://www.ncbi.nlm.nih.gov/pubmed/23371353)
 
 ### Discussion of R(t)
 
@@ -20,8 +28,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 - [stuff on COVID-19 evolution](./covid-19/evolution.md)
 - [links to COVID-19 info/resources](./covid-19/README.md)
-
-## Upcoming Meetings
 
 ### Screened
 
@@ -158,6 +164,25 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+## 8 May
+
+[Impact of climate and public health interventions … Jüni, al. Fisman, al.
+CMAJ](https://doi.org/10.1503/cmaj.200920)
+
+## 24 Apr and 1 May
+
+### Discussion of R(t)
+
+* [https://staff.math.su.se/hoehle/blog/2020/04/15/effectiveR0.html](The blog post we started with)
+
+* [Pan article on interventions](https://jamanetwork.com/journals/jama/fullarticle/2764658)
+	* [Joshi response](https://github.com/keyajoshi/Pan_response)
+
+## COVID stuff
+
+- [stuff on COVID-19 evolution](./covid-19/evolution.md)
+- [links to COVID-19 info/resources](./covid-19/README.md)
 
 2020 27 March. Elizabeth O'Meara, thesis discussion
 
