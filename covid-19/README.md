@@ -48,6 +48,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [1 May 2020.  NY Times, Carl Bergstrom and Natalie Dean: What the Proponents of ‘Natural’ Herd Immunity Don’t Say](https://www.nytimes.com/2020/05/01/opinion/sunday/coronavirus-herd-immunity.html)
 - [2 May 2020.  NY Times: proposed RCT for school openings](https://www.nytimes.com/2020/05/02/sunday-review/coronavirus-school-closings.html)
 - [8 May 2020.  (_about CMAJ paper we read in lab meeting_) The Star: Study pours cold water on hopes that warm weather will defeat COVID-19](https://www.thestar.com/news/canada/2020/05/08/study-pours-cold-water-on-hopes-that-warm-weather-will-defeat-covid-19.html)
+- [COVID-19: Last week today with epidemiologist David Fisman](https://www.tvo.org/article/covid-19-last-week-today-with-epidemiologist-david-fisman); previous weeks: [1 May 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-26-may-1), [24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-19-24)
 
 # Situation summaries
 
