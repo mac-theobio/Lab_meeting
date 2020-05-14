@@ -17,13 +17,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 * [Table 2 fallacy](https://www.ncbi.nlm.nih.gov/pubmed/23371353)
 
-### Discussion of R(t)
-
-* [https://staff.math.su.se/hoehle/blog/2020/04/15/effectiveR0.html](The blog post we started with)
-
-* [Pan article on interventions](https://jamanetwork.com/journals/jama/fullarticle/2764658)
-	* [Joshi response](https://github.com/keyajoshi/Pan_response)
-
 ## COVID stuff
 
 - [stuff on COVID-19 evolution](./covid-19/evolution.md)
@@ -174,7 +167,7 @@ CMAJ](https://doi.org/10.1503/cmaj.200920)
 
 ### Discussion of R(t)
 
-* [https://staff.math.su.se/hoehle/blog/2020/04/15/effectiveR0.html](The blog post we started with)
+* [The blog post we started with](https://staff.math.su.se/hoehle/blog/2020/04/15/effectiveR0.html)
 
 * [Pan article on interventions](https://jamanetwork.com/journals/jama/fullarticle/2764658)
 	* [Joshi response](https://github.com/keyajoshi/Pan_response)
