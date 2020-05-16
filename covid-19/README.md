@@ -21,6 +21,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [27 March 2020.  Minute Physics "How To Tell If We're Beating COVID-19" (cases as a function of cumulative cases)](https://www.youtube.com/watch?v=54XLXg4fYsc)
 	- [Aatish Bhatia's Interactive charts](https://aatishb.com/covidtrends/)
 - [28 March 2020.  Stay the F*ck at Home! (video)](https://www.youtube.com/watch?v=e0G63uzhFP4)
+- [29 March 2020.  I’ve fought epidemics around the world. Now it’s Canada that must prepare for the worst](https://www.theglobeandmail.com/opinion/article-ive-fought-epidemics-around-the-world-now-its-canada-that-must/)
 - [4 April 2020.  The Economist: The hard choices covid policymakers face](https://www.economist.com/briefing/2020/04/03/the-hard-choices-covid-policymakers-face)
 - [4 April 2020. 7 Ways to Explore the Math of the Coronavirus Using The New York Times](https://www.nytimes.com/2020/04/02/learning/7-ways-to-explore-the-math-of-the-coronavirus-using-the-new-york-times.html)
 - [2 April 2020.  National Post: Canada's public data on COVID-19 is (mostly) a mess. Here's how to find the useful info](https://nationalpost.com/news/canadas-public-data-on-covid-19-is-mostly-a-mess-heres-how-to-find-the-useful-info)
@@ -45,10 +46,13 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [24 April 2020.  Globe and Mail: How Canada’s crucial data gaps are hindering the coronavirus pandemic response](https://www.theglobeandmail.com/canada/article-how-canadas-crucial-data-gaps-are-hindering-the-coronavirus-pandemic/)
 - [26 April 2020.  NY Times: Can Antibody Tests Help End the Coronavirus Pandemic?](https://www.nytimes.com/2020/04/26/health/can-antibody-tests-help-end-the-coronavirus-pandemic.html)
 - [30 April 2020.  NY Times: How Long Will a Vaccine Really Take?](https://www.nytimes.com/interactive/2020/04/30/opinion/coronavirus-covid-vaccine.html)
+- [30 April 2020. Higher Education in the Age of Coronavirus](http://bostonreview.net/forum/jeffrey-aaron-snyder-higher-education-age-coronavirus)
 - [1 May 2020.  NY Times, Carl Bergstrom and Natalie Dean: What the Proponents of ‘Natural’ Herd Immunity Don’t Say](https://www.nytimes.com/2020/05/01/opinion/sunday/coronavirus-herd-immunity.html)
 - [2 May 2020.  NY Times: proposed RCT for school openings](https://www.nytimes.com/2020/05/02/sunday-review/coronavirus-school-closings.html)
 - [8 May 2020.  (_about CMAJ paper we read in lab meeting_) The Star: Study pours cold water on hopes that warm weather will defeat COVID-19](https://www.thestar.com/news/canada/2020/05/08/study-pours-cold-water-on-hopes-that-warm-weather-will-defeat-covid-19.html)
 - [COVID-19: Last week today with epidemiologist David Fisman](https://www.tvo.org/article/covid-19-last-week-today-with-epidemiologist-david-fisman); previous weeks: [1 May 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-26-may-1), [24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-19-24)
+- [15 May 2020.  Guardian: 'Weird as hell’: the Covid-19 patients who have symptoms for months](https://www.theguardian.com/world/2020/may/15/weird-hell-professor-advent-calendar-covid-19-symptoms-paul-garner)
+- [15 May 2020.  The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York City](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html)
 
 # Situation summaries
 
@@ -131,6 +135,7 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [9 April 2020.  CTV news: JD live interview #2](https://www.ctvnews.ca/video?clipId=1937638)
 - [9 April 2020.  National Post. BB quoted. "'Dynamic' physical distancing could help balance COVID-19 fight, economy: study"](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/dynamic-physical-distancing-could-help-balance-covid-19-fight-economy-study)
 - [12 April 2020.  Toronto.com (by Kate Allen):  DE quoted. What the COVID-19 ‘new normal’ could look like](https://www.toronto.com/news-story/9940057-what-the-covid-19-new-normal-could-look-like/)
+- [11 May 2020. McMaster faculty help lead national response to COVID-19](https://brighterworld.mcmaster.ca/articles/mcmaster-faculty-help-lead-national-response-to-covid-19/)
 
 # Online videos of talks by our group
 
