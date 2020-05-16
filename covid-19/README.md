@@ -129,6 +129,8 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 
 # Our group in the media
 
+- [23 January 2020.  DE quoted: _Rolling Stone:_  ](https://www.rollingstone.com/culture/culture-news/coronavirus-wuhan-china-virus-quarantine-death-toll-941417/)
+- [19 March 2020.  DE quoted: _theScore:_ In a global pandemic, is there such thing as a safe Olympics?](https://www.thescore.com/olyms_fed/news/1965181/in-a-global-pandemic-is-there-such-thin%3E%20a-safe-olympics)
 - [16 March 2020.  Globe and Mail](https://www.theglobeandmail.com/canada/article-scientists-see-no-quick-end-to-the-coronavirus-battle/)
 - [1 April 2020. iPolitics: DE quoted.  What if COVID-19 comes in waves, as other pandemics have?](https://ipolitics.ca/2020/04/01/what-if-covid-19-comes-in-waves-as-other-pandemics-have/)
 - [7 April 2020.  CTV news: JD live interview](https://www.ctvnews.ca/video?clipId=1935799)
