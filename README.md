@@ -23,6 +23,8 @@ Please read:
 * [This slide deck (just skim) from Ping Yan](https://www.dropbox.com/sh/5bis46c866cju8x/AACRSqQXH8dnAuBWTt6uthCja/YanTrends.pdf?dl=0
 https://www.dropbox.com/sh/5bis46c866cju8x/AACrudjXYqnSSew9RDW-UEL0a/YanTrends.pdf)
 
+Please also add notes or resources about this topic!
+
 
 ## COVID stuff
 
