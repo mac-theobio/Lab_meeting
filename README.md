@@ -1,6 +1,6 @@
 # Mac-Theobio Lab Meetings
 
-- Friday, 14:30 (Ontario time) by [zoom](https://tinyurl.com/theobio-zoom) (you will need a link or password from your email to join
+- Friday, 14:00 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 	* Lab coffee is still on the [Google hangout](http://tinyurl.com/theobio-lab-meeting)
 
@@ -13,9 +13,16 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 15 May
+### 22 May. Truncation and censoring
 
-* [Table 2 fallacy](https://www.ncbi.nlm.nih.gov/pubmed/23371353)
+We will talk about adjusting for reporting delays when analyzing epidemics.
+
+Please read:
+
+* [This very-short Slate piece by FotL Joshua Weitz](https://slate.com/technology/2020/05/georgia-reopening-data-error.html)
+* [This slide deck (just skim) from Ping Yan](https://www.dropbox.com/sh/5bis46c866cju8x/AACRSqQXH8dnAuBWTt6uthCja/YanTrends.pdf?dl=0
+https://www.dropbox.com/sh/5bis46c866cju8x/AACrudjXYqnSSew9RDW-UEL0a/YanTrends.pdf)
+
 
 ## COVID stuff
 
@@ -157,6 +164,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+## 15 May
+
+* [Table 2 fallacy](https://www.ncbi.nlm.nih.gov/pubmed/23371353)
 
 ## 8 May
 
