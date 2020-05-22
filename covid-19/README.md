@@ -55,6 +55,8 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [11 May 2020.  NY Times Op-Ed: 10-4: How to Reopen the Economy by Exploiting the Coronavirus’s Weak Spot](https://www.nytimes.com/2020/05/11/opinion/coronavirus-reopen.html)
 - [15 May 2020.  Guardian: 'Weird as hell’: the Covid-19 patients who have symptoms for months](https://www.theguardian.com/world/2020/may/15/weird-hell-professor-advent-calendar-covid-19-symptoms-paul-garner)
 - [15 May 2020.  The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York City](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html)
+- [15 May 2020. Sweden Stayed Open. A Deadly Month Shows the Risks](https://www.nytimes.com/interactive/2020/05/15/world/europe/sweden-coronavirus-deaths.html)
+- [18 May 2020. Early data show Moderna Covid-19 vaccine generates immune response](https://www.statnews.com/2020/05/18/early-data-show-moderna-covid-19-vaccine-generates-immune-response/)
 
 # Situation summaries
 
@@ -128,6 +130,8 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 
 - [Imperial College COVID-19 reports](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/covid-19-reports/)
 - [17 March 2020. NEJM: Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://www.nejm.org/doi/full/10.1056/NEJMc2004973)
+- [13 May 2020.  PNAS: The airborne lifetime of small speech droplets and their potential importance in SARS-CoV-2 transmission](https://www.pnas.org/content/early/2020/05/12/2006874117)
+
 
 # Our group in the media
 
