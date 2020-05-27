@@ -57,7 +57,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [15 May 2020.  The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York City](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html)
 - [15 May 2020. Sweden Stayed Open. A Deadly Month Shows the Risks](https://www.nytimes.com/interactive/2020/05/15/world/europe/sweden-coronavirus-deaths.html)
 - [18 May 2020. Early data show Moderna Covid-19 vaccine generates immune response](https://www.statnews.com/2020/05/18/early-data-show-moderna-covid-19-vaccine-generates-immune-response/)
-- [27 May 2020.  ](https://newsinteractives.cbc.ca/coronavirusr0/)
+- [27 May 2020.  CBC News: R, a key metric to watch as COVID-19 restrictions are lifted](https://newsinteractives.cbc.ca/coronavirusr0/)
 
 # Situation summaries
 
