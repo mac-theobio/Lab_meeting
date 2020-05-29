@@ -13,17 +13,11 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 22 May. Truncation and censoring
+### 29 May. Heterogeneity and herd immunity
 
-We will talk about adjusting for reporting delays when analyzing epidemics.
-
-Please read:
-
-* [This very-short Slate piece by FotL Joshua Weitz](https://slate.com/technology/2020/05/georgia-reopening-data-error.html)
-* [This slide deck (just skim) from Ping Yan](https://www.dropbox.com/sh/5bis46c866cju8x/AACRSqQXH8dnAuBWTt6uthCja/YanTrends.pdf?dl=0)
+This topic was triggered by [this twitter thread](https://twitter.com/bansallab/status/1258872610210877442) (scroll up for main thread). There are at least three interesting-looking pubs cited here (Gomes, Britton, Bansal). Gomes is the main reading for this week, so spend some time on that and move on to the others if you have time and interes.
 
 Please also add notes or resources about this topic!
-
 
 ## COVID stuff
 
@@ -165,6 +159,17 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+### 22 May. Truncation and censoring
+
+We will talk about adjusting for reporting delays when analyzing epidemics.
+
+Please read:
+
+* [This very-short Slate piece by FotL Joshua Weitz](https://slate.com/technology/2020/05/georgia-reopening-data-error.html)
+* [This slide deck (just skim) from Ping Yan](https://www.dropbox.com/sh/5bis46c866cju8x/AACRSqQXH8dnAuBWTt6uthCja/YanTrends.pdf?dl=0)
+
+Please also add notes or resources about this topic!
 
 ## 15 May
 
