@@ -13,12 +13,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 29 May. Heterogeneity and herd immunity
-
-This topic was triggered by [this twitter thread](https://twitter.com/bansallab/status/1258872610210877442) (scroll up for main thread). There are at least three interesting-looking pubs cited here (Gomes, Britton, Bansal). Gomes is the main reading for this week, so spend some time on that and move on to the others if you have time and interes.
-
-Please also add notes or resources about this topic!
-
 ## COVID stuff
 
 - [stuff on COVID-19 evolution](./covid-19/evolution.md)
@@ -159,6 +153,12 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+### 29 May. Heterogeneity and herd immunity
+
+This topic was triggered by [this twitter thread](https://twitter.com/bansallab/status/1258872610210877442) (scroll up for main thread). There are at least three interesting-looking pubs cited here (Gomes, Britton, Bansal). Gomes is the main reading for this week, so spend some time on that and move on to the others if you have time and interes.
+
+Please also add notes or resources about this topic!
 
 ### 22 May. Truncation and censoring
 
