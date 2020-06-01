@@ -18,6 +18,22 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 - [stuff on COVID-19 evolution](./covid-19/evolution.md)
 - [links to COVID-19 info/resources](./covid-19/README.md)
 
+### New (Covid and covid-project related)
+
+[Grewal and deLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
+
+How does this compact version look on github default render?
+[Friston dark matter](https://arxiv.org/abs/2004.04463)
+* [Guardian article] https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter
+
+[Friston dark matter](https://arxiv.org/abs/2004.04463)
+
+* [Guardian article] https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter
+
+TMB (T model builder)
+* [A key paper](https://www.jstatsoft.org/article/view/v070i05)
+* [Intro to users manual](https://kaskr.github.io/adcomp/_book/Introduction.html)
+
 ### Screened
 
 Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227)
