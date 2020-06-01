@@ -13,14 +13,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## COVID stuff
-
-- [stuff on COVID-19 evolution](./covid-19/evolution.md)
-- [links to COVID-19 info/resources](./covid-19/README.md)
-
-### Newer suggestions (Covid and covid-project related)
-
 Agenda item: epigrowthfit project
+
+### Possible topics
 
 [Grewal and deLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
 
@@ -30,6 +25,13 @@ Agenda item: epigrowthfit project
 TMB (T model builder)
 * [A key paper](https://www.jstatsoft.org/article/view/v070i05)
 * [Intro to users manual](https://kaskr.github.io/adcomp/_book/Introduction.html)
+
+## COVID stuff
+
+- [stuff on COVID-19 evolution](./covid-19/evolution.md)
+- [links to COVID-19 info/resources](./covid-19/README.md)
+
+### Newer suggestions (Covid and covid-project related)
 
 ### Screened
 
