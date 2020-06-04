@@ -222,5 +222,5 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 
 # publications involving our group
 
-- [Weitz et al, 7 May 2020, _Nature Medicine_ "Modeling shield immunity to reduce COVID-19 epidemic spread"](https://www.nature.com/articles/s41591-020-0895-3)
+See [our public COVID-19 research summary page](https://mac-theobio.github.io/covid-19/index.html)
 
