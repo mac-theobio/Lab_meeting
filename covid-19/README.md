@@ -62,6 +62,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [28 May 2020.  Lewis and Coombs, RSC comments on COVID-19 models](https://rsc-src.ca/en/covid-19)
 - [30 May 2020.  The Star.  Why workplace outbreaks are a new frontier for COVID-19 in the GTA](https://www.thestar.com/news/gta/2020/05/30/why-workplace-outbreaks-are-a-new-frontier-for-covid-19-in-the-gta.html)
 - [1 June 2020.  CBC News.  Hospitals failed to flag 700 positive COVID-19 tests to Ontario's public health units](https://www.cbc.ca/news/canada/toronto/covid-19-ontario-hospitals-missed-telling-public-health-confirmed-cases-1.5593572)
+- [4 June 2020.  Globe and Mail. Ontario appoints Jane Philpott to lead pandemic data effort](https://www.theglobeandmail.com/canada/article-ontario-appoints-jane-philpott-to-lead-pandemic-data-effort/)
 
 # Situation summaries
 
