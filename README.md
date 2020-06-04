@@ -18,6 +18,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 * Reading: [Friston dark matter](https://arxiv.org/abs/2004.04463)
 	* [Guardian article](https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter)
 * Agenda item: epigrowthfit project
+	* [Conversation comment](https://theconversation.com/coronavirus-techniques-from-physics-promise-better-covid-19-models-can-they-deliver-139925)
 
 ### Possible topics
 
