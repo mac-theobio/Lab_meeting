@@ -13,14 +13,15 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-Agenda item: epigrowthfit project
+2020 Jun 05 (Fri)
+
+* Reading: [Friston dark matter](https://arxiv.org/abs/2004.04463)
+	* [Guardian article](https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter)
+* Agenda item: epigrowthfit project
 
 ### Possible topics
 
 [Grewal and deLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
-
-[Friston dark matter](https://arxiv.org/abs/2004.04463)
-* [Guardian article](https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter)
 
 TMB (T model builder)
 * [A key paper](https://www.jstatsoft.org/article/view/v070i05)
