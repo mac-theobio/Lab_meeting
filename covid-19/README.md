@@ -63,8 +63,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [30 May 2020.  The Star.  Why workplace outbreaks are a new frontier for COVID-19 in the GTA](https://www.thestar.com/news/gta/2020/05/30/why-workplace-outbreaks-are-a-new-frontier-for-covid-19-in-the-gta.html)
 - [1 June 2020.  CBC News.  Hospitals failed to flag 700 positive COVID-19 tests to Ontario's public health units](https://www.cbc.ca/news/canada/toronto/covid-19-ontario-hospitals-missed-telling-public-health-confirmed-cases-1.5593572)
 - [4 June 2020.  Globe and Mail. Ontario appoints Jane Philpott to lead pandemic data effort](https://www.theglobeandmail.com/canada/article-ontario-appoints-jane-philpott-to-lead-pandemic-data-effort/)
-- [4 June 2020. The Conversation.  Coronavirus: techniques from physics promise better COVID-19 models – can they deliver?](https://theconversation.com/coronavirus-techniques-from-physics-promise-better-covid-19-mo
-dels-can-they-deliver-139925)
+- [4 June 2020. The Conversation.  Coronavirus: techniques from physics promise better COVID-19 models – can they deliver?](https://theconversation.com/coronavirus-techniques-from-physics-promise-better-covid-19-models-can-they-deliver-139925)
 - [7 June 2020.  Guardian.  Are we underestimating how many people are resistant to Covid-19?](https://www.theguardian.com/world/2020/jun/07/immunological-dark-matter-does-it-exist-coronavirus-population-immunity)
 
 # Situation summaries
