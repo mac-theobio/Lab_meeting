@@ -2,7 +2,7 @@
 
 - Friday, 14:00 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
-	* Lab coffee is still on the [Google hangout](http://tinyurl.com/theobio-lab-meeting)
+	* Lab coffee is on [Google hangout](http://tinyurl.com/theobio-lab-meeting) and [Google chat](https://tinyurl.com/theobo-lab-chat)
 
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
