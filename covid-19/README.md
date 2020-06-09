@@ -60,6 +60,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [25 May 2020. Ontario to maintain group size restrictions amid rising COVID-19 cases, crowded parks](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-may-25-testing-guidelines-1.5583132)
 - [27 May 2020.  CBC News: R, a key metric to watch as COVID-19 restrictions are lifted](https://newsinteractives.cbc.ca/coronavirusr0/)
 - [28 May 2020.  Lewis and Coombs, RSC comments on COVID-19 models](https://rsc-src.ca/en/covid-19)
+- [29 May 2020.  National Geographic on Maurice Hilleman. his virologist saved millions of children—and stopped a pandemic](https://www.nationalgeographic.com/history/2020/05/virologist-maurice-hilleman-saved-millions-children-stopped-pandemic/)
 - [30 May 2020.  The Star.  Why workplace outbreaks are a new frontier for COVID-19 in the GTA](https://www.thestar.com/news/gta/2020/05/30/why-workplace-outbreaks-are-a-new-frontier-for-covid-19-in-the-gta.html)
 - [1 June 2020.  CBC News.  Hospitals failed to flag 700 positive COVID-19 tests to Ontario's public health units](https://www.cbc.ca/news/canada/toronto/covid-19-ontario-hospitals-missed-telling-public-health-confirmed-cases-1.5593572)
 - [4 June 2020.  Globe and Mail. Ontario appoints Jane Philpott to lead pandemic data effort](https://www.theglobeandmail.com/canada/article-ontario-appoints-jane-philpott-to-lead-pandemic-data-effort/)
