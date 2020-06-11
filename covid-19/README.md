@@ -219,6 +219,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Fields Institute sponsored projects (Kumar's grant)](http://www.fields.utoronto.ca/activities/Mathematical-Modelling-COVID-19)
 - [Lancet coronavirus collection](https://www.thelancet.com/coronavirus)
 - [Daniel and other at Princeton: Face masks for the general public](https://rs-delve.github.io/reports/2020/05/04/face-masks-for-the-general-public.html)
+- [COVID corpus](http://www.covidcorpus.com/) COVID-19 COllaborative Research Portal and knowledge Utility System
 
 # Funding to our group
 
