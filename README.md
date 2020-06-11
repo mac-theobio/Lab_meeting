@@ -13,21 +13,15 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-2020 Jun 05 (Fri)
+### 2020 Jun 12
 
-* Reading: [Friston dark matter](https://arxiv.org/abs/2004.04463)
-	* [Guardian article](https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter)
-	* [Conversation comment](https://theconversation.com/coronavirus-techniques-from-physics-promise-better-covid-19-models-can-they-deliver-139925)
-
-* Agenda item: epigrowthfit project
+TMB (Template model builder)
+* [A key paper](https://www.jstatsoft.org/article/view/v070i05)
+* [Intro to users manual](https://kaskr.github.io/adcomp/_book/Introduction.html)
 
 ### Possible topics
 
 [Grewal and deLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
-
-TMB (T model builder)
-* [A key paper](https://www.jstatsoft.org/article/view/v070i05)
-* [Intro to users manual](https://kaskr.github.io/adcomp/_book/Introduction.html)
 
 ## COVID stuff
 
@@ -171,6 +165,14 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+### 2020 Jun 05 (Fri) Fancy physics fitting
+
+* Reading: [Friston dark matter](https://arxiv.org/abs/2004.04463)
+	* [Guardian article](https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter)
+	* [Conversation comment](https://theconversation.com/coronavirus-techniques-from-physics-promise-better-covid-19-models-can-they-deliver-139925)
+
+* Agenda item: epigrowthfit project
 
 ### 29 May. Heterogeneity and herd immunity
 
