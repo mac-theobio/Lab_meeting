@@ -13,6 +13,11 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2020 Jun 19
+
+Reports??
+* Send me email!!
+
 ### 2020 Jun 12
 
 TMB (Template model builder)
