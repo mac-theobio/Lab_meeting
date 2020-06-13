@@ -13,6 +13,11 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2020 Jun 19
+
+Reports??
+* Send me email!!
+
 ### 2020 Jun 12
 
 TMB (Template model builder)
@@ -21,7 +26,8 @@ TMB (Template model builder)
 
 ### Possible topics
 
-[Grewal and deLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
+- [Grewal and deLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
+- [Campbell, deValpine et al: estimating IFR in the presence of testing bias](https://arxiv.org/abs/2005.08459)
 
 ## COVID stuff
 
