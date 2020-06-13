@@ -68,6 +68,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [4 June 2020. The Conversation.  Coronavirus: techniques from physics promise better COVID-19 models – can they deliver?](https://theconversation.com/coronavirus-techniques-from-physics-promise-better-covid-19-models-can-they-deliver-139925)
 - [7 June 2020.  Guardian.  Are we underestimating how many people are resistant to Covid-19?](https://www.theguardian.com/world/2020/jun/07/immunological-dark-matter-does-it-exist-coronavirus-population-immunity)
 - [10 June 2020.  NY Times.  Coronavirus Vaccine Tracker, By Jonathan Corum and Carl Zimmer](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
+- [12 June 2020.  NY Times. How 133 Epidemiologists Are Deciding When to Send Their Children to School](https://www.nytimes.com/2020/06/12/upshot/epidemiologists-decisions-children-school-coronavirus.html)
 
 # Situation summaries
 
