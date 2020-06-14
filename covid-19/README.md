@@ -223,6 +223,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Daniel and other at Princeton: Face masks for the general public](https://rs-delve.github.io/reports/2020/05/04/face-masks-for-the-general-public.html)
 - [COVID corpus](http://www.covidcorpus.com/) COVID-19 COllaborative Research Portal and knowledge Utility System
 - [COVIDView (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html)
+- [COVID Hamilton](https://www.hamilton.ca/coronavirus/status-cases-in-hamilton)
 
 # Funding to our group
 
