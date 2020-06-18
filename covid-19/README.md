@@ -226,6 +226,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [COVIDView (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html)
 - [COVID Hamilton](https://www.hamilton.ca/coronavirus/status-cases-in-hamilton)
 - [Sharmistha's COVID GTA surge planning project, including R Shiny](https://github.com/mishra-lab/covid-GTA-surge-planning)
+- [Collabovid: Explore COVID-19 Publications (search tool)](https://www.collabovid.org)
 
 # Funding to our group
 
