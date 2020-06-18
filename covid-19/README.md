@@ -70,6 +70,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [7 June 2020.  Guardian.  Are we underestimating how many people are resistant to Covid-19?](https://www.theguardian.com/world/2020/jun/07/immunological-dark-matter-does-it-exist-coronavirus-population-immunity)
 - [10 June 2020.  NY Times.  Coronavirus Vaccine Tracker, By Jonathan Corum and Carl Zimmer](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 - [12 June 2020.  NY Times. How 133 Epidemiologists Are Deciding When to Send Their Children to School](https://www.nytimes.com/2020/06/12/upshot/epidemiologists-decisions-children-school-coronavirus.html)
+- [14 June 2020.  NY Times.  Slowing the Coronavirus Is Speeding the Spread of Other Diseases](https://www.nytimes.com/2020/06/14/health/coronavirus-vaccines-measles.html)
 
 # Situation summaries
 
