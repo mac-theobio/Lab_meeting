@@ -225,6 +225,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [COVID corpus](http://www.covidcorpus.com/) COVID-19 COllaborative Research Portal and knowledge Utility System
 - [COVIDView (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html)
 - [COVID Hamilton](https://www.hamilton.ca/coronavirus/status-cases-in-hamilton)
+- [Sharmistha's COVID GTA surge planning project, including R Shiny](https://github.com/mishra-lab/covid-GTA-surge-planning)
 
 # Funding to our group
 
