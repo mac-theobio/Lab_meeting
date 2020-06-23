@@ -71,7 +71,9 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [10 June 2020.  NY Times.  Coronavirus Vaccine Tracker, By Jonathan Corum and Carl Zimmer](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 - [12 June 2020.  NY Times. How 133 Epidemiologists Are Deciding When to Send Their Children to School](https://www.nytimes.com/2020/06/12/upshot/epidemiologists-decisions-children-school-coronavirus.html)
 - [14 June 2020.  NY Times.  Slowing the Coronavirus Is Speeding the Spread of Other Diseases](https://www.nytimes.com/2020/06/14/health/coronavirus-vaccines-measles.html)
+- [14 June 2020.  CBC News.  What some Western countries could learn about fighting pandemics in the community](https://www.cbc.ca/news/health/covid-country-comparison-1.5610798)
 - [18 June 2020.  The Toronto Star.  After months of criticism, Ontario is overhauling COVID-19 data collection. Here’s why some say it could be a game-changer](https://www.thestar.com/news/gta/2020/06/18/after-months-of-criticism-ontario-is-overhauling-covid-19-data-collection-heres-why-some-say-it-could-be-a-game-changer.html)
+- [21 June 2020.  CBC News video. 2nd wave of COVID-19 a ‘statistical certainty:’ infectious disease expert (masks help)](https://www.cbc.ca/player/play/1754026563683)
 
 # Situation summaries
 
