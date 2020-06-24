@@ -231,6 +231,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [COVID Hamilton](https://www.hamilton.ca/coronavirus/status-cases-in-hamilton)
 - [Sharmistha's COVID GTA surge planning project, including R Shiny](https://github.com/mishra-lab/covid-GTA-surge-planning)
 - [Collabovid: Explore COVID-19 Publications (search tool)](https://www.collabovid.org)
+- [Economist Election forecaster (by Gelman)](https://projects.economist.com/us-2020-forecast/president)
 
 # Funding to our group
 
