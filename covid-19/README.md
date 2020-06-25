@@ -232,6 +232,7 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Sharmistha's COVID GTA surge planning project, including R Shiny](https://github.com/mishra-lab/covid-GTA-surge-planning)
 - [Collabovid: Explore COVID-19 Publications (search tool)](https://www.collabovid.org)
 - [Economist Election forecaster (by Gelman)](https://projects.economist.com/us-2020-forecast/president)
+- [Lee Worden California COVID Rt](https://ca-covid-r.info/)
 
 # Funding to our group
 
