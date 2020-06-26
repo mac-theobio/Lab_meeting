@@ -74,6 +74,8 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [14 June 2020.  CBC News.  What some Western countries could learn about fighting pandemics in the community](https://www.cbc.ca/news/health/covid-country-comparison-1.5610798)
 - [18 June 2020.  The Toronto Star.  After months of criticism, Ontario is overhauling COVID-19 data collection. Here’s why some say it could be a game-changer](https://www.thestar.com/news/gta/2020/06/18/after-months-of-criticism-ontario-is-overhauling-covid-19-data-collection-heres-why-some-say-it-could-be-a-game-changer.html)
 - [21 June 2020.  CBC News video. 2nd wave of COVID-19 a ‘statistical certainty:’ infectious disease expert (masks help)](https://www.cbc.ca/player/play/1754026563683)
+- [25 June 2020.  The Star.  How what we flush down the toilet could provide early warning of a second wave of COVID-19](https://www.thestar.com/news/gta/2020/06/25/how-what-we-flush-down-the-toilet-could-provide-early-warning-of-a-second-wave-of-covid-19.html)
+- [25 June 2020.  NY Times.  How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html)
 
 # Situation summaries
 
