@@ -77,6 +77,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [21 June 2020.  CBC News video. 2nd wave of COVID-19 a ‘statistical certainty:’ infectious disease expert (masks help)](https://www.cbc.ca/player/play/1754026563683)
 - [25 June 2020.  The Star.  How what we flush down the toilet could provide early warning of a second wave of COVID-19](https://www.thestar.com/news/gta/2020/06/25/how-what-we-flush-down-the-toilet-could-provide-early-warning-of-a-second-wave-of-covid-19.html)
 - [25 June 2020.  NY Times.  How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html)
+- [26 June 2020.  Boston Review.  The Shape of Epidemics](http://bostonreview.net/science-nature/david-s-jones-stefan-helmreich-shape-epidemics)
 
 # Situation summaries
 
