@@ -59,6 +59,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [18 May 2020. Early data show Moderna Covid-19 vaccine generates immune response](https://www.statnews.com/2020/05/18/early-data-show-moderna-covid-19-vaccine-generates-immune-response/)
 - [21 May 2020. Scientific American.  Joshua Weitz _et al_. Online COVID-19 Dashboard Calculates How Risky Reopenings and Gatherings Can Be](https://blogs.scientificamerican.com/observations/online-covid-19-dashboard-calculates-how-risky-reopenings-and-gatherings-can-be/)
 - [25 May 2020. Ontario to maintain group size restrictions amid rising COVID-19 cases, crowded parks](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-may-25-testing-guidelines-1.5583132)
+- [25 May 2020.  Science.  Study tells ‘remarkable story’ about COVID-19’s deadly rampage through a South African hospital](https://www.sciencemag.org/news/2020/05/study-tells-remarkable-story-about-covid-19-s-deadly-rampage-through-south-african)
 - [27 May 2020.  CBC News: R, a key metric to watch as COVID-19 restrictions are lifted](https://newsinteractives.cbc.ca/coronavirusr0/)
 - [28 May 2020.  Lewis and Coombs, RSC comments on COVID-19 models](https://rsc-src.ca/en/covid-19)
 - [29 May 2020.  National Geographic on Maurice Hilleman. his virologist saved millions of children—and stopped a pandemic](https://www.nationalgeographic.com/history/2020/05/virologist-maurice-hilleman-saved-millions-children-stopped-pandemic/)
