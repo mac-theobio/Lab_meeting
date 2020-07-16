@@ -26,8 +26,10 @@ TMB (Template model builder)
 
 ### Possible topics
 
+Testing
 - [Grewal and deLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
 - [Campbell, deValpine et al: estimating IFR in the presence of testing bias](https://arxiv.org/abs/2005.08459)
+* [Conversation: Coronavirus country comparisons are pointless unless we account for these biases in testing](https://theconversation.com/coronavirus-country-comparisons-are-pointless-unless-we-account-for-these-biases-in-testing-135464)
 
 ## COVID stuff
 
