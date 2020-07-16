@@ -57,7 +57,9 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [15 May 2020.  The Richest Neighborhoods Emptied Out Most as Coronavirus Hit New York City](https://www.nytimes.com/interactive/2020/05/15/upshot/who-left-new-york-coronavirus.html)
 - [15 May 2020. Sweden Stayed Open. A Deadly Month Shows the Risks](https://www.nytimes.com/interactive/2020/05/15/world/europe/sweden-coronavirus-deaths.html)
 - [18 May 2020. Early data show Moderna Covid-19 vaccine generates immune response](https://www.statnews.com/2020/05/18/early-data-show-moderna-covid-19-vaccine-generates-immune-response/)
+- [21 May 2020. Scientific American.  Joshua Weitz _et al_. Online COVID-19 Dashboard Calculates How Risky Reopenings and Gatherings Can Be](https://blogs.scientificamerican.com/observations/online-covid-19-dashboard-calculates-how-risky-reopenings-and-gatherings-can-be/)
 - [25 May 2020. Ontario to maintain group size restrictions amid rising COVID-19 cases, crowded parks](https://www.cbc.ca/news/canada/toronto/covid-19-coronavirus-ontario-may-25-testing-guidelines-1.5583132)
+- [25 May 2020.  Science.  Study tells ‘remarkable story’ about COVID-19’s deadly rampage through a South African hospital](https://www.sciencemag.org/news/2020/05/study-tells-remarkable-story-about-covid-19-s-deadly-rampage-through-south-african)
 - [27 May 2020.  CBC News: R, a key metric to watch as COVID-19 restrictions are lifted](https://newsinteractives.cbc.ca/coronavirusr0/)
 - [28 May 2020.  Lewis and Coombs, RSC comments on COVID-19 models](https://rsc-src.ca/en/covid-19)
 - [29 May 2020.  National Geographic on Maurice Hilleman. his virologist saved millions of children—and stopped a pandemic](https://www.nationalgeographic.com/history/2020/05/virologist-maurice-hilleman-saved-millions-children-stopped-pandemic/)
@@ -68,6 +70,14 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [4 June 2020. The Conversation.  Coronavirus: techniques from physics promise better COVID-19 models – can they deliver?](https://theconversation.com/coronavirus-techniques-from-physics-promise-better-covid-19-models-can-they-deliver-139925)
 - [7 June 2020.  Guardian.  Are we underestimating how many people are resistant to Covid-19?](https://www.theguardian.com/world/2020/jun/07/immunological-dark-matter-does-it-exist-coronavirus-population-immunity)
 - [10 June 2020.  NY Times.  Coronavirus Vaccine Tracker, By Jonathan Corum and Carl Zimmer](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
+- [12 June 2020.  NY Times. How 133 Epidemiologists Are Deciding When to Send Their Children to School](https://www.nytimes.com/2020/06/12/upshot/epidemiologists-decisions-children-school-coronavirus.html)
+- [14 June 2020.  NY Times.  Slowing the Coronavirus Is Speeding the Spread of Other Diseases](https://www.nytimes.com/2020/06/14/health/coronavirus-vaccines-measles.html)
+- [14 June 2020.  CBC News.  What some Western countries could learn about fighting pandemics in the community](https://www.cbc.ca/news/health/covid-country-comparison-1.5610798)
+- [18 June 2020.  The Toronto Star.  After months of criticism, Ontario is overhauling COVID-19 data collection. Here’s why some say it could be a game-changer](https://www.thestar.com/news/gta/2020/06/18/after-months-of-criticism-ontario-is-overhauling-covid-19-data-collection-heres-why-some-say-it-could-be-a-game-changer.html)
+- [21 June 2020.  CBC News video. 2nd wave of COVID-19 a ‘statistical certainty:’ infectious disease expert (masks help)](https://www.cbc.ca/player/play/1754026563683)
+- [25 June 2020.  The Star.  How what we flush down the toilet could provide early warning of a second wave of COVID-19](https://www.thestar.com/news/gta/2020/06/25/how-what-we-flush-down-the-toilet-could-provide-early-warning-of-a-second-wave-of-covid-19.html)
+- [25 June 2020.  NY Times.  How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html)
+- [26 June 2020.  Boston Review.  The Shape of Epidemics](http://bostonreview.net/science-nature/david-s-jones-stefan-helmreich-shape-epidemics)
 
 # Situation summaries
 
@@ -221,6 +231,12 @@ Dataset (for AI applied to text)](https://www.whitehouse.gov/briefings-statement
 - [Lancet coronavirus collection](https://www.thelancet.com/coronavirus)
 - [Daniel and other at Princeton: Face masks for the general public](https://rs-delve.github.io/reports/2020/05/04/face-masks-for-the-general-public.html)
 - [COVID corpus](http://www.covidcorpus.com/) COVID-19 COllaborative Research Portal and knowledge Utility System
+- [COVIDView (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covidview/index.html)
+- [COVID Hamilton](https://www.hamilton.ca/coronavirus/status-cases-in-hamilton)
+- [Sharmistha's COVID GTA surge planning project, including R Shiny](https://github.com/mishra-lab/covid-GTA-surge-planning)
+- [Collabovid: Explore COVID-19 Publications (search tool)](https://www.collabovid.org)
+- [Economist Election forecaster (by Gelman)](https://projects.economist.com/us-2020-forecast/president)
+- [Lee Worden California COVID Rt](https://ca-covid-r.info/)
 
 # Funding to our group
 
