@@ -13,23 +13,12 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2020 Jun 19
-
-Reports??
-* Send me email!!
-
-### 2020 Jun 12
-
-TMB (Template model builder)
-* [A key paper](https://www.jstatsoft.org/article/view/v070i05)
-* [Intro to users manual](https://kaskr.github.io/adcomp/_book/Introduction.html)
-
-### Possible topics
-
-Testing
-- [Grewal and deLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
+Testing and fatality rates
+- [Primary reading: Grewelle and DeLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
 - [Campbell, deValpine et al: estimating IFR in the presence of testing bias](https://arxiv.org/abs/2005.08459)
 * [Conversation: Coronavirus country comparisons are pointless unless we account for these biases in testing](https://theconversation.com/coronavirus-country-comparisons-are-pointless-unless-we-account-for-these-biases-in-testing-135464)
+
+### Possible topics
 
 ## COVID stuff
 
@@ -173,6 +162,19 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+__Fill in from emails__
+
+### 2020 Jun 19
+
+Reports??
+* Send me email!!
+
+### 2020 Jun 12
+
+TMB (Template model builder)
+* [A key paper](https://www.jstatsoft.org/article/view/v070i05)
+* [Intro to users manual](https://kaskr.github.io/adcomp/_book/Introduction.html)
 
 ### 2020 Jun 05 (Fri) Fancy physics fitting
 
