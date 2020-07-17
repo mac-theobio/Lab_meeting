@@ -13,10 +13,14 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2020 Jul 17
 Testing and fatality rates
 - [Primary reading: Grewelle and DeLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
 - [Campbell, deValpine et al: estimating IFR in the presence of testing bias](https://arxiv.org/abs/2005.08459)
 * [Conversation: Coronavirus country comparisons are pointless unless we account for these biases in testing](https://theconversation.com/coronavirus-country-comparisons-are-pointless-unless-we-account-for-these-biases-in-testing-135464)
+
+[MacPan](https://github.com/bbolker/McMasterPandemic) shiny
+* To play in advance, try `run_shiny(TRUE)` to open it in a browser, or `run_shiny(FALSE)` to run in an RStudio window.
 
 ### Possible topics
 
