@@ -96,6 +96,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-19-24)
 - [Fisman 1 May 2020](https://www.tvo.org/article/covid-19-the-week-in-review-with-epidemiologist-david-fisman-april-26-may-1)
 - [4 May 2020. Evolutionary reason to flatten the curve](http://www.bu.edu/articles/2020/pov-theres-another-reason-to-flatten-the-curve-and-its-one-you-havent-heard-yet/)
+- [1 July 2020.  Loeb on masks in Globe and Mail.  What we know – and don’t know – about masks](https://www.theglobeandmail.com/opinion/article-what-we-know-and-dont-know-about-masks/)
 - [17 July 2020.  Smarter Mass Testing of COVID-19 Can Help U.S. Economy and Schools Safely Restart (Donoho et al)](https://calbizjournal.com/daviddonoho-stanfordstatisticsprofessor)
 
 # Advice and opinions
