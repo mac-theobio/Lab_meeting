@@ -13,6 +13,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+## 2020 Jul 24
+
+- [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
+
 ### 2020 Jul 17
 Testing and fatality rates
 - [Primary reading: Grewelle and DeLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
@@ -71,9 +75,6 @@ Field, et al. ["Framework for quantifying population responses to disturbance re
 
 - [Baker, Mahmud & Metcalf (2018) "Dynamic response of airborne infections to climate change: predictions for varicella"](https://search-proquest-com.libaccess.lib.mcmaster.ca/docview/2032638423/fulltextPDF/48CDE597380242BCPQ/1)
 	* Earn: First paper I've seen that addresses effects of climate change on _airborne_ as opposed to waterborne and vector-transmitted infections.
-
-- [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
-    * Bolker
 
 - [Vehtari, Gelman, …: In this paper we show that the convergence diagnostic Rhat of Gelman and Rubin (1992) has serious flaws and we propose an alternative that fixes them](https://arxiv.org/pdf/1903.08008.pdf)
   	
