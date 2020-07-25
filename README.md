@@ -13,19 +13,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2020 Jul 24
-
-- [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
-
-### 2020 Jul 17
-Testing and fatality rates
-- [Primary reading: Grewelle and DeLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
-- [Campbell, deValpine et al: estimating IFR in the presence of testing bias](https://arxiv.org/abs/2005.08459)
-* [Conversation: Coronavirus country comparisons are pointless unless we account for these biases in testing](https://theconversation.com/coronavirus-country-comparisons-are-pointless-unless-we-account-for-these-biases-in-testing-135464)
-
-[MacPan](https://github.com/bbolker/McMasterPandemic) shiny
-* To play in advance, try `run_shiny(TRUE)` to open it in a browser, or `run_shiny(FALSE)` to run in an RStudio window.
-
 ### Possible topics
 
 ## COVID stuff
@@ -62,6 +49,9 @@ Field, et al. ["Framework for quantifying population responses to disturbance re
 ### Suggested 
 
 #### Please add new suggestions right below this line. Add your name and say something about the paper, and whether you want to recommend it or whether it should be screened
+
+Statistical philosophy from eLife
+https://elifesciences.org/articles/48175?utm_source=content_alert&utm_medium=email&utm_content=fulltext&utm_campaign=22-July-20-elife-alert
 
 - [Lee Worden et al (2019) "Measles transmission during a large outbreak in California"](https://www.sciencedirect.com/science/article/pii/S1755436519300507) _Epidemics_ in press, corrected proof
 	* Earn
@@ -168,7 +158,26 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 ## Past readings and agenda items
 
-__Fill in from emails__
+## 2020 Jul 24
+
+- [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
+
+### 2020 Jul 17
+Testing and fatality rates
+- [Primary reading: Grewelle and DeLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
+- [Campbell, deValpine et al: estimating IFR in the presence of testing bias](https://arxiv.org/abs/2005.08459)
+* [Conversation: Coronavirus country comparisons are pointless unless we account for these biases in testing](https://theconversation.com/coronavirus-country-comparisons-are-pointless-unless-we-account-for-these-biases-in-testing-135464)
+
+[MacPan](https://github.com/bbolker/McMasterPandemic) shiny
+* To play in advance, try `run_shiny(TRUE)` to open it in a browser, or `run_shiny(FALSE)` to run in an RStudio window.
+
+### 2020 Jul 10
+
+Presentation from Ash
+
+### 2020 Jun 26
+
+* more reports
 
 ### 2020 Jun 19
 
