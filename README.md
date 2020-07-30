@@ -13,6 +13,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+## 31 Jul
+
+Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227)
+
 ### Possible topics
 
 ## COVID stuff
@@ -23,9 +27,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 ### Newer suggestions (Covid and covid-project related)
 
 ### Screened
-
-Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227)
-* Earn: Good overview 
 
 Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
 * Park: Practical tools for phylodynamics. LNA to save time cf. filters. 
