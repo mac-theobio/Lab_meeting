@@ -1,3 +1,7 @@
+# Links
+
+[Math bio program advice](https://github.com/davidearn/mbadvice)
+
 # Mac-Theobio Lab Meetings
 
 - Friday, 14:00 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
