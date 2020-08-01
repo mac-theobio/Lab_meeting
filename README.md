@@ -31,6 +31,11 @@ Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex lan
 
 ### Newer suggestions (Covid and covid-project related)
 
+### Newer suggestions (general)
+
+- Meng, Xiao-Li. “Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election.” Annals of Applied Statistics 12, no. 2 (June 2018): 685–726. https://doi.org/10.1214/18-AOAS1161SF ,  https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf
+
+
 ### Screened
 
 Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
