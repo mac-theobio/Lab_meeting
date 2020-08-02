@@ -1,8 +1,12 @@
+# Links
+
+[Math bio program advice](https://github.com/davidearn/mbadvice)
+
 # Mac-Theobio Lab Meetings
 
 - Friday, 14:00 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
-	* Lab coffee is on [Google hangout](http://tinyurl.com/theobio-lab-meeting) and [Google chat](https://tinyurl.com/theobo-lab-chat)
+	* Lab coffee is on [Google hangout](http://tinyurl.com/theobio-lab-meeting) and [Google chat](https://tinyurl.com/theobo-lab-chat), also [here](https://hangouts.google.com/call/fnVQC0CSIYrmHAS9Nb4rACEE?no_rd)
 
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
@@ -13,14 +17,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2020 Jul 17
-Testing and fatality rates
-- [Primary reading: Grewelle and DeLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
-- [Campbell, deValpine et al: estimating IFR in the presence of testing bias](https://arxiv.org/abs/2005.08459)
-* [Conversation: Coronavirus country comparisons are pointless unless we account for these biases in testing](https://theconversation.com/coronavirus-country-comparisons-are-pointless-unless-we-account-for-these-biases-in-testing-135464)
+## 31 Jul
 
-[MacPan](https://github.com/bbolker/McMasterPandemic) shiny
-* To play in advance, try `run_shiny(TRUE)` to open it in a browser, or `run_shiny(FALSE)` to run in an RStudio window.
+Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227) (Main reading)
+* [Recent, relevant article by et al. Park](https://science.sciencemag.org/content/369/6502/368)
 
 ### Possible topics
 
@@ -31,10 +31,12 @@ Testing and fatality rates
 
 ### Newer suggestions (Covid and covid-project related)
 
-### Screened
+### Newer suggestions (general)
 
-Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227)
-* Earn: Good overview 
+- Meng, Xiao-Li. “Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election.” Annals of Applied Statistics 12, no. 2 (June 2018): 685–726. https://doi.org/10.1214/18-AOAS1161SF ,  https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf
+
+
+### Screened
 
 Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
 * Park: Practical tools for phylodynamics. LNA to save time cf. filters. 
@@ -59,6 +61,9 @@ Field, et al. ["Framework for quantifying population responses to disturbance re
 
 #### Please add new suggestions right below this line. Add your name and say something about the paper, and whether you want to recommend it or whether it should be screened
 
+Statistical philosophy from eLife
+https://elifesciences.org/articles/48175?utm_source=content_alert&utm_medium=email&utm_content=fulltext&utm_campaign=22-July-20-elife-alert
+
 - [Lee Worden et al (2019) "Measles transmission during a large outbreak in California"](https://www.sciencedirect.com/science/article/pii/S1755436519300507) _Epidemics_ in press, corrected proof
 	* Earn
 
@@ -71,9 +76,6 @@ Field, et al. ["Framework for quantifying population responses to disturbance re
 
 - [Baker, Mahmud & Metcalf (2018) "Dynamic response of airborne infections to climate change: predictions for varicella"](https://search-proquest-com.libaccess.lib.mcmaster.ca/docview/2032638423/fulltextPDF/48CDE597380242BCPQ/1)
 	* Earn: First paper I've seen that addresses effects of climate change on _airborne_ as opposed to waterborne and vector-transmitted infections.
-
-- [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
-    * Bolker
 
 - [Vehtari, Gelman, …: In this paper we show that the convergence diagnostic Rhat of Gelman and Rubin (1992) has serious flaws and we propose an alternative that fixes them](https://arxiv.org/pdf/1903.08008.pdf)
   	
@@ -167,7 +169,26 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 ## Past readings and agenda items
 
-__Fill in from emails__
+## 2020 Jul 24
+
+- [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
+
+### 2020 Jul 17
+Testing and fatality rates
+- [Primary reading: Grewelle and DeLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
+- [Campbell, deValpine et al: estimating IFR in the presence of testing bias](https://arxiv.org/abs/2005.08459)
+* [Conversation: Coronavirus country comparisons are pointless unless we account for these biases in testing](https://theconversation.com/coronavirus-country-comparisons-are-pointless-unless-we-account-for-these-biases-in-testing-135464)
+
+[MacPan](https://github.com/bbolker/McMasterPandemic) shiny
+* To play in advance, try `run_shiny(TRUE)` to open it in a browser, or `run_shiny(FALSE)` to run in an RStudio window.
+
+### 2020 Jul 10
+
+Presentation from Ash
+
+### 2020 Jun 26
+
+* more reports
 
 ### 2020 Jun 19
 
