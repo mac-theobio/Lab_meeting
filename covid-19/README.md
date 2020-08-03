@@ -78,6 +78,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [25 June 2020.  The Star.  How what we flush down the toilet could provide early warning of a second wave of COVID-19](https://www.thestar.com/news/gta/2020/06/25/how-what-we-flush-down-the-toilet-could-provide-early-warning-of-a-second-wave-of-covid-19.html)
 - [25 June 2020.  NY Times.  How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html)
 - [26 June 2020.  Boston Review.  The Shape of Epidemics](http://bostonreview.net/science-nature/david-s-jones-stefan-helmreich-shape-epidemics)
+- [2 Aug 2020. CTV news.  'Perverse logic​': Don't compare the flu to COVID-19](https://www.ctvnews.ca/health/coronavirus/perverse-logic-don-t-compare-the-flu-to-covid-19-1.5000965)
 
 # Situation summaries
 
