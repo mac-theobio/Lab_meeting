@@ -19,10 +19,19 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 31 Jul
+## 7 Aug
 
-Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227) (Main reading)
-* [Recent, relevant article by et al. Park](https://science.sciencemag.org/content/369/6502/368)
+Main reading
+
+- Meng, Xiao-Li. “Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election.” Annals of Applied Statistics 12, no. 2 (June 2018): 685–726. https://doi.org/10.1214/18-AOAS1161SF ,  https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf
+
+Follow up
+
+* [An interesting twitter thread](https://twitter.com/mgmgomes1/status/1291162358962937857) that is apparently about [our main reading from the heterogeneity meeting](https://www.medrxiv.org/content/10.1101/2020.04.27.20081893v3)
+
+Agenda item
+
+* short-report schedule
 
 ### Possible topics
 
@@ -34,8 +43,6 @@ Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex lan
 ### Newer suggestions (Covid and covid-project related)
 
 ### Newer suggestions (general)
-
-- Meng, Xiao-Li. “Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election.” Annals of Applied Statistics 12, no. 2 (June 2018): 685–726. https://doi.org/10.1214/18-AOAS1161SF ,  https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf
 
 
 ### Screened
@@ -170,6 +177,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+## 31 Jul
+
+Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227) (Main reading)
+* [Recent, relevant article by et al. Park](https://science.sciencemag.org/content/369/6502/368)
 
 ## 2020 Jul 24
 
