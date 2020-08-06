@@ -23,7 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 Main reading
 
-- Meng, Xiao-Li. “Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election.” Annals of Applied Statistics 12, no. 2 (June 2018): 685–726. https://doi.org/10.1214/18-AOAS1161SF ,  https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf
+- Meng, Xiao-Li. “Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election.” [Annals of Applied Statistics 12, no. 2 (June 2018): 685–726. (apparently inaccessible even via Mac!)](https://doi.org.libaccess.lib.mcmaster.ca/10.1214/18-AOAS1161SF),  [Direct pdf link](https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf)
 
 Follow up
 
