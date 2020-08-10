@@ -7,8 +7,9 @@
 - Friday, 14:00 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
-https://hangouts.google.com/call/fnVQC0CSIYrmHAS9Nb4rACEE?no_rd
-* Lab coffee is on [Google hangout](https://hangouts.google.com/call/fnVQC0CSIYrmHAS9Nb4rACEE?no_rd) and [Google chat](https://tinyurl.com/theobo-lab-chat), also [here](https://hangouts.google.com/call/fnVQC0CSIYrmHAS9Nb4rACEE?no_rd)
+__Lab coffee__
+* [Google hangout](https://hangouts.google.com/call/fnVQC0CSIYrmHAS9Nb4rACEE?no_rd)
+* [Google text chat](https://tinyurl.com/theobo-lab-chat).
 
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
