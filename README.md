@@ -9,7 +9,7 @@
 
 __Lab coffee__
 * [Google hangout](https://hangouts.google.com/call/fnVQC0CSIYrmHAS9Nb4rACEE?no_rd)
-* [Google text chat](https://tinyurl.com/theobo-lab-chat).
+* [Google text chat](https://hangouts.google.com/?pli=1&action=chat&id=UgxLRtgg_GVdBj8cVE94AaABAQ&rpi=116964537718646895072).
 
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
@@ -19,20 +19,6 @@ __Lab coffee__
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
 ## Upcoming Meetings
-
-## 7 Aug
-
-Main reading
-
-- Meng, Xiao-Li. “Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election.” [Annals of Applied Statistics 12, no. 2 (June 2018): 685–726. (apparently inaccessible even via Mac!)](https://doi.org.libaccess.lib.mcmaster.ca/10.1214/18-AOAS1161SF),  [Direct pdf link](https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf)
-
-Follow up
-
-* [An interesting twitter thread](https://twitter.com/mgmgomes1/status/1291162358962937857) that is apparently about [our main reading from the heterogeneity meeting](https://www.medrxiv.org/content/10.1101/2020.04.27.20081893v3)
-
-Agenda item
-
-* short-report schedule
 
 ### Possible topics
 
@@ -178,6 +164,20 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+## 7 Aug
+
+Main reading
+
+- Meng, Xiao-Li. “Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election.” [Annals of Applied Statistics 12, no. 2 (June 2018): 685–726. (apparently inaccessible even via Mac!)](https://doi.org.libaccess.lib.mcmaster.ca/10.1214/18-AOAS1161SF),  [Direct pdf link](https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf)
+
+Follow up
+
+* [An interesting twitter thread](https://twitter.com/mgmgomes1/status/1291162358962937857) that is apparently about [our main reading from the heterogeneity meeting](https://www.medrxiv.org/content/10.1101/2020.04.27.20081893v3)
+
+Agenda item
+
+* short-report schedule
 
 ## 31 Jul
 
