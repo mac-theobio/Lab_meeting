@@ -20,6 +20,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
+* Park: Practical tools for phylodynamics. LNA to save time cf. filters. 
+* Dushoff: I like the term "gene genealogies"
+
 ### Possible topics
 
 ## COVID stuff
@@ -33,10 +37,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 
 ### Screened
-
-Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
-* Park: Practical tools for phylodynamics. LNA to save time cf. filters. 
-* Dushoff: I like the term "gene genealogies"
 
 Gaydos et al ["Forecasting and control of emerging infectious forest disease through participatory modelling"](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0283)
 * O'Meara: Plant epidemiology is cool. Interactive version of model for stakeholders to play with. Stakeholders change the model.
