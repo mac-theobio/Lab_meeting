@@ -82,6 +82,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [2 Aug 2020. CTV news.  'Perverse logic​': Don't compare the flu to COVID-19](https://www.ctvnews.ca/health/coronavirus/perverse-logic-don-t-compare-the-flu-to-covid-19-1.5000965)
 - [6 Aug 2020.  CBC news.  Living with face masks: How to stow them, reuse disposables and more](https://www.cbc.ca/news/technology/face-mask-stow-reuse-1.5675473)
 - [YouTube 'Uncle Rob' Mask test video using propane tank etc](https://www.youtube.com/watch?v=x6cTDGqcUpA&feature=emb_logo)
+- [13 Aug 2020.  NY Times.  Excess deaths in the US.](https://www.nytimes.com/interactive/2020/08/12/us/covid-deaths-us.html)
 
 # Situation summaries
 
