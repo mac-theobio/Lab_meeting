@@ -20,9 +20,20 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
-* Park: Practical tools for phylodynamics. LNA to save time cf. filters. 
-* Dushoff: I like the term "gene genealogies"
+## 28 Aug
+
+Autoregressive methods
+* [Main reading: to lag or not to lag](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/to-lag-or-not-to-lag-reevaluating-the-use-of-lagged-dependent-variables-in-regression-analysis/F0B1870165C3FD4AB5CE69D618DF46FD)
+* [Count response lecture notes](http://www.utdallas.edu/~pxb054000/code/count-examples/ECTS-I-2010.pdf)
+* [Modeling multivariate binary time series](https://www.tandfonline.com/doi/abs/10.1080/01621459.1989.10478789)
+* [Hierarchical logit function from MCMCpack](http://finzi.psych.upenn.edu/R/library/MCMCpack/html/MCMChlogit.html)
+
+Short reports
+* Mike
+* David E
+* Martin
+
+## 4 Sep Holiday! No meeting (or a social meeting?)
 
 ### Possible topics
 
@@ -164,6 +175,16 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Suggested additional agenda Items
 
 ## Past readings and agenda items
+
+## 21 Aug
+
+Informal meeting; any notes?
+
+## 14 Aug
+
+Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
+* Park: Practical tools for phylodynamics. LNA to save time cf. filters. 
+* Dushoff: I like the term "gene genealogies"
 
 ## 7 Aug
 
