@@ -83,6 +83,8 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [6 Aug 2020.  CBC news.  Living with face masks: How to stow them, reuse disposables and more](https://www.cbc.ca/news/technology/face-mask-stow-reuse-1.5675473)
 - [YouTube 'Uncle Rob' Mask test video using propane tank etc](https://www.youtube.com/watch?v=x6cTDGqcUpA&feature=emb_logo)
 - [13 Aug 2020.  NY Times.  Excess deaths in the US.](https://www.nytimes.com/interactive/2020/08/12/us/covid-deaths-us.html)
+- [25 Aug 2020.  Time Magazine. COVID-19 Is Transmitted Through Aerosols. We Have Enough Evidence, Now It Is Time to Act](https://time.com/5883081/covid-19-transmitted-aerosols/)
+	- very convincing and well-written
 
 # Situation summaries
 
