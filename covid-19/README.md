@@ -85,6 +85,7 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [13 Aug 2020.  NY Times.  Excess deaths in the US.](https://www.nytimes.com/interactive/2020/08/12/us/covid-deaths-us.html)
 - [25 Aug 2020.  Time Magazine. COVID-19 Is Transmitted Through Aerosols. We Have Enough Evidence, Now It Is Time to Act](https://time.com/5883081/covid-19-transmitted-aerosols/)
 	- very convincing and well-written
+- [28 Aug 2020. NEJM.  Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2016359)
 
 # Situation summaries
 
