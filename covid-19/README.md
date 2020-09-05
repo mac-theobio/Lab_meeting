@@ -1,7 +1,7 @@
 
-Notes _in progress_ about COVID-19.  I've decided to get this started quickly now, hoping to provide some useful links to lab members.  I will try to improve it over time, but if I wait until I can make this a genuinely good page, it will be too late to be useful... --David E
+I started this list of links on 10 March 2020, with the intention of eventually organizing it better... It has remained an idiosyncratic list of links to things I have found interesting or useful.
 
-Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
+--David Earn
 
 # Outreach links and news articles
 
@@ -111,6 +111,9 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [4 May 2020. Evolutionary reason to flatten the curve](http://www.bu.edu/articles/2020/pov-theres-another-reason-to-flatten-the-curve-and-its-one-you-havent-heard-yet/)
 - [1 July 2020.  Loeb on masks in Globe and Mail.  What we know – and don’t know – about masks](https://www.theglobeandmail.com/opinion/article-what-we-know-and-dont-know-about-masks/)
 - [17 July 2020.  Smarter Mass Testing of COVID-19 Can Help U.S. Economy and Schools Safely Restart (Donoho et al)](https://calbizjournal.com/daviddonoho-stanfordstatisticsprofessor)
+- [BioFire Respiratory Pathogen Trends](https://syndromictrends.com/metric/panel/rp/percent_positivity/organism/main)
+- [National Geographic Coronavirus tracker (US)](https://www.nationalgeographic.com/science/2020/05/graphic-tracking-coronavirus-infections-us/)
+- [National Geographic Coronavirus tracker (Worldwide)](https://www.nationalgeographic.com/science/2020/03/mapping-coronavirus-infections-across-the-globe/)
 
 # Advice and opinions
 
