@@ -86,6 +86,12 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [25 Aug 2020.  Time Magazine. COVID-19 Is Transmitted Through Aerosols. We Have Enough Evidence, Now It Is Time to Act](https://time.com/5883081/covid-19-transmitted-aerosols/)
 	- very convincing and well-written
 - [28 Aug 2020. NEJM.  Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2016359)
+- https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/
+- https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63
+- https://twitter.com/jd_mathbio/status/1301885022266425347
+- https://www.cbc.ca/radio/frontburner/n-b-doctor-says-he-wasn-t-patient-zero-in-his-city-s-outbreak-1.5711745
+- https://m.xkcd.com/2346/
+- https://www.nature.com/articles/s41591-020-0965-6
 
 # Situation summaries
 
