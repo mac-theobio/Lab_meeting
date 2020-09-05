@@ -86,12 +86,11 @@ Lab meeting hangouts URL: https://tinyurl.com/theobio-lab-meeting
 - [25 Aug 2020.  Time Magazine. COVID-19 Is Transmitted Through Aerosols. We Have Enough Evidence, Now It Is Time to Act](https://time.com/5883081/covid-19-transmitted-aerosols/)
 	- very convincing and well-written
 - [28 Aug 2020. NEJM.  Saliva or Nasopharyngeal Swab Specimens for Detection of SARS-CoV-2](https://www.nejm.org/doi/full/10.1056/NEJMc2016359)
-- https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/
-- https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63
-- https://twitter.com/jd_mathbio/status/1301885022266425347
-- https://www.cbc.ca/radio/frontburner/n-b-doctor-says-he-wasn-t-patient-zero-in-his-city-s-outbreak-1.5711745
-- https://m.xkcd.com/2346/
-- https://www.nature.com/articles/s41591-020-0965-6
+- [Ed Yong.  The Atlantic.  Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
+- [1 Sep 2020.  A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged](https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d63)
+- [4 Sep 2020.  CBC.  N.B. doctor says he wasn't 'patient zero' in his city's outbreak](https://www.cbc.ca/radio/frontburner/n-b-doctor-says-he-wasn-t-patient-zero-in-his-city-s-outbreak-1.5711745)
+- [xkcd.  COVID Risk Comfort Zone](https://m.xkcd.com/2346/)
+- [Long et al 2020.  _Nature Medicine_.  Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections](https://www.nature.com/articles/s41591-020-0965-6)
 
 # Situation summaries
 
@@ -181,6 +180,7 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [9 April 2020.  National Post. BB quoted. "'Dynamic' physical distancing could help balance COVID-19 fight, economy: study"](https://nationalpost.com/pmn/news-pmn/canada-news-pmn/dynamic-physical-distancing-could-help-balance-covid-19-fight-economy-study)
 - [12 April 2020.  Toronto.com (by Kate Allen):  DE quoted. What the COVID-19 ‘new normal’ could look like](https://www.toronto.com/news-story/9940057-what-the-covid-19-new-normal-could-look-like/)
 - [11 May 2020. McMaster faculty help lead national response to COVID-19](https://brighterworld.mcmaster.ca/articles/mcmaster-faculty-help-lead-national-response-to-covid-19/)
+-[JD tweet about Irena's COVID age paper](https://twitter.com/jd_mathbio/status/1301885022266425347)
 
 # Online videos of talks by our group
 
