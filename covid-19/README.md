@@ -114,7 +114,8 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [BioFire Respiratory Pathogen Trends](https://syndromictrends.com/metric/panel/rp/percent_positivity/organism/main)
 - [National Geographic Coronavirus tracker (US)](https://www.nationalgeographic.com/science/2020/05/graphic-tracking-coronavirus-infections-us/)
 - [National Geographic Coronavirus tracker (Worldwide)](https://www.nationalgeographic.com/science/2020/03/mapping-coronavirus-infections-across-the-globe/)
-- [NY Times Coronavirus Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
+- [NY Times Coronavirus Vaccine Tracker] (https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
+- [NY Times Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
 
 # Advice and opinions
 
