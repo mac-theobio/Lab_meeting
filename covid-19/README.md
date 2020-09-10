@@ -116,6 +116,7 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [National Geographic Coronavirus tracker (Worldwide)](https://www.nationalgeographic.com/science/2020/03/mapping-coronavirus-infections-across-the-globe/)
 - [NY Times Coronavirus Vaccine Tracker] (https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 - [NY Times Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
+- [8 Sep 2020.  NEJM Perspective.  Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMp2026913)
 
 # Advice and opinions
 
