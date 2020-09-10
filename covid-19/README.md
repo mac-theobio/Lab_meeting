@@ -91,6 +91,7 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 - [4 Sep 2020.  CBC.  N.B. doctor says he wasn't 'patient zero' in his city's outbreak](https://www.cbc.ca/radio/frontburner/n-b-doctor-says-he-wasn-t-patient-zero-in-his-city-s-outbreak-1.5711745)
 - [xkcd.  COVID Risk Comfort Zone](https://m.xkcd.com/2346/)
 - [Long et al 2020.  _Nature Medicine_.  Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections](https://www.nature.com/articles/s41591-020-0965-6)
+- [Royal Society publishes rapid review of the science of the reproduction number and growth rate of COVID-19](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/)
 
 # Situation summaries
 
