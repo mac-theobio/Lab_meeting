@@ -46,8 +46,10 @@ Short reports
 
 ### Newer suggestions (general)
 
-
 ### Screened
+
+Mair et al. ["Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492&rev=2#abstract0)
+* Park: Methods paper. See https://www.pnas.org/content/pnas/116/52/27142.full.pdf for an application paper.
 
 Gaydos et al ["Forecasting and control of emerging infectious forest disease through participatory modelling"](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0283)
 * O'Meara: Plant epidemiology is cool. Interactive version of model for stakeholders to play with. Stakeholders change the model.
