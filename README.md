@@ -20,7 +20,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-2020 Sep 15 (Tue)
+## 2020 Sep 15 (Tue)
 
 Reading: [Mair et al. Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492)
 
@@ -28,6 +28,10 @@ Short reports??
 * Mike
 * David E
 * Martin
+
+## 2020 Sep 22
+
+## 2020 Sep 29
 
 ### Possible topics
 
