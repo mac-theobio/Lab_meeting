@@ -92,6 +92,7 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 - [xkcd.  COVID Risk Comfort Zone](https://m.xkcd.com/2346/)
 - [Long et al 2020.  _Nature Medicine_.  Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections](https://www.nature.com/articles/s41591-020-0965-6)
 - [Royal Society publishes rapid review of the science of the reproduction number and growth rate of COVID-19](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/)
+- [12 Sep 2020.  The Beaverton.  Epidemiologists expect second wave of fuckwittery to be worse than the first](https://www.thebeaverton.com/2020/09/epidemiologists-expect-second-wave-of-fuckwittery-to-be-worse-than-the-first/)
 
 # Situation summaries
 
