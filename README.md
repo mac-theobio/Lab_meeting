@@ -20,20 +20,14 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 11 Sep
+2020 Sep 15 (Tue)
 
-Informal meeting.
+Reading: [Mair et al. Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492)
 
-* Cambridge University logo info: https://www.cl.cam.ac.uk/local/typography/#identifier (you could write to `Richard.Clayton@cl.cam.ac.uk` if you really want the short, hand-crafted version)
-- [Replication of Hastings and Powell 1991](http://rescience.github.io/bibliography/Dansereau_2020.html), "Chaos in a three-species food chain" (implemented in Julia)
-
-
-Short reports
+Short reports??
 * Mike
 * David E
 * Martin
-
-## 4 Sep Holiday! No meeting (or a social meeting?)
 
 ### Possible topics
 
@@ -176,4 +170,15 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 ## Suggested additional agenda Items
 
-## Past readings and agenda items
+## Past meetings
+
+* [archive](archive.md)
+
+## 11 Sep
+
+Informal meeting.
+
+* Cambridge University logo info: https://www.cl.cam.ac.uk/local/typography/#identifier (you could write to `Richard.Clayton@cl.cam.ac.uk` if you really want the short, hand-crafted version)
+- [Replication of Hastings and Powell 1991](http://rescience.github.io/bibliography/Dansereau_2020.html), "Chaos in a three-species food chain" (implemented in Julia)
+
+## 4 Sep Holiday! No meeting (or a social meeting?)
