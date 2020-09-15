@@ -4,7 +4,7 @@
 
 # Mac-Theobio Lab Meetings
 
-- Friday, 14:00 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+- Tuesdays at 11:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
 __Lab coffee__
@@ -23,11 +23,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 ## 2020 Sep 15 (Tue)
 
 Reading: [Mair et al. Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492)
-
-Short reports??
-* Mike
-* David E
-* Martin
 
 ## 2020 Sep 22
 
