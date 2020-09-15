@@ -72,7 +72,7 @@ https://elifesciences.org/articles/48175?utm_source=content_alert&utm_medium=ema
 - [Certain et al (2017) "How do MAR(1) models cope with hidden nonlinearities in ecological dynamics?"](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13021)
 	* Daniel
 
-- [Becker et al (2019) "ong-term dynamics of measles in London: Titrating the impact of wars, the 1918 pandemic, and vaccination"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007305)
+- [Becker et al (2019) "Long-term dynamics of measles in London: Titrating the impact of wars, the 1918 pandemic, and vaccination"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007305)
 	* Earn
 	* They've done a careful analysis of London measles from 1897-1991; interesting especially in the context of Jordan Pyke's recent MSc project, which goes back to 1662.
 
