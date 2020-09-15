@@ -4,7 +4,7 @@
 
 # Mac-Theobio Lab Meetings
 
-- Friday, 14:00 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+- Tuesdays at 11:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
 __Lab coffee__
@@ -20,28 +20,17 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 11 Sep
+## 2020 Sep 22
 
-Informal meeting.
+[Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer](https://link.springer.com/article/10.1007/s11606-020-06067-8)
 
-* Cambridge University logo info: https://www.cl.cam.ac.uk/local/typography/#identifier (you could write to `Richard.Clayton@cl.cam.ac.uk` if you really want the short, hand-crafted version)
-- [Replication of Hastings and Powell 1991](http://rescience.github.io/bibliography/Dansereau_2020.html), "Chaos in a three-species food chain" (implemented in Julia)
+## 2020 Sep 15 (Tue)
 
+Reading: [Mair et al. Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492)
 
-## 28 Aug
+## 2020 Sep 22
 
-Autoregressive methods
-* [Main reading: to lag or not to lag](https://www.cambridge.org/core/journals/political-science-research-and-methods/article/to-lag-or-not-to-lag-reevaluating-the-use-of-lagged-dependent-variables-in-regression-analysis/F0B1870165C3FD4AB5CE69D618DF46FD)
-* [Count response lecture notes](http://www.utdallas.edu/~pxb054000/code/count-examples/ECTS-I-2010.pdf)
-* [Modeling multivariate binary time series](https://www.tandfonline.com/doi/abs/10.1080/01621459.1989.10478789)
-* [Hierarchical logit function from MCMCpack](http://finzi.psych.upenn.edu/R/library/MCMCpack/html/MCMChlogit.html)
-
-Short reports
-* Mike
-* David E
-* Martin
-
-## 4 Sep Holiday! No meeting (or a social meeting?)
+## 2020 Sep 29
 
 ### Possible topics
 
@@ -87,7 +76,7 @@ https://elifesciences.org/articles/48175?utm_source=content_alert&utm_medium=ema
 - [Certain et al (2017) "How do MAR(1) models cope with hidden nonlinearities in ecological dynamics?"](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13021)
 	* Daniel
 
-- [Becker et al (2019) "ong-term dynamics of measles in London: Titrating the impact of wars, the 1918 pandemic, and vaccination"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007305)
+- [Becker et al (2019) "Long-term dynamics of measles in London: Titrating the impact of wars, the 1918 pandemic, and vaccination"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007305)
 	* Earn
 	* They've done a careful analysis of London measles from 1897-1991; interesting especially in the context of Jordan Pyke's recent MSc project, which goes back to 1662.
 
@@ -184,165 +173,15 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 ## Suggested additional agenda Items
 
-## Past readings and agenda items
+## Past meetings
 
-## 21 Aug
+* [archive](archive.md)
 
-Informal meeting; any notes?
+## 11 Sep
 
-## 14 Aug
+Informal meeting.
 
-Bedford et al ["Fitting stochastic epidemic models to gene genealogies using linear noise approximation"](https://arxiv.org/pdf/1902.08877.pdf)
-* Park: Practical tools for phylodynamics. LNA to save time cf. filters. 
-* Dushoff: I like the term "gene genealogies"
+* Cambridge University logo info: https://www.cl.cam.ac.uk/local/typography/#identifier (you could write to `Richard.Clayton@cl.cam.ac.uk` if you really want the short, hand-crafted version)
+- [Replication of Hastings and Powell 1991](http://rescience.github.io/bibliography/Dansereau_2020.html), "Chaos in a three-species food chain" (implemented in Julia)
 
-## 7 Aug
-
-Main reading
-
-- Meng, Xiao-Li. “Statistical Paradises and Paradoxes in Big Data (I): Law of Large Populations, Big Data Paradox, and the 2016 US Presidential Election.” [Annals of Applied Statistics 12, no. 2 (June 2018): 685–726. (apparently inaccessible even via Mac!)](https://doi.org.libaccess.lib.mcmaster.ca/10.1214/18-AOAS1161SF),  [Direct pdf link](https://statistics.fas.harvard.edu/files/statistics-2/files/statistical_paradises_and_paradoxes.pdf)
-
-Follow up
-
-* [An interesting twitter thread](https://twitter.com/mgmgomes1/status/1291162358962937857) that is apparently about [our main reading from the heterogeneity meeting](https://www.medrxiv.org/content/10.1101/2020.04.27.20081893v3)
-
-Agenda item
-
-* short-report schedule
-
-## 31 Jul
-
-Heesterbeek et al 2015 ["Modeling infectious disease dynamics in the complex landscape of global health"](https://science.sciencemag.org/content/347/6227/aaa4339/) _Science_, **347**(6227) (Main reading)
-* [Recent, relevant article by et al. Park](https://science.sciencemag.org/content/369/6502/368)
-
-## 2020 Jul 24
-
-- [Cooper et al (2019) "Pareto rules for malaria super-spreaders and super-spreading"](https://www.nature.com/articles/s41467-019-11861-y)
-
-### 2020 Jul 17
-Testing and fatality rates
-- [Primary reading: Grewelle and DeLeo IFR](https://www.medrxiv.org/content/10.1101/2020.05.11.20098780v1.external-links.html)
-- [Campbell, deValpine et al: estimating IFR in the presence of testing bias](https://arxiv.org/abs/2005.08459)
-* [Conversation: Coronavirus country comparisons are pointless unless we account for these biases in testing](https://theconversation.com/coronavirus-country-comparisons-are-pointless-unless-we-account-for-these-biases-in-testing-135464)
-
-[MacPan](https://github.com/bbolker/McMasterPandemic) shiny
-* To play in advance, try `run_shiny(TRUE)` to open it in a browser, or `run_shiny(FALSE)` to run in an RStudio window.
-
-### 2020 Jul 10
-
-Presentation from Ash
-
-### 2020 Jun 26
-
-* more reports
-
-### 2020 Jun 19
-
-Reports??
-* Send me email!!
-
-### 2020 Jun 12
-
-TMB (Template model builder)
-* [A key paper](https://www.jstatsoft.org/article/view/v070i05)
-* [Intro to users manual](https://kaskr.github.io/adcomp/_book/Introduction.html)
-
-### 2020 Jun 05 (Fri) Fancy physics fitting
-
-* Reading: [Friston dark matter](https://arxiv.org/abs/2004.04463)
-	* [Guardian article](https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter)
-	* [Conversation comment](https://theconversation.com/coronavirus-techniques-from-physics-promise-better-covid-19-models-can-they-deliver-139925)
-
-* Agenda item: epigrowthfit project
-
-### 29 May. Heterogeneity and herd immunity
-
-This topic was triggered by [this twitter thread](https://twitter.com/bansallab/status/1258872610210877442) (scroll up for main thread). There are at least three interesting-looking pubs cited here (Gomes, Britton, Bansal). Gomes is the main reading for this week, so spend some time on that and move on to the others if you have time and interes.
-
-Please also add notes or resources about this topic!
-
-### 22 May. Truncation and censoring
-
-We will talk about adjusting for reporting delays when analyzing epidemics.
-
-Please read:
-
-* [This very-short Slate piece by FotL Joshua Weitz](https://slate.com/technology/2020/05/georgia-reopening-data-error.html)
-* [This slide deck (just skim) from Ping Yan](https://www.dropbox.com/sh/5bis46c866cju8x/AACRSqQXH8dnAuBWTt6uthCja/YanTrends.pdf?dl=0)
-
-Please also add notes or resources about this topic!
-
-## 15 May
-
-* [Table 2 fallacy](https://www.ncbi.nlm.nih.gov/pubmed/23371353)
-
-## 8 May
-
-[Impact of climate and public health interventions … Jüni, al. Fisman, al.
-CMAJ](https://doi.org/10.1503/cmaj.200920)
-
-## 24 Apr and 1 May
-
-### Discussion of R(t)
-
-* [The blog post we started with](https://staff.math.su.se/hoehle/blog/2020/04/15/effectiveR0.html)
-
-* [Pan article on interventions](https://jamanetwork.com/journals/jama/fullarticle/2764658)
-	* [Joshi response](https://github.com/keyajoshi/Pan_response)
-
-## COVID stuff
-
-- [stuff on COVID-19 evolution](./covid-19/evolution.md)
-- [links to COVID-19 info/resources](./covid-19/README.md)
-
-2020 27 March. Elizabeth O'Meara, thesis discussion
-
-2020 13 March.
-Kucharski et al (2020) ["Early dynamics of transmission and control of COVID-19: a mathematical modelling study"](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30144-4/fulltext#seccestitle120)
-
-Mizumoto and Chowell (2020) ["Transmission potential of the novel coronavirus (COVID-19) onboard the diamond Princess Cruises ship"](https://www.sciencedirect.com/science/article/pii/S2468042720300063)
-
-Whitty 2015 [What makes an academic paper useful for health policy?](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-015-0544-8)
-* Bolker: relevant to our nCoV work etc. ...
-* More on Bacon's "idols of the cave" [here](http://www.sirbacon.org/links/4idols.htm) and [here](https://books.google.ca/books?id=WHwsAO0hnEEC&q=idola%20specus) and (if you can read Latin) [here](https://books.google.ca/books?id=WHwsAO0hnEEC&q=idola%20specus#v=snippet&q=idola%20specus&f=false)
-
-2020 Jan 24 (Fri)
-=================
-
-* Informal planning meeting
-
-## Papers
-
-Morrisey et al ["Multiple Regression Is Not Multiple Regressions: The Meaning of Multiple Regression and the Non-Problem of Collinearity"](https://quod.lib.umich.edu/cgi/t/text/text-idx?cc=ptpbio;c=ptb;c=ptpbio;idno=16039257.0010.003;view=text;rgn=main;xc=1;g=ptpbiog)
-* Dushoff: simple, good for stats foundations
-
-
-2019 Nov 22 (Fri)
-=================
-#### Morgan will talk about new work
-
-2019 Nov 08 (Fri)
-=================
-
-### 2019 Oct 11 (Fri)
-
-Kim, Dong Wook, et al ["Deep learning-based survival prediction of oral cancer patients"](https://www.nature.com/articles/s41598-019-43372-7#Sec15)
-* Cygu: Compared two ML methods to regular Cox. This paper could be useful to Steve's project. 
-
-### 2019 Oct 4 (Fri)
-
-* Read a paper, and come prepared to talk (efficiently) about why it would or would not be good for the group to read or discuss
-
-### 2019 Sep 27 (Fri)
-
-- [Measles and the canonical path to elimination (Graham et al., Science)](https://science.sciencemag.org/content/364/6440/584)
-	* O'Meara and/or Earn
-
-### 2019 Sep 20 (Fri)
-
-- [Stewart _et al_ (2019) "Information gerrymandering and undemocratic decisions"](https://www.nature.com/articles/s41586-019-1507-6) Nature 573, 117–121
-	* Bolker
-
-### 2019 Sep 13 (Fri)
-* Long Introductions
-* Planning topics
+## 4 Sep Holiday! No meeting (or a social meeting?)
