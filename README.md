@@ -4,7 +4,7 @@
 
 # Mac-Theobio Lab Meetings
 
-- Friday, 14:00 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+- Tuesday, 11:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
 __Lab coffee__
