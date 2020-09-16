@@ -26,6 +26,11 @@ Reading: [Mair et al. Estimation of temporal covariances in pathogen dynamics us
 
 ## 2020 Sep 22
 
+Short reports:
+
+4499^2 ## 20241001
+
+
 ## 2020 Sep 29
 
 ### Possible topics
