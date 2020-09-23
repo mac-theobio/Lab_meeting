@@ -122,6 +122,7 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [8 Sep 2020.  NEJM Perspective.  Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMp2026913)
 	- [NY Times article about this NEJM commentary](https://www.nytimes.com/2020/09/08/health/covid-masks-immunity.html)
 - [19 Sep 2020.  Globe and Mail.  Covatical](https://www.theglobeandmail.com/opinion/article-to-help-combat-covid-19-we-need-a-preplanned-lockdown-im-calling/)
+- [21 Sep 2020.  CMAJ.  Have we misjudged the role of children in spreading COVID-19?](https://www.cmaj.ca/content/192/38/E1102)
 
 # Advice and opinions
 
