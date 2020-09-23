@@ -20,17 +20,16 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2020 Sep 22
-
-[Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer](https://link.springer.com/article/10.1007/s11606-020-06067-8)
-
-Short reports:
-* Mikael
-* Geetha
 
 ## 2020 Sep 29
 
+Seasonality of Covid transmission?
+* Recent Royal Society report by Roy Anderson et al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al.
+
 Short reports:
+* Queenie
+* Zach
+* Mystery person??
 
 ## 2024 Oct 1 (Tue)
 
@@ -180,6 +179,20 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 2020 Sep 22
+
+### Article
+
+[Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer](https://link.springer.com/article/10.1007/s11606-020-06067-8)
+
+### Mikael
+
+Using epigrowthfit to estimate r0. Refactoring and applying to covid.
+
+Reparameterizing and implementing in tmb
+
+### Geetha
 
 ## 2020 Sep 15 (Tue)
 
