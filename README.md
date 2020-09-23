@@ -20,22 +20,20 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2020 Sep 22
-
-[Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer](https://link.springer.com/article/10.1007/s11606-020-06067-8)
-
-## 2020 Sep 15 (Tue)
-
-Reading: [Mair et al. Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492)
-
-## 2020 Sep 22
-
-Short reports:
-
-4499^2 ## 20241001
-
 
 ## 2020 Sep 29
+
+Seasonality of Covid transmission?
+* Recent Royal Society report by Roy Anderson et al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al.
+
+Short reports:
+* Queenie
+* Zach
+* Mystery person??
+
+## 2024 Oct 1 (Tue)
+
+4499^2 ## 20241001
 
 ### Possible topics
 
@@ -182,7 +180,25 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 * [archive](archive.md)
 
-## 11 Sep
+## 2020 Sep 22
+
+### Article
+
+[Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer](https://link.springer.com/article/10.1007/s11606-020-06067-8)
+
+### Mikael
+
+Using epigrowthfit to estimate r0. Refactoring and applying to covid.
+
+Reparameterizing and implementing in tmb
+
+### Geetha
+
+## 2020 Sep 15 (Tue)
+
+Reading: [Mair et al. Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492)
+
+## 2020 Sep 11
 
 Informal meeting.
 
