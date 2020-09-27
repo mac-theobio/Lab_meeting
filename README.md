@@ -23,19 +23,23 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## 2020 Sep 29
 
-Seasonality of Covid transmission?
-* Recent Royal Society report by Roy Anderson et al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al.
+### Seasonality of Covid transmission
 
-Short reports:
+Main reading: [Misconceptions about weather and seasonality must not misguide COVID-19 response](https://www.nature.com/articles/s41467-020-18150-z). Carlson et al. _Nature Communications)
+
+Mystery reading: Recent Royal Society report by Roy Anderson et al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al.
+
+Additional readings (medRxiv): [Neher et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/17/2020.02.13.20022806.full.pdf); [Huang et al.](https://www.medrxiv.org/content/10.1101/2020.07.17.20156430v1)
+
+### Short reports:
 * Queenie
 * Zach
-* Mystery person??
+
+## 2020 Oct 6 (Tue)
 
 ## 2024 Oct 1 (Tue)
 
-4499^2 ## 20241001
-
-### Possible topics
+* Theobio day! 4499^2 ## 20241001
 
 ## COVID stuff
 
@@ -186,13 +190,7 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 [Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer](https://link.springer.com/article/10.1007/s11606-020-06067-8)
 
-### Mikael
-
-Using epigrowthfit to estimate r0. Refactoring and applying to covid.
-
-Reparameterizing and implementing in tmb
-
-### Geetha
+Short reports from Mikael and Geetha
 
 ## 2020 Sep 15 (Tue)
 
