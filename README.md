@@ -27,15 +27,22 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 Main reading: [Misconceptions about weather and seasonality must not misguide COVID-19 response](https://www.nature.com/articles/s41467-020-18150-z). Carlson et al. _Nature Communications)
 
-Mystery reading: Recent Royal Society report by Roy Anderson et al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al al.
-
 Additional readings (medRxiv): [Neher et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/17/2020.02.13.20022806.full.pdf); [Huang et al.](https://www.medrxiv.org/content/10.1101/2020.07.17.20156430v1)
 
 ### Short reports:
 * Queenie
 * Zach
 
+### Next week
+
 ## 2020 Oct 6 (Tue)
+
+__Provisional__
+
+* [Rapid Royal rR review](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/)
+
+* Short reports:
+	* Fady; Ben; Chyun?
 
 ## 2024 Oct 1 (Tue)
 
