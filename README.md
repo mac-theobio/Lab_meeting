@@ -33,6 +33,10 @@ Additional readings (medRxiv): [Neher et al.](https://www.medrxiv.org/content/me
 * Queenie
 * Zach
 
+### Juggling challenge
+
+### Total mortality
+
 ### Next week
 
 ## 2020 Oct 6 (Tue)
@@ -42,7 +46,7 @@ __Provisional__
 * [Rapid Royal rR review](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/)
 
 * Short reports:
-	* Fady; Ben; Chyun?
+	* Matthew; Fady; Ben
 
 ## 2024 Oct 1 (Tue)
 
