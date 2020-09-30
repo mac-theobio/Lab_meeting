@@ -13,6 +13,8 @@ vim_session:
 # Meeting notes, etc.
 Sources += Makefile README.md LICENSE
 
+Sources += $(wildcard notes/*.md)
+
 ## Archive files; named after the year in which they were archived
 ## Aim to archive in Sept
 Sources += archive.md
