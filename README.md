@@ -35,7 +35,9 @@ Additional readings (medRxiv): [Neher et al.](https://www.medrxiv.org/content/me
 
 ### Juggling challenge
 
-### Total mortality
+* Friday at 13:30 on [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+
+### [Total mortality](mortality.md)
 
 ### Next week
 
