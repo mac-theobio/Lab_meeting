@@ -124,6 +124,7 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [19 Sep 2020.  Globe and Mail.  Covatical](https://www.theglobeandmail.com/opinion/article-to-help-combat-covid-19-we-need-a-preplanned-lockdown-im-calling/)
 - [21 Sep 2020.  CMAJ.  Have we misjudged the role of children in spreading COVID-19?](https://www.cmaj.ca/content/192/38/E1102)
 - [30 Sep 2020.  Toronto Sun.  Doctors urge localized approach, not sweeping lockdown, in open letter to Doug Ford](https://torontosun.com/opinion/columnists/doctors-urge-localized-approach-not-sweeping-lockdown-in-open-letter-to-doug-ford)
+- [30 Sep 2020.  NY Times. Study Finds ‘Single Largest Driver’ of Coronavirus Misinformation: Trump](https://www.nytimes.com/2020/09/30/us/politics/trump-coronavirus-misinformation.html)
 
 # Advice and opinions
 
