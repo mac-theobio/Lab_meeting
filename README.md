@@ -61,6 +61,9 @@ __Provisional__
 
 ### Newer suggestions (Covid and covid-project related)
 
+Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"](https://www.pnas.org/content/early/2020/09/21/2008087117)
+* Earn: abstract sounds interesting
+
 ### Newer suggestions (general)
 
 ### Screened
