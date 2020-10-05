@@ -20,30 +20,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-
-## 2020 Sep 29
-
-### Seasonality of Covid transmission
-
-Main reading: [Misconceptions about weather and seasonality must not misguide COVID-19 response](https://www.nature.com/articles/s41467-020-18150-z). Carlson et al. _Nature Communications)
-
-Additional readings (medRxiv): [Neher et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/17/2020.02.13.20022806.full.pdf); [Huang et al.](https://www.medrxiv.org/content/10.1101/2020.07.17.20156430v1)
-
-### Short reports:
-* Queenie
-* Zach
-
-### Juggling challenge
-
-* Friday at 13:30 on [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
-
-### [Total mortality](mortality.md)
-
 ### Next week
 
 ## 2020 Oct 6 (Tue)
-
-__Provisional__
 
 * [Rapid Royal rR review](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/)
 
@@ -199,6 +178,24 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 2020 Sep 29
+
+### Seasonality of Covid transmission
+
+Main reading: [Misconceptions about weather and seasonality must not misguide COVID-19 response](https://www.nature.com/articles/s41467-020-18150-z). Carlson et al. _Nature Communications)
+
+Additional readings (medRxiv): [Neher et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/17/2020.02.13.20022806.full.pdf); [Huang et al.](https://www.medrxiv.org/content/10.1101/2020.07.17.20156430v1)
+
+### Short reports:
+* Queenie
+* Zach
+
+### Juggling challenge
+
+* Friday at 13:30 on [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+
+### [Total mortality](mortality.md)
 
 ## 2020 Sep 22
 
