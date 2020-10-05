@@ -125,7 +125,9 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [21 Sep 2020.  CMAJ.  Have we misjudged the role of children in spreading COVID-19?](https://www.cmaj.ca/content/192/38/E1102)
 - [30 Sep 2020.  Toronto Sun.  Doctors urge localized approach, not sweeping lockdown, in open letter to Doug Ford](https://torontosun.com/opinion/columnists/doctors-urge-localized-approach-not-sweeping-lockdown-in-open-letter-to-doug-ford)
 - [30 Sep 2020.  NY Times. Study Finds ‘Single Largest Driver’ of Coronavirus Misinformation: Trump](https://www.nytimes.com/2020/09/30/us/politics/trump-coronavirus-misinformation.html)
+- [30 Sep 2020. NEJM. Rethinking Covid-19 Test Sensitivity — A Strategy for Containment](https://www.nejm.org/doi/full/10.1056/NEJMp2025631)
 - [3 Oct 2020.  The Toronto Star.  Many experts advised Ontario for months to boost COVID testing capacity. Sources say they just didn’t want to spend the money](https://www.thestar.com/opinion/star-columnists/2020/10/03/many-experts-advised-ontario-for-months-to-boost-covid-testing-capacity-sources-say-they-just-didnt-want-to-spend-the-money.html)
+
 
 # Advice and opinions
 
