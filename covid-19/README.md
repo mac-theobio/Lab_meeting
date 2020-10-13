@@ -94,6 +94,18 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 - [Royal Society publishes rapid review of the science of the reproduction number and growth rate of COVID-19](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/)
 - [12 Sep 2020.  The Beaverton.  Epidemiologists expect second wave of fuckwittery to be worse than the first](https://www.thebeaverton.com/2020/09/epidemiologists-expect-second-wave-of-fuckwittery-to-be-worse-than-the-first/)
 - [15 Sep 2020.  Scientific American Endorses Joe Biden](https://www.scientificamerican.com/article/scientific-american-endorses-joe-biden/)
+- [8 Sep 2020.  NEJM Perspective.  Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMp2026913)
+	- [NY Times article about this NEJM commentary](https://www.nytimes.com/2020/09/08/health/covid-masks-immunity.html)
+- [19 Sep 2020.  Globe and Mail.  Covatical](https://www.theglobeandmail.com/opinion/article-to-help-combat-covid-19-we-need-a-preplanned-lockdown-im-calling/)
+- [21 Sep 2020.  CMAJ.  Have we misjudged the role of children in spreading COVID-19?](https://www.cmaj.ca/content/192/38/E1102)
+- [30 Sep 2020.  Toronto Sun.  Doctors urge localized approach, not sweeping lockdown, in open letter to Doug Ford](https://torontosun.com/opinion/columnists/doctors-urge-localized-approach-not-sweeping-lockdown-in-open-letter-to-doug-ford)
+- [30 Sep 2020.  NY Times. Study Finds ‘Single Largest Driver’ of Coronavirus Misinformation: Trump](https://www.nytimes.com/2020/09/30/us/politics/trump-coronavirus-misinformation.html)
+- [30 Sep 2020. NEJM. Rethinking Covid-19 Test Sensitivity — A Strategy for Containment](https://www.nejm.org/doi/full/10.1056/NEJMp2025631)
+- [3 Oct 2020.  The Toronto Star.  Many experts advised Ontario for months to boost COVID testing capacity. Sources say they just didn’t want to spend the money](https://www.thestar.com/opinion/star-columnists/2020/10/03/many-experts-advised-ontario-for-months-to-boost-covid-testing-capacity-sources-say-they-just-didnt-want-to-spend-the-money.html)
+- [5 Oct 2020.  NY Times.  A Student Dies, and a Campus Gets Serious About Coronavirus](https://www.nytimes.com/2020/10/05/us/covid-college-death-chad-dorrill.html)
+- [7 Oct 2020.  NY Times.  In a First, New England Journal of Medicine Joins Never-Trumpers](https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html)
+	- [8 Oct 2020.  NEJM. Dying in a Leadership Vacuum](https://www.nejm.org/doi/full/10.1056/NEJMe2029812)
+- [12 Oct 2020.  NY Times.  Making Sense of Sweden](https://www.nytimes.com/2020/10/12/briefing/coronavirus-los-angeles-lakers-nobel-in-economics-your-monday-briefing.html)
 
 # Situation summaries
 
@@ -119,18 +131,6 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [National Geographic Coronavirus tracker (Worldwide)](https://www.nationalgeographic.com/science/2020/03/mapping-coronavirus-infections-across-the-globe/)
 - [NY Times Coronavirus Vaccine Tracker] (https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 - [NY Times Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
-- [8 Sep 2020.  NEJM Perspective.  Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMp2026913)
-	- [NY Times article about this NEJM commentary](https://www.nytimes.com/2020/09/08/health/covid-masks-immunity.html)
-- [19 Sep 2020.  Globe and Mail.  Covatical](https://www.theglobeandmail.com/opinion/article-to-help-combat-covid-19-we-need-a-preplanned-lockdown-im-calling/)
-- [21 Sep 2020.  CMAJ.  Have we misjudged the role of children in spreading COVID-19?](https://www.cmaj.ca/content/192/38/E1102)
-- [30 Sep 2020.  Toronto Sun.  Doctors urge localized approach, not sweeping lockdown, in open letter to Doug Ford](https://torontosun.com/opinion/columnists/doctors-urge-localized-approach-not-sweeping-lockdown-in-open-letter-to-doug-ford)
-- [30 Sep 2020.  NY Times. Study Finds ‘Single Largest Driver’ of Coronavirus Misinformation: Trump](https://www.nytimes.com/2020/09/30/us/politics/trump-coronavirus-misinformation.html)
-- [30 Sep 2020. NEJM. Rethinking Covid-19 Test Sensitivity — A Strategy for Containment](https://www.nejm.org/doi/full/10.1056/NEJMp2025631)
-- [3 Oct 2020.  The Toronto Star.  Many experts advised Ontario for months to boost COVID testing capacity. Sources say they just didn’t want to spend the money](https://www.thestar.com/opinion/star-columnists/2020/10/03/many-experts-advised-ontario-for-months-to-boost-covid-testing-capacity-sources-say-they-just-didnt-want-to-spend-the-money.html)
-- [5 Oct 2020.  NY Times.  A Student Dies, and a Campus Gets Serious About Coronavirus](https://www.nytimes.com/2020/10/05/us/covid-college-death-chad-dorrill.html)
-- [7 Oct 2020.  NY Times.  In a First, New England Journal of Medicine Joins Never-Trumpers](https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html)
-	- [8 Oct 2020.  NEJM. Dying in a Leadership Vacuum](https://www.nejm.org/doi/full/10.1056/NEJMe2029812)
-
 
 # Advice and opinions
 
