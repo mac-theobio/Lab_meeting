@@ -106,6 +106,9 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 - [7 Oct 2020.  NY Times.  In a First, New England Journal of Medicine Joins Never-Trumpers](https://www.nytimes.com/2020/10/07/health/new-england-journal-trump.html)
 	- [8 Oct 2020.  NEJM. Dying in a Leadership Vacuum](https://www.nejm.org/doi/full/10.1056/NEJMe2029812)
 - [12 Oct 2020.  NY Times.  Making Sense of Sweden](https://www.nytimes.com/2020/10/12/briefing/coronavirus-los-angeles-lakers-nobel-in-economics-your-monday-briefing.html)
+- [4 Oct 2020.  The Great Barrington Declaration](https://gbdeclaration.org/)
+- [13 Oct 2020. NY Times.  White House embraces declaration that opposes lockdowns and relies on ‘herd immunity.’](https://www.nytimes.com/live/2020/10/13/world/coronavirus-covid#white-house-embraces-declaration-that-opposes-lockdowns-and-relies-on-herd-immunity)
+- [15 Oct 2020.  Washington Post. Medieval Europeans didn’t understand how the plague spread. Their response wasn’t so different from ours now](https://www.washingtonpost.com/world/europe/coronavirus-plague-europe/2020/10/14/286af29c-07e9-11eb-8719-0df159d14794_story.html)
 
 # Situation summaries
 
