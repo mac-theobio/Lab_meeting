@@ -20,26 +20,13 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2020 Oct 2 (Tue)
 
-### Next week
+- Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
+	* [Maclib link](https://www.journals.uchicago.edu.libaccess.lib.mcmaster.ca/doi/full/10.1086/696125)
+	* [email if you have trouble accessing this paper.](mailto:dushoff@mcmaster.ca)
 
-## 2020 Oct 20 (Tue)
-
-Please read *one* of the following papers:
-
-- Brett and Rohani: "Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"  https://www.pnas.org/content/early/2020/09/21/2008087117
-- Rice, Wynne, Martin, and Ackland. “Effect of School Closures on Mortality from Coronavirus Disease 2019: Old and New Predictions.” BMJ 371 (October 7, 2020). https://doi.org/10.1136/bmj.m3588. 
-
-These are approximately "pro-lockdown" and "anti-lockdown" stances.
-
-## 2020 Oct 6 (Tue)
-
-* [Rapid Royal rR review](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/)
-
-* Short reports:
-	* Matthew; Fady; Ben
-
-## _2024_ Oct 1 (Tue)
+### _2024_ Oct 1 (Tue)
 
 * Theobio day! 4499^2 ## 20241001
 
@@ -151,10 +138,6 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 - (short paper) Ho J, Tumkaya T, Aryal S, Choi H, Claridge-Chang A. Moving beyond P values: Everyday data analysis with estimation plots. biorxiv 2018. DOI:10.1101/377978.
     * Champredon
 
-- Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
-    * Bolker	
-    * [?](https://media.giphy.com/media/Tlg08MWwaDaJa/giphy.gif)
-
 - Colman _et al_ 2018 [The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3117-6) BMC ID 18:219
 	* Earn
 
@@ -189,41 +172,58 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 * [archive](archive.md)
 
-## 2020 Sep 29
+### 2020 Oct 20 (Tue)
 
-### Seasonality of Covid transmission
+Please read *one* of the following papers:
+
+- Brett and Rohani: "Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"  https://www.pnas.org/content/early/2020/09/21/2008087117
+- Rice, Wynne, Martin, and Ackland. “Effect of School Closures on Mortality from Coronavirus Disease 2019: Old and New Predictions.” BMJ 371 (October 7, 2020). https://doi.org/10.1136/bmj.m3588. 
+
+These are approximately "pro-lockdown" and "anti-lockdown" stances.
+
+### 2020 Oct 6 (Tue)
+
+* [Rapid Royal rR review](https://royalsociety.org/news/2020/09/set-c-covid-r-rate/)
+
+* Short reports:
+	* Matthew; Fady; Ben
+
+### 2020 Sep 29
+
+Seasonality of Covid transmission
 
 Main reading: [Misconceptions about weather and seasonality must not misguide COVID-19 response](https://www.nature.com/articles/s41467-020-18150-z). Carlson et al. _Nature Communications)
 
 Additional readings (medRxiv): [Neher et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/17/2020.02.13.20022806.full.pdf); [Huang et al.](https://www.medrxiv.org/content/10.1101/2020.07.17.20156430v1)
 
-### Short reports:
+#### Short reports:
 * Queenie
 * Zach
 
-### Juggling challenge
+#### Juggling challenge
 
 * Friday at 13:30 on [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 
-### [Total mortality](mortality.md)
+#### [Total mortality](mortality.md)
 
-## 2020 Sep 22
+### 2020 Sep 22
 
-### Article
+#### Article
 
 [Masks Do More Than Protect Others During COVID-19: Reducing the Inoculum of SARS-CoV-2 to Protect the Wearer](https://link.springer.com/article/10.1007/s11606-020-06067-8)
 
 Short reports from Mikael and Geetha
 
-## 2020 Sep 15 (Tue)
+### 2020 Sep 15 (Tue)
 
 Reading: [Mair et al. Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492)
 
-## 2020 Sep 11
+### 2020 Sep 11
 
 Informal meeting.
 
 * Cambridge University logo info: https://www.cl.cam.ac.uk/local/typography/#identifier (you could write to `Richard.Clayton@cl.cam.ac.uk` if you really want the short, hand-crafted version)
 - [Replication of Hastings and Powell 1991](http://rescience.github.io/bibliography/Dansereau_2020.html), "Chaos in a three-species food chain" (implemented in Julia)
 
-## 4 Sep Holiday! No meeting (or a social meeting?)
+### 4 Sep Holiday! Social meeting
+
