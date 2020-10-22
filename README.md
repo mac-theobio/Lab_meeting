@@ -20,7 +20,17 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+
 ### Next week
+
+## 2020 Oct 20 (Tue)
+
+Please read *one* of the following papers:
+
+- Brett and Rohani: "Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"  https://www.pnas.org/content/early/2020/09/21/2008087117
+- Rice, Wynne, Martin, and Ackland. “Effect of School Closures on Mortality from Coronavirus Disease 2019: Old and New Predictions.” BMJ 371 (October 7, 2020). https://doi.org/10.1136/bmj.m3588. 
+
+These are approximately "pro-lockdown" and "anti-lockdown" stances.
 
 ## 2020 Oct 6 (Tue)
 
