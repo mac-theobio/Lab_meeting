@@ -29,7 +29,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 * Short reports:
 	* Matthew; Fady; Ben
 
-## 2024 Oct 1 (Tue)
+## _2024_ Oct 1 (Tue)
 
 * Theobio day! 4499^2 ## 20241001
 
