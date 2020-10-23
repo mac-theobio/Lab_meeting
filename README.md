@@ -25,6 +25,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 - Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
 	* [Maclib link](https://www.journals.uchicago.edu.libaccess.lib.mcmaster.ca/doi/full/10.1086/696125)
 	* [email if you have trouble accessing this paper.](mailto:dushoff@mcmaster.ca)
+	* [Theobio Dropbox](https://www.dropbox.com/l/scl/AADny9JutdvGjolsDc4CKWFUF10PGVgBqPc) ([email for access.](mailto:dushoff@mcmaster.ca))
 
 ### _2024_ Oct 1 (Tue)
 
