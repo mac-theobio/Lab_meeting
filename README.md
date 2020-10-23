@@ -20,7 +20,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2020 Oct 23 (Tue)
+### 2020 Oct 27 (Tue)
 
 - Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
 	* [Maclib link](https://www.journals.uchicago.edu.libaccess.lib.mcmaster.ca/doi/full/10.1086/696125)
