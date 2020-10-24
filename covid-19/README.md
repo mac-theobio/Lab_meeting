@@ -110,6 +110,7 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 - [13 Oct 2020. NY Times.  White House embraces declaration that opposes lockdowns and relies on ‘herd immunity.’](https://www.nytimes.com/live/2020/10/13/world/coronavirus-covid#white-house-embraces-declaration-that-opposes-lockdowns-and-relies-on-herd-immunity)
 - [15 Oct 2020.  Washington Post. Medieval Europeans didn’t understand how the plague spread. Their response wasn’t so different from ours now](https://www.washingtonpost.com/world/europe/coronavirus-plague-europe/2020/10/14/286af29c-07e9-11eb-8719-0df159d14794_story.html)
 - [23 Oct 2020.  NY Times.  The Price for Not Wearing Masks: Perhaps 130,000 Lives](https://www.nytimes.com/2020/10/23/health/covid-deaths.html)
+- [21 Oct 2020.  The Economist.  Should covid be left to spread among the young and healthy? Two petitions by scientists clash on the matter](https://www.economist.com/science-and-technology/2020/10/21/should-covid-be-left-to-spread-among-the-young-and-healthy)
 
 # Situation summaries
 
