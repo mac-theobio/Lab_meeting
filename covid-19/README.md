@@ -114,6 +114,7 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 - [24 Oct 2020.  NY Times. Fauci says the U.S. should consider a national mask mandate as infections spiral](https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates#fauci-says-the-us-should-consider-a-national-mask-mandate-as-infectio
 ns-spiral)
 - [26 Oct 2020.  Video cited in NY Times. Do masks matter in Kansas?](https://mediahub.ku.edu/media/Masks/1_49bb9aid)
+- [3 Aug 2020. NY Times.  The Mask Slackers of 1918](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 
 # Situation summaries
 
