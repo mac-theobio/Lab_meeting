@@ -115,6 +115,7 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 ns-spiral)
 - [26 Oct 2020.  Video cited in NY Times. Do masks matter in Kansas?](https://mediahub.ku.edu/media/Masks/1_49bb9aid)
 - [3 Aug 2020. NY Times.  The Mask Slackers of 1918](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
+- [26 Oct 2020. GIJN. Tracking the Superspreader Events Driving the COVID-19 Pandemic](https://gijn.org/2020/10/26/tracking-the-superspreader-events-driving-the-covid-19-pandemic/)
 
 # Situation summaries
 
