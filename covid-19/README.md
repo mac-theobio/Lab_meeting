@@ -116,6 +116,7 @@ ns-spiral)
 - [26 Oct 2020.  Video cited in NY Times. Do masks matter in Kansas?](https://mediahub.ku.edu/media/Masks/1_49bb9aid)
 - [3 Aug 2020. NY Times.  The Mask Slackers of 1918](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
 - [26 Oct 2020. GIJN. Tracking the Superspreader Events Driving the COVID-19 Pandemic](https://gijn.org/2020/10/26/tracking-the-superspreader-events-driving-the-covid-19-pandemic/)
+- [28 Oct 2020. A room, a bar and a class: how the coronavirus is spread through the air](https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html)
 
 # Situation summaries
 
