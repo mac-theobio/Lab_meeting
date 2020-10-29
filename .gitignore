@@ -35,3 +35,8 @@ all.time
 *.olddiff
 
 *~
+*.Rlog
+*.Rout
+*.rda
+*.pdf.tmp
+*.Rout.args
