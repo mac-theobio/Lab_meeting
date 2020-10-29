@@ -11,6 +11,7 @@ Sources += $(wildcard *.R)
 
 ## Youtube contest
 
+## This is made in Chyun's youtube repo
 Sources += theme_code.Rout.csv
 
 theme_count.Rout: theme_count.R theme_code.Rout.csv
