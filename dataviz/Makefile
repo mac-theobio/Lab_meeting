@@ -11,7 +11,7 @@ Sources += $(wildcard *.R)
 
 ## Youtube contest
 
-Ignore += theme_code.Rout.csv
+Sources += theme_code.Rout.csv
 
 theme_count.Rout: theme_count.R theme_code.Rout.csv
 	$(makeR)
