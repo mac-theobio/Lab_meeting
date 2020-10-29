@@ -109,6 +109,14 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 - [4 Oct 2020.  The Great Barrington Declaration](https://gbdeclaration.org/)
 - [13 Oct 2020. NY Times.  White House embraces declaration that opposes lockdowns and relies on ‘herd immunity.’](https://www.nytimes.com/live/2020/10/13/world/coronavirus-covid#white-house-embraces-declaration-that-opposes-lockdowns-and-relies-on-herd-immunity)
 - [15 Oct 2020.  Washington Post. Medieval Europeans didn’t understand how the plague spread. Their response wasn’t so different from ours now](https://www.washingtonpost.com/world/europe/coronavirus-plague-europe/2020/10/14/286af29c-07e9-11eb-8719-0df159d14794_story.html)
+- [23 Oct 2020.  NY Times.  The Price for Not Wearing Masks: Perhaps 130,000 Lives](https://www.nytimes.com/2020/10/23/health/covid-deaths.html)
+- [21 Oct 2020.  The Economist.  Should covid be left to spread among the young and healthy? Two petitions by scientists clash on the matter](https://www.economist.com/science-and-technology/2020/10/21/should-covid-be-left-to-spread-among-the-young-and-healthy)
+- [24 Oct 2020.  NY Times. Fauci says the U.S. should consider a national mask mandate as infections spiral](https://www.nytimes.com/live/2020/10/24/world/covid-19-coronavirus-updates#fauci-says-the-us-should-consider-a-national-mask-mandate-as-infectio
+ns-spiral)
+- [26 Oct 2020.  Video cited in NY Times. Do masks matter in Kansas?](https://mediahub.ku.edu/media/Masks/1_49bb9aid)
+- [3 Aug 2020. NY Times.  The Mask Slackers of 1918](https://www.nytimes.com/2020/08/03/us/mask-protests-1918.html)
+- [26 Oct 2020. GIJN. Tracking the Superspreader Events Driving the COVID-19 Pandemic](https://gijn.org/2020/10/26/tracking-the-superspreader-events-driving-the-covid-19-pandemic/)
+- [28 Oct 2020. A room, a bar and a class: how the coronavirus is spread through the air](https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html)
 
 # Situation summaries
 
