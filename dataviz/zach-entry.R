@@ -110,7 +110,7 @@ run_shiny <- function() {
           library(viridis)
           maindf <- read.csv(input$theDf$datapath)
           maindf <- maindf[anytime(maindf$published) >= anytime::anydate(input$sd) & anytime(maindf$published) <= anytime::anydate(input$ed),]
-          p <- ggplot2::ggplot(data = maindf, mapping = aes(x = theme, y = code)) + geom_col(fill = "#FDBF57") + labs(x = "count", y = "theme", title = "Youtube themes over time")
+          p <- ggplot2::ggplot(data = maindf, mapping = aes(x = theme, y = code)) + geom_col(fill = "#FDBF57") + labs(x = "theme", y = "count", title = "Youtube themes over time")
         if (input$automaticSize == 1){
           p <- p + ggplot2::theme(
             plot.title = element_text(color = "black", size = input$titleSize),
