@@ -6,7 +6,7 @@ source("makestuff/makeRfuns.R")
 
 ## callArgs Only works interactively and is target-dependent
 callArgs <- "theme_smooth.Rout theme_smooth.R theme_count.rda"
-if (!interactive()) makeGraphics()
+startGraphics()
 
 commandEnvironments()
 
