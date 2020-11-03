@@ -20,7 +20,9 @@ base <- (ggplot(themeCountDaily)
 )
 
 print(base)
-try(direct.label(base, method="chull.points"))
+
+## assign so we don't try to print (try()  won't catch it)
+try(dd <- direct.label(base, method="chull.points"))
 ## error: "data must have a column named x"
 ## debug(directlabels:::check.for.columns)
 ## at some point check.for.columns() gets passed a data frame
@@ -54,7 +56,9 @@ cowplot::plot_grid(plotlist=pp)
 base_point <- (ggplot(themeCountDaily)
     + aes(x=published, y=n, color=theme)
     + geom_point())
-direct.label(base_point,method="top.qp")
+try(junk <-direct.label(base_point,method="top.qp"))
 
 ## library(plotly)
 ## ggplotly(base)
+
+sessionInfo()
