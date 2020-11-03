@@ -13,24 +13,9 @@ commandEnvironments()
 summary(themeCountDaily)
 
 base <- (ggplot(themeCountDaily)
-        + aes(x=published, y=n, color=theme)
-### BMB: combination of geom_line and geom_smooth confuses/is confusing
-### in conjunction with direct.labels:
-### I don't know how it chooses which geom to uses in computing direct
-### label positions (but in the examples below it would be choosing the
-### (invisible) lines rather than the smooths
-### It would be nice to figure out how to do this, but in the past when
-### I have wanted labels to appear relative to a smooth rather than relative
-### to the (noisier) raw data, I've done it by hand
-### I have some (fairly scary) code from a recent project with Harry Shannon
-### that demonstrates this if you want to see
-###   commenting out (invisible) geom_line() for now ...
-    ## + geom_line(alpha=0.0)
-        + geom_smooth(alpha=0.1, method="loess", formula=y~x)
-        ## add explicit method/formula to suppress messages
-        + coord_cartesian(ylim=c(0, 1.5))
-        ## leave a bunch of space so we can see the labels (for now)
-        + scale_x_continuous(expand=expansion(0.6,0))
+	+ aes(x=published, y=n, color=theme)
+	+ geom_smooth(alpha=0.1, method="loess", formula=y~x)
+	+ coord_cartesian(ylim=c(0, 1.5))
 	+ scale_fill_brewer(palette = "Dark2")
 )
 
