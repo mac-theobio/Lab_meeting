@@ -9,6 +9,5 @@ data/
 main.py
 	- run `python3.8 main.py` in command line 
 	- will pop up a local host link and open in browser 
-	- (has a bug that shows error but when you start dragging the month slider the graph will show up) 
 
 

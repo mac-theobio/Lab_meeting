@@ -13,13 +13,13 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 df = pd.read_csv("./data/monthly.csv")
 
 order = ['January', 'February', "March",'April', 'May', 'June', 'July', 'August']
-
+ 
 color_map = dict(zip([i for i in df["theme"].unique()],px.colors.qualitative.Plotly[:9]))
 
 app.layout = html.Div(children=[
 		html.H1(children='Youtube Viz'),
 		html.Div(children='''
-			write somthing here.
+			Use the slider below to see monthly trends.
 			'''),
 		html.H6("Monthly Theme Counts"),
 
@@ -29,19 +29,19 @@ app.layout = html.Div(children=[
 			min=df['published_month'].min(),
 			max=df['published_month'].max(),
 			marks=dict(zip([i for i in range(1,10)],order)),
-			step=None
+			step=None,
+			value=1
 			)
 ])
+
 
 
 @app.callback(
 		Output('graph_with_slider', 'figure'),
 		[Input('month-slider', 'value')])
-
-
 def update_figure(selected_month): 
 
-	filtered_df = df[df['published_month']==selected_month].sort_values(by='count', ascending=False)
+	filtered_df = df[df['published_month']==selected_month]
 
 	fig = px.bar(filtered_df,x="theme", y="count", 
 			color="theme",
