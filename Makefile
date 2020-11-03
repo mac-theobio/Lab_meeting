@@ -32,6 +32,10 @@ sched.Rout.csv: sched.R
 
 ######################################################################
 
+alldirs += dataviz
+
+######################################################################
+
 ## Makestuff setup (automatically get makestuff if you clone this repo somewhere else)
 msrepo = https://github.com/dushoff
 
