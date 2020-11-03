@@ -19,7 +19,7 @@ base <- (ggplot(themeCountDaily)
 	+ scale_fill_brewer(palette = "Dark2")
 )
 
-print(base)
+## print(base)
 
 ## assign so we don't try to print (try()  won't catch it)
 try(dd <- direct.label(base, method="chull.points"))
@@ -29,26 +29,28 @@ try(dd <- direct.label(base, method="chull.points"))
 ## with names
 ##   {i1,i2,x1,y1,x2,y2}
 ## not sure where ... ?
-direct.label(base,method="last.bumpup")
+## This would be good if we could figure out how to stretch x axis?
+print(direct.label(base,method="last.bumpup"))
 
 ## BMB: I think basic problem is that chull.points is
 ## designed for 'scatterplots'; not sure how relevant this is,
 ## but I think we'll have better luck with the methods listed
 ## here under 'lineplot':
 ##  http://directlabels.r-forge.r-project.org/docs/index.html
-try(print(base + geom_dl(stat="smooth", method="chull.points")))
+## try(print(base + geom_dl(stat="smooth", method="chull.points")))
 ## unused argument (alist())
 
 lineplot_methods <- c("angled.boxes","first.bumpup","first.points","first.polygons","first.qp","lasso.labels","last.bumpup","last.points","last.polygons","last.qp","lines2","maxvar.points","maxvar.qp")
-
 lineplot_methods <- setdiff(lineplot_methods, "lines2") ## need 2 groups
+lineplot_methods <- "angled.boxes"
 
 pp <- list()
 for (m in lineplot_methods) {
     pp[[m]] <- direct.label(base,method=m)+ggtitle(m)
+	 print(pp[[m]])
 }
-cowplot::plot_grid(plotlist=pp)
 
+## cowplot::plot_grid(plotlist=pp)
 ## I would have expect this to work but it doesn't ... don't know
 ## all of the internal magic of directlabels (and it's not super
 ## well-documented ...
