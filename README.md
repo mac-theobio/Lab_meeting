@@ -45,6 +45,8 @@ Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticalit
 
 ### Screened
 
+Gelman et al. ["Bayesian workflow"](https://dpsimpson.github.io/pages/talks/Bayesian_Workflow.pdf)
+
 Mair et al. ["Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492&rev=2#abstract0)
 * Park: Methods paper. See https://www.pnas.org/content/pnas/116/52/27142.full.pdf for an application paper.
 
