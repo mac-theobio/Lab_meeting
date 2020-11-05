@@ -22,13 +22,11 @@ themePropDaily <- (themeCountDaily
 )
 
 ## TODO
-## * add weekly-aggregated points?
-## * multinomial version (smoothing); smooth stacked plot?
-## * consider different kinds of smoothing
-##    * loess gives reasonable smooth type, but doesn't respect zero boundary
-##    * gam() is good for boundaries and appropriate weighting (e.g. binomial models),
-##      but seems 'too' smooth (even with formula=y~s(x,k=20), etc.)
-##    * use glm() with splines::ns() ?
+## * add weekly-aggregated points? (maybe with horizontal segments to show that the cover a week?)
+## * point size by total N in proportional plots?
+## * more fussing with box formatting in direct labels: improved leading/margins in plot 3? rounded-corner
+##    boxes as in geom_label?
+## * define theme categories, facet/distinguish by line type?
 
 base <- (ggplot(themeCountDaily)
     + aes(x=published, y=n, color=theme)
@@ -101,7 +99,7 @@ base_prop <- (ggplot(themePropDaily)
     + scale_colour_discrete_qualitative()
     ## expand limits to the right to leave space for labels
     ## + expand_limits(x=as.Date("2020-11-01"))
-    + labs(x="Date published", y="number of videos per day")
+    + labs(x="Date published", y="daily proportion of videos")
 )
 
 prop_gam <- (base_prop
@@ -128,7 +126,7 @@ prop_loess <- (base_prop
 ## aspect ratio right in a make-y environment without going full Rmarkdown
 
 print(prop_gam + ggtitle("gam proportions"))
-print(prop_loess + scale_y_continuous(lim=c(0,NA), oob=scales::squish) + ggtitle("loess proportions"))
+print(prop_loess + scale_y_continuous(lim=c(0,NA), oob=scales::squish) + ggtitle("loess proportions, restricted range"))
 
 ## loess seems OK (all it misses is the blowup of uncertainty
 ## for the less-frequent categories at the beginning and end)
