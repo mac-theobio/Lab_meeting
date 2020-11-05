@@ -20,6 +20,9 @@ theme_count.Rout: theme_count.R theme_code.Rout.csv
 theme_smooth.Rout: theme_smooth.R theme_count.rda
 	$(makeR)
 
+theme_bmb.Rout: theme_bmb.R theme_count.rda
+	$(makeR)
+
 ######################################################################
 
 ### Makestuff

@@ -1,15 +1,14 @@
 library(ggplot2); theme_set(theme_bw())
 library(directlabels)
-## devtools::load_all("~/R/pkgs/directlabels")
 library(colorspace)
 library(cowplot)
-library(RColorBrewer)
 library(tidyverse)
+
+## lots of good advice from Toby Hocking at https://github.com/tdhock/directlabels/issues/31
 
 source("makestuff/makeRfuns.R") 
 
-## callArgs Only works interactively and is target-dependent
-callArgs <- "theme_smooth.Rout theme_smooth.R theme_count.rda"
+callArgs <- "theme_bmb.Rout theme_bmb.R theme_count.rda"
 startGraphics()
 
 commandEnvironments()
@@ -21,9 +20,6 @@ themePropDaily <- (themeCountDaily
                prop=n/ntot)
     %>% ungroup()
 )
-
-
-
 
 ## TODO
 ## * add weekly-aggregated points?
@@ -46,15 +42,58 @@ base <- (ggplot(themeCountDaily)
                   formula=y~x,
                   aes(fill=theme))
     + scale_y_continuous(limits=c(0,NA), oob=scales::squish)
-    + coord_cartesian(ylim=c(0, 1.2))
     + scale_fill_discrete_qualitative()
     + scale_colour_discrete_qualitative()
-    ## expand limits to the right to leave space for labels
-    ## + expand_limits(x=as.Date("2020-11-01"))
     + labs(x="Date published", y="number of videos per day")
 )
 
-print(direct.label(base, method=list(fill="white", "angled.boxes")))
+datex <- as.Date("2020-09-02") ## manual date for extending right axis
+## it would be good to figure out a more automated method
+print(direct.label((base
+                   ## expand limits to the right to leave space for labels
+                   + expand_limits(x=datex)
+                   ## y limits trimmed on top, extended on bottom
+                   + coord_cartesian(ylim=c(-0.07, 1.2))
+                   + ggtitle("angled boxes")
+)
+, method=list(fill="white", "angled.boxes")))
+
+## what about horizontal boxes?
+horizontal.boxes <- list(fill="white", "far.from.others.borders", rot=0,
+                          "calc.boxes", "enlarge.box", "draw.rects")
+print(direct.label((base
+                   ## expand limits to the right to leave space for labels
+                   + expand_limits(x=datex)
+                   ## y limits trimmed on top, extended on bottom
+                   + coord_cartesian(ylim=c(-0.03, 1.2))
+                   + ggtitle("horizontal boxes")
+)
+, method=horizontal.boxes))
+
+## 
+tcd_wraplabs <- (themeCountDaily
+    %>% mutate_at("theme",stringr::str_replace, " ","\n")
+    %>% mutate_at("theme",stringr::str_replace, "and","&")
+)
+hbox2 <- list(fill="white"
+           , "far.from.others.borders"
+           , rot=0
+          ,  "calc.boxes"
+            ## adjust box enlargement; more flexibility would be nice but ...
+           , h=0.6
+           , "enlarge.box"
+           , "draw.rects")
+
+print(direct.label(((base %+% tcd_wraplabs)
+                   ## expand limits to the right to leave space for labels
+                   + expand_limits(x=datex)
+                   ## y limits trimmed on top, extended on bottom
+                   + coord_cartesian(ylim=c(-0.03, 1.2))
+                   + ggtitle("horizontal wrapped boxes")
+)
+, method=hbox2))
+
+
 
 base_prop <- (ggplot(themePropDaily)
     + aes(x=published, y=prop, color=theme)
@@ -91,7 +130,7 @@ prop_loess <- (base_prop
 print(prop_gam + ggtitle("gam proportions"))
 print(prop_loess + scale_y_continuous(lim=c(0,NA), oob=scales::squish) + ggtitle("loess proportions"))
 
-## loess doesn't seem too bad/misrepresentative (all it misses is the blowup of uncertainty
+## loess seems OK (all it misses is the blowup of uncertainty
 ## for the less-frequent categories at the beginning and end)
 
 ## restrict range (maybe not worth showing points if we're going to ignore the larger values?
@@ -100,7 +139,4 @@ print(prop_loess + scale_y_continuous(lim=c(0,NA), oob=scales::squish) + ggtitle
 prop_loess_chop <- prop_loess + scale_y_continuous(lim=c(0,0.55), oob=scales::squish)
 print(prop_loess_chop + ggtitle("loess restricted range"))
 
-## the same problem with boxes
-print(direct.label(prop_loess_chop, method=list(fill="white", "angled.boxes")))
-
-## can we suppress rotation? do we want to?
+## this could be combined with the directlabels fanciness from above ...
