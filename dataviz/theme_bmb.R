@@ -126,7 +126,7 @@ prop_loess <- (base_prop
 ## aspect ratio right in a make-y environment without going full Rmarkdown
 
 print(prop_gam + ggtitle("gam proportions"))
-print(prop_loess + scale_y_continuous(lim=c(0,NA), oob=scales::squish) + ggtitle("loess proportions, restricted range"))
+print(prop_loess + scale_y_continuous(lim=c(0,NA), oob=scales::squish) + ggtitle("loess proportions"))
 
 ## loess seems OK (all it misses is the blowup of uncertainty
 ## for the less-frequent categories at the beginning and end)
@@ -135,6 +135,6 @@ print(prop_loess + scale_y_continuous(lim=c(0,NA), oob=scales::squish) + ggtitle
 ##  show aggregated points instead?
 
 prop_loess_chop <- prop_loess + scale_y_continuous(lim=c(0,0.55), oob=scales::squish)
-print(prop_loess_chop + ggtitle("loess restricted range"))
+print(prop_loess_chop + ggtitle("loess proportions, restricted range"))
 
 ## this could be combined with the directlabels fanciness from above ...
