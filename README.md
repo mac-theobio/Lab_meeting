@@ -20,12 +20,11 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2020 Oct 27 (Tue)
+### 2020 Nov 24 (Tue)
 
-- Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
-	* [Maclib link](https://www.journals.uchicago.edu.libaccess.lib.mcmaster.ca/doi/full/10.1086/696125)
-	* [email if you have trouble accessing this paper.](mailto:dushoff@mcmaster.ca)
-	* [Theobio Dropbox](https://www.dropbox.com/l/scl/AADny9JutdvGjolsDc4CKWFUF10PGVgBqPc) ([email for access.](mailto:dushoff@mcmaster.ca))
+McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact patterns in response to non-pharmaceutical interventions
+* [Elsevier link (requires free account)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3706041&download=yes)
+* wuContact.pdf [in our private Dropbox folder, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
 
 ### _2024_ Oct 1 (Tue)
 
@@ -174,6 +173,15 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+Two November meetings not recorded?
+
+### 2020 Oct 27 (Tue)
+
+- Snyder and Ellner 2018 [Pluck or Luck: Does Trait Variation or Chance Drive Variation in Lifetime Reproductive Success?](https://www.journals.uchicago.edu/doi/full/10.1086/696125) *Am Nat*
+	* [Maclib link](https://www.journals.uchicago.edu.libaccess.lib.mcmaster.ca/doi/full/10.1086/696125)
+	* [email if you have trouble accessing this paper.](mailto:dushoff@mcmaster.ca)
+	* [Theobio Dropbox](https://www.dropbox.com/l/scl/AADny9JutdvGjolsDc4CKWFUF10PGVgBqPc) ([email for access.](mailto:dushoff@mcmaster.ca))
 
 ### 2020 Oct 20 (Tue)
 
