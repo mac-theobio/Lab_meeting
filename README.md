@@ -25,6 +25,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact patterns in response to non-pharmaceutical interventions
 * [Elsevier link (requires free account)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3706041&download=yes)
 * wuContact.pdf [in our private Dropbox folder, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
+* [Fields talk on 17 Nov 2020](http://www.fields.utoronto.ca/talks/Quantifying-shift-social-contact-patterns-response-to-non-pharmaceutical-interventions)
 
 ### _2024_ Oct 1 (Tue)
 
