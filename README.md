@@ -41,6 +41,8 @@ McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact pat
 Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"](https://www.pnas.org/content/early/2020/09/21/2008087117)
 * Earn: abstract sounds interesting
 
+Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lockdown on the far side of the COVID-19 epidemic curve](https://www.pnas.org/content/117/39/24575.short)
+
 ### Newer suggestions (general)
 
 ### Screened
