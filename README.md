@@ -20,16 +20,12 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2020 Dec 1 (Tue)
-
-Main reading: Sections 7.1, 7.2 and 7.4 of Ben's EMD book
-[in our private Dropbox folder, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
-
 ### 2020 Dec 8 (Tue)
 
 McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact patterns in response to non-pharmaceutical interventions
 * [Elsevier link (requires free account)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3706041&download=yes)
 * wuContact.pdf [in our private Dropbox folder, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
+	* Supp now added to folder
 * [Fields talk on 17 Nov 2020](http://www.fields.utoronto.ca/talks/Quantifying-shift-social-contact-patterns-response-to-non-pharmaceutical-interventions)
 
 ### _2024_ Oct 1 (Tue)
@@ -181,6 +177,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2020 Dec 1 (Tue)
+
+Main reading: Sections 7.1, 7.2 and 7.4 of Ben's EMD book
+[in our private Dropbox folder, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
 
 ### 2020 Nov 24 (Tue)
 
