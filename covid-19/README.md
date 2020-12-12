@@ -118,6 +118,8 @@ ns-spiral)
 - [26 Oct 2020. GIJN. Tracking the Superspreader Events Driving the COVID-19 Pandemic](https://gijn.org/2020/10/26/tracking-the-superspreader-events-driving-the-covid-19-pandemic/)
 - [28 Oct 2020. A room, a bar and a class: how the coronavirus is spread through the air](https://english.elpais.com/society/2020-10-28/a-room-a-bar-and-a-class-how-the-coronavirus-is-spread-through-the-air.html)
 - [9 Dec 2020.  The Atlantic.  The Danger of Assuming That Family Time Is Dispensable](https://www.theatlantic.com/ideas/archive/2020/12/tis-the-season-for-shame-and-judgment/617335/)
+- [9 Dec 2020.  NY Times. How the Pfizer-BioNTech Vaccine Works](https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html)
+- [9 Dec 2020.  NY Times.  How Moderna’s Vaccine Works](https://www.nytimes.com/interactive/2020/health/moderna-covid-19-vaccine.html)
 
 # Situation summaries
 
