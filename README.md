@@ -39,6 +39,8 @@ McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact pat
 
 ### Newer suggestions (Covid and covid-project related)
 
+Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
+
 Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"](https://www.pnas.org/content/early/2020/09/21/2008087117)
 * Earn: abstract sounds interesting
 
