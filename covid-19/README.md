@@ -3,6 +3,11 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 
 --David Earn
 
+# Guidelines
+
+- [14 Dec 2020.  National Advisory Committee on Statement "NACI Recommendations on the Use of COVID-19 Vaccine"](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines.h
+tml)
+
 # Outreach links and news articles
 
 - [NY Times Coronavirus FAQ](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html)
