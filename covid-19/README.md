@@ -150,6 +150,7 @@ n- [Fisman 24 April 2020](https://www.tvo.org/article/covid-19-the-week-in-revie
 - [National Geographic Coronavirus tracker (Worldwide)](https://www.nationalgeographic.com/science/2020/03/mapping-coronavirus-infections-across-the-globe/)
 - [NY Times Coronavirus Vaccine Tracker] (https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 - [NY Times Coronavirus Drug and Treatment Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-drugs-treatments.html)
+- [CTV News.  Comparing COVID-19 in states and provinces](https://www.ctvnews.ca/health/coronavirus/covid-19-in-the-u-s-how-do-canada-s-provinces-rank-against-american-states-1.5051033)
 
 # Advice and opinions
 
