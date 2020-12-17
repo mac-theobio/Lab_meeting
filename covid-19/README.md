@@ -125,6 +125,7 @@ ns-spiral)
 - [9 Dec 2020.  The Atlantic.  The Danger of Assuming That Family Time Is Dispensable](https://www.theatlantic.com/ideas/archive/2020/12/tis-the-season-for-shame-and-judgment/617335/)
 - [9 Dec 2020.  NY Times. How the Pfizer-BioNTech Vaccine Works](https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html)
 - [9 Dec 2020.  NY Times.  How Moderna’s Vaccine Works](https://www.nytimes.com/interactive/2020/health/moderna-covid-19-vaccine.html)
+- [17 Dec 2020.  NY Times. People Thought Covid-19 Was Relatively Harmless for Younger Adults. They Were Wrong.](https://www.nytimes.com/2020/12/16/opinion/covid-deaths-young-adults.html)
 
 # Situation summaries
 
