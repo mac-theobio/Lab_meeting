@@ -4,7 +4,7 @@
 
 # Mac-Theobio Lab Meetings
 
-- Tuesdays at 11:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+- Thursdays at 12:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
 __Lab coffee__
@@ -19,6 +19,11 @@ __Lab coffee__
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
 ## Upcoming Meetings
+
+## 2021 Jan 21 (Thurs)
+
+Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
+
 
 ### 2020 Dec 8 (Tue)
 
@@ -38,8 +43,6 @@ McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact pat
 - [links to COVID-19 info/resources](./covid-19/README.md)
 
 ### Newer suggestions (Covid and covid-project related)
-
-Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
 
 Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"](https://www.pnas.org/content/early/2020/09/21/2008087117)
 * Earn: abstract sounds interesting
