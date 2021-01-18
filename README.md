@@ -4,7 +4,7 @@
 
 # Mac-Theobio Lab Meetings
 
-- Tuesdays at 11:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+- Thursdays at 12:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
 __Lab coffee__
@@ -20,13 +20,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2020 Dec 8 (Tue)
+### 2021 Jan 21 (Thu)
 
-McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact patterns in response to non-pharmaceutical interventions
-* [Elsevier link (requires free account)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3706041&download=yes)
-* wuContact.pdf [in our private Dropbox folder, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
-	* Supp now added to folder
-* [Fields talk on 17 Nov 2020](http://www.fields.utoronto.ca/talks/Quantifying-shift-social-contact-patterns-response-to-non-pharmaceutical-interventions)
+Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
 
 ### _2024_ Oct 1 (Tue)
 
@@ -38,8 +34,6 @@ McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact pat
 - [links to COVID-19 info/resources](./covid-19/README.md)
 
 ### Newer suggestions (Covid and covid-project related)
-
-Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
 
 Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"](https://www.pnas.org/content/early/2020/09/21/2008087117)
 * Earn: abstract sounds interesting
@@ -179,6 +173,14 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2020 Dec 8 (Tue)
+
+McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact patterns in response to non-pharmaceutical interventions
+* [Elsevier link (requires free account)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3706041&download=yes)
+* wuContact.pdf [in our private Dropbox folder, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
+	* Supp now added to folder
+* [Fields talk on 17 Nov 2020](http://www.fields.utoronto.ca/talks/Quantifying-shift-social-contact-patterns-response-to-non-pharmaceutical-interventions)
 
 ### 2020 Dec 1 (Tue)
 
