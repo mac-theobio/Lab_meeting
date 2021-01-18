@@ -174,6 +174,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 * [archive](archive.md)
 
+### 2021 Jan 14 (Thu)
+
+Zulip and other topics
+
 ### 2020 Dec 8 (Tue)
 
 McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact patterns in response to non-pharmaceutical interventions
