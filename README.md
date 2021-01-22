@@ -20,6 +20,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2021 Jan 28 (Thu)
+Vehtari et al (2020). Bayesian Analysis. ["Rank-Normalization, Folding, and Localization: An Improved Rhat
+for Assessing Convergence of MCMC"](https://projecteuclid.org/euclid.ba/1593828229)
+
 ### 2021 Jan 21 (Thu)
 
 Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
