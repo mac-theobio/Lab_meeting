@@ -21,8 +21,8 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 ## Upcoming Meetings
 
 ### 2021 Jan 28 (Thu)
-
-Vehtari, et al. [“Rank-Normalization, Folding, and Localization: An Improved R-hat for Assessing Convergence of MCMC.”](http://arxiv.org/abs/1903.08008)
+Vehtari et al (2020). Bayesian Analysis. ["Rank-Normalization, Folding, and Localization: An Improved Rhat
+for Assessing Convergence of MCMC"](https://projecteuclid.org/euclid.ba/1593828229)
 
 ### _2024_ Oct 1 (Tue)
 
