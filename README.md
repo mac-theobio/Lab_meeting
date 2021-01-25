@@ -8,8 +8,8 @@
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
 __Lab coffee__
-* [Google hangout](https://hangouts.google.com/call/fnVQC0CSIYrmHAS9Nb4rACEE?no_rd)
-* [Google text chat](https://hangouts.google.com/?pli=1&action=chat&id=UgxLRtgg_GVdBj8cVE94AaABAQ&rpi=116964537718646895072).
+* [Google video hangout](https://hangouts.google.com/call/fnVQC0CSIYrmHAS9Nb4rACEE?no_rd)
+* [Google text hangout](https://hangouts.google.com/?pli=1&action=chat&id=UgxLRtgg_GVdBj8cVE94AaABAQ&rpi=116964537718646895072).
 
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
@@ -20,9 +20,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 Jan 21 (Thu)
+### 2021 Jan 28 (Thu)
 
-Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
+Vehtari, et al. [“Rank-Normalization, Folding, and Localization: An Improved R-hat for Assessing Convergence of MCMC.”](http://arxiv.org/abs/1903.08008)
 
 ### _2024_ Oct 1 (Tue)
 
@@ -173,6 +173,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Jan 21 (Thu)
+
+Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
+
 
 ### 2021 Jan 14 (Thu)
 
