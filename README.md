@@ -21,13 +21,25 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 Jan 28 (Thu)
-Vehtari et al (2020). Bayesian Analysis. ["Rank-Normalization, Folding, and Localization: An Improved Rhat
-for Assessing Convergence of MCMC"](https://projecteuclid.org/euclid.ba/1593828229)
+2021 Feb 04 (Thu)
+=================
+
+Marginal and conditional effects
+
+* Main reading: [Norton, Edward C., Bryan E. Dowd, and Matthew L. Maciejewski. “Marginal Effects—Quantifying the Effect of Changes in Risk Factors in Logistic Regression Models.” JAMA](https://doi.org/10.1001/jama.2019.1954) (the pdf link is open, even though the "text" is restricted)
+* Supplemental: [Marginal or conditional regression models for correlated non‐normal data? Stefanie Muff  Leonhard Held  Lukas F. Keller](https://doi.org/10.1111/2041-210X.12623)
+
+Short reports (your name is the one you added to the schedule sheet ☺)
+
+* Martin
+* Bolker
 
 ### _2024_ Oct 1 (Tue)
 
 * Theobio day! 4499^2 ## 20241001
+
+(Past meetings at the bottom)
+
 
 ## COVID stuff
 
@@ -174,6 +186,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Jan 28 (Thu)
+Vehtari et al (2020). Bayesian Analysis. ["Rank-Normalization, Folding, and Localization: An Improved Rhat
+for Assessing Convergence of MCMC"](https://projecteuclid.org/euclid.ba/1593828229)
 
 ### 2021 Jan 21 (Thu)
 
