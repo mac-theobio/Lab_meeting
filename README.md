@@ -27,6 +27,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 | Thing | Source |
 | :---- | :----- |
 | Reading | Ellner SP, Snyder RE, Adler PB, Hooker G. [An expanded modern coexistence theory for empirical applications.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13159) Ecology Letters. 2019;22:3-18. Sections prior to "General Theory" on page 10 are recommended. Further reading is at your leisure. |
+| If short on time or motivation to read... | [A recent talk](https://youtu.be/w_4UKYEsvog) by Ellner on an extension of the 2019 work to spatial models, prefaced by an overview of the paper. |
 | Background on coexistence mechanisms | Chesson, P. [Mechanisms of maintenance of species diversity.](https://www.jstor.org/stable/221736) Annual Review of Ecology and Systematics. 2000;30:343-366. |
 | Background on modern coexistence theory (MCT) | Chesson, P. [Multispecies competition in variable environments.](https://www.sciencedirect.com/science/article/pii/S0040580984710136) Theoretical Population Biology. 1994;45:227-276. |
 
