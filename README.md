@@ -21,18 +21,15 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-2021 Feb 04 (Thu)
+2021 Feb 11 (Thu)
 =================
 
-Marginal and conditional effects
-
-* Main reading: [Norton, Edward C., Bryan E. Dowd, and Matthew L. Maciejewski. “Marginal Effects—Quantifying the Effect of Changes in Risk Factors in Logistic Regression Models.” JAMA](https://doi.org/10.1001/jama.2019.1954) (the pdf link is open, even though the "text" is restricted)
-* Supplemental: [Marginal or conditional regression models for correlated non‐normal data? Stefanie Muff  Leonhard Held  Lukas F. Keller](https://doi.org/10.1111/2041-210X.12623)
-
-Short reports (your name is the one you added to the schedule sheet ☺)
-
-* Martin
-* Bolker
+| Thing | Source |
+| ----- | ------ |
+| Reading | Ellner SP, Snyder RE, Adler PB, Hooker G. [An expanded modern coexistence theory for empirical applications.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13159) Ecology Letters. 2019;22:3-18. Sections prior to "General Theory" on page 10 are recommended. Further reading is at your leisure. |
+| If short on time or motivation to read... | [A recent talk by Ellner on this subject.](https://youtu.be/w_4UKYEsvog) |
+| Background on coexistence mechanisms | Chesson, P. [Mechanisms of maintenance of species diversity.](https://www.jstor.org/stable/221736) Annual Review of Ecology and Systematics. 2000;30:343-366. |
+| Background on modern coexistence theory (MCT) | Chesson, P. [Multispecies competition in variable environments.](https://www.sciencedirect.com/science/article/pii/S0040580984710136) Theoretical Population Biology. 1994;45:227-276. |
 
 ### _2024_ Oct 1 (Tue)
 
@@ -186,6 +183,15 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Feb 04 (Thu)
+Norton et al. (2019). [Marginal Effects—Quantifying the Effect of Changes in Risk Factors in Logistic Regression Models.](https://doi.org/10.1001/jama.2019.1954)
+
+Muff et al. (2016). [Marginal or conditional regression models for correlated non‐normal data?](https://doi.org/10.1111/2041-210X.12623)
+
+#### Short reports:
+* Martin
+* Bolker
 
 ### 2021 Jan 28 (Thu)
 Vehtari et al (2020). Bayesian Analysis. ["Rank-Normalization, Folding, and Localization: An Improved Rhat
