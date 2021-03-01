@@ -3,6 +3,10 @@ I started this list of links on 10 March 2020, with the intention of eventually 
 
 --David Earn
 
+# Misc links
+
+- [Canadian COVID-19 Vaccination Tracker](https://covid19tracker.ca/vaccinationtracker.html)
+
 # Guidelines
 
 - [14 Dec 2020.  National Advisory Committee on Statement "NACI Recommendations on the Use of COVID-19 Vaccine"](https://www.canada.ca/en/public-health/services/immunization/national-advisory-committee-on-immunization-naci/recommendations-use-covid-19-vaccines.h
@@ -126,6 +130,7 @@ ns-spiral)
 - [9 Dec 2020.  NY Times. How the Pfizer-BioNTech Vaccine Works](https://www.nytimes.com/interactive/2020/health/pfizer-biontech-covid-19-vaccine.html)
 - [9 Dec 2020.  NY Times.  How Moderna’s Vaccine Works](https://www.nytimes.com/interactive/2020/health/moderna-covid-19-vaccine.html)
 - [17 Dec 2020.  NY Times. People Thought Covid-19 Was Relatively Harmless for Younger Adults. They Were Wrong.](https://www.nytimes.com/2020/12/16/opinion/covid-deaths-young-adults.html)
+- [15 Jan 2021.  Washington Post.  Ontario’s lockdown guidelines are a confusing mess](https://www.washingtonpost.com/opinions/2021/01/15/canada-ontario-doug-ford-lockdown-covid-19-toronto/)
 
 # Situation summaries
 

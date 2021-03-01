@@ -8,8 +8,9 @@
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
 __Lab coffee__
-* [Google hangout](https://hangouts.google.com/call/fnVQC0CSIYrmHAS9Nb4rACEE?no_rd)
-* [Google text chat](https://hangouts.google.com/?pli=1&action=chat&id=UgxLRtgg_GVdBj8cVE94AaABAQ&rpi=116964537718646895072).
+* Mondays at 14:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
+* [Google text hangout](https://hangouts.google.com/?pli=1&action=chat&id=UgxLRtgg_GVdBj8cVE94AaABAQ&rpi=116964537718646895072).
 
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
@@ -20,22 +21,13 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2021 Jan 21 (Thurs)
-
-Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
-
-
-### 2020 Dec 8 (Tue)
-
-McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact patterns in response to non-pharmaceutical interventions
-* [Elsevier link (requires free account)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3706041&download=yes)
-* wuContact.pdf [in our private Dropbox folder, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
-	* Supp now added to folder
-* [Fields talk on 17 Nov 2020](http://www.fields.utoronto.ca/talks/Quantifying-shift-social-contact-patterns-response-to-non-pharmaceutical-interventions)
 
 ### _2024_ Oct 1 (Tue)
 
 * Theobio day! 4499^2 ## 20241001
+
+(Past meetings at the bottom)
+
 
 ## COVID stuff
 
@@ -182,6 +174,45 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 2021 Feb 25 (Thu)
+
+| Thing | Source |
+| :---- | :----- |
+| Reading | Ellner SP, Snyder RE, Adler PB, Hooker G. [An expanded modern coexistence theory for empirical applications.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13159) Ecology Letters. 2018;22:3-18. Sections prior to "General Theory" on page 10 are recommended, and following any references to the supplement is probably a good idea. Further reading is at your leisure. |
+| If short on time or motivation to read... | [A recent talk](https://youtu.be/w_4UKYEsvog) by Ellner on an extension of the 2018 work to spatial models, prefaced by an overview of the paper. |
+| Background on modern coexistence theory (MCT) | Chesson, P. [Multispecies competition in variable environments.](https://www.sciencedirect.com/science/article/pii/S0040580984710136) Theoretical Population Biology. 1994;45:227-276. Up to page 233. |
+| Background on coexistence mechanisms | Chesson, P. [Mechanisms of maintenance of species diversity.](https://www.jstor.org/stable/221736) Annual Review of Ecology and Systematics. 2000;30:343-366. |
+
+### 2021 Feb 04 (Thu)
+Norton et al. (2019). [Marginal Effects—Quantifying the Effect of Changes in Risk Factors in Logistic Regression Models.](https://doi.org/10.1001/jama.2019.1954)
+
+Muff et al. (2016). [Marginal or conditional regression models for correlated non‐normal data?](https://doi.org/10.1111/2041-210X.12623)
+
+#### Short reports:
+* Martin
+* Bolker
+
+### 2021 Jan 28 (Thu)
+Vehtari et al (2020). Bayesian Analysis. ["Rank-Normalization, Folding, and Localization: An Improved Rhat
+for Assessing Convergence of MCMC"](https://projecteuclid.org/euclid.ba/1593828229)
+
+### 2021 Jan 21 (Thu)
+
+Juul et al (2020). Nature Physics. ["Fixed-time descriptive statistics underestimate extremes of epidemic curve ensembles"](https://www.nature.com/articles/s41567-020-01121-y)
+
+
+### 2021 Jan 14 (Thu)
+
+Zulip and other topics
+
+### 2020 Dec 8 (Tue)
+
+McCarthy et al. (Jianhong Wu group): Quantifying the shift in social contact patterns in response to non-pharmaceutical interventions
+* [Elsevier link (requires free account)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3706041&download=yes)
+* wuContact.pdf [in our private Dropbox folder, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
+	* Supp now added to folder
+* [Fields talk on 17 Nov 2020](http://www.fields.utoronto.ca/talks/Quantifying-shift-social-contact-patterns-response-to-non-pharmaceutical-interventions)
 
 ### 2020 Dec 1 (Tue)
 
