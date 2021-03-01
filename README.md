@@ -36,6 +36,15 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### Newer suggestions (Covid and covid-project related)
 
+Carlson, Colin J., Sarah N. Bevins, and Boris V. Schmid. “Plague Risk in the Western United States over Seven Decades of Environmental Change.” BioRxiv, February 27, 2021, 2021.02.26.433096. https://doi.org/10.1101/2021.02.26.433096.
+
+Ellison, Glenn. “Implications of Heterogeneous SIR Models for Analyses of COVID-19.” National Bureau of Economic Research, 2020.
+
+Fox, Spencer J., Pratyush Potu, Michael Lachmann, Ravi Srinivasan, and Lauren Ancel Meyers. “The COVID-19 Herd Immunity Threshold Is Not Low: A Re-Analysis of European Data from Spring of 2020.” MedRxiv, December 3, 2020, 2020.12.01.20242289. https://doi.org/10.1101/2020.12.01.20242289.
+
+Wilkinson, Ryan, and Marcus Roper. “Homogeneous Interpretable Approximations to Heterogeneous SIR Models.” ArXiv:2012.13424 [q-Bio], January 11, 2021. http://arxiv.org/abs/2012.13424.
+
+
 Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"](https://www.pnas.org/content/early/2020/09/21/2008087117)
 * Earn: abstract sounds interesting
 
