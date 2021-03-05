@@ -21,6 +21,13 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2021 Mar 11 (Thu)
+
+- [Oidtman et al (2021) "Trade-offs between individual and ensemble forecasts of an emerging infectious disease"](https://www.medrxiv.org/content/10.1101/2021.02.25.21252363v1)
+ 	* [Twitter summary](https://twitter.com/RJOidtman/status/1367148784019365889)
+	* Irena will lead:
+		* This looks like a really nice "lessons learned" paper about modeling an emergent infectious disease, and it's not COVID! The case study is actually Zika virus, which means there's more hindsight to learn from. 
+		* The preprint is hot off the press (posted 1 March), but from [Twitter](https://twitter.com/RJOidtman/status/1367148784019365889), it sounds like it's already been reviewed. I wonder if the preprint was only posted recently because it's been accepted by a high tier journal...
 
 ### _2024_ Oct 1 (Tue)
 
@@ -78,13 +85,6 @@ Field, et al. ["Framework for quantifying population responses to disturbance re
 
 #### Please add new suggestions right below this line. Add your name and say something about the paper, and whether you want to recommend it or whether it should be screened
 
-- [Oidtman et al (2021) "Trade-offs between individual and ensemble forecasts of an emerging infectious disease"](https://www.medrxiv.org/content/10.1101/2021.02.25.21252363v1)
- 	* [Twitter summary](https://twitter.com/RJOidtman/status/1367148784019365889)
-	* Irena:
-		* (not sure what the difference is between recommending or having a paper screened...) 
-		* This looks like a really nice "lessons learned" paper about modeling an emergent infectious disease, and it's not COVID! The case study is actually Zika virus, which means there's more hindsight to learn from. 
-		* The preprint is hot off the press (posted 1 March), but from [Twitter](https://twitter.com/RJOidtman/status/1367148784019365889), it sounds like it's already been reviewed. I wonder if the preprint was only posted recently because it's been accepted by a high tier journal...
-		* I would be happy to lead a discussion on this paper.
 
 Statistical philosophy from eLife
 https://elifesciences.org/articles/48175?utm_source=content_alert&utm_medium=email&utm_content=fulltext&utm_campaign=22-July-20-elife-alert
@@ -191,6 +191,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 2021 Mar 04 (Thu)
+
+Fox, Spencer J., Pratyush Potu, Michael Lachmann, Ravi Srinivasan, and Lauren Ancel Meyers. “The COVID-19 Herd Immunity Threshold Is Not Low: A Re-Analysis of European Data from Spring of 2020.” [MedRxiv, December 3, 2020, 2020.12.01.20242289.](https://doi.org/10.1101/2020.12.01.20242289)
 
 ## 2021 Feb 25 (Thu)
 
