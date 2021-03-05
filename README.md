@@ -59,6 +59,9 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 
 ### Newer suggestions (general)
 
+Stockmaier, Stroeymeyt, Shattuck, Hawley, Ancel Meyers, Bolnick (2021).  Science. [Infectious diseases and social distancing in nature](https://science.sciencemag.org/content/371/6533/eabc8881)
+* Earn: looks very nice - haven't read it yet
+
 ### Screened
 
 Gelman et al. ["Bayesian workflow"](https://dpsimpson.github.io/pages/talks/Bayesian_Workflow.pdf)
