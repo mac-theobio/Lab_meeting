@@ -21,13 +21,14 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 Mar 11 (Thu)
+### 2021 Mar 25 (Thu)
 
-- [Oidtman et al (2021) "Trade-offs between individual and ensemble forecasts of an emerging infectious disease"](https://www.medrxiv.org/content/10.1101/2021.02.25.21252363v1)
- 	* [Twitter summary](https://twitter.com/RJOidtman/status/1367148784019365889)
-	* Irena will lead:
-		* This looks like a really nice "lessons learned" paper about modeling an emergent infectious disease, and it's not COVID! The case study is actually Zika virus, which means there's more hindsight to learn from. 
-		* The preprint is hot off the press (posted 1 March), but from [Twitter](https://twitter.com/RJOidtman/status/1367148784019365889), it sounds like it's already been reviewed. I wonder if the preprint was only posted recently because it's been accepted by a high tier journal...
+The debate about vaccine priorities
+
+* [Popular article from SFU](https://www.sfu.ca/magpie/blog/vaccinating-essential-workers.html). See also preprint link at the bottom.
+* [Controversial peer-reviewed paper from PNAS](https://www.pnas.org/content/118/11/e2026322118)
+
+See if you can form an opinion about whether and why these two perspectives are in contradiction.
 
 ### _2024_ Oct 1 (Tue)
 
@@ -194,6 +195,21 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Mar 18 (Thu)
+
+Practice talk by Zachary Levine.
+
+_Add info or slides if you like_
+
+### 2021 Mar 11 (Thu)
+
+- [Oidtman et al (2021) "Trade-offs between individual and ensemble forecasts of an emerging infectious disease"](https://www.medrxiv.org/content/10.1101/2021.02.25.21252363v1)
+ 	* [Twitter summary](https://twitter.com/RJOidtman/status/1367148784019365889)
+	* Irena will lead:
+		* This looks like a really nice "lessons learned" paper about modeling an emergent infectious disease, and it's not COVID! The case study is actually Zika virus, which means there's more hindsight to learn from. 
+		* The preprint is hot off the press (posted 1 March), but from [Twitter](https://twitter.com/RJOidtman/status/1367148784019365889), it sounds like it's already been reviewed. I wonder if the preprint was only posted recently because it's been accepted by a high tier journal...
+
 
 ## 2021 Mar 04 (Thu)
 
