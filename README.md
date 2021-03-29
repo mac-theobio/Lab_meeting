@@ -21,21 +21,16 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 Mar 25 (Thu)
+### 2021 Apri1 1 (Thu)
 
-The debate about vaccine priorities
-
-* [Popular article from SFU](https://www.sfu.ca/magpie/blog/vaccinating-essential-workers.html). See also preprint link at the bottom.
-* [Controversial peer-reviewed paper from PNAS](https://www.pnas.org/content/118/11/e2026322118)
-
-See if you can form an opinion about whether and why these two perspectives are in contradiction.
+* Agenda item: presentation from Sophie
+* Paper: [Dushoff and Park on Speed and Strength of Epidemics]
 
 ### _2024_ Oct 1 (Tue)
 
 * Theobio day! 4499^2 ## 20241001
 
 (Past meetings at the bottom)
-
 
 ## COVID stuff
 
@@ -197,6 +192,15 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Mar 25 (Thu)
+
+The debate about vaccine priorities
+
+* [Popular article from SFU](https://www.sfu.ca/magpie/blog/vaccinating-essential-workers.html). See also preprint link at the bottom.
+* [Controversial peer-reviewed paper from PNAS](https://www.pnas.org/content/118/11/e2026322118)
+
+See if you can form an opinion about whether and why these two perspectives are in contradiction.
 
 ### 2021 Mar 18 (Thu)
 
