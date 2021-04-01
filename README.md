@@ -23,8 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### 2021 Apri1 1 (Thu)
 
-* Agenda item: presentation from Sophie
-* Paper: [Dushoff and Park on Speed and Strength of Epidemics](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.1556)
+**tentative**: Carlson, Colin J., Sarah N. Bevins, and Boris V. Schmid. “Plague Risk in the Western United States over Seven Decades of Environmental Change.” BioRxiv, February 27, 2021, 2021.02.26.433096. https://doi.org/10.1101/2021.02.26.433096.
 
 ### _2024_ Oct 1 (Tue)
 
@@ -39,16 +38,11 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### Newer suggestions (Covid and covid-project related)
 
-Dushoff, J. and Park, S. W. PRSB. [Speed and strength of an epidemic intervention](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1556)
-
-Carlson, Colin J., Sarah N. Bevins, and Boris V. Schmid. “Plague Risk in the Western United States over Seven Decades of Environmental Change.” BioRxiv, February 27, 2021, 2021.02.26.433096. https://doi.org/10.1101/2021.02.26.433096.
-
 Ellison, Glenn. “Implications of Heterogeneous SIR Models for Analyses of COVID-19.” National Bureau of Economic Research, 2020.
 
-Fox, Spencer J., Pratyush Potu, Michael Lachmann, Ravi Srinivasan, and Lauren Ancel Meyers. “The COVID-19 Herd Immunity Threshold Is Not Low: A Re-Analysis of European Data from Spring of 2020.” MedRxiv, December 3, 2020, 2020.12.01.20242289. https://doi.org/10.1101/2020.12.01.20242289.
+~Fox, Spencer J., Pratyush Potu, Michael Lachmann, Ravi Srinivasan, and Lauren Ancel Meyers. “The COVID-19 Herd Immunity Threshold Is Not Low: A Re-Analysis of European Data from Spring of 2020.” MedRxiv, December 3, 2020, 2020.12.01.20242289. https://doi.org/10.1101/2020.12.01.20242289.~
 
 Wilkinson, Ryan, and Marcus Roper. “Homogeneous Interpretable Approximations to Heterogeneous SIR Models.” ArXiv:2012.13424 [q-Bio], January 11, 2021. http://arxiv.org/abs/2012.13424.
-
 
 Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"](https://www.pnas.org/content/early/2020/09/21/2008087117)
 * Earn: abstract sounds interesting
@@ -62,7 +56,7 @@ Stockmaier, Stroeymeyt, Shattuck, Hawley, Ancel Meyers, Bolnick (2021).  Science
 
 ### Screened
 
-Gelman et al. ["Bayesian workflow"](https://dpsimpson.github.io/pages/talks/Bayesian_Workflow.pdf)
+~Gelman et al. ["Bayesian workflow"](https://dpsimpson.github.io/pages/talks/Bayesian_Workflow.pdf)~
 
 Mair et al. ["Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492&rev=2#abstract0)
 * Park: Methods paper. See https://www.pnas.org/content/pnas/116/52/27142.full.pdf for an application paper.
@@ -192,6 +186,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 2021 Apr 1 (Thu)
+
+Dushoff, J. and Park, S. W. PRSB. [Speed and strength of an epidemic intervention](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.1556)
 
 ### 2021 Mar 25 (Thu)
 
