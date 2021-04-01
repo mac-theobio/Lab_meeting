@@ -24,7 +24,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 ### 2021 Apri1 1 (Thu)
 
 * Agenda item: presentation from Sophie
-* Paper: [Dushoff and Park on Speed and Strength of Epidemics]
+* Paper: [Dushoff and Park on Speed and Strength of Epidemics](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2020.1556)
 
 ### _2024_ Oct 1 (Tue)
 
