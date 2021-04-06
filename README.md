@@ -23,7 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### 2021 Apri1 8 (Thu)
 
-Carlson, Colin J., Sarah N. Bevins, and Boris V. Schmid. [“Plague Risk in the Western United States over Seven Decades of Environmental Change.” BioRxiv, February 27, 2021, 2021.02.26.433096](https://doi.org/10.1101/2021.02.26.433096.
+Carlson, Colin J., Sarah N. Bevins, and Boris V. Schmid. [“Plague Risk in the Western United States over Seven Decades of Environmental Change.” BioRxiv, February 27, 2021, 2021.02.26.433096](https://doi.org/10.1101/2021.02.26.433096).
 
 ### _2024_ Oct 1 (Tue)
 
