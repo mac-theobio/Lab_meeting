@@ -6,6 +6,8 @@
 	- how do you get to campus? [live on campus, walk, bike, public transit, car pool, private vehicle]
 	- how many people live in your household (including you)
       [1, 2, 3, 4, 5, 6, 7, 8, 9, 10+]
+	- what type of household is it?
+      [family home / student house / apartment / university residence / other]
 - Have you ever had a COVID-19 test?
 	- How many times?  [1, 2, 3, 4, 5-9, 10-19, 20+]
 	- When? (approximate dates if you don't remember exactly when)
@@ -29,6 +31,8 @@
 		- why not? [vaccine safety / allergies / other: specify]
 - Are you willing to attend in-person classes if some people in the
   class are not vaccinated? [Yes, Yes for small classes only, No, Not Sure]
+- Which on-campus facilities do you expect to use? [gym, libraries, student centre,
+food courts / restaurants, coffee shops / bars]
 - Are you willing to fill in surveys like this regularly (e.g.,
   weekly) to help monitor the situation in the McMaster community?
   _Must do this via non-identifying survey token_
