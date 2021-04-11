@@ -1,17 +1,19 @@
 # potential survey questions
 
-- Basic demographic info (maybe have "prefer not to say" as an option)
+- Basic demographic info (have "prefer not to say" as an option)
 	- gender [F/M/other], age, role at Mac [student/staff/faculty/other]
 	  - if student: undergrad/grad? home faculty? year in program?
-	- how do you get to campus? [live on campus, walk, bike, public transit, car pool, private vehicle]
+	- Do you live on campus?
+	- If not, how will you get to campus (check all that apply)? [live on campus, walk, bike, public transit, car pool, private vehicle]
 	- how many people live in your household (including you)
       [1, 2, 3, 4, 5, 6, 7, 8, 9, 10+]
 	- what type of household is it?
       [family home / student house / apartment / university residence / other]
 - Have you ever had a COVID-19 test?
 	- How many times?  [1, 2, 3, 4, 5-9, 10-19, 20+]
-	- When? (approximate dates if you don't remember exactly when)
-	- Why? [had symptoms / contacted someone with covid / covid alert app told me I'd been near someone who tested positive / other:specify]
+	- If yes, when was the most recent?
+	- If more than one time, when was the first? 
+	- If yes, why did you have your most recent test? [had symptoms / contacted someone with covid / covid alert app told me I'd been near someone who tested positive / travel / other:specify]
 - Have you had COVID-19?
 	- When? (approximate date if you don't remember exactly when)
 	- Was it confirmed by a test?
@@ -31,9 +33,10 @@
 		- why not? [vaccine safety / allergies / other: specify]
 - Are you willing to attend in-person classes if some people in the
   class are not vaccinated? [Yes, Yes for small classes only, No, Not Sure]
-- Which on-campus facilities do you expect to use? [gym, libraries, student centre,
+- Which on-campus facilities do you think you would use in the Fall if they are open? [gym, libraries, student centre,
 food courts / restaurants, coffee shops / bars]
-- Are you willing to fill in surveys like this regularly (e.g.,
-  weekly) to help monitor the situation in the McMaster community?
+- Are you willing to fill in surveys like this once every two weeks
+  to help monitor the situation in the McMaster community?
   _Must do this via non-identifying survey token_
 - Any comments/concerns/suggestions?  [free text box]
+	[[About what? If you're interested in feedback, consider giving more guidance than this]]
