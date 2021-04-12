@@ -56,6 +56,12 @@ members of any marginalized groups? This could provide useful info on
 who would be most affected by which decisions. Some things to ask
 about might be: members of racialized groups, being at high risk
 medically from COVID, having a disability.
+- The survey isn't actually asking whether the respondent thinks an
+institution-wide return to in-person work/instruction is a good
+idea. Without this question, it gives the impression that that
+decision is a fait accompli. Is that something you want community
+feedback on? Or are there other metrics that the decision is being
+based on?
 
 _For questions aimed at students:_
 - I didn't see any questions about what safety precautions people
@@ -89,9 +95,3 @@ instruction if they are exposed to COVID or feel ill?
 - Would faculty prefer to teach online or in person in the fall, and
 under what circumstances?
 
-- The survey isn't actually asking whether the respondent thinks an
-institution-wide return to in-person work/instruction is a good
-idea. Without this question, it gives the impression that that
-decision is a fait accompli. Is that something you want community
-feedback on? Or are there other metrics that the decision is being
-based on?
