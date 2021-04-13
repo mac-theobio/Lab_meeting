@@ -100,3 +100,5 @@ under what circumstances?
 
 _Other resources:_
 - IP: Cornell sought a bunch of public feedback in Spring 2020 about reopening in Fall 2020, in the form of several town halls and a formal survey. I've emailed a person who conducted the survey to ask for a copy of the questions (and will forward if I get them), but you can at least get a sense of what they were asking about in Appendix 3 [here](https://covid.cornell.edu/_assets/files/ctro-final-report.pdf) (starting on pdf page 58), as well as the kinds of concerns students expressed at the time.
+
+[HR meeting notes, 13 Apr 2021](./hr_meeting_2021-04-13.md)
