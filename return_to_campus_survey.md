@@ -1,12 +1,14 @@
 # potential survey questions
 
+(IP: General comment about demographic questions... Clarify when you're asking about people's present circumstances and when you're asking them to answer based on hypotheticals, like returning to campus (e.g. in the case of the the household question). Throughout the survey, it's important to be clear about the scenario students should keep in mind when answering each set of questions.)
+
 - Basic demographic info (have "prefer not to say" as an option)
 	- gender [F/M/non-binary/agender/genderqueer/other], age, role at Mac [student/staff/faculty/other]
 	  - if student: undergrad/grad? home faculty? year in program?
 	- Do you live on campus?
 	- If not, how will you get to campus (check all that apply)? [live on campus, walk, bike, public transit, car pool, private vehicle]
 	- how many people live in your household (including you)
-      [1, 2, 3, 4, 5, 6, 7, 8, 9, 10+]
+      [1, 2, 3, 4, 5, 6, 7, 8, 9, 10+] 
 	- what type of household is it?
       [family home / student house / apartment / university residence / other]
 - Have you ever had a COVID-19 test?
@@ -44,7 +46,7 @@ food courts / restaurants, coffee shops / bars]
 ## Other possible questions, options, issues
 
 - Add an option to say if they live in a multigenerational household.
-- Maybe ask if any person in their household is an essential worker.
+- Maybe ask if any person in their household, or the student themselves, is an essential worker, or would be while coming to campus for the Fall term.
 - how many people in your household have received the vaccine?
 - Effects of social networks/media: To what extent are your answers influenced by friends/family/media? [Likert scale]
 - Perhaps ask for month rather than approx date if they can't remember when they had COVID, a test or the vaccine.
@@ -61,13 +63,14 @@ institution-wide return to in-person work/instruction is a good
 idea. Without this question, it gives the impression that that
 decision is a fait accompli. Is that something you want community
 feedback on? Or are there other metrics that the decision is being
-based on?
+based on? (<- IP: I agree with this, and I'll add that I think it's important to be very clear what the reopening scenario is in the background when you ask questions about an individual's prospective behaviour. What is the school considering? It might actually be useful to describe the scenarios under consideration, like partial reopen, full reopen, and repreat some questions for each scenario to see how people's behaviours might change in each case. For instance, if classes are even partially online, some people may choose to stay at home, potentially outside of the Hamilton area, but without an online option they might return to campus.)
+- IP: Cornell asked a bunch of questions about academic calendar preferences; they were considering a few version that would minimize/discourage out-of-town travel (e.g. skipping breaks in the middle of the semester to shorten the overall term, making short breaks mid-week to make it harder to travel far away). Ithaca is pretty geographically isolated, while McMaster is not, so I think there need to be a few questions aimed at travel/commuter behaviour under each reopening scenario.
 
 _For questions aimed at students:_
 - I didn't see any questions about what safety precautions people
 might like to see taken during in-person classes (e.g. requiring
 masks, limiting class sizes, opening windows, etc.). Are these topics
-you might want respondents' feedback about?
+you might want respondents' feedback about? (<- IP: on this note, it might be useful to ask about people's adherence to non-pharmaceutical interventions relative to their vaccination status, current incidence of case reports, etc.)
 - What accommodations do students feel they need to ensure that they
 are able to stay home from class if they are exposed to COVID or feel
 unwell without worrying about falling two weeks behind in their
@@ -95,3 +98,5 @@ instruction if they are exposed to COVID or feel ill?
 - Would faculty prefer to teach online or in person in the fall, and
 under what circumstances?
 
+_Other resources:_
+- IP: Cornell sought a bunch of public feedback in Spring 2020 about reopening in Fall 2020, in the form of several town halls and a formal survey. I've emailed a person who conducted the survey to ask for a copy of the questions (and will forward if I get them), but you can at least get a sense of what they were asking about in Appendix 3 [here](https://covid.cornell.edu/_assets/files/ctro-final-report.pdf) (starting on pdf page 58), as well as the kinds of concerns students expressed at the time.
