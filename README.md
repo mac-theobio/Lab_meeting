@@ -21,13 +21,11 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 Apri1 15 (Thu)
+### 2021 Apri1 22 (Thu)
 
-[Ideas for potential McMaster return-to-campus survey](./return_to_campus_survey.md)
-
-### 2021 Apri1 8 (Thu)
-
-Carlson, Colin J., Sarah N. Bevins, and Boris V. Schmid. [“Plague Risk in the Western United States over Seven Decades of Environmental Change.” BioRxiv, February 27, 2021, 2021.02.26.433096](https://doi.org/10.1101/2021.02.26.433096).
+There will be a presentation by Daniel Park about inferring pathogen interactions. To prepare, please skim these two papers taking very approaches to understanding pathogen interactions:
+* https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30114-2/fulltext
+* https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002135
 
 ### _2024_ Oct 1 (Tue)
 
@@ -192,6 +190,14 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Apri1 15 (Thu)
+
+[Ideas for potential McMaster return-to-campus survey](./return_to_campus_survey.md)
+
+### 2021 Apri1 8 (Thu)
+
+Carlson, Colin J., Sarah N. Bevins, and Boris V. Schmid. [“Plague Risk in the Western United States over Seven Decades of Environmental Change.” BioRxiv, February 27, 2021, 2021.02.26.433096](https://doi.org/10.1101/2021.02.26.433096).
 
 ## 2021 Apr 1 (Thu)
 
