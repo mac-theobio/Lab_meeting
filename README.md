@@ -24,8 +24,8 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 ### 2021 Apri1 22 (Thu)
 
 There will be a presentation by Daniel Park about inferring pathogen interactions. To prepare, please skim these two papers taking very approaches to understanding pathogen interactions:
-* https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30114-2/fulltext
-* https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002135
+* [Wu et al., experimental infections](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30114-2/fulltext)
+* [Shrestha et al., statistical inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002135)
 
 ### _2024_ Oct 1 (Tue)
 
