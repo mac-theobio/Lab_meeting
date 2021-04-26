@@ -23,7 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### 2021 April 29 (Thu)
 
-We will be discussing packages/tools for stochastic simulation. Please read (or at least take a look at this paper: feel free to skip sections 3.2, 3.3, 6.2 unless you're feeling very energetic.
+We will be discussing packages/tools for stochastic simulation. Please take a look at this paper: feel free to skip sections 3.2, 3.3, 6.2 unless you're feeling very energetic.
 
 Allen, Linda J. S. “A Primer on Stochastic Epidemic Models: Formulation, Numerical Simulation, and Analysis.” Infectious Disease Modelling 2, no. 2 (May 1, 2017): 128–42. https://doi.org/10.1016/j.idm.2017.03.001.
 
