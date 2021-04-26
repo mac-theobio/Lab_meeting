@@ -21,11 +21,13 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 Apri1 22 (Thu)
+### 2021 April 29 (Thu)
 
-There will be a presentation by Daniel Park about inferring pathogen interactions. To prepare, please skim these two papers taking very approaches to understanding pathogen interactions:
-* [Wu et al., experimental infections](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30114-2/fulltext)
-* [Shrestha et al., statistical inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002135)
+We will be discussing packages/tools for stochastic simulation. Please read (or at least take a look at this paper: feel free to skip sections 3.2, 3.3, 6.2 unless you're feeling very energetic.
+
+Allen, Linda J. S. “A Primer on Stochastic Epidemic Models: Formulation, Numerical Simulation, and Analysis.” Infectious Disease Modelling 2, no. 2 (May 1, 2017): 128–42. https://doi.org/10.1016/j.idm.2017.03.001.
+
+We may discuss some of the following R packages: [adaptivetau](https://CRAN.R-project.org/package=adaptivetau), [GillespieSSA2]((https://CRAN.R-project.org/package=adaptivetau), [odin]((https://CRAN.R-project.org/package=odin)
 
 ### _2024_ Oct 1 (Tue)
 
@@ -190,6 +192,13 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Apri1 22 (Thu)
+
+Presentation by Daniel Park about inferring pathogen interactions. 
+
+* [Wu et al., experimental infections](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(20)30114-2/fulltext)
+* [Shrestha et al., statistical inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002135)
 
 ### 2021 Apri1 15 (Thu)
 
