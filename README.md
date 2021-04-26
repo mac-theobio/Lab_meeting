@@ -27,7 +27,12 @@ We will be discussing packages/tools for stochastic simulation. Please read (or 
 
 Allen, Linda J. S. “A Primer on Stochastic Epidemic Models: Formulation, Numerical Simulation, and Analysis.” Infectious Disease Modelling 2, no. 2 (May 1, 2017): 128–42. https://doi.org/10.1016/j.idm.2017.03.001.
 
-We may discuss some of the following R packages: [adaptivetau](https://CRAN.R-project.org/package=adaptivetau), [GillespieSSA2]((https://CRAN.R-project.org/package=adaptivetau), [odin]((https://CRAN.R-project.org/package=odin)
+R packages/resources: 
+
+* [adaptivetau](https://CRAN.R-project.org/package=adaptivetau), [GillespieSSA2](https://CRAN.R-project.org/package=adaptivetau) (continuous-time, discrete-state)
+* [odin](https://CRAN.R-project.org/package=odin) (mostly ODEs, but capability for discrete-time, discrete- or continuous-state)
+* [Differential Equations task view](https://cran.r-project.org/web/views/DifferentialEquations.html) (includes a section on stochastic diff eqs)
+* [IA]BMs: [simecol](https://CRAN.R-project.org/package=simecol), [SpaDES](https://CRAN.R-project.org/package=SpaDES.core) (spatial), [RNetLogo](https://CRAN.R-project.org/package=RNetLogo), [ibm](https://CRAN.R-project.org/package=ibm) (simple IBMs in Rcpp); [blog post on IBMs from scratch](https://bradduthie.github.io/blog/individual-based-models-in-r/)
 
 ### _2024_ Oct 1 (Tue)
 
