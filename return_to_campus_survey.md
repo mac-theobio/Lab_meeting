@@ -8,6 +8,7 @@ Thank you for participating in this survey. The information gathered will be imp
 	- Yes
 	- No
 1. What is your age?
+	- [DE: I think we can just ask for their age.  This is too important in relation to vaccine status to restrict to such broad age ranges.]
 	- 50+
 	- 30-50
 	- under 30
@@ -19,8 +20,26 @@ Thank you for participating in this survey. The information gathered will be imp
 	- Prefer not to say
 1. What is your role at McMaster?
 	- Student
+		- What type of degree are you doing?
+			- Bachelors
+			- Masters
+			- Doctorate
+			- other
+		- What year of your degree are you entering?
+			- 1
+			- 2
+			- 3
+			- 4
+			- 5
+			- 6 or more
 	- Staff
 	- Faculty
+		- In which faculty are you based?
+			- Science
+			- Engineering
+			- Health Science
+			- Business
+			- ... [DE: full drop-down list of all faculties]
 	- Other
 1. What type of household do you **currently** live in? (SS: Currently or during the school year? How do we account for international students who will not come to Canada if school is online?)
 	- Student house
