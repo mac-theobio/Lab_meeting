@@ -1,11 +1,100 @@
 # potential survey questions
 
+## Survey Draft
+Thank you for participating in this survey. The information gathered will be important to consider for McMaster's reopening plan. This survey is anonymous and your personal information is not identifiable.
+
+#### General Questions
+1. Do you agree to have your responses collected and presented in aggregate form (for research purposes and/or for part of due diligence for the university)?
+	- Yes
+	- No
+1. What is your age?
+	- 50+
+	- 30-50
+	- under 30
+	- Prefer not to say
+1. What gender do you identify as?
+	- Female
+	- Male
+	- Other
+	- Prefer not to say
+1. What is your role at McMaster?
+	- Student
+	- Staff
+	- Faculty
+	- Other
+1. What type of household do you **currently** live in? (SS: Currently or during the school year? How do we account for international students who will not come to Canada if school is online?)
+	- Student house
+	- Apartment
+	- McMaster residence
+	- Family home ** is this the best wording?
+	- Other
+		- Please specify: _________
+1. How many people **currently** live in your household, including yourself? (SS: if someone lives in a McMaster residence this may be confusing)
+	- 1
+	- 2
+	- 3
+	- 4
+	- 5
+	- 6
+	- 7+
+1. How do you usually get to campus (check all that apply)?
+	- I live on campus
+	- Walk
+	- Bike
+	- Public Transit
+	- Private vehicle
+	- Carpool
+	- Other
+		- Please specify: _________
+
+#### COVID-19 Related Questions
+1. Have you ever had COVID-19 (either a suspected case or confirmed by a positive test)?
+	- No.
+	- Yes.
+		- When? ________ (SS: specific by month and year? exact date may be too much to ask)
+		- Was it confirmed by a test?
+			- Yes.
+			- No.
+		- How severe was your illness?
+			- Asymptomatic
+			- Mild
+			- Severe
+			- Hospitalized
+1. Have you received a COVID-19 vaccine?
+	- No.
+		- Why not?
+			- I'm not eligible for a vaccine yet
+			- I am eligible, but chose not to
+			- Other
+				- Please specify: _________
+		- Do you plan to get vaccinated when it is offered to you?
+			- Yes.
+			- No.
+	- Yes.
+		- How many doses did you receive?
+			- 1
+			- 2
+		- When did you receive your first dose?
+			-  ________
+		- When did you receive your second dose, or when is your second one scheduled for?
+			-  _________
+			-  Unsure
+		- Which vaccine did you recieve?
+			- Moderna
+			- Pfizer
+			- Johnson & Johnson
+			- Astrazeneca
+			- Sputnik
+			- Other. Please specify: _________
+
+## survey notes
+
 (IP: General comment about demographic questions... Clarify when you're asking about people's present circumstances and when you're asking them to answer based on hypotheticals, like returning to campus (e.g. in the case of the the household question). Throughout the survey, it's important to be clear about the scenario students should keep in mind when answering each set of questions.)
 
 - Basic demographic info (have "prefer not to say" as an option)
 	- gender [F/M/non-binary/agender/genderqueer/other], age, role at Mac [student/staff/faculty/other]
-	  - if student: undergrad/grad? home faculty? year in program?
-	- Do you live on campus?
+	  - if student: undergrad/grad? home faculty? year in program? (SS: how useful will this information be? This could possibly be something to exclude from the final survey.)
+	- Do you live on campus? (SS: are residences closed at McMaster?)
 	- If not, how will you get to campus (check all that apply)? [live on campus, walk, bike, public transit, car pool, private vehicle]
 	- how many people live in your household (including you)
       [1, 2, 3, 4, 5, 6, 7, 8, 9, 10+] 
