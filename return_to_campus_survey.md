@@ -45,7 +45,8 @@ Thank you for participating in this survey. The information gathered will be imp
 	- Family home ** SS: is this the best wording?
 	- Other
 		- Please specify: _________.
-1. How many people **currently** live in your household, including yourself? (SS: if someone lives in a McMaster residence this may be confusing)
+
+1. How many people **currently** live in your household, including yourself? (SS: if someone lives in a McMaster residence this may be confusing) (DE: I agree; if the answer to the previous question is "in residence" then we should ask different questions such as: do you share a room? if so, with how many others?  how many people share your bathroom?)
 	- 1
 	- 2
 	- 3
@@ -67,7 +68,7 @@ Thank you for participating in this survey. The information gathered will be imp
 1. Have you ever had COVID-19 (either a suspected case or confirmed by a positive test)?
 	- No.
 	- Yes.
-		- When? ________ (SS: specific by month and year? exact date may be too much to ask)
+		- When? ________ (SS: specific by month and year? exact date may be too much to ask) (DE: we could have dropdowns for year and month)
 		- Was it confirmed by a test?
 			- Yes.
 			- No.
@@ -80,7 +81,7 @@ Thank you for participating in this survey. The information gathered will be imp
 	- No.
 		- Why not?
 			- I'm not eligible for a vaccine yet
-			- I am eligible, but chose not to
+			- I am eligible, but chose not to be vaccinated
 			- Other
 				- Please specify: _________.
 		- Do you plan to get vaccinated when it is offered to you?
@@ -126,41 +127,47 @@ Thank you for participating in this survey. The information gathered will be imp
 	- No.
 
 #### Re-opening Related Questions
-Students:
-1. Are you willing to attend in-person classes if some people in the class are not vaccinated? 
+_Students:_
+1. Would you prefer to attend classes virtually or in-person?
+	- Virtually
+	- In-person
+	- Mix of virtual and in-person
+	- Not sure
+1. Are you willing to attend in-person classes if some people in the class are _not_ vaccinated? 
 	- Yes.
 	- Yes for small classes only. (SS: might need to specify what a small class is)
 	- No.
 	- Not Sure.
-1. Are you willing to attend in-person labs if some people in the class are not vaccinated? 
+1. Are you willing to attend in-person labs if some people in the class are _not_ vaccinated? 
 	- Yes.
 	- Yes for small classes only. (SS: might need to specify what a small class is)
 	- No.
 	- Not Sure.
-1. Are you willing to attend in-person classes if there are measures in place to reduce the spread of COVID-19 (eg. masks are mandatory, students must sit 6ft apart, mandatory screening questions, etc.)? (SS: maybe combine this question with the question above?)
+1. Are you willing to attend in-person classes if there are measures in place to reduce the spread of COVID-19 (eg., masks are mandatory, students must sit 6ft apart, mandatory screening questions, etc.)? (SS: maybe combine this question with the question above?)
 	- Yes.
 	- No.
 	- Unsure.
-1. Are you willing to attend in-person labs if there are measures in place to reduce the spread of COVID-19 (eg. masks are mandatory, students must sit 6ft apart, mandatory screening questions, etc.)?
+1. Are you willing to attend in-person labs if there are measures in place to reduce the spread of COVID-19 (eg., masks are mandatory, students must sit 6ft apart, mandatory screening questions, etc.)?
 	- Yes.
 	- No.
 	- Unsure.
-1. Would you prefer classes to be taught remotely or in-person?
-	- _____. (SS: or have options as in the question below)
 
-Staff:
+_Staff:_
 1. Do you feel that you have adequate access to sick leave or remote work options if you are experiencing symptoms of COVID-19, have been exposed, or have tested positively?
 	- Yes.
 	- No.
-1. Would you prefer to return to working on campus or working remotely?
-	- Want to return if I'm fully vaccinated
-	- Want to return if my whole office is vaccinated
-	- Want to return if community transmission is low
-	- Want to return if precautions are in place
-	- Other: ____.
-	- Prefer working from home and would like to keep doing so indefinitely
+1. Can your work be done remotely?
+	- No
+	- Yes
+		- Would you prefer to return to working on campus or to work remotely?
+			- Want to return if I'm fully vaccinated
+			- Want to return if my whole office is vaccinated
+			- Want to return if community transmission is low
+			- Want to return if precautions are in place
+			- Prefer working from home and would like to keep doing so indefinitely
+			- Other: ____.
 
-Everyone:
+_Everyone:_
 1. Which on-campus facilities do you think you would use in the Fall if they are open (SS: and public health measures are being implemented/enforced?)? Check all that apply.
 	- Gym
 	- Libraries
