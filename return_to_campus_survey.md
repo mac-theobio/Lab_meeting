@@ -8,11 +8,7 @@ Thank you for participating in this survey. The information gathered will be imp
 	- Yes
 	- No
 1. What is your age?
-	- [DE: I think we can just ask for their age.  This is too important in relation to vaccine status to restrict to such broad age ranges.]
-	- 50+
-	- 30-50
-	- under 30
-	- Prefer not to say
+	- _______.
 1. What gender do you identify as?
 	- Female
 	- Male
@@ -37,17 +33,18 @@ Thank you for participating in this survey. The information gathered will be imp
 		- In which faculty are you based?
 			- Science
 			- Engineering
-			- Health Science
+			- Health Sciences
 			- Business
-			- ... [DE: full drop-down list of all faculties]
+			- Humanities
+			- Social Sciences
 	- Other
 1. What type of household do you **currently** live in? (SS: Currently or during the school year? How do we account for international students who will not come to Canada if school is online?)
 	- Student house
 	- Apartment
 	- McMaster residence
-	- Family home ** is this the best wording?
+	- Family home ** SS: is this the best wording?
 	- Other
-		- Please specify: _________
+		- Please specify: _________.
 1. How many people **currently** live in your household, including yourself? (SS: if someone lives in a McMaster residence this may be confusing)
 	- 1
 	- 2
@@ -64,7 +61,7 @@ Thank you for participating in this survey. The information gathered will be imp
 	- Private vehicle
 	- Carpool
 	- Other
-		- Please specify: _________
+		- Please specify: _________.
 
 #### COVID-19 Related Questions
 1. Have you ever had COVID-19 (either a suspected case or confirmed by a positive test)?
@@ -85,7 +82,7 @@ Thank you for participating in this survey. The information gathered will be imp
 			- I'm not eligible for a vaccine yet
 			- I am eligible, but chose not to
 			- Other
-				- Please specify: _________
+				- Please specify: _________.
 		- Do you plan to get vaccinated when it is offered to you?
 			- Yes.
 			- No.
@@ -94,9 +91,9 @@ Thank you for participating in this survey. The information gathered will be imp
 			- 1
 			- 2
 		- When did you receive your first dose?
-			-  ________
+			-  ________.
 		- When did you receive your second dose, or when is your second one scheduled for?
-			-  _________
+			-  _________.
 			-  Unsure
 		- Which vaccine did you recieve?
 			- Moderna
@@ -104,7 +101,82 @@ Thank you for participating in this survey. The information gathered will be imp
 			- Johnson & Johnson
 			- Astrazeneca
 			- Sputnik
-			- Other. Please specify: _________
+			- Other. Please specify: _________.
+1. How many people in your household have recieved the vaccine?
+	- _______.
+1. Are you currently an essential worker?
+	- Yes.
+	- No.
+1. Is anyone in your current household an essential worker?
+	- Yes.
+	- No.
+1. Have you ever been tested for COVID-19?
+	- Yes.
+		- How many times?
+			-____.
+		- When was your most recent test?
+			- _____.
+		- Why did you get a test?
+			- Experiencing symptoms
+			- Exposure to a COVID-19 positive person
+			- Received an alert from the COVID-19 app
+			- Resident or worker in a setting that experienced an outbreak
+			- Resident or worker in a congregate setting
+			- Other: ______.
+	- No.
+
+#### Re-opening Related Questions
+Students:
+1. Are you willing to attend in-person classes if some people in the class are not vaccinated? 
+	- Yes.
+	- Yes for small classes only. (SS: might need to specify what a small class is)
+	- No.
+	- Not Sure.
+1. Are you willing to attend in-person labs if some people in the class are not vaccinated? 
+	- Yes.
+	- Yes for small classes only. (SS: might need to specify what a small class is)
+	- No.
+	- Not Sure.
+1. Are you willing to attend in-person classes if there are measures in place to reduce the spread of COVID-19 (eg. masks are mandatory, students must sit 6ft apart, mandatory screening questions, etc.)? (SS: maybe combine this question with the question above?)
+	- Yes.
+	- No.
+	- Unsure.
+1. Are you willing to attend in-person labs if there are measures in place to reduce the spread of COVID-19 (eg. masks are mandatory, students must sit 6ft apart, mandatory screening questions, etc.)?
+	- Yes.
+	- No.
+	- Unsure.
+1. Would you prefer classes to be taught remotely or in-person?
+	- _____. (SS: or have options as in the question below)
+
+Staff:
+1. Do you feel that you have adequate access to sick leave or remote work options if you are experiencing symptoms of COVID-19, have been exposed, or have tested positively?
+	- Yes.
+	- No.
+1. Would you prefer to return to working on campus or working remotely?
+	- Want to return if I'm fully vaccinated
+	- Want to return if my whole office is vaccinated
+	- Want to return if community transmission is low
+	- Want to return if precautions are in place
+	- Other: ____.
+	- Prefer working from home and would like to keep doing so indefinitely
+
+Everyone:
+1. Which on-campus facilities do you think you would use in the Fall if they are open (SS: and public health measures are being implemented/enforced?)? Check all that apply.
+	- Gym
+	- Libraries
+	- Student centre
+	- Food courts / restaurants
+	- Coffee shops / bars
+	- Wellness centres
+	- Practice rooms / labs
+	- Other: ______.
+
+#### Ending Questions
+1. Are you willing to fill in surveys like this once every two weeks to help monitor the situation in the McMaster community?
+	- Yes.
+	- No.
+1. Any comments/concerns/suggestions?
+	- ___________.
 
 ## survey notes
 
