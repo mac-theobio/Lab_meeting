@@ -179,7 +179,7 @@ _Everyone:_
 	- Other: ______.
 
 #### Ending Questions
-1. Are you willing to fill in surveys like this once every two weeks to help monitor the situation in the McMaster community?
+1. Are you willing to fill in surveys like this once every two weeks to help monitor the situation in the McMaster community? (DE: we could phrase this as "regularly" and if they say yes then we could ask whether they would be willing daily? weekly? bi-weekly? monthly?)
 	- Yes.
 	- No.
 1. Any comments/concerns/suggestions?
