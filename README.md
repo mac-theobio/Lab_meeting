@@ -19,20 +19,12 @@ __Lab coffee__
 - Other weekly events/mailing lists of possible interest to Mac-Theobio'ers: [bio data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) (Fri lunchtime), [EEB seminar](
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
+
 ## Upcoming Meetings
 
-### 2021 April 29 (Thu)
+### 2021 May 6 (Thu)
 
-We will be discussing packages/tools for stochastic simulation. Please take a look at this paper: feel free to skip sections 3.2, 3.3, 6.2 unless you're feeling very energetic.
-
-Allen, Linda J. S. “A Primer on Stochastic Epidemic Models: Formulation, Numerical Simulation, and Analysis.” Infectious Disease Modelling 2, no. 2 (May 1, 2017): 128–42. https://doi.org/10.1016/j.idm.2017.03.001.
-
-R packages/resources: 
-
-* [adaptivetau](https://CRAN.R-project.org/package=adaptivetau), [GillespieSSA2](https://CRAN.R-project.org/package=adaptivetau) (continuous-time, discrete-state)
-* [odin](https://CRAN.R-project.org/package=odin) (mostly ODEs, but capability for discrete-time, discrete- or continuous-state)
-* [Differential Equations task view](https://cran.r-project.org/web/views/DifferentialEquations.html) (includes a section on stochastic diff eqs)
-* [IA]BMs: [simecol](https://CRAN.R-project.org/package=simecol), [SpaDES](https://CRAN.R-project.org/package=SpaDES.core) (spatial), [RNetLogo](https://CRAN.R-project.org/package=RNetLogo), [ibm](https://CRAN.R-project.org/package=ibm) (simple IBMs in Rcpp); [blog post on IBMs from scratch](https://bradduthie.github.io/blog/individual-based-models-in-r/)
+Schielzeth, Holger. “Simple Means to Improve the Interpretability of Regression Coefficients: Interpretation of Regression Coefficients.” Methods in Ecology and Evolution 1, no. 2 (February 10, 2010): 103–13. https://doi.org/10.1111/j.2041-210X.2010.00012.x.
 
 ### _2024_ Oct 1 (Tue)
 
@@ -197,6 +189,19 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 April 29 (Thu)
+
+We will be discussing packages/tools for stochastic simulation. Please take a look at this paper: feel free to skip sections 3.2, 3.3, 6.2 unless you're feeling very energetic.
+
+Allen, Linda J. S. “A Primer on Stochastic Epidemic Models: Formulation, Numerical Simulation, and Analysis.” Infectious Disease Modelling 2, no. 2 (May 1, 2017): 128–42. https://doi.org/10.1016/j.idm.2017.03.001.
+
+R packages/resources: 
+
+* [adaptivetau](https://CRAN.R-project.org/package=adaptivetau), [GillespieSSA2](https://CRAN.R-project.org/package=adaptivetau) (continuous-time, discrete-state)
+* [odin](https://CRAN.R-project.org/package=odin) (mostly ODEs, but capability for discrete-time, discrete- or continuous-state)
+* [Differential Equations task view](https://cran.r-project.org/web/views/DifferentialEquations.html) (includes a section on stochastic diff eqs)
+* [IA]BMs: [simecol](https://CRAN.R-project.org/package=simecol), [SpaDES](https://CRAN.R-project.org/package=SpaDES.core) (spatial), [RNetLogo](https://CRAN.R-project.org/package=RNetLogo), [ibm](https://CRAN.R-project.org/package=ibm) (simple IBMs in Rcpp); [blog post on IBMs from scratch](https://bradduthie.github.io/blog/individual-based-models-in-r/)
 
 ### 2021 Apri1 22 (Thu)
 
