@@ -5,8 +5,8 @@ Thank you for participating in this survey. The information gathered will be imp
 
 #### General Questions
 1. Do you agree to have your responses collected and presented in aggregate form (for research purposes and/or for part of due diligence for the university)?
-	- Yes
-	- No
+	- Yes.
+	- No.
 1. What is your age?
 	- _______.
 1. What gender do you identify as?
@@ -46,6 +46,28 @@ Thank you for participating in this survey. The information gathered will be imp
 	- Other
 		- Please specify: _________.
 
+_If you live in a university residence building:_
+1. Which residence building do you live in?
+	- Bates
+	- Brandon Hall
+	- Edwards Hall
+	- Hedden Hall
+	- Les Prince Hall
+	- Mary E. Keyes
+	- Matthews Hall
+	- McKay Hall
+	- Moulton Hall
+	- PGCLL
+	- Wallingford Hall
+	- Whidden Hall
+	- Woodstock Hall
+1. How many people do you share a room with, other than yourself? If you live alone, put 0.
+	- ____.
+1. How many people share your bathroom?
+	- ____.
+1. 
+
+_If you do not live in a university residence:_
 1. How many people **currently** live in your household, including yourself? (SS: if someone lives in a McMaster residence this may be confusing) (DE: I agree; if the answer to the previous question is "in residence" then we should ask different questions such as: do you share a room? if so, with how many others?  how many people share your bathroom?)
 	- 1
 	- 2
@@ -129,20 +151,20 @@ Thank you for participating in this survey. The information gathered will be imp
 #### Re-opening Related Questions
 _Students:_
 1. Would you prefer to attend classes virtually or in-person?
-	- Virtually
-	- In-person
-	- Mix of virtual and in-person
-	- Not sure
+	- Virtually.
+	- In-person.
+	- Mix of virtual and in-person.
+	- Unsure.
 1. Are you willing to attend in-person classes if some people in the class are _not_ vaccinated? 
 	- Yes.
 	- Yes for small classes only. (SS: might need to specify what a small class is)
 	- No.
-	- Not Sure.
+	- Unsure.
 1. Are you willing to attend in-person labs if some people in the class are _not_ vaccinated? 
 	- Yes.
 	- Yes for small classes only. (SS: might need to specify what a small class is)
 	- No.
-	- Not Sure.
+	- Unsure.
 1. Are you willing to attend in-person classes if there are measures in place to reduce the spread of COVID-19 (eg., masks are mandatory, students must sit 6ft apart, mandatory screening questions, etc.)? (SS: maybe combine this question with the question above?)
 	- Yes.
 	- No.
@@ -157,8 +179,8 @@ _Staff:_
 	- Yes.
 	- No.
 1. Can your work be done remotely?
-	- No
-	- Yes
+	- No.
+	- Yes.
 		- Would you prefer to return to working on campus or to work remotely?
 			- Want to return if I'm fully vaccinated
 			- Want to return if my whole office is vaccinated
@@ -179,8 +201,13 @@ _Everyone:_
 	- Other: ______.
 
 #### Ending Questions
-1. Are you willing to fill in surveys like this once every two weeks to help monitor the situation in the McMaster community? (DE: we could phrase this as "regularly" and if they say yes then we could ask whether they would be willing daily? weekly? bi-weekly? monthly?)
+1. Are you willing to fill in surveys similar to this one on a regular basis to help monitor the situation in the McMaster community? (DE: we could phrase this as "regularly" and if they say yes then we could ask whether they would be willing daily? weekly? bi-weekly? monthly?)
 	- Yes.
+		- How often would you be willing to complete the surveys?
+			- Daily.
+			- Weekly.
+			- Bi-weekly.
+			- Monthly.
 	- No.
 1. Any comments/concerns/suggestions?
 	- ___________.
