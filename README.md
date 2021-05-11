@@ -22,9 +22,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 May 6 (Thu)
+### 2021 May 13 (Thu)
 
-Schielzeth, Holger. “Simple Means to Improve the Interpretability of Regression Coefficients: Interpretation of Regression Coefficients.” Methods in Ecology and Evolution 1, no. 2 (February 10, 2010): 103–13. https://doi.org/10.1111/j.2041-210X.2010.00012.x.
+Stockmaier, Stroeymeyt, Shattuck, Hawley, Ancel Meyers, Bolnick (2021).  Science. [Infectious diseases and social distancing in nature](https://science.sciencemag.org/content/371/6533/eabc8881)
+* [Mcmaster access link](https://science.sciencemag.org.libaccess.lib.mcmaster.ca/content/371/6533/eabc8881/tab-pdf)
 
 ### _2024_ Oct 1 (Tue)
 
@@ -53,9 +54,6 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 ### Newer suggestions (general)
 
 Grange, Zoë L., Tracey Goldstein, Christine K. Johnson, Simon Anthony, Kirsten Gilardi, Peter Daszak, Kevin J. Olival, et al. “Ranking the Risk of Animal-to-Human Spillover for Newly Discovered Viruses.” Proceedings of the National Academy of Sciences 118, no. 15 (April 13, 2021). https://doi.org/10.1073/pnas.2002324118.
-
-Stockmaier, Stroeymeyt, Shattuck, Hawley, Ancel Meyers, Bolnick (2021).  Science. [Infectious diseases and social distancing in nature](https://science.sciencemag.org/content/371/6533/eabc8881)
-* Earn: looks very nice - haven't read it yet
 
 ### Screened
 
@@ -189,6 +187,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 May 6 (Thu)
+
+Schielzeth, Holger. “Simple Means to Improve the Interpretability of Regression Coefficients: Interpretation of Regression Coefficients.” Methods in Ecology and Evolution 1, no. 2 (February 10, 2010): 103–13. https://doi.org/10.1111/j.2041-210X.2010.00012.x.
 
 ### 2021 April 29 (Thu)
 
