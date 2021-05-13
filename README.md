@@ -22,10 +22,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 May 13 (Thu)
+### 2021 May 20 (Thu)
 
-Stockmaier, Stroeymeyt, Shattuck, Hawley, Ancel Meyers, Bolnick (2021).  Science. [Infectious diseases and social distancing in nature](https://science.sciencemag.org/content/371/6533/eabc8881)
-* [Mcmaster access link](https://science.sciencemag.org.libaccess.lib.mcmaster.ca/content/371/6533/eabc8881/tab-pdf)
+Discussion of modelling papers being reviewed for [NCCMT](https://www.nccmt.ca)
+- [signup/evaluation sheet](https://docs.google.com/spreadsheets/d/1j1wgHNEAq_OKfOnugEen8vafXszyjw1Q)
 
 ### _2024_ Oct 1 (Tue)
 
