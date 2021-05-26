@@ -22,10 +22,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 May 20 (Thu)
+### 2021 May 27 (Thu)
 
-Discussion of modelling papers being reviewed for [NCCMT](https://www.nccmt.ca)
-- [signup/evaluation sheet](https://docs.google.com/spreadsheets/d/1j1wgHNEAq_OKfOnugEen8vafXszyjw1Q)
+Informal meeting. Possible wrap-up from David Earn about the review of COVID modeling papers.
 
 ### _2024_ Oct 1 (Tue)
 
@@ -187,6 +186,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 May 20 (Thu)
+
+Discussion of modelling papers being reviewed for [NCCMT](https://www.nccmt.ca)
+- [signup/evaluation sheet](https://docs.google.com/spreadsheets/d/1j1wgHNEAq_OKfOnugEen8vafXszyjw1Q)
 
 ### 2021 May 6 (Thu)
 
