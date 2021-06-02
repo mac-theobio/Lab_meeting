@@ -22,13 +22,14 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 May 27 (Thu)
-
-Informal meeting. Possible wrap-up from David Earn about the review of COVID modeling papers.
-
 ### 2021 Jun 3 (Thu)
 
 Discussion of [Rogers *et al.* 2021: "High-frequency screening combined with diagnostic testing for control of SARS-CoV-2 in high-density settings: an economic evaluation of resources allocation for public health benefit"](https://www.medrxiv.org/content/10.1101/2021.03.04.21252949v2) - led by Irena
+
+### 2021 Jun 17 (Thu)
+
+* short report from Maya about her agent-based version of the MacPan model
+* practice talk for the CAIMS annual meeting by Irena
 
 ### _2024_ Oct 1 (Tue)
 
