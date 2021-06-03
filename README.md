@@ -25,6 +25,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 ### 2021 Jun 3 (Thu)
 
 Discussion of [Rogers *et al.* 2021: "High-frequency screening combined with diagnostic testing for control of SARS-CoV-2 in high-density settings: an economic evaluation of resources allocation for public health benefit"](https://www.medrxiv.org/content/10.1101/2021.03.04.21252949v2) - led by Irena
+   * [GitHub repo with Shiny app](https://github.com/andyhoegh/LAMP_screen)
 
 ### 2021 Jun 17 (Thu)
 
