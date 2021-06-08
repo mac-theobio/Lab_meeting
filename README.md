@@ -19,13 +19,11 @@ __Lab coffee__
 - Other weekly events/mailing lists of possible interest to Mac-Theobio'ers: [bio data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) (Fri lunchtime), [EEB seminar](
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
-
 ## Upcoming Meetings
 
-### 2021 Jun 3 (Thu)
+### 2021 Jun 10 (Thu)
 
-Discussion of [Rogers *et al.* 2021: "High-frequency screening combined with diagnostic testing for control of SARS-CoV-2 in high-density settings: an economic evaluation of resources allocation for public health benefit"](https://www.medrxiv.org/content/10.1101/2021.03.04.21252949v2) - led by Irena
-   * [GitHub repo with Shiny app](https://github.com/andyhoegh/LAMP_screen)
+Reading: Grange, Zoë L., Tracey Goldstein, Christine K. Johnson, Simon Anthony, Kirsten Gilardi, Peter Daszak, Kevin J. Olival, et al. [“Ranking the Risk of Animal-to-Human Spillover for Newly Discovered Viruses.” Proceedings of the National Academy of Sciences 118, no. 15 (April 13, 2021).](https://doi.org/10.1073/pnas.2002324118)
 
 ### 2021 Jun 17 (Thu)
 
@@ -57,8 +55,6 @@ Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticalit
 Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lockdown on the far side of the COVID-19 epidemic curve](https://www.pnas.org/content/117/39/24575.short)
 
 ### Newer suggestions (general)
-
-Grange, Zoë L., Tracey Goldstein, Christine K. Johnson, Simon Anthony, Kirsten Gilardi, Peter Daszak, Kevin J. Olival, et al. “Ranking the Risk of Animal-to-Human Spillover for Newly Discovered Viruses.” Proceedings of the National Academy of Sciences 118, no. 15 (April 13, 2021). https://doi.org/10.1073/pnas.2002324118.
 
 ### Screened
 
@@ -192,6 +188,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Jun 3 (Thu)
+
+Discussion of [Rogers *et al.* 2021: "High-frequency screening combined with diagnostic testing for control of SARS-CoV-2 in high-density settings: an economic evaluation of resources allocation for public health benefit"](https://www.medrxiv.org/content/10.1101/2021.03.04.21252949v2) - led by Irena
+   * [GitHub repo with Shiny app](https://github.com/andyhoegh/LAMP_screen)
 
 ### 2021 May 20 (Thu)
 
