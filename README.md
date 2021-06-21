@@ -58,19 +58,8 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 
 ### Screened
 
-~Gelman et al. ["Bayesian workflow"](https://dpsimpson.github.io/pages/talks/Bayesian_Workflow.pdf)~
-
-Mair et al. ["Estimation of temporal covariances in pathogen dynamics using Bayesian multivariate autoregressive models"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007492&rev=2#abstract0)
-* Park: Methods paper. See https://www.pnas.org/content/pnas/116/52/27142.full.pdf for an application paper.
-
-Gaydos et al ["Forecasting and control of emerging infectious forest disease through participatory modelling"](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2018.0283)
-* O'Meara: Plant epidemiology is cool. Interactive version of model for stakeholders to play with. Stakeholders change the model.
-	
 Desai et al ["Real-time Epidemic Forecasting: Challenges and Opportunities"](https://www.researchgate.net/profile/Britta_Lassmann/publication/335314344_Real-time_Epidemic_Forecasting_Challenges_and_Opportunities/links/5d64208192851c619d780be1/Real-time-Epidemic-Forecasting-Challenges-and-Opportunities.pdf)
 * Li: Overview paper. Mostly about data pathways to get ready for good future forecasts.
-
-Watson, et al. [Collider Bias and the Apparent Protective Effect of Glucose-6-Phosphate Dehydrogenase Deficiency on Cerebral Malaria](https://doi.org/10.7554/eLife.43154). ELife 8 (January 28, 2019): e43154. 
-* Bolker: Short and simple, makes a simple point. Maybe could be supplemented.
 
 Field, et al. ["Framework for quantifying population responses to disturbance reveals that coastal birds are highly resilient to hurricanes"](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.13384)
 * Studens: Use a resilience framework. Could be cool to get deeper into this.
