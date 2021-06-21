@@ -21,15 +21,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 Jun 10 (Thu)
-
-Reading: Grange, Zoë L., Tracey Goldstein, Christine K. Johnson, Simon Anthony, Kirsten Gilardi, Peter Daszak, Kevin J. Olival, et al. [“Ranking the Risk of Animal-to-Human Spillover for Newly Discovered Viruses.” Proceedings of the National Academy of Sciences 118, no. 15 (April 13, 2021).](https://doi.org/10.1073/pnas.2002324118)
-
-### 2021 Jun 17 (Thu)
-
-* short report from Maya about her agent-based version of the MacPan model
-* practice talk for the CAIMS annual meeting by Irena
-
 ### _2024_ Oct 1 (Tue)
 
 * Theobio day! 4499^2 ## 20241001
@@ -178,6 +169,15 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 * [archive](archive.md)
 
+### 2021 Jun 17 (Thu)
+
+* short report from Maya about her agent-based version of the MacPan model
+* practice talk for the CAIMS annual meeting by Irena
+
+
+### 2021 Jun 10 (Thu)
+
+Reading: Grange, Zoë L., Tracey Goldstein, Christine K. Johnson, Simon Anthony, Kirsten Gilardi, Peter Daszak, Kevin J. Olival, et al. [“Ranking the Risk of Animal-to-Human Spillover for Newly Discovered Viruses.” Proceedings of the National Academy of Sciences 118, no. 15 (April 13, 2021).](https://doi.org/10.1073/pnas.2002324118)
 ### 2021 Jun 3 (Thu)
 
 Discussion of [Rogers *et al.* 2021: "High-frequency screening combined with diagnostic testing for control of SARS-CoV-2 in high-density settings: an economic evaluation of resources allocation for public health benefit"](https://www.medrxiv.org/content/10.1101/2021.03.04.21252949v2) - led by Irena
