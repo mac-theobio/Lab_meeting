@@ -21,6 +21,11 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2021 June 24 (Thurs)
+
+Wymant, Chris, Luca Ferretti, Daphne Tsallis, Marcos Charalambides, Lucie Abeler-Dörner, David Bonsall, Robert Hinch, et al. “The Epidemiological Impact of the NHS COVID-19 App.” Nature 594, no. 7863 (June 2021): 408–12. https://doi.org/10.1038/s41586-021-03606-z .
+
+
 ### _2024_ Oct 1 (Tue)
 
 * Theobio day! 4499^2 ## 20241001
