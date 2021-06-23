@@ -47,6 +47,8 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 
 ### Newer suggestions (general)
 
+https://www.nature.com/articles/s41586-021-03606-z
+
 ### Screened
 
 Desai et al ["Real-time Epidemic Forecasting: Challenges and Opportunities"](https://www.researchgate.net/profile/Britta_Lassmann/publication/335314344_Real-time_Epidemic_Forecasting_Challenges_and_Opportunities/links/5d64208192851c619d780be1/Real-time-Epidemic-Forecasting-Challenges-and-Opportunities.pdf)
