@@ -21,10 +21,17 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 June 24 (Thurs)
+### 2021 Jul 15 (Thu)
 
-Wymant, Chris, Luca Ferretti, Daphne Tsallis, Marcos Charalambides, Lucie Abeler-Dörner, David Bonsall, Robert Hinch, et al. “The Epidemiological Impact of the NHS COVID-19 App.” Nature 594, no. 7863 (June 2021): 408–12. https://doi.org/10.1038/s41586-021-03606-z .
+[https://www.nature.com/articles/s41598-021-92400-y](SARS-CoV-2 viral load in nasopharyngeal swabs is not an independent predictor of unfavorable outcome Scientific Reports volume 11:12931 (2021)). This is an interesting study of COVID outcomes, but we will also talk about statistical practice:
 
+* What does the titular claim "not an independent predictor" mean?
+* Is it statistically justifiable?
+* What are the goals for this study?
+
+### 2021 Jul 22 (Thu)
+
+[Heather Krause - Equity in Data video](https://www.youtube.com/watch?v=Yu_l8MpKK-E)
 
 ### _2024_ Oct 1 (Tue)
 
@@ -175,6 +182,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 June 24 (Thurs)
+
+Wymant, Chris, Luca Ferretti, Daphne Tsallis, Marcos Charalambides, Lucie Abeler-Dörner, David Bonsall, Robert Hinch, et al. “The Epidemiological Impact of the NHS COVID-19 App.” Nature 594, no. 7863 (June 2021): 408–12. https://doi.org/10.1038/s41586-021-03606-z .
 
 ### 2021 Jun 17 (Thu)
 
