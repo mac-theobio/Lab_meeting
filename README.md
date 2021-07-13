@@ -23,7 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### 2021 Jul 15 (Thu)
 
-[https://www.nature.com/articles/s41598-021-92400-y](SARS-CoV-2 viral load in nasopharyngeal swabs is not an independent predictor of unfavorable outcome Scientific Reports volume 11:12931 (2021)). This is an interesting study of COVID outcomes, but we will also talk about statistical practice:
+[SARS-CoV-2 viral load in nasopharyngeal swabs is not an independent predictor of unfavorable outcome Scientific Reports volume 11:12931 (2021)](https://www.nature.com/articles/s41598-021-92400-y). This is an interesting study of COVID outcomes, but we will also talk about statistical practice:
 
 * What does the titular claim "not an independent predictor" mean?
 * Is it statistically justifiable?
