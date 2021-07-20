@@ -20,15 +20,6 @@ __Lab coffee__
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
 ## Upcoming Meetings
-
-### 2021 Jul 15 (Thu)
-
-[SARS-CoV-2 viral load in nasopharyngeal swabs is not an independent predictor of unfavorable outcome Scientific Reports volume 11:12931 (2021)](https://www.nature.com/articles/s41598-021-92400-y). This is an interesting study of COVID outcomes, but we will also talk about statistical practice:
-
-* What does the titular claim "not an independent predictor" mean?
-* Is it statistically justifiable?
-* What are the goals for this study?
-
 ### 2021 Jul 22 (Thu)
 
 [Heather Krause - Equity in Data video](https://www.youtube.com/watch?v=Yu_l8MpKK-E)
@@ -182,6 +173,15 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Jul 15 (Thu)
+
+[SARS-CoV-2 viral load in nasopharyngeal swabs is not an independent predictor of unfavorable outcome Scientific Reports volume 11:12931 (2021)](https://www.nature.com/articles/s41598-021-92400-y). This is an interesting study of COVID outcomes, but we will also talk about statistical practice:
+
+* What does the titular claim "not an independent predictor" mean?
+* Is it statistically justifiable?
+* What are the goals for this study?
+
 
 ### 2021 June 24 (Thurs)
 
