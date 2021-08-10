@@ -21,9 +21,12 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2021 Aug 12 (Thu)
 
-Something about physics of spread? Here is an interesting article:
-* https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/
+Physics of spread:
+
+* [Main reading (Wired)](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/)
+* [Additional (substack)](https://outbreaksandorigins.substack.com/p/how-can-ipac-save-itself)
 
 ### _2024_ Oct 1 (Tue)
 
