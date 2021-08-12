@@ -26,6 +26,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 Physics of spread:
 
 * [Main reading (Wired)](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/)
+	* [Private Dropbox copy, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
 * [Additional (substack)](https://outbreaksandorigins.substack.com/p/how-can-ipac-save-itself)
 
 ### _2024_ Oct 1 (Tue)
