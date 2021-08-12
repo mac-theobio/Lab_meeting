@@ -21,15 +21,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2021 Aug 12 (Thu)
-
-Physics of spread:
-
-* [Main reading (Wired)](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/)
-	* [Private Dropbox copy, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
-* [Additional (substack)](https://outbreaksandorigins.substack.com/p/how-can-ipac-save-itself)
-* [Pandemic endgame (tangential but timely) Ed Yong](https://www.theatlantic.com/health/archive/2021/08/delta-has-changed-pandemic-endgame/619726/)
-
 ### _2024_ Oct 1 (Tue)
 
 * Theobio day! 4499^2 ## 20241001
@@ -55,6 +46,8 @@ Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticalit
 Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lockdown on the far side of the COVID-19 epidemic curve](https://www.pnas.org/content/117/39/24575.short)
 
 ### Newer suggestions (general)
+
+- Zhang, Lu, Bob Carpenter, Andrew Gelman, and Aki Vehtari. “Pathfinder: Parallel Quasi-Newton Variational Inference.” ArXiv:2108.03782 [Cs, Stat], August 8, 2021. http://arxiv.org/abs/2108.03782.
 
 https://www.nature.com/articles/s41586-021-03606-z
 
@@ -179,6 +172,15 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2021 Aug 12 (Thu)
+
+Physics of spread:
+
+* [Main reading (Wired)](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/)
+	* [Private Dropbox copy, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
+* [Additional (substack)](https://outbreaksandorigins.substack.com/p/how-can-ipac-save-itself)
+* [Pandemic endgame (tangential but timely) Ed Yong](https://www.theatlantic.com/health/archive/2021/08/delta-has-changed-pandemic-endgame/619726/)
 
 ### 2021 Jul 29 (Thu)
 
