@@ -28,6 +28,7 @@ Physics of spread:
 * [Main reading (Wired)](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/)
 	* [Private Dropbox copy, email JD](https://www.dropbox.com/sh/saip555pa5sqq97/AACtwE8k7mdiyyWY5iR0RDQNa?dl=0)
 * [Additional (substack)](https://outbreaksandorigins.substack.com/p/how-can-ipac-save-itself)
+* [Pandemic endgame (tangential but timely) Ed Yong](https://www.theatlantic.com/health/archive/2021/08/delta-has-changed-pandemic-endgame/619726/)
 
 ### _2024_ Oct 1 (Tue)
 
