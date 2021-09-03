@@ -34,6 +34,8 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### Newer suggestions (Covid and covid-project related)
 
+Accounting for Uncertainty During a Pandemic. Zellner et al. http://www.stat.columbia.edu/~gelman/research/published/UncertaintyPandemic.pdf
+
 Ellison, Glenn. “Implications of Heterogeneous SIR Models for Analyses of COVID-19.” National Bureau of Economic Research, 2020.
 
 ~Fox, Spencer J., Pratyush Potu, Michael Lachmann, Ravi Srinivasan, and Lauren Ancel Meyers. “The COVID-19 Herd Immunity Threshold Is Not Low: A Re-Analysis of European Data from Spring of 2020.” MedRxiv, December 3, 2020, 2020.12.01.20242289. https://doi.org/10.1101/2020.12.01.20242289.~
