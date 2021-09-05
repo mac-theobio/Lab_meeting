@@ -34,6 +34,8 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### Newer suggestions (Covid and covid-project related)
 
+D’Agostino McGowan, Lucy, Kyra H Grantz, and Eleanor Murray. “Quantifying Uncertainty in Mechanistic Models of Infectious Disease.” American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85. https://doi.org/10.1093/aje/kwab013.
+
 Accounting for Uncertainty During a Pandemic. Zellner et al. http://www.stat.columbia.edu/~gelman/research/published/UncertaintyPandemic.pdf
 
 Ellison, Glenn. “Implications of Heterogeneous SIR Models for Analyses of COVID-19.” National Bureau of Economic Research, 2020.
