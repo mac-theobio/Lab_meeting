@@ -35,7 +35,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 ### Newer suggestions (Covid and covid-project related)
 
 [Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
-	* Earn
+* Earn: easy-to-follow description of important analyses (regularly updated)
 
 D’Agostino McGowan, Lucy, Kyra H Grantz, and Eleanor Murray. “Quantifying Uncertainty in Mechanistic Models of Infectious Disease.” American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85. https://doi.org/10.1093/aje/kwab013.
 
