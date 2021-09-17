@@ -1,7 +1,6 @@
 # Lab_meeting
 ## https://github.com/mac-theobio/Lab_meeting/blob/master/README.md
 
-## Target (for playing fancy vim games with the default target)
 current: target
 -include target.mk
 
