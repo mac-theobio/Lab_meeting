@@ -34,6 +34,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### Newer suggestions (Covid and covid-project related)
 
+[Differential Privacy](https://privacytools.seas.harvard.edu/differential-privacy)
+* Earn: this site was recommended by the NY Times as a group working on privacy issues, in relation to data access; the site seems out of date (publications stopped being added in 2016), but this could be an interesting place to look for principaled approaches to address privacy that could perhaps be adopted in Canada.
+
 [Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
 * Earn: easy-to-follow description of important analyses (regularly updated)
 
