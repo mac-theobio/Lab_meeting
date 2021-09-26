@@ -21,6 +21,26 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+## 2021 Sep 30 (Thurs)
+
+We'll discuss Markov chain Monte Carlo; read the reference below to get started
+
+Ravenzwaaij, Don van, Pete Cassey, and Scott D. Brown. “A Simple Introduction to Markov Chain Monte–Carlo Sampling.” Psychonomic Bulletin & Review 25, no. 1 (February 1, 2018): 143–54. https://doi.org/10.3758/s13423-016-1015-8.
+
+(This isn't perfect, but is a good start.) 
+
+Also see section 7.3 [here](https://ms.mcmaster.ca/~bolker/emdbook/book.pdf) (also not perfect!)
+
+Visualizations:
+
+- [MCMC demo (JavaScript)](https://chi-feng.github.io/mcmc-demo/)
+- [with PyMC3](https://twiecki.io/blog/2014/01/02/visualizing-mcmc/)
+
+## 2021 Oct 1 (Fri)
+
+Vianey Leos Barajas: physical coffee at 2:30.
+
+
 ### _2024_ Oct 1 (Tue)
 
 * Theobio day! 4499^2 ## 20241001
