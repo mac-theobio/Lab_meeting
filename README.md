@@ -36,6 +36,8 @@ Visualizations:
 - [MCMC demo (JavaScript)](https://chi-feng.github.io/mcmc-demo/)
 - [with PyMC3](https://twiecki.io/blog/2014/01/02/visualizing-mcmc/)
 
+See also BMB notes: [markdown](https://bbolker/bbmisc/mcmc.md), [bibtex](https://bbolker/bbmisc/mcmc.bib), [html](https://raw.githack.com/bbolker/bbmisc/master/mcmc.html)
+
 ## 2021 Oct 1 (Fri)
 
 Vianey Leos Barajas: physical coffee at 2:30.
