@@ -36,7 +36,7 @@ Visualizations:
 - [MCMC demo (JavaScript)](https://chi-feng.github.io/mcmc-demo/)
 - [with PyMC3](https://twiecki.io/blog/2014/01/02/visualizing-mcmc/)
 
-See also BMB notes: [markdown](https://github.com/bbolker/bbmisc/master/mcmc.md), [bibtex](https://github.com/bbolker/bbmisc/master/mcmc.bib), [html](https://raw.githack.com/bbolker/bbmisc/master/mcmc.html)
+See also BMB notes: [markdown](https://github.com/bbolker/bbmisc/blob/master/mcmc.md), [bibtex](https://github.com/bbolker/bbmisc/blob/master/mcmc.bib), [html](https://raw.githack.com/bbolker/bbmisc/master/mcmc.html)
 
 ## 2021 Oct 1 (Fri)
 
