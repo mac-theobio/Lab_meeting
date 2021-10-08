@@ -21,6 +21,14 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+## 2021 Oct 21 (Thurs)
+
+TBD
+
+## 2021 Oct 11-15
+
+Reading week---no meetings or coffee
+
 ## 2021 Oct 8 (Fri)
 
 We'll discuss Markov chain Monte Carlo; read the reference below to get started
