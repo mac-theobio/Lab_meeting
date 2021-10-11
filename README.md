@@ -64,6 +64,11 @@ Vianey Leos Barajas: physical coffee at 2:30.
 
 ### Newer suggestions (Covid and covid-project related)
 
+[Human seasonal influenza under COVID-19 and the
+potential consequences of influenza lineage
+elimination](https://assets.researchsquare.com/files/rs-850533/v1_covered.pdf?c=1631878870)
+* Park: interesting and relevant topic of research
+
 [Differential Privacy](https://privacytools.seas.harvard.edu/differential-privacy)
 * Earn: this site was recommended by the NY Times as a group working on privacy issues, in relation to data access; the site seems out of date (publications stopped being added in 2016), but this could be an interesting place to look for principaled approaches to address privacy that could perhaps be adopted in Canada.
 
