@@ -23,7 +23,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## 2021 Oct 21 (Thurs)
 
-TBD
+More about model calibration; we can use this paper as a point of departure
+
+* [Calibration of models to data: a comparison of methods. Suboi, Hladish, Delva Hazelbag](https://www.biorxiv.org/content/10.1101/2020.12.21.423763v1)
 
 ## 2021 Oct 11-15
 
@@ -99,7 +101,6 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 - Zhang, Lu, Bob Carpenter, Andrew Gelman, and Aki Vehtari. “Pathfinder: Parallel Quasi-Newton Variational Inference.” ArXiv:2108.03782 [Cs, Stat], August 8, 2021. http://arxiv.org/abs/2108.03782.
 - Tredennick, Hooder, Ellner, Adler. "A practical guide to selecting models for exploration, inference, and prediction in ecology" https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336
 - https://www.nature.com/articles/s41586-021-03606-z
-- Calibration of models to data: a comparison of methods. Suboi, Hladish, Delva Hazelbag; https://www.biorxiv.org/content/10.1101/2020.12.21.423763v1
 
 ### Screened
 
