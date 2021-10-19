@@ -64,6 +64,10 @@ Vianey Leos Barajas: physical coffee at 2:30.
 
 ### Newer suggestions (Covid and covid-project related)
 
+DeAngelis _et al_ 2021, BMB **83**(107), 
+[Towards Building a Sustainable Future: Positioning Ecological Modelling for Impact in Ecosystems Management](https://link.springer.com/article/10.1007/s11538-021-00927-y)
+* Earn: seems like it could stimulate interesting discussion
+
 [Human seasonal influenza under COVID-19 and the
 potential consequences of influenza lineage
 elimination](https://assets.researchsquare.com/files/rs-850533/v1_covered.pdf?c=1631878870)
