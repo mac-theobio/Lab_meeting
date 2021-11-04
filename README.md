@@ -23,7 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## 2021 Nov 4 (Thu) 
 
-Tredennick, Hooder, Ellner, Adler. [A practical guide to selecting models for exploration, inference, and prediction in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336)
+Tredennick, Hooker, Ellner, Adler. [A practical guide to selecting models for exploration, inference, and prediction in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336)
 
 ## 2021 Nov 12 (Fri) 
 
