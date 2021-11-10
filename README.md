@@ -21,10 +21,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2021 Nov 4 (Thu) 
-
-Tredennick, Hooker, Ellner, Adler. [A practical guide to selecting models for exploration, inference, and prediction in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336)
-
 ## 2021 Nov 12 (Fri) 
 
 Presentation on citation and web machinery
@@ -42,17 +38,11 @@ Presentation on citation and web machinery
 
 ### Newer suggestions (Covid and covid-project related)
 
-DeAngelis _et al_ 2021, BMB **83**(107), 
-[Towards Building a Sustainable Future: Positioning Ecological Modelling for Impact in Ecosystems Management](https://link.springer.com/article/10.1007/s11538-021-00927-y)
 * Earn: seems like it could stimulate interesting discussion
-
 [Human seasonal influenza under COVID-19 and the
 potential consequences of influenza lineage
 elimination](https://assets.researchsquare.com/files/rs-850533/v1_covered.pdf?c=1631878870)
 * Park: interesting and relevant topic of research
-
-[Differential Privacy](https://privacytools.seas.harvard.edu/differential-privacy)
-* Earn: this site was recommended by the NY Times as a group working on privacy issues, in relation to data access; the site seems out of date (publications stopped being added in 2016), but this could be an interesting place to look for principaled approaches to address privacy that could perhaps be adopted in Canada.
 
 [Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
 * Earn: easy-to-follow description of important analyses (regularly updated)
@@ -75,6 +65,14 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 - https://www.nature.com/articles/s41586-021-03606-z The epidemiological impact of the NHS COVID-19 app
 
 ### Newer suggestions (general)
+
+DeAngelis _et al_ 2021, BMB **83**(107), 
+[Towards Building a Sustainable Future: Positioning Ecological Modelling for Impact in Ecosystems Management](https://link.springer.com/article/10.1007/s11538-021-00927-y)
+
+[Differential Privacy](https://privacytools.seas.harvard.edu/differential-privacy)
+* Earn: this site was recommended by the NY Times as a group working on privacy issues, in relation to data access; the site seems out of date (publications stopped being added in 2016), but this could be an interesting place to look for principaled approaches to address privacy that could perhaps be adopted in Canada.
+
+- Frank, S. A. “Generative Models versus Underlying Symmetries to Explain Biological Pattern.” Journal of Evolutionary Biology 27, no. 6 (2014): 1172–78. https://doi.org/10.1111/Jeb.12388.
 
 - Zhang, Lu, Bob Carpenter, Andrew Gelman, and Aki Vehtari. “Pathfinder: Parallel Quasi-Newton Variational Inference.” ArXiv:2108.03782 [Cs, Stat], August 8, 2021. http://arxiv.org/abs/2108.03782.
 
@@ -201,6 +199,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 2021 Nov 4 (Thu) 
+
+Tredennick, Hooker, Ellner, Adler. [A practical guide to selecting models for exploration, inference, and prediction in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336)
 
 ## 2021 Oct 29 (Fri)
 
