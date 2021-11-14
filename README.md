@@ -24,6 +24,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 ## 2021 Nov 12 (Fri) 
 
 Presentation on citation and web machinery
+* The recording is password protected for some reason; you may have it in your email under data-driven CV
 
 ### _2024_ Oct 1 (Tue)
 
