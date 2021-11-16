@@ -21,10 +21,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2021 Nov 12 (Fri) 
+## 2021 Nov 18 (Thurs) 
 
-Presentation on citation and web machinery
-* The recording is password protected for some reason; you may have it in your email under data-driven CV
+Tanaka, Y. “Extinction of Populations by Inbreeding Depression under Stochastic Environments.” Population Ecology 42, no. 1 (2000): 55–62. https://doi.org/10.1007/s101440050009.
 
 ### _2024_ Oct 1 (Tue)
 
@@ -200,6 +199,12 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+
+## 2021 Nov 12 (Fri) 
+
+Presentation on citation and web machinery
+* The recording is password protected for some reason; you may have it in your email under data-driven CV
 
 ## 2021 Nov 4 (Thu) 
 
