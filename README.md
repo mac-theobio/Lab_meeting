@@ -21,9 +21,14 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2021 Nov 18 (Thurs) 
+## 2021 Nov 26 (Thurs)
 
-Tanaka, Y. “Extinction of Populations by Inbreeding Depression under Stochastic Environments.” Population Ecology 42, no. 1 (2000): 55–62. https://doi.org/10.1007/s101440050009.
+Discussion of web site generation and backups 
+
+- https://docs.google.com/document/d/1uXw_sY26PIbBiF5GDmRmFAltPGaM9XlxAIovBaJtP9k/edit?usp=sharing 
+- https://github.com/bbolker/website/
+- https://ms.mcmaster.ca/~bolker/
+
 
 ### _2024_ Oct 1 (Tue)
 
@@ -200,6 +205,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 * [archive](archive.md)
 
+
+## 2021 Nov 18 (Thurs) 
+
+Tanaka, Y. “Extinction of Populations by Inbreeding Depression under Stochastic Environments.” Population Ecology 42, no. 1 (2000): 55–62. https://doi.org/10.1007/s101440050009.
 
 ## 2021 Nov 12 (Fri) 
 
