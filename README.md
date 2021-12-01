@@ -21,14 +21,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2021 Nov 26 (Thurs)
-
-Discussion of web site generation and backups 
-
-- https://docs.google.com/document/d/1uXw_sY26PIbBiF5GDmRmFAltPGaM9XlxAIovBaJtP9k/edit?usp=sharing 
-- https://github.com/bbolker/website/
-- https://ms.mcmaster.ca/~bolker/
-
+2021 Dec 3 (Fri)
 
 ### _2024_ Oct 1 (Tue)
 
@@ -205,6 +198,13 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 * [archive](archive.md)
 
+## 2021 Nov 25 (Thurs)
+
+Discussion of web site generation and backups 
+
+- https://docs.google.com/document/d/1uXw_sY26PIbBiF5GDmRmFAltPGaM9XlxAIovBaJtP9k/edit?usp=sharing 
+- https://github.com/bbolker/website/
+- https://ms.mcmaster.ca/~bolker/
 
 ## 2021 Nov 18 (Thurs) 
 
