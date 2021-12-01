@@ -21,7 +21,12 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-2021 Dec 3 (Fri)
+## 2021 Dec 3 (Fri)
+
+Volz, Erik M, Sergei L Kosakovsky Pond, Melissa J Ward, Andrew J Leigh
+Brown, and Simon D W Frost. “Phylodynamics of Infectious Disease
+Epidemics.” Genetics 183, no. 4 (December 1, 2009): 1421–30.
+https://doi.org/10.1534/genetics.109.106021.
 
 ### _2024_ Oct 1 (Tue)
 
