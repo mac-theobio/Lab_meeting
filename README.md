@@ -4,7 +4,7 @@
 
 # Mac-Theobio Lab Meetings
 
-- Thursday _or Friday at 14:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+- Thursdays at 14:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
 __Lab coffee__
@@ -21,12 +21,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2021 Dec 3 (Fri)
+### 2022 Jan 14
 
-Volz, Erik M, Sergei L Kosakovsky Pond, Melissa J Ward, Andrew J Leigh
-Brown, and Simon D W Frost. “Phylodynamics of Infectious Disease
-Epidemics.” Genetics 183, no. 4 (December 1, 2009): 1421–30.
-https://doi.org/10.1534/genetics.109.106021.
+informal meeting
 
 ### _2024_ Oct 1 (Tue)
 
@@ -41,6 +38,8 @@ https://doi.org/10.1534/genetics.109.106021.
 
 ### Newer suggestions (Covid and covid-project related)
 
+
+* Bolker: [Becker et al "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00245-7/fulltext)
 * Earn: seems like it could stimulate interesting discussion
 [Human seasonal influenza under COVID-19 and the
 potential consequences of influenza lineage
@@ -202,6 +201,13 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 2021 Dec 3 (Fri)
+
+Volz, Erik M, Sergei L Kosakovsky Pond, Melissa J Ward, Andrew J Leigh
+Brown, and Simon D W Frost. “Phylodynamics of Infectious Disease
+Epidemics.” Genetics 183, no. 4 (December 1, 2009): 1421–30.
+https://doi.org/10.1534/genetics.109.106021.
 
 ## 2021 Nov 25 (Thurs)
 
