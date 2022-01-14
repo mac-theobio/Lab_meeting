@@ -21,12 +21,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 2021 Dec 3 (Fri)
+### _2024_ Apr 8 (Tue)
 
-Volz, Erik M, Sergei L Kosakovsky Pond, Melissa J Ward, Andrew J Leigh
-Brown, and Simon D W Frost. “Phylodynamics of Infectious Disease
-Epidemics.” Genetics 183, no. 4 (December 1, 2009): 1421–30.
-https://doi.org/10.1534/genetics.109.106021.
+* (Great North America Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
 
 ### _2024_ Oct 1 (Tue)
 
