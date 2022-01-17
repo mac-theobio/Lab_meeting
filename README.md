@@ -4,11 +4,11 @@
 
 # Mac-Theobio Lab Meetings
 
-- Thursdays at 14:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+- Thursdays at 12:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
 __Lab coffee__
-* Mondays at 14:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
+* Tuesdays at 14:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 * [Google text hangout](https://hangouts.google.com/?pli=1&action=chat&id=UgxLRtgg_GVdBj8cVE94AaABAQ&rpi=116964537718646895072).
 
@@ -20,6 +20,9 @@ __Lab coffee__
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
 
 ## Upcoming Meetings
+
+- Walker JW, Han BA, Ott IM, Drake JM (2018) Transmissibility of emerging viral zoonoses. PLoS ONE 13(11): e0206926. https://doi.org/10.1371/journal.pone.0206926
+	* Bolker
 
 ### _2024_ Apr 8 (Tue)
 
@@ -150,8 +153,7 @@ https://elifesciences.org/articles/48175?utm_source=content_alert&utm_medium=ema
 
 - Dalziel _et al_ (2018) [Urbanization and humidity shape the intensity of influenza epidemics in U.S. cities.](http://science.sciencemag.org/node/716409.full) Science 362:75-79 (5 Oct 2018).  See also [Wallinga's commentary](http://science.sciencemag.org/content/362/6410/29)
 	* Earn
-- Walker JW, Han BA, Ott IM, Drake JM (2018) Transmissibility of emerging viral zoonoses. PLoS ONE 13(11): e0206926. https://doi.org/10.1371/journal.pone.0206926
-	* Bolker
+
 - [Forecasting elections using compartmental models of infections](https://arxiv.org/abs/1811.01831) Volkening _et al_ 2018
 	* Earn
 - ["Book: Disease Control Priorities, Third Edition: Volume 9. Improving Health and Reducing Poverty"](https://openknowledge.worldbank.org/handle/10986/28877)
