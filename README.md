@@ -48,7 +48,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 * Earn: seems like it could stimulate interesting discussion
 [Human seasonal influenza under COVID-19 and the
 potential consequences of influenza lineage
-elimination](https://assets.researchsquare.com/files/rs-850533/)
+elimination](https://assets.researchsquare.com/files/rs-850533/) [pdf here](./Dhan+22_flu_under_covid.pdf)
 * Park: interesting and relevant topic of research
 
 [Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
