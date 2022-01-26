@@ -21,6 +21,11 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2022 Jan 27 (Thu)
+
+[Human seasonal influenza under COVID-19 and the potential consequences of influenza lineage elimination](https://doi.org/10.21203/rs.3.rs-850533/v1)
+* [Local copy](./Dhan+22_flu_under_covid.pdf)
+
 ### _2024_ Apr 8 (Tue)
 
 * (Great North America Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
@@ -38,13 +43,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### Newer suggestions (Covid and covid-project related)
 
-
 * Bolker: [Becker et al "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00245-7/fulltext)
-* Earn: seems like it could stimulate interesting discussion
-[Human seasonal influenza under COVID-19 and the
-potential consequences of influenza lineage
-elimination](https://assets.researchsquare.com/files/rs-850533/) [(PDF HERE)](./Dhan+22_flu_under_covid.pdf)
-* Park: interesting and relevant topic of research
 
 [Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
 * Earn: easy-to-follow description of important analyses (regularly updated)
