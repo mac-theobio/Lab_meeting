@@ -21,11 +21,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### Thu 20 Jan 2022
-
-- [Walker JW, Han BA, Ott IM, Drake JM (2018) Transmissibility of emerging viral zoonoses. PLoS ONE 13(11): e0206926.](https://doi.org/10.1371/journal.pone.0206926)
-	* Bolker
-
 ### _2024_ Apr 8 (Tue)
 
 * (Great North America Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
@@ -205,6 +200,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### Thu 20 Jan 2022
+
+- [Walker JW, Han BA, Ott IM, Drake JM (2018) Transmissibility of emerging viral zoonoses. PLoS ONE 13(11): e0206926.](https://doi.org/10.1371/journal.pone.0206926)
+	* Bolker
 
 ### 2022 Jan 14
 
