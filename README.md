@@ -21,10 +21,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2022 Jan 27 (Thu)
+### 2022 Feb 3 (Thu)
 
-[Human seasonal influenza under COVID-19 and the potential consequences of influenza lineage elimination](https://doi.org/10.21203/rs.3.rs-850533/v1)
-* [Local copy](./Dhan+22_flu_under_covid.pdf)
+Something from Steve Walker
 
 ### _2024_ Apr 8 (Tue)
 
@@ -199,6 +198,11 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2022 Jan 27 (Thu)
+
+[Human seasonal influenza under COVID-19 and the potential consequences of influenza lineage elimination](https://doi.org/10.21203/rs.3.rs-850533/v1)
+* [Local copy](./Dhan+22_flu_under_covid.pdf)
 
 ### Thu 20 Jan 2022
 
