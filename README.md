@@ -23,7 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### 2022 Feb 3 (Thu)
 
-Something from Steve Walker
+* Steve Walker will go through his presentation on [refactoring](https://canmod.net/misc/flex_specs) [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic)
 
 ### _2024_ Apr 8 (Tue)
 
