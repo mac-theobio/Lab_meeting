@@ -23,7 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### 2022 Feb 17
 
-Ben Bolker will present and lead a discussion about reproducible workflow
+Ben Bolker will present and lead a discussion about reproducible workflow and collaboration tools. For background, please review [this document](https://rpubs.com/bbolker/3153); I will be working on an updated version of the brain dump [here](https://hackmd.io/@bbolker/BylEOGjJc/edit).
 
 ### _2024_ Apr 8 (Tue)
 
