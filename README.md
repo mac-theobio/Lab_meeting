@@ -21,9 +21,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2022 Feb 3 (Thu)
+### 2022 Feb 17
 
-* Steve Walker will go through his presentation on [refactoring](https://canmod.net/misc/flex_specs) [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic)
+Ben Bolker will present and lead a discussion about reproducible workflow
 
 ### _2024_ Apr 8 (Tue)
 
@@ -198,6 +198,16 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2022 Feb 10 (Thu)
+
+* Short reports
+* Discussion about COVID and academic policies
+
+### 2022 Feb 3 (Thu)
+
+* Steve Walker will go through his presentation on [refactoring](https://canmod.net/misc/flex_specs) [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic)
+
 
 ### 2022 Jan 27 (Thu)
 
