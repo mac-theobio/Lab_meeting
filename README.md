@@ -21,10 +21,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2022 Feb 17
-
-Ben Bolker will present and lead a discussion about reproducible workflow and collaboration tools. For background, please review [this document](https://rpubs.com/bbolker/3153); I will be working on an updated version of the brain dump [here](https://hackmd.io/@bbolker/BylEOGjJc/edit).
-
 ### _2024_ Apr 8 (Tue)
 
 * (Great North America Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
@@ -198,6 +194,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2022 Feb 17
+
+Ben Bolker will present and lead a discussion about reproducible workflow and collaboration tools. For background, please review [this document](https://rpubs.com/bbolker/3153); I will be working on an updated version of the brain dump [here](https://hackmd.io/@bbolker/BylEOGjJc/edit).
 
 ### 2022 Feb 10 (Thu)
 
