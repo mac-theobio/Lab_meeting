@@ -62,6 +62,12 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 
 ### Newer suggestions (general)
 
+
+David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5)
+
+Seymour et al.
+[Bayesian nonparametric inference for heterogeneously mixing infectious disease models](https://www.pnas.org/doi/epdf/10.1073/pnas.2118425119)
+
 DeAngelis _et al_ 2021, BMB **83**(107), 
 [Towards Building a Sustainable Future: Positioning Ecological Modelling for Impact in Ecosystems Management](https://link.springer.com/article/10.1007/s11538-021-00927-y)
 
