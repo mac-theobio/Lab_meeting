@@ -23,7 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## 10 March 2022
 
-- Seymour, Rowland G., Theodore Kypraios, and Philip D. O’Neill. “Bayesian Nonparametric Inference for Heterogeneously Mixing Infectious Disease Models.” Proceedings of the National Academy of Sciences 119, no. 10 (2022): e2118425119. https://doi.org/10.1073/pnas.2118425119.
+- [Seymour, Rowland G., Theodore Kypraios, and Philip D. O’Neill. “Bayesian Nonparametric Inference for Heterogeneously Mixing Infectious Disease Models.” Proceedings of the National Academy of Sciences 119, no. 10 (2022): e2118425119.](https://doi.org/10.1073/pnas.2118425119).
 
 ### _2024_ Apr 8 (Tue)
 
