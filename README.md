@@ -28,6 +28,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 [Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
 * Earn: easy-to-follow description of important analyses (regularly updated)
 
+## 31 Mar 2022
+
+David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5)
+
 ## 7 Apr 2022
 
 * Bicko presentation
@@ -71,8 +75,6 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 
 ### Newer suggestions (general)
 
-
-David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5)
 
 Seymour et al.
 [Bayesian nonparametric inference for heterogeneously mixing infectious disease models](https://www.pnas.org/doi/epdf/10.1073/pnas.2118425119)
