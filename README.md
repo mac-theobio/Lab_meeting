@@ -21,9 +21,16 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 10 March 2022
+## 24 March 2022
 
-- [Seymour, Rowland G., Theodore Kypraios, and Philip D. O’Neill. “Bayesian Nonparametric Inference for Heterogeneously Mixing Infectious Disease Models.” Proceedings of the National Academy of Sciences 119, no. 10 (2022): e2118425119.](https://doi.org/10.1073/pnas.2118425119).
+* Simulating data (brief discussion, Michael)
+
+[Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
+* Earn: easy-to-follow description of important analyses (regularly updated)
+
+## 7 Apr 2022
+
+* Bicko presentation
 
 ### _2024_ Apr 8 (Tue)
 
@@ -44,8 +51,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 * Bolker: [Becker et al "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00245-7/fulltext)
 
-[Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
-* Earn: easy-to-follow description of important analyses (regularly updated)
 
 D’Agostino McGowan, Lucy, Kyra H Grantz, and Eleanor Murray. “Quantifying Uncertainty in Mechanistic Models of Infectious Disease.” American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85. https://doi.org/10.1093/aje/kwab013.
 
@@ -204,6 +209,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 17 March 2022
+
+- [Seymour, Rowland G., Theodore Kypraios, and Philip D. O’Neill. “Bayesian Nonparametric Inference for Heterogeneously Mixing Infectious Disease Models.” Proceedings of the National Academy of Sciences 119, no. 10 (2022): e2118425119.](https://doi.org/10.1073/pnas.2118425119).
 
 ### 2022 Feb 17
 
