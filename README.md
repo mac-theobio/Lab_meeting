@@ -23,10 +23,10 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## 24 March 2022
 
-* Simulating data (brief discussion, Michael)
+* Simulation considerations (see notes [here](https://hackmd.io/ub78it8YT2efleFx3qzS3Q), comments/edits welcome)
+* [Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
 
-[Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
-* Earn: easy-to-follow description of important analyses (regularly updated)
+<!-- * Earn: easy-to-follow description of important analyses (regularly updated) -->
 
 ## 31 Mar 2022
 
