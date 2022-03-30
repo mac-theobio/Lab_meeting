@@ -23,7 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## 31 Mar 2022
 
-David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5)
+David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5); [hmeasure package on CRAN](https://CRAN.R-project.org/package=hmeasure); [web page on the H-measure](https://www.hmeasure.net/)
 
 ## 7 Apr 2022
 
