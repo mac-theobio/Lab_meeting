@@ -21,10 +21,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-## 7 Apr 2022
-
-* Bicko presentation
-
 ### _2024_ Apr 8 (Tue)
 
 * (Great North America Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
@@ -35,6 +31,12 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 (Past meetings at the bottom)
 
+## Mentioned for 14 April
+
+David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5); [hmeasure package on CRAN](https://CRAN.R-project.org/package=hmeasure); [web page on the H-measure](https://www.hmeasure.net/)
+
+D’Agostino McGowan, Lucy, Kyra H Grantz, and Eleanor Murray. “Quantifying Uncertainty in Mechanistic Models of Infectious Disease.” American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85. https://doi.org/10.1093/aje/kwab013.
+
 ## COVID stuff
 
 - [stuff on COVID-19 evolution](./covid-19/evolution.md)
@@ -43,9 +45,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 ### Newer suggestions (Covid and covid-project related)
 
 * Bolker: [Becker et al "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00245-7/fulltext)
-
-
-D’Agostino McGowan, Lucy, Kyra H Grantz, and Eleanor Murray. “Quantifying Uncertainty in Mechanistic Models of Infectious Disease.” American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85. https://doi.org/10.1093/aje/kwab013.
 
 Accounting for Uncertainty During a Pandemic. Zellner et al. http://www.stat.columbia.edu/~gelman/research/published/UncertaintyPandemic.pdf
 
@@ -200,6 +199,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 7 Apr 2022
+
+* Bicko presentation
 
 ## 31 Mar 2022
 
