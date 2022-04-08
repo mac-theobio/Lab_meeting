@@ -44,7 +44,11 @@ D’Agostino McGowan, Lucy, Kyra H Grantz, and Eleanor Murray. “Quantifying Un
 
 ### Newer suggestions (Covid and covid-project related)
 
-* Bolker: [Becker et al "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00245-7/fulltext)
+[Is This What Endemic Disease Looks Like?](https://www.nytimes.com/interactive/2022/04/07/science/endemic-meaning-pandemic-covid.html) _NY Times_ (7 April 2022).
+* Earn: light reading on an important topic; could stimulate good discussion
+
+[Becker et al "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00245-7/fulltext)
+* Bolker
 
 Accounting for Uncertainty During a Pandemic. Zellner et al. http://www.stat.columbia.edu/~gelman/research/published/UncertaintyPandemic.pdf
 
