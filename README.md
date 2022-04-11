@@ -112,6 +112,9 @@ https://elifesciences.org/articles/48175?utm_source=content_alert&utm_medium=ema
 	* Earn: First paper I've seen that addresses effects of climate change on _airborne_ as opposed to waterborne and vector-transmitted infections.
 
 - [Vehtari, Gelman, …: In this paper we show that the convergence diagnostic Rhat of Gelman and Rubin (1992) has serious flaws and we propose an alternative that fixes them](https://arxiv.org/pdf/1903.08008.pdf)
+	* [A newer version](http://www.stat.columbia.edu/~gelman/research/published/rhat.pdf)
+
+Rank-normalization, folding, and localization: An improved Rb for assessing convergence of MCMC* Aki Vehtari† , Andrew Gelman‡ , Daniel Simpson§ , Bob Carpenter¶ , and Paul-Christian
   	
 - [Drake _et al_ (2019 May 8, PLoS Comp Biol) "The statistics of epidemic transitions"](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006917)
 	* Earn
