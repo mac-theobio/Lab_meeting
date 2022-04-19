@@ -21,6 +21,12 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
+### 2022 Apr 21 (Thu)
+
+D’Agostino McGowan, Lucy, Kyra H. Grantz, and Eleanor Murray.
+[Quantifying Uncertainty in Mechanistic Models of Infectious Disease.](https://doi.org/10.1093/aje/kwab013).
+American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85.
+
 ### _2024_ Apr 8 (Tue)
 
 * (Great North America Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
@@ -30,12 +36,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 * Theobio day! 4499^2 ## 20241001
 
 (Past meetings at the bottom)
-
-## Mentioned for 14 April
-
-David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5); [hmeasure package on CRAN](https://CRAN.R-project.org/package=hmeasure); [web page on the H-measure](https://www.hmeasure.net/)
-
-D’Agostino McGowan, Lucy, Kyra H Grantz, and Eleanor Murray. “Quantifying Uncertainty in Mechanistic Models of Infectious Disease.” American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85. https://doi.org/10.1093/aje/kwab013.
 
 ## COVID stuff
 
@@ -57,6 +57,11 @@ Ellison, Glenn. “Implications of Heterogeneous SIR Models for Analyses of COVI
 ~Fox, Spencer J., Pratyush Potu, Michael Lachmann, Ravi Srinivasan, and Lauren Ancel Meyers. “The COVID-19 Herd Immunity Threshold Is Not Low: A Re-Analysis of European Data from Spring of 2020.” MedRxiv, December 3, 2020, 2020.12.01.20242289. https://doi.org/10.1101/2020.12.01.20242289.~
 
 Wilkinson, Ryan, and Marcus Roper. “Homogeneous Interpretable Approximations to Heterogeneous SIR Models.” ArXiv:2012.13424 [q-Bio], January 11, 2021. http://arxiv.org/abs/2012.13424.
+
+Rosenbaum, Benjamin, and Emanuel A. Fronhofer. “Fitting Deterministic
+Population Models to Stochastic Data: From Trajectory Matching to
+State-Space Models.” bioRxiv, September 16, 2021.
+https://doi.org/10.1101/2021.09.13.460028. Bolker
 
 Brett and Rohani (2020).  PNAS. ["Transmission dynamics reveal the impracticality of COVID-19 herd immunity strategies"](https://www.pnas.org/content/early/2020/09/21/2008087117)
 * Earn: abstract sounds interesting
@@ -206,6 +211,10 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 14 Apr 2022
+
+David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5); [hmeasure package on CRAN](https://CRAN.R-project.org/package=hmeasure); [web page on the H-measure](https://www.hmeasure.net/)
 
 ## 7 Apr 2022
 
