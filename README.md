@@ -21,11 +21,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2022 Apr 21 (Thu)
+### 2022 Apr 208 (Thu)
 
-D’Agostino McGowan, Lucy, Kyra H. Grantz, and Eleanor Murray.
-[Quantifying Uncertainty in Mechanistic Models of Infectious Disease.](https://doi.org/10.1093/aje/kwab013).
-American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85.
+Ackley et al. ["Compartmental Model Diagrams as Causal Representations in Relation to DAGs"](https://www.degruyter.com/document/doi/10.1515/em-2016-0007/html)
 
 ### _2024_ Apr 8 (Tue)
 
@@ -211,6 +209,12 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 21 Apr 2022
+
+D’Agostino McGowan, Lucy, Kyra H. Grantz, and Eleanor Murray.
+[Quantifying Uncertainty in Mechanistic Models of Infectious Disease.](https://doi.org/10.1093/aje/kwab013).
+American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85.
 
 ## 14 Apr 2022
 
