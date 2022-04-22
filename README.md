@@ -21,9 +21,9 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ## Upcoming Meetings
 
-### 2022 Apr 21 (Thu)
+### 2022 Apr 208 (Thu)
 
-https://www.degruyter.com/document/doi/10.1515/em-2016-0007/html
+Ackley et al. ["Compartmental Model Diagrams as Causal Representations in Relation to DAGs"](https://www.degruyter.com/document/doi/10.1515/em-2016-0007/html)
 
 ### _2024_ Apr 8 (Tue)
 
