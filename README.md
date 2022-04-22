@@ -23,9 +23,7 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 ### 2022 Apr 21 (Thu)
 
-D’Agostino McGowan, Lucy, Kyra H. Grantz, and Eleanor Murray.
-[Quantifying Uncertainty in Mechanistic Models of Infectious Disease.](https://doi.org/10.1093/aje/kwab013).
-American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85.
+https://www.degruyter.com/document/doi/10.1515/em-2016-0007/html
 
 ### _2024_ Apr 8 (Tue)
 
@@ -212,7 +210,13 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 
 * [archive](archive.md)
 
-## 14 Apr 2022
+### 2022 Apr 21 (Thu)
+
+D’Agostino McGowan, Lucy, Kyra H. Grantz, and Eleanor Murray.
+[Quantifying Uncertainty in Mechanistic Models of Infectious Disease.](https://doi.org/10.1093/aje/kwab013).
+American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85.
+
+### 14 Apr 2022
 
 David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5); [hmeasure package on CRAN](https://CRAN.R-project.org/package=hmeasure); [web page on the H-measure](https://www.hmeasure.net/)
 
