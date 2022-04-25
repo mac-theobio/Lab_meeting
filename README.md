@@ -25,6 +25,8 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 
 Ackley et al. ["Compartmental Model Diagrams as Causal Representations in Relation to DAGs"](https://www.degruyter.com/document/doi/10.1515/em-2016-0007/html)
 
+Agenda item: technical workshops this spring or summer?
+
 ### _2024_ Apr 8 (Tue)
 
 * (Great North America Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
