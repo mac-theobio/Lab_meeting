@@ -7,10 +7,12 @@
 - Thursdays at 12:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
+<!-- COMMENTED OUT
 __Lab coffee__
 * Tuesdays at 14:30 (Ontario time) by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 	* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 * [Google text hangout](https://hangouts.google.com/?pli=1&action=chat&id=UgxLRtgg_GVdBj8cVE94AaABAQ&rpi=116964537718646895072).
+-->
 
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
