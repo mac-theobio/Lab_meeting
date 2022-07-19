@@ -74,6 +74,7 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 
 ### Newer suggestions (general)
 
+Chen et al. "Review of fractional epidemic models" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8056944/
 
 Seymour et al.
 [Bayesian nonparametric inference for heterogeneously mixing infectious disease models](https://www.pnas.org/doi/epdf/10.1073/pnas.2118425119)
