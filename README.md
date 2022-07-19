@@ -76,6 +76,8 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 
 Chen et al. "Review of fractional epidemic models" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8056944/
 
+Meagher, Joe, and Nial Friel. “Assessing Epidemic Curves for Evidence of Superspreading.” arXiv, February 21, 2022. https://doi.org/10.48550/arXiv.2106.12064.
+
 Seymour et al.
 [Bayesian nonparametric inference for heterogeneously mixing infectious disease models](https://www.pnas.org/doi/epdf/10.1073/pnas.2118425119)
 
