@@ -46,6 +46,9 @@ Agenda item: technical workshops this spring or summer?
 
 ### Newer suggestions (Covid and covid-project related)
 
+[Evaluating Forecasts with scoringutils in R](https://arxiv.org/abs/2205.07090)
+* Earn: seems like something macpan users should be aware of
+
 [Is This What Endemic Disease Looks Like?](https://www.nytimes.com/interactive/2022/04/07/science/endemic-meaning-pandemic-covid.html) _NY Times_ (7 April 2022).
 * Earn: light reading on an important topic; could stimulate good discussion
 
