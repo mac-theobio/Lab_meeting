@@ -1,4 +1,131 @@
 
+### 2022 Apr 28 (Thu)
+
+Ackley et al. ["Compartmental Model Diagrams as Causal Representations in Relation to DAGs"](https://www.degruyter.com/document/doi/10.1515/em-2016-0007/html)
+
+Agenda item: technical workshops this spring or summer?
+
+### 2022 Apr 21 (Thu)
+
+D’Agostino McGowan, Lucy, Kyra H. Grantz, and Eleanor Murray.
+[Quantifying Uncertainty in Mechanistic Models of Infectious Disease.](https://doi.org/10.1093/aje/kwab013).
+American Journal of Epidemiology 190, no. 7 (July 1, 2021): 1377–85.
+
+### 14 Apr 2022
+
+David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5); [hmeasure package on CRAN](https://CRAN.R-project.org/package=hmeasure); [web page on the H-measure](https://www.hmeasure.net/)
+
+## 7 Apr 2022
+
+* Bicko presentation
+
+## 31 Mar 2022
+
+David J. Hand. [Measuring classifier performance: a coherent alternative to the area under the ROC curve](https://link.springer.com/article/10.1007/s10994-009-5119-5); [hmeasure package on CRAN](https://CRAN.R-project.org/package=hmeasure); [web page on the H-measure](https://www.hmeasure.net/)
+
+## 24 March 2022
+
+* Simulation considerations (see notes [here](https://hackmd.io/ub78it8YT2efleFx3qzS3Q), comments/edits welcome)
+* [Excess deaths analysis by _The Economist_](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-estimates)
+
+<!-- * Earn: easy-to-follow description of important analyses (regularly updated) -->
+
+## 17 March 2022
+
+- [Seymour, Rowland G., Theodore Kypraios, and Philip D. O’Neill. “Bayesian Nonparametric Inference for Heterogeneously Mixing Infectious Disease Models.” Proceedings of the National Academy of Sciences 119, no. 10 (2022): e2118425119.](https://doi.org/10.1073/pnas.2118425119).
+
+### 2022 Feb 17
+
+Ben Bolker will present and lead a discussion about reproducible workflow and collaboration tools. For background, please review [this document](https://rpubs.com/bbolker/3153); I will be working on an updated version of the brain dump [here](https://hackmd.io/@bbolker/BylEOGjJc/edit).
+
+### 2022 Feb 10 (Thu)
+
+* Short reports
+* Discussion about COVID and academic policies
+
+### 2022 Feb 3 (Thu)
+
+* Steve Walker will go through his presentation on [refactoring](https://canmod.net/misc/flex_specs) [McMasterPandemic](https://github.com/mac-theobio/McMasterPandemic)
+
+
+### 2022 Jan 27 (Thu)
+
+[Human seasonal influenza under COVID-19 and the potential consequences of influenza lineage elimination](https://doi.org/10.21203/rs.3.rs-850533/v1)
+* [Local copy](./Dhan+22_flu_under_covid.pdf)
+
+### Thu 20 Jan 2022
+
+- [Walker JW, Han BA, Ott IM, Drake JM (2018) Transmissibility of emerging viral zoonoses. PLoS ONE 13(11): e0206926.](https://doi.org/10.1371/journal.pone.0206926)
+	* Bolker
+
+### 2022 Jan 14
+
+informal meeting
+
+## 2021 Dec 3 (Fri)
+
+Volz, Erik M, Sergei L Kosakovsky Pond, Melissa J Ward, Andrew J Leigh
+Brown, and Simon D W Frost. “Phylodynamics of Infectious Disease
+Epidemics.” Genetics 183, no. 4 (December 1, 2009): 1421–30.
+https://doi.org/10.1534/genetics.109.106021.
+
+## 2021 Nov 25 (Thurs)
+
+Discussion of web site generation and backups 
+
+- https://docs.google.com/document/d/1uXw_sY26PIbBiF5GDmRmFAltPGaM9XlxAIovBaJtP9k/edit?usp=sharing 
+- https://github.com/bbolker/website/
+- https://ms.mcmaster.ca/~bolker/
+
+## 2021 Nov 18 (Thurs) 
+
+Tanaka, Y. “Extinction of Populations by Inbreeding Depression under Stochastic Environments.” Population Ecology 42, no. 1 (2000): 55–62. https://doi.org/10.1007/s101440050009.
+
+## 2021 Nov 12 (Fri) 
+
+Presentation on citation and web machinery
+* The recording is password protected for some reason; you may have it in your email under data-driven CV
+
+## 2021 Nov 4 (Thu) 
+
+Tredennick, Hooker, Ellner, Adler. [A practical guide to selecting models for exploration, inference, and prediction in ecology](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3336)
+
+## 2021 Oct 29 (Fri)
+
+Short reports
+
+## 2021 Oct 21 (Thurs)
+
+More about model calibration; we can use this paper as a point of departure
+
+* [Calibration of models to data: a comparison of methods. Suboi, Hladish, Delva Hazelbag](https://www.biorxiv.org/content/10.1101/2020.12.21.423763v1)
+
+## 2021 Oct 11-15
+
+Reading week---no meetings or coffee
+
+## 2021 Oct 8 (Fri)
+
+We'll discuss Markov chain Monte Carlo; read the reference below to get started
+
+Ravenzwaaij, Don van, Pete Cassey, and Scott D. Brown. “A Simple Introduction to Markov Chain Monte–Carlo Sampling.” Psychonomic Bulletin & Review 25, no. 1 (February 1, 2018): 143–54. https://doi.org/10.3758/s13423-016-1015-8.
+
+(This isn't perfect, but is a good start.) 
+
+Also see section 7.3 [here](https://ms.mcmaster.ca/~bolker/emdbook/book.pdf) (also not perfect!)
+
+Visualizations:
+
+- [MCMC demo (JavaScript)](https://chi-feng.github.io/mcmc-demo/)
+- [with PyMC3](https://twiecki.io/blog/2014/01/02/visualizing-mcmc/)
+
+See also BMB notes: [markdown](https://github.com/bbolker/bbmisc/blob/master/mcmc.md), [bibtex](https://github.com/bbolker/bbmisc/blob/master/mcmc.bib), [html](https://raw.githack.com/bbolker/bbmisc/master/mcmc.html)
+
+## 2021 Oct 1 (Fri)
+
+Vianey Leos Barajas: physical coffee at 2:30.
+
+
 
 ### 2021 Aug 12 (Thu)
 
