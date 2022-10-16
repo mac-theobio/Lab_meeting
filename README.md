@@ -80,6 +80,8 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 
 [Mitchell et al. “FAIR Data Pipeline: Provenance-Driven Data Management for Traceable Scientific Workflows.” *Phil Trans Roy Soc A* 2022](https://doi.org/10.1098/rsta.2021.0300)
 
+[Pooley et al. “Posterior-Based Proposals for Speeding up Markov Chain Monte Carlo.” Roy Soc Open Science](https://doi.org/10.1098/rsos.190619)
+
 Chen et al. "Review of fractional epidemic models" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8056944/
 
 Meagher, Joe, and Nial Friel. “Assessing Epidemic Curves for Evidence of Superspreading.” arXiv, February 21, 2022. https://doi.org/10.48550/arXiv.2106.12064.
