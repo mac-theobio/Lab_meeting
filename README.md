@@ -1,6 +1,8 @@
-## Links
+## Upcoming lab meetings
 
-[Math bio program advice](https://github.com/davidearn/mbadvice)
+### 2022 Oct 17 (Mon)
+
+Short reports and informal discussion
 
 ## Weekly events
 
@@ -10,23 +12,29 @@
 	* __or__ by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 		* [email if you can't find password](mailto:dushoff@mcmaster.ca)
 
-### Lab coffee
-* Fridays at 14:30 (Ontario time); meet in [LSB-216](https://www.google.com/maps/place/Life+Sciences+Building/@43.2612404,-79.9177483,19z/data=!4m5!3m4!1s0x882c9b52e9e414af:0xa95019d148a8025d!8m2!3d43.2611935!4d-79.9177835)
-
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
 - Please come prepared to make suggestions for succeeding weeks
 
-- Other weekly events/mailing lists of possible interest to Mac-Theobio'ers: [bio data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) (Fri lunchtime), [EEB seminar](
-https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?), [Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday)
+### Lab coffee
+* Fridays at 14:30 (Ontario time); meet in [LSB-216](https://www.google.com/maps/place/Life+Sciences+Building/@43.2612404,-79.9177483,19z/data=!4m5!3m4!1s0x882c9b52e9e414af:0xa95019d148a8025d!8m2!3d43.2611935!4d-79.9177835)
 
-### 2022 Oct 3 (Mon)
+### Other
 
-[Accounting for uncertainty during a pandemic](https://doi.org/10.1016/j.patter.2021.100310), Zelner et al.
+Other weekly events/mailing lists of possible interest to Mac-Theobio'ers: [bio data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) (Fri lunchtime), [EEB seminar](
+https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime),[Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday), CSE seminar
+
+Inactive: [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listinfo/mbrs) (3:30 Tues?)
+
+## Links
+
+[Math bio program advice](https://github.com/davidearn/mbadvice)
+
+## future events
 
 ### _2024_ Apr 8 (Tue)
 
-* (Great North America Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
+* [Great North America Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
 
 ### _2024_ Oct 1 (Tue)
 
@@ -50,8 +58,6 @@ https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime), [Math Bi
 [Becker et al "Optimising predictive models to prioritise viral discovery in zoonotic reservoirs"](https://www.thelancet.com/journals/lanmic/article/PIIS2666-5247(21)00245-7/fulltext)
 * Bolker
 
-Accounting for Uncertainty During a Pandemic. Zellner et al. http://www.stat.columbia.edu/~gelman/research/published/UncertaintyPandemic.pdf
-
 Ellison, Glenn. “Implications of Heterogeneous SIR Models for Analyses of COVID-19.” National Bureau of Economic Research, 2020.
 
 ~Fox, Spencer J., Pratyush Potu, Michael Lachmann, Ravi Srinivasan, and Lauren Ancel Meyers. “The COVID-19 Herd Immunity Threshold Is Not Low: A Re-Analysis of European Data from Spring of 2020.” MedRxiv, December 3, 2020, 2020.12.01.20242289. https://doi.org/10.1101/2020.12.01.20242289.~
@@ -71,6 +77,8 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 - https://www.nature.com/articles/s41586-021-03606-z The epidemiological impact of the NHS COVID-19 app
 
 ### Newer suggestions (general)
+
+[Mitchell et al. “FAIR Data Pipeline: Provenance-Driven Data Management for Traceable Scientific Workflows.” *Phil Trans Roy Soc A* 2022](https://doi.org/10.1098/rsta.2021.0300)
 
 Chen et al. "Review of fractional epidemic models" https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8056944/
 

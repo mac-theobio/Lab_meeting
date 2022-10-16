@@ -1,3 +1,7 @@
+### 2022 Oct 3 (Mon)
+
+[Accounting for uncertainty during a pandemic](https://doi.org/10.1016/j.patter.2021.100310), Zelner et al.
+
 
 ### 2022 Apr 28 (Thu)
 
