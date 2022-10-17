@@ -1,5 +1,9 @@
 ## Upcoming lab meetings
 
+### 2022 Oct 31
+
+https://www.tandfonline.com/doi/pdf/10.1080/00401706.2020.1791959?needAccess=true 
+
 ### 2022 Oct 17 (Mon)
 
 Short reports and informal discussion
