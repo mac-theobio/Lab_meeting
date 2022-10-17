@@ -1,9 +1,14 @@
 ## Upcoming lab meetings
 
 ### 2022 Oct 24 (Mon)
+
 * Reading the paper [Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8) (Particularly interested in the materials and methods section-  Agronah).  
 
-### 2022 Oct 17 (Mon)https://github.com/mac-theobio/Lab_meeting/edit/master/README.md
+### 2022 Oct 31
+
+* [Ridge Regularization: An Essential Concept in Data Science](https://www.tandfonline.com/doi/pdf/10.1080/00401706.2020.1791959?needAccess=true)
+
+### 2022 Oct 17 (Mon)
 
 Short reports and informal discussion
 
