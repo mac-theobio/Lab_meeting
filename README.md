@@ -5,6 +5,7 @@
 * Meetings and papers
 * Zulip
 * [Ridge Regularization: An Essential Concept in Data Science](https://www.tandfonline.com/doi/pdf/10.1080/00401706.2020.1791959?needAccess=true)
+	* [Via Mac](https://www.tandfonline.com.libaccess.lib.mcmaster.ca/doi/pdf/10.1080/00401706.2020.1791959)
 
 ## Weekly events
 
