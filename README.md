@@ -4,6 +4,7 @@
 
 * Meetings and papers
 * Zulip
+* Levin 1992, [The Problem of Pattern and Scale in Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1941447)
 * [Ridge Regularization: An Essential Concept in Data Science](https://www.tandfonline.com/doi/pdf/10.1080/00401706.2020.1791959?needAccess=true)
 	* [Via Mac](https://www.tandfonline.com.libaccess.lib.mcmaster.ca/doi/pdf/10.1080/00401706.2020.1791959)
 
