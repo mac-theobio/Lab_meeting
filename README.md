@@ -1,10 +1,25 @@
 ## Upcoming lab meetings
 
+## 2022 Nov 14
+
+* Breiman 2001. [“Statistical Modeling: The Two Cultures.”](http://www.jstor.org/stable/2676681) Statistical Science 16 (3): 199–215.
+
+Feel free to **optionally** also look at one of:
+
+* McCormick 2021 ["The "given Data" Paradigm Undermines Both Cultures"](http://arxiv.org/abs/2105.12478)
+* Miller 2021 [Breiman's Two Cultures: {{You}} Don't Have to Choose Sides](http://arxiv.org/abs/2104.12219)
+* Gelman 2021 [Reflections on Breiman's Two Cultures of Statistical Modeling](https://muse.jhu.edu/article/799750)
+* Raper 2020 [Leo Breiman's "Two Cultures"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1740-9713.2020.01357.x)
+
+
+## 2022 Nov 7
+
+* Levin 1992, [The Problem of Pattern and Scale in Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1941447)
+
 ### 2022 Oct 31
 
 * Meetings and papers
 * Zulip
-* Levin 1992, [The Problem of Pattern and Scale in Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1941447)
 * [Ridge Regularization: An Essential Concept in Data Science](https://www.tandfonline.com/doi/pdf/10.1080/00401706.2020.1791959?needAccess=true)
 	* [Via Mac](https://www.tandfonline.com.libaccess.lib.mcmaster.ca/doi/pdf/10.1080/00401706.2020.1791959)
 
