@@ -70,6 +70,12 @@ Inactive: [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listi
 
 ### Newer suggestions (Covid and covid-project related)
 
+[Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
+* Earn: one of a number of things that came up when I searched for "Random Forests for Dummies" when we were wondering if there was a light intro to the subject
+
+[An Introduction to Random Forest Algorithm for beginners](https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-random-forest-algorithm-for-beginners/)
+* Earn: another online intro to Random Forests
+
 [Evaluating Forecasts with scoringutils in R](https://arxiv.org/abs/2205.07090)
 * Earn: seems like something macpan users should be aware of
 
