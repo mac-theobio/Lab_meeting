@@ -4,6 +4,7 @@
 
 Various guides to Random Forests (that might all say similar things):
 
+* Chapter 8 of [Introduction to Statistical Learning](https://link.springer.com/content/pdf/10.1007/978-1-4614-7138-7.pdf)
 * [Understanding Random Forests](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
 * [Random Forest with simple vacation destination example](https://towardsdatascience.com/random-forests-algorithm-explained-with-a-real-life-example-and-some-python-code-affbfa5a942c)
 * [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
