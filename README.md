@@ -81,7 +81,8 @@ Inactive: [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listi
 
 ### Newer suggestions (Covid and covid-project related)
 
-
+[Puy et al "Models with higher effective dimensions tend to produce more uncertain estimates"](https://www.science.org/doi/pdf/10.1126/sciadv.abn9450)
+* Earn; looks interesting
 
 [Evaluating Forecasts with scoringutils in R](https://arxiv.org/abs/2205.07090)
 * Earn: seems like something macpan users should be aware of
