@@ -1,38 +1,12 @@
 ## Upcoming lab meetings
 
-## 2022 Nov 28
+### 2023 Jan 26
 
-Various guides to Random Forests (that might all say similar things):
+Some thing (things) from this list: Chen *et al*. is a recent review of use of FDEs in epidemic models, but really doesn't say much at all about interpretation. Podlubny is weird; maybe interesting but not, I think, useful. My guess is that Du *et al.* might be the best choice.
 
-* Chapter 8 of [Introduction to Statistical Learning](https://link.springer.com/content/pdf/10.1007/978-1-4614-7138-7.pdf)
-* [Understanding Random Forests](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
-* [Random Forest with simple vacation destination example](https://towardsdatascience.com/random-forests-algorithm-explained-with-a-real-life-example-and-some-python-code-affbfa5a942c)
-* [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
-* [An Introduction to Random Forest Algorithm for beginners](https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-random-forest-algorithm-for-beginners/)
-
-
-## 2022 Nov 14
-
-* Breiman 2001. [“Statistical Modeling: The Two Cultures.”](http://www.jstor.org/stable/2676681) Statistical Science 16 (3): 199–215.
-
-Feel free to **optionally** also look at one of:
-
-* McCormick 2021 ["The "given Data" Paradigm Undermines Both Cultures"](http://arxiv.org/abs/2105.12478)
-* Miller 2021 [Breiman's Two Cultures: {{You}} Don't Have to Choose Sides](http://arxiv.org/abs/2104.12219)
-* Gelman 2021 [Reflections on Breiman's Two Cultures of Statistical Modeling](https://muse.jhu.edu/article/799750)
-* Raper 2020 [Leo Breiman's "Two Cultures"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1740-9713.2020.01357.x)
-
-
-## 2022 Nov 7
-
-* Levin 1992, [The Problem of Pattern and Scale in Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1941447)
-
-### 2022 Oct 31
-
-* Meetings and papers
-* Zulip
-* [Ridge Regularization: An Essential Concept in Data Science](https://www.tandfonline.com/doi/pdf/10.1080/00401706.2020.1791959?needAccess=true)
-	* [Via Mac](https://www.tandfonline.com.libaccess.lib.mcmaster.ca/doi/pdf/10.1080/00401706.2020.1791959)
+* Chen, Yuli, Fawang Liu, Qiang Yu, and Tianzeng Li. “Review of Fractional Epidemic Models.” Applied Mathematical Modelling 97 (September 2021): 281–307. https://doi.org/10.1016/j.apm.2021.03.044 .
+* Du, Maolin, Zaihua Wang, and Haiyan Hu. “Measuring Memory with the Order of Fractional Derivative.” Scientific Reports 3, no. 1 (December 5, 2013): 3431. https://doi.org/10.1038/srep03431 .
+* Podlubny, Igor. “Geometric and Physical Interpretation of Fractional Integration and Fractional Differentiation.” arXiv, October 22, 2001. http://arxiv.org/abs/math/0110241 .
 
 ## Weekly events
 
@@ -259,6 +233,40 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 2022 Nov 28
+
+Various guides to Random Forests (that might all say similar things):
+
+* Chapter 8 of [Introduction to Statistical Learning](https://link.springer.com/content/pdf/10.1007/978-1-4614-7138-7.pdf)
+* [Understanding Random Forests](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
+* [Random Forest with simple vacation destination example](https://towardsdatascience.com/random-forests-algorithm-explained-with-a-real-life-example-and-some-python-code-affbfa5a942c)
+* [Random Forests for Complete Beginners](https://victorzhou.com/blog/intro-to-random-forests/)
+* [An Introduction to Random Forest Algorithm for beginners](https://www.analyticsvidhya.com/blog/2021/10/an-introduction-to-random-forest-algorithm-for-beginners/)
+
+
+## 2022 Nov 14
+
+* Breiman 2001. [“Statistical Modeling: The Two Cultures.”](http://www.jstor.org/stable/2676681) Statistical Science 16 (3): 199–215.
+
+Feel free to **optionally** also look at one of:
+
+* McCormick 2021 ["The "given Data" Paradigm Undermines Both Cultures"](http://arxiv.org/abs/2105.12478)
+* Miller 2021 [Breiman's Two Cultures: {{You}} Don't Have to Choose Sides](http://arxiv.org/abs/2104.12219)
+* Gelman 2021 [Reflections on Breiman's Two Cultures of Statistical Modeling](https://muse.jhu.edu/article/799750)
+* Raper 2020 [Leo Breiman's "Two Cultures"](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1740-9713.2020.01357.x)
+
+
+## 2022 Nov 7
+
+* Levin 1992, [The Problem of Pattern and Scale in Ecology](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.2307/1941447)
+
+### 2022 Oct 31
+
+* Meetings and papers
+* Zulip
+* [Ridge Regularization: An Essential Concept in Data Science](https://www.tandfonline.com/doi/pdf/10.1080/00401706.2020.1791959?needAccess=true)
+	* [Via Mac](https://www.tandfonline.com.libaccess.lib.mcmaster.ca/doi/pdf/10.1080/00401706.2020.1791959)
 
 ### 2022 Oct 17 (Mon)
 
