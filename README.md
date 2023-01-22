@@ -8,6 +8,10 @@ Some thing (things) from this list: Chen *et al*. is a recent review of use of F
 * Du, Maolin, Zaihua Wang, and Haiyan Hu. “Measuring Memory with the Order of Fractional Derivative.” Scientific Reports 3, no. 1 (December 5, 2013): 3431. https://doi.org/10.1038/srep03431 .
 * Podlubny, Igor. “Geometric and Physical Interpretation of Fractional Integration and Fractional Differentiation.” arXiv, October 22, 2001. http://arxiv.org/abs/math/0110241 .
 
+This also looks useful as a very basic intro/start to getting some intuition:
+
+* Panda the Red. 2019. “What Is Fractional Calculus?” Medium. October 7, 2019. https://www.cantorsparadise.com/fractional-calculus-48192f4e9c9f.
+
 ## Weekly events
 
 ### Lab meetings
