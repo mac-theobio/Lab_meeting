@@ -1,5 +1,8 @@
 ## Upcoming lab meetings
 
+
+Mellor, Jonathon, Rachel Christie, Christopher E. Overton, Robert S. Paton, Rhianna Leslie, Maria Tang, Sarah Deeny, and Thomas Ward. 2023. “Forecasting Influenza Hospital Admissions within English Sub-Regions Using Hierarchical Generalised Additive Models.” arXiv. https://doi.org/10.48550/arXiv.2302.11904.
+
 ### 2023 Jan 26
 
 Some thing (things) from this list: Chen *et al*. is a recent review of use of FDEs in epidemic models, but really doesn't say much at all about interpretation. Podlubny is weird; maybe interesting but not, I think, useful. My guess is that Du *et al.* might be the best choice.
