@@ -1,5 +1,8 @@
 ## Upcoming lab meetings
 
+Mellor, Jonathon, Rachel Christie, Christopher E. Overton, Robert S. Paton, Rhianna Leslie, Maria Tang, Sarah Deeny, and Thomas Ward. 2023. “Forecasting Influenza Hospital Admissions within English Sub-Regions Using Hierarchical Generalised Additive Models.” arXiv. https://doi.org/10.48550/arXiv.2302.11904.
+
+
 ## Weekly events
 
 ### Lab meetings
