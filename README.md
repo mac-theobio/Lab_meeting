@@ -1,21 +1,9 @@
 ## Upcoming lab meetings
 
-### 2023 Jan 26
-
-Some thing (things) from this list: Chen *et al*. is a recent review of use of FDEs in epidemic models, but really doesn't say much at all about interpretation. Podlubny is weird; maybe interesting but not, I think, useful. My guess is that Du *et al.* might be the best choice.
-
-* Chen, Yuli, Fawang Liu, Qiang Yu, and Tianzeng Li. “Review of Fractional Epidemic Models.” Applied Mathematical Modelling 97 (September 2021): 281–307. https://doi.org/10.1016/j.apm.2021.03.044 .
-* Du, Maolin, Zaihua Wang, and Haiyan Hu. “Measuring Memory with the Order of Fractional Derivative.” Scientific Reports 3, no. 1 (December 5, 2013): 3431. https://doi.org/10.1038/srep03431 .
-* Podlubny, Igor. “Geometric and Physical Interpretation of Fractional Integration and Fractional Differentiation.” arXiv, October 22, 2001. http://arxiv.org/abs/math/0110241 .
-
-This also looks useful as a very basic intro/start to getting some intuition:
-
-* Panda the Red. 2019. “What Is Fractional Calculus?” Medium. October 7, 2019. https://www.cantorsparadise.com/fractional-calculus-48192f4e9c9f.
-
 ## Weekly events
 
 ### Lab meetings
-- Mondays at 14:30 (Ontario time) 
+- Thursdays at 0930 (Ontario time) 
 	* [LSB-216](https://www.google.com/maps/place/Life+Sciences+Building/@43.2612404,-79.9177483,19z/data=!4m5!3m4!1s0x882c9b52e9e414af:0xa95019d148a8025d!8m2!3d43.2611935!4d-79.9177835)
 	* __or__ by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 		* [email if you can't find password](mailto:dushoff@mcmaster.ca)
@@ -237,6 +225,18 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+### 2023 Jan 26
+
+Some thing (things) from this list: Chen *et al*. is a recent review of use of FDEs in epidemic models, but really doesn't say much at all about interpretation. Podlubny is weird; maybe interesting but not, I think, useful. My guess is that Du *et al.* might be the best choice.
+
+* Chen, Yuli, Fawang Liu, Qiang Yu, and Tianzeng Li. “Review of Fractional Epidemic Models.” Applied Mathematical Modelling 97 (September 2021): 281–307. https://doi.org/10.1016/j.apm.2021.03.044 .
+* Du, Maolin, Zaihua Wang, and Haiyan Hu. “Measuring Memory with the Order of Fractional Derivative.” Scientific Reports 3, no. 1 (December 5, 2013): 3431. https://doi.org/10.1038/srep03431 .
+* Podlubny, Igor. “Geometric and Physical Interpretation of Fractional Integration and Fractional Differentiation.” arXiv, October 22, 2001. http://arxiv.org/abs/math/0110241 .
+
+This also looks useful as a very basic intro/start to getting some intuition:
+
+* Panda the Red. 2019. “What Is Fractional Calculus?” Medium. October 7, 2019. https://www.cantorsparadise.com/fractional-calculus-48192f4e9c9f.
 
 ## 2022 Nov 28
 
