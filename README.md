@@ -1,8 +1,5 @@
 ## Upcoming lab meetings
 
-Mellor, Jonathon, Rachel Christie, Christopher E. Overton, Robert S. Paton, Rhianna Leslie, Maria Tang, Sarah Deeny, and Thomas Ward. 2023. “Forecasting Influenza Hospital Admissions within English Sub-Regions Using Hierarchical Generalised Additive Models.” arXiv. https://doi.org/10.48550/arXiv.2302.11904.
-
-
 ## Weekly events
 
 ### Lab meetings
@@ -40,6 +37,15 @@ Inactive: [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listi
 * Theobio day! 4499^2 ## 20241001
 
 (Past meetings at the bottom)
+
+## Within-host models
+
+• https://pubmed.ncbi.nlm.nih.gov/27856216/, recommended by Heffernan (via JD)
+• https://www.ncbi.nlm.nih.gov/pmc/articles/PMC24552/ old and looks cool, Rustom Antia is a known thinker (via JD)
+
+## Anti-microbial resistance
+
+https://doi.org/10.1038/s41559-018-0786-x (Deep and interesting, JD)
 
 ## COVID stuff
 
@@ -228,6 +234,14 @@ American Journal of Epidemiology, kwy148, https://doi-org.libaccess.lib.mcmaster
 ## Past meetings
 
 * [archive](archive.md)
+
+## 2023 Mar 23
+
+macpan 2 practice talk; Emma Coates meets lab
+
+## Some specific date
+
+Mellor, Jonathon, Rachel Christie, Christopher E. Overton, Robert S. Paton, Rhianna Leslie, Maria Tang, Sarah Deeny, and Thomas Ward. 2023. “Forecasting Influenza Hospital Admissions within English Sub-Regions Using Hierarchical Generalised Additive Models.” arXiv. https://doi.org/10.48550/arXiv.2302.11904.
 
 ### 2023 Jan 26
 
