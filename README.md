@@ -45,7 +45,7 @@ Inactive: [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listi
 
 ## Anti-microbial resistance
 
-https://doi.org/10.1038/s41559-018-0786-x (Deep and interesting, JD)
+https://doi.org/10.1038/s41559-018-0786-x (Deep and interesting, JD) (link didn't work for me, maybe because of bad stored info? "Invalid cookie" error. Davies, Nicholas G., Stefan Flasche, Mark Jit, and Katherine E. Atkins. 2019. “Within-Host Dynamics Shape Antibiotic Resistance in Commensal Bacteria.” Nature Ecology & Evolution 3 (3): 440–49. https://www.nature.com/articles/s41559-018-0786-x )
 
 ## COVID stuff
 
@@ -87,6 +87,8 @@ Karatayev, Anand and Bauch (2020).  PNAS.  [Local lockdowns outperform global lo
 - https://www.nature.com/articles/s41586-021-03606-z The epidemiological impact of the NHS COVID-19 app
 
 ### Newer suggestions (general)
+
+Kumar, I. Elizabeth, Suresh Venkatasubramanian, Carlos Scheidegger, and Sorelle Friedler. 2020. “Problems with Shapley-Value-Based Explanations as Feature Importance Measures.” In Proceedings of the 37th International Conference on Machine Learning, 5491–5500. PMLR. https://proceedings.mlr.press/v119/kumar20e.html.
 
 [Mitchell et al. “FAIR Data Pipeline: Provenance-Driven Data Management for Traceable Scientific Workflows.” *Phil Trans Roy Soc A* 2022](https://doi.org/10.1098/rsta.2021.0300)
 
