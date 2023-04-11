@@ -47,6 +47,10 @@ Inactive: [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listi
 
 https://doi.org/10.1038/s41559-018-0786-x (Deep and interesting, JD) (link didn't work for me, maybe because of bad stored info? "Invalid cookie" error. Davies, Nicholas G., Stefan Flasche, Mark Jit, and Katherine E. Atkins. 2019. “Within-Host Dynamics Shape Antibiotic Resistance in Commensal Bacteria.” Nature Ecology & Evolution 3 (3): 440–49. https://www.nature.com/articles/s41559-018-0786-x )
 
+## COVID dynamical evolution
+
+- Eilersen, Andreas, Bjarke Frost Nielsen, and Kim Sneppen. 2023. “Tradeoff between Speed and Reproductive Number in Pathogen Evolution.” Physical Review Research 5 (2): 023003. https://doi.org/10.1103/PhysRevResearch.5.023003.
+
 ## COVID stuff
 
 * [Controversial preprint about Covid origins from FotL Alex Washburne](https://www.biorxiv.org/content/10.1101/2022.10.18.512756v1)
