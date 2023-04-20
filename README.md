@@ -13,6 +13,7 @@
 - Please come prepared to make suggestions for succeeding weeks
 
 ### Lab coffee
+
 * Fridays at 14:30 (Ontario time); meet in [LSB-216](https://www.google.com/maps/place/Life+Sciences+Building/@43.2612404,-79.9177483,19z/data=!4m5!3m4!1s0x882c9b52e9e414af:0xa95019d148a8025d!8m2!3d43.2611935!4d-79.9177835)
 
 ### Other
@@ -27,6 +28,11 @@ Inactive: [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listi
 [Math bio program advice](https://github.com/davidearn/mbadvice)
 
 ## future events
+
+### Lab meeting April 27
+
+* News article: https://evidenceandpolicyblog.co.uk/2023/04/12/when-should-scientists-rock-the-boat-advising-government-in-a-pandemic/ . 
+* Original paper: Atkinson, Paul, Hayley Mableson, Sally Sheard, Anne-Marie Martindale, Tom Solomon, Aleksandra Borek, and Caitlin Pilbeam. 2022. “How Did UK Policymaking in the COVID-19 Response Use Science? Evidence from Scientific Advisers.” Evidence & Policy 18 (4): 633–50. https://ora.ox.ac.uk/objects/uuid:a7244d17-bade-46d3-ab16-21352025e74c/files/rvm40xs076
 
 ### _2024_ Apr 8 (Tue)
 
