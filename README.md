@@ -27,6 +27,9 @@ Inactive: [Math Bio Research Seminar](https://listserv.mcmaster.ca/mailman/listi
 
 [Math bio program advice](https://github.com/davidearn/mbadvice)
 
+To use your mac library credentials from outside Mac, try post-pending `.libaccess.lib.mcmaster.ca` to the domain part of a URL. 
+E.g., [https://pubmed.ncbi.nlm.nih.gov/27856216/](https://pubmed.ncbi.nlm.nih.gov/27856216/) becomes [https://pubmed.ncbi.nlm.nih.gov.libaccess.lib.mcmaster.ca/27856216/](https://pubmed.ncbi.nlm.nih.gov.libaccess.lib.mcmaster.ca/27856216/). The latter should ask you to log in, and then, when you click through, should give you access to the pdf. It is sometimes be better to do the post-pend step on a URL where you already see the paywall. If it gets confused after you log in, it may help to click (or type) the same link again.
+
 ## future events
 
 ### Lab meeting April 27
