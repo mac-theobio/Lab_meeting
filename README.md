@@ -7,6 +7,8 @@
 	* [LSB-216](https://www.google.com/maps/place/Life+Sciences+Building/@43.2612404,-79.9177483,19z/data=!4m5!3m4!1s0x882c9b52e9e414af:0xa95019d148a8025d!8m2!3d43.2611935!4d-79.9177835)
 	* __or__ by [zoom](https://mcmaster.zoom.us/j/98856294231) (you will need a link or password from your email to join)
 		* [email if you can't find password](mailto:dushoff@mcmaster.ca)
+	* [Public zoom room](https://mcmaster.zoom.us/j/97351841357). For joint events. The difference with main zoom room is that you should feel free to share the password with non-lab colleagues 
+		* [you can email for this one, too](mailto:dushoff@mcmaster.ca)
 
 - Please spend about 42.5 minutes preparing for each lab meeting (including the reading and preparing what you do or don't want to say)
 
