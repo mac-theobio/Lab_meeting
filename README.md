@@ -20,6 +20,8 @@
 
 ### Other
 
+See [Faculty Opinions](./FacultyOpinions.md) if you might be interested in writing very brief reviews of interesting papers you/we read.
+
 Other weekly events/mailing lists of possible interest to Mac-Theobio'ers: [bio data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l) (Fri lunchtime), [EEB seminar](
 https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l) (Weds lunchtime),[Biology seminar](https://www.biology.mcmaster.ca/news-events/event-calendar.html#year=2019&month=9&day=16&view=month) (4 PM Weds), [Stats seminar](https://www.math.mcmaster.ca/component/search/?searchword=Statistics%20Seminar&ordering=newest&searchphrase=all&areas[0]=dpcalendar) , [Math colloquium](https://www.math.mcmaster.ca/component/search/?searchword=Colloquium&ordering=newest&searchphrase=all&areas[0]=dpcalendar) (3:30 Friday), CSE seminar
 
