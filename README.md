@@ -64,8 +64,10 @@ Other events of possible interest to lab members:
 
 Save the date:
 
-* 2024-04-08: [Great North American Total Solar Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)
-* 2024-10-01: Theobio Day! 4499^2
+|date|event|
+|-:|:-|
+|`2024-04-08`|[Great North American Total Solar Eclipse](https://en.wikipedia.org/wiki/Solar_eclipse_of_April_8,_2024)|
+|`2024-10-01`|Theobio Day! 4499^2|
 
 ## Accessing PDF versions of papers
 
