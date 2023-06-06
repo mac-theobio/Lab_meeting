@@ -15,14 +15,16 @@ The basic structure of this repository:
 
 ## Events
 
-Times are local unless otherwise indicated;
-local = Hamilton, Ontario, Canada (EST or EDT, depending on the date).
+Times are local unless otherwise indicated, where "local" means 
+Hamilton, Ontario, Canada 
+([EST](https://www.timeanddate.com/time/zones/est) or 
+ [EDT](https://www.timeanddate.com/time/zones/edt), depending on the date).
 
 ### Lab meetings
 
 The lab meets weekly on __Thursday__ at __09:30__ in 
-[LSB](https://goo.gl/maps/2FPGTZHVyQpgsCh47) 
-216 _or_ in the
+[LSB 216](https://goo.gl/maps/2FPGTZHVyQpgsCh47) 
+_or_ in the
 [private Zoom](https://mcmaster.zoom.us/j/98856294231).
 For joint events, there is a
 [public Zoom](https://mcmaster.zoom.us/j/97351841357).
@@ -43,7 +45,7 @@ Please spend about 42.5 minutes preparing for each lab meeting by:
 ### Lab coffee
 
 On __Friday__ at __14:30__, people meet in
-[LSB](https://goo.gl/maps/2FPGTZHVyQpgsCh47) 216 then go somewhere
+[LSB 216](https://goo.gl/maps/2FPGTZHVyQpgsCh47) then go somewhere
 for coffee and chatter.
 
 ### Other (keep updated)
@@ -51,7 +53,7 @@ for coffee and chatter.
 Other events of possible interest to lab members:
 
 |department|event|time (if active)|
-|=:|:=|:=|
+|-:|:-|:-|
 |[Biology](https://biology.mcmaster.ca/news-events/)|[Biology seminar](https://biology.mcmaster.ca/upcoming-departmental-seminars/)|Thursdays at 16:00|
 ||[Data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l)|Fridays at lunch time|
 ||[EEB seminar](https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l)|Wednesdays at lunch time|
