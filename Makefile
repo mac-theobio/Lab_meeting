@@ -1,3 +1,8 @@
+## MJ: I've probably broken these rules with afb31fb which restricts
+##     the set of top level files to only the most important ones ...
+##     I'll let you fix - I can imagine subdirectory-specific Makefiles
+##     being useful ...
+
 # Lab_meeting
 ## https://github.com/mac-theobio/Lab_meeting/blob/master/README.md
 
