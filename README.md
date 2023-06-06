@@ -29,9 +29,9 @@ _or_ in the
 For joint events, there is a
 [public Zoom](https://mcmaster.zoom.us/j/97351841357).
 
-Both the private and public rooms require a password.
-[E-mail JD](mailto:dushoff@mcmaster.ca) if you cannot find them.
-Feel free to share the password for the public room with colleagues
+The private and public rooms both require a password.
+[Send JD an e-mail](mailto:dushoff@mcmaster.ca) if you can't find it.
+Feel free to share the password for the _public_ room with colleagues 
 outside of the lab.
 
 Please spend about 42.5 minutes preparing for each lab meeting by:
