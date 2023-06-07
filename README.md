@@ -55,9 +55,10 @@ Other events of possible interest to lab members:
 |department|event|time (if active)|
 |-:|:-|:-|
 |[Biology](https://biology.mcmaster.ca/news-events/)|[Biology seminar](https://biology.mcmaster.ca/upcoming-departmental-seminars/)|Thursdays at 16:00|
-||[Data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l)|Fridays at lunch time|
-||[EEB seminar](https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l)|Wednesdays at lunch time|
-|[CSE](https://cse.mcmaster.ca/news-events/)|CSE seminar||
+||[Data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l)|Fridays at 12:30|
+||[EEB seminar](https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l)|Wednesdays at 12:30|
+|[CSE](https://cse.mcmaster.ca/news-events/)|CSE seminar|Wednesdays at 12:30|
+|[PNB](https://pnb.mcmaster.ca/news-events/event-calendar/)|PNB colloquium|Thursdays at 2:30|
 |[Math and Stats](https://math.mcmaster.ca/news-events/)|Math colloquium|Fridays at 15:30|
 ||Statistics seminar|Tuesdays at 15:30|
 ||[MBRS](https://listserv.mcmaster.ca/mailman/listinfo/mbrs)||
