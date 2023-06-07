@@ -22,6 +22,9 @@ https://doi.org/10.1038/s41559-018-0786-x (Deep and interesting, JD) (link didn'
 
 ### Newer suggestions (Covid and covid-project related)
 
+[Gozzi et al 2023, "Estimating the impact of COVID-19 vaccine inequities: a modeling study" *Nature Communications*](https://www.nature.com/articles/s41467-023-39098-w)
+* Earn; important topic
+
 [Puy et al "Models with higher effective dimensions tend to produce more uncertain estimates"](https://www.science.org/doi/pdf/10.1126/sciadv.abn9450)
 * Earn; looks interesting
 
