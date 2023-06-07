@@ -23,4 +23,4 @@
   without necessarily leading, a topic for that week.
 * MJ will help JD reorganize the lab repo.
 * DE dropped remarks about Faculty Opinions (formerly Faculty of 1000) 
-  in [./misc/FacultyOpinions.md].
+  in [`misc/FacultyOpinions.md`](./misc/FacultyOpinions.md).
