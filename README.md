@@ -4,7 +4,7 @@ The basic structure of this repository:
 
 |file|purpose|
 |-:|:-|
-|[`README.md`](./README.md)|permanent-ish information relevant to all members|
+|[`README.md`](./README.md)|permanent-ish information relevant to everyone|
 |[`archive.md`](./archive.md)|record of past lab meeting topics|
 |[`links.md`](./links.md)|links to useful online resources|
 |[`schedule.md`](./schedule.md)|current-ish lab meeting schedule and minutes|
@@ -22,7 +22,7 @@ Hamilton, Ontario, Canada
 
 ### Lab meetings
 
-The lab meets weekly on __Thursday__ at __09:30__ in 
+The lab meets weekly on __Thursday__ at __09:30__ in
 [LSB 216](https://goo.gl/maps/2FPGTZHVyQpgsCh47) 
 _or_ in the
 [private Zoom](https://mcmaster.zoom.us/j/98856294231).
@@ -37,8 +37,8 @@ outside of the lab.
 Please spend about 42.5 minutes preparing for each lab meeting by:
 
 * Finding the meeting topic in the [schedule](./schedule.md).
-* Doing the linked reading (if we are discussing a paper) or,
-  e.g., installing software required for a software workshop.
+* Doing the linked reading (if we are discussing a paper) or
+  installing required software (if we are discussing software).
 * Thinking about what you want to ask or say.
 * Thinking about possible topics for future lab meetings.
 
@@ -52,16 +52,16 @@ for coffee and chatter.
 
 Other events of possible interest to lab members:
 
-|department|event|time (if active)|
+|department|event|time, if active|
 |-:|:-|:-|
 |[Biology](https://biology.mcmaster.ca/news-events/)|[Biology seminar](https://biology.mcmaster.ca/upcoming-departmental-seminars/)|Thursdays at 16:00|
 ||[Data lunch](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l)|Fridays at 12:30|
 ||[EEB seminar](https://mailman.mcmaster.ca/mailman/listinfo/d-eeb-l)|Wednesdays at 12:30|
 |[CSE](https://cse.mcmaster.ca/news-events/)|CSE seminar|Wednesdays at 12:30|
-|[PNB](https://pnb.mcmaster.ca/news-events/event-calendar/)|PNB colloquium|Thursdays at 2:30|
 |[Math and Stats](https://math.mcmaster.ca/news-events/)|Math colloquium|Fridays at 15:30|
 ||Statistics seminar|Tuesdays at 15:30|
 ||[MBRS](https://listserv.mcmaster.ca/mailman/listinfo/mbrs)||
+|[PNB](https://pnb.mcmaster.ca/news-events/)|PNB colloquium|Thursdays at 14:30|
 
 Save the date:
 
@@ -80,8 +80,8 @@ URL.  For example:
 <https://pubmed.ncbi.nlm.nih.gov.libaccess.lib.mcmaster.ca/27856216/>
 
 The latter should ask you to log in, and once you do so you should 
-have access to the PDF.  It is sometimes better to do the appending 
-on the URL where you already see the paywall.  For example:
+have access to the PDF.  It is sometimes better to append to the
+URL where you actually see the paywall.  For example:
 
 <https://www.sciencedirect.com/science/article/abs/pii/S0022519316303629>  
 <https://www.sciencedirect.com.libaccess.lib.mcmaster.ca/science/article/abs/pii/S0022519316303629>
