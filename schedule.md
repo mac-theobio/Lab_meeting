@@ -4,9 +4,8 @@
 
 |Date|Topic|Details|
 |-:|:-|:-|
-|`2023-07-06`|TBD||
-|`2023-06-29`|TBD||
-|`2023-06-22`|debugging in R|tentative workshop (volunteers?)|
+|`2023-07-13`|TBD||
+|`2023-07-06`|[COVID-19 data analysis using Bayesian models and nonparametric geostatistical models](https://doi.org/10.3390/math11061359)|JF may lead|
 |`2023-06-15`|[Multiple models for outbreak decision support in the face of uncertainty](https://doi.org/10.1073/pnas.2207537120)|SW may lead| 
 |`2023-06-08`|[Caroline Mburu](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases/news/341666/spotlight-caroline-mburu) talk|in the _public_ Zoom|
 |`2023-06-01`|How should lab meetings be organized?||
