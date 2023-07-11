@@ -4,7 +4,8 @@
 
 |Date|Topic|Details|
 |-:|:-|:-|
-|`2023-07-13`|TBD||
+|`2023-07-20`|TBD||
+|`2023-07-13`|[Optimising predictive models to prioritise viral discovery in zoonotic resevoirs](https://doi.org/10.1016/S2666-5247(21)00245-7)||
 |`2023-07-06`|[COVID-19 data analysis using Bayesian models and nonparametric geostatistical models](https://doi.org/10.3390/math11061359)|JF may lead|
 |`2023-06-15`|[Multiple models for outbreak decision support in the face of uncertainty](https://doi.org/10.1073/pnas.2207537120)|SW may lead| 
 |`2023-06-08`|[Caroline Mburu](https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases/news/341666/spotlight-caroline-mburu) talk|in the _public_ Zoom|
