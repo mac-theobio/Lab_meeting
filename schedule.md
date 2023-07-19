@@ -4,7 +4,8 @@
 
 |Date|Topic|Details|
 |-:|:-|:-|
-|`2023-07-20`|TBD||
+|`2023-07-27`|TBD||
+|`2023-07-20`|[Debugging in R](https://adv-r.hadley.nz/debugging.html)|see also HackMD, linked in [`links.md`](./links.md)|
 |`2023-07-13`|[Optimising predictive models to prioritise viral discovery in zoonotic resevoirs](https://doi.org/10.1016/S2666-5247(21)00245-7)||
 |`2023-07-06`|[COVID-19 data analysis using Bayesian models and nonparametric geostatistical models](https://doi.org/10.3390/math11061359)|JF may lead|
 |`2023-06-15`|[Multiple models for outbreak decision support in the face of uncertainty](https://doi.org/10.1073/pnas.2207537120)|SW may lead| 
