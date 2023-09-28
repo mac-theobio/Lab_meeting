@@ -7,11 +7,13 @@ The basic structure of this repository:
 |[`README.md`](./README.md)|permanent-ish information relevant to everyone|
 |[`archive.md`](./archive.md)|record of past lab meeting topics|
 |[`links.md`](./links.md)|links to useful online resources|
-|[`schedule.md`](./schedule.md)|current-ish lab meeting schedule and minutes|
+|[`schedule`](https://docs.google.com/spreadsheets/d/1Tp188Yg2vdNELisfpfhDy4-19P2QvYakwZorDZDIq1E/edit#gid=0)|current schedule (google sheet)|
 |[`misc`](./misc)|brain dumping and similar|
 |[`modules`](./modules)|workshop materials and "big" topics|
 |[`reading`](./reading)|(links to) (suggested) readings|
 |[`scripts`](./scripts)|administratively useful code, i.e., not just _any_ code|
+
+- [`schedule.md`](./schedule.md): less-current-ish lab meeting schedule and minutes
 
 ## Events
 
