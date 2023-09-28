@@ -13,7 +13,10 @@ The basic structure of this repository:
 |[`reading`](./reading)|(links to) (suggested) readings|
 |[`scripts`](./scripts)|administratively useful code, i.e., not just _any_ code|
 
-- [`schedule.md`](./schedule.md): less-current-ish lab meeting schedule and minutes
+- [`schedule.md`](./schedule.md): less-current-ish lab meeting
+schedule and minutes
+- [Private lab repo](https://github.com/mac-theobio/lab): for lab stuff
+  that cannot be shared pubicly
 
 ## Events
 
