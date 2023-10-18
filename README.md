@@ -13,8 +13,6 @@ The basic structure of this repository:
 |[`reading`](./reading)|(links to) (suggested) readings|
 |[`scripts`](./scripts)|administratively useful code, i.e., not just _any_ code|
 
-- [`schedule.md`](./schedule.md): less-current-ish lab meeting
-schedule and minutes
 - [Private lab repo](https://github.com/mac-theobio/lab): for lab stuff
   that cannot be shared pubicly
 
@@ -41,7 +39,7 @@ outside of the lab.
 
 Please spend about 42.5 minutes preparing for each lab meeting by:
 
-* Finding the meeting topic in the [schedule](./schedule.md).
+* Finding the meeting topic in the [schedule spreadsheet](https://docs.google.com/spreadsheets/d/1Tp188Yg2vdNELisfpfhDy4-19P2QvYakwZorDZDIq1E/edit#gid=0)
 * Doing the linked reading (if we are discussing a paper) or
   installing required software (if we are discussing software).
 * Thinking about what you want to ask or say.
