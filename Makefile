@@ -32,7 +32,6 @@ README.html: README.md
 ## Scheduling
 
 Sources += $(wildcard *.R)
-sched.Rout.csv: sched.R
 
 ######################################################################
 
