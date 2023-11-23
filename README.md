@@ -35,7 +35,8 @@ For joint events, there is a
 The private and public rooms both require a password.
 [Send JD an e-mail](mailto:dushoff@mcmaster.ca) if you can't find it.
 Feel free to share the password for the _public_ room with colleagues 
-outside of the lab.
+outside of the lab. If you need to "claim host" (e.g. to record a meeting),
+the host key is **551825**.
 
 Please spend about 42.5 minutes preparing for each lab meeting by:
 
