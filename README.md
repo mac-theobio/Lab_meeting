@@ -46,6 +46,8 @@ Please spend about 42.5 minutes preparing for each lab meeting by:
 * Thinking about what you want to ask or say.
 * Thinking about possible topics for future lab meetings.
 
+We _plan_ lab meetings using discussions on [the lab zulip](https://mac-theobio.zulipchat.com/). Use the “meeting topics” thread to discuss topics, and the “lab” thread (as well as the schedule spreadsheet) to record decisions.
+
 ### Lab coffee
 
 On __Friday__ at __14:30__, people meet in
