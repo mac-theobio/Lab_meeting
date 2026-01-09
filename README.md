@@ -29,7 +29,7 @@ Hamilton, Ontario, Canada
 
 ### Lab meetings
 
-This term (Fall 2025) the lab meets weekly on __Tuesday__ at __14:30__ in
+This term (Winter 2026) the lab meets weekly on __Fridays__ at __13:30__ in
 [LSB 216](https://goo.gl/maps/2FPGTZHVyQpgsCh47) 
 _or_ in the
 [private Zoom](https://mcmaster.zoom.us/j/98856294231).
