@@ -7,22 +7,29 @@ The basic structure of this repository:
 |[`README.md`](./README.md)|permanent-ish information relevant to everyone|
 |[`archive.md`](./archive.md)|record of past lab meeting topics|
 |[`links.md`](./links.md)|links to useful online resources|
-|[`schedule.md`](./schedule.md)|current-ish lab meeting schedule and minutes|
 |[`misc`](./misc)|brain dumping and similar|
 |[`modules`](./modules)|workshop materials and "big" topics|
-|[`reading`](./reading)|(links to) (suggested) readings|
+|[`reading`](./reading)|links to suggested readings|
 |[`scripts`](./scripts)|administratively useful code, i.e., not just _any_ code|
+
+## Quick links
+
+- Private lab GitHub [repository](https://github.com/mac-theobio/lab) for non-public lab stuff
+- Lab meeting schedule [spreadsheet](https://docs.google.com/spreadsheets/d/1Tp188Yg2vdNELisfpfhDy4-19P2QvYakwZorDZDIq1E/edit?usp=sharing)
+- Conferences of interest [spreadsheet](https://docs.google.com/spreadsheets/d/1V7bz8SjIQOVB00n-YGqrKqwfMI2kdxWpD8xMmiHDq8g/edit?usp=sharing)
+
+[comment]: # (MJ: move these quick links to `links.md`??)
 
 ## Events
 
-Times are local unless otherwise indicated, where "local" means 
-Hamilton, Ontario, Canada 
-([EST](https://www.timeanddate.com/time/zones/est) or 
+Times are local unless otherwise indicated, where "local" means
+Hamilton, Ontario, Canada
+([EST](https://www.timeanddate.com/time/zones/est) or
  [EDT](https://www.timeanddate.com/time/zones/edt), depending on the date).
 
 ### Lab meetings
 
-The lab meets weekly on __Thursday__ at __09:30__ in
+This term (Winter 2026) the lab meets weekly on __Fridays__ at __13:30__ in
 [LSB 216](https://goo.gl/maps/2FPGTZHVyQpgsCh47) 
 _or_ in the
 [private Zoom](https://mcmaster.zoom.us/j/98856294231).
@@ -32,15 +39,21 @@ For joint events, there is a
 The private and public rooms both require a password.
 [Send JD an e-mail](mailto:dushoff@mcmaster.ca) if you can't find it.
 Feel free to share the password for the _public_ room with colleagues 
-outside of the lab.
+outside of the lab. If you need to "claim host" (e.g. to record a meeting),
+the host key is **551825**.
 
 Please spend about 42.5 minutes preparing for each lab meeting by:
 
-* Finding the meeting topic in the [schedule](./schedule.md).
+* Finding the meeting topic in the meeting schedule spreadsheet;
+  see _Quick links_ above.
 * Doing the linked reading (if we are discussing a paper) or
   installing required software (if we are discussing software).
 * Thinking about what you want to ask or say.
 * Thinking about possible topics for future lab meetings.
+
+We _plan_ lab meetings using the lab [Zulip server](https://mac-theobio.zulipchat.com/).
+Use the "Meeting topics" channel to discuss topics and the "lab" channel
+(as well as the schedule spreadsheet) to record decisions.
 
 ### Lab coffee
 
@@ -48,7 +61,7 @@ On __Friday__ at __14:30__, people meet in
 [LSB 216](https://goo.gl/maps/2FPGTZHVyQpgsCh47) then go somewhere
 for coffee and chatter.
 
-### Other (keep updated)
+### Other (please update)
 
 Other events of possible interest to lab members:
 
